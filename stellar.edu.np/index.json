@@ -1,0 +1,331 @@
+{
+    "data": [
+        {
+            "id": 1743,
+            "component": "bannerSlider",
+            "component_id": 2,
+            "attributes": {
+                "color": "#fff",
+                "contentAlign": "center",
+                "slider": [
+                    {
+                        "img": "https://www.globalreach.in/images/banner/slider.jpg",
+                        "title": "PLANNING TO STUDY ABROAD?",
+                        "backgroundColor": "#ff000080",
+                        "subTitle": "LET'S MAKE IT EASIER FOR YOU",
+                        "contentAlign": "center"
+                    },
+                    {
+                        "img": "https://www.linkpicture.com/q/slider1_1.jpg",
+                        "title": "MAKE YOURSELF AT HOME IN OUR HOTEL. ",
+                        "backgroundColor": "#684694ab",
+                        "buttonBackgroundColor": "#684694ab",
+                        "cat": "Book Accommodation",
+                        "link": "/accommodations"
+                    },
+                    {
+                        "img": "https://www.linkpicture.com/q/slider2_1.jpg",
+                        "backgroundColor": "#445ac780",
+                        "title": "PREP SMARTER - SCORE HIGHER",
+                        "subTitle": "GRE GMAT SAT IELTS TOFEL"
+                    }
+                ],
+                "maxWidth": "600px",
+                "titleColor": "#fff",
+                "sliderHeight": "60vh"
+            },
+            "order": 1260
+        },
+        {
+            "id": 1744,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "cta": [],
+                "contentList": [],
+                "img": "https://drive.google.com/uc?id=1ouau5Jqg-DjuUrXmeri__xnyH5Ug-7tc",
+                "contactInfo": [],
+                "imageMaxWidth": "600px"
+            },
+            "order": 1262
+        },
+        {
+            "id": 1745,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "alignContent": "column-center",
+                "cta": [],
+                "contentList": [],
+                "alignImg": "top",
+                "subheading": "Stellar International Education, one of the reliable consultancy companies, with a team of expert professionals in the field of abroad studies and document processing.\nWe provide you best counselling and assistance to any of your stages for abroad study plans.",
+                "fontSize": "14px",
+                "contactInfo": []
+            },
+            "order": 1263
+        },
+        {
+            "id": 1746,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "imageWrap": "1",
+                        "cardColor": "#fff",
+                        "img": "https://cdn1.i-scmp.com/sites/default/files/topics/2017/07/27/1-1_australia_topic_image.jpg",
+                        "cat": "Study in Australia",
+                        "title": "AUSTRALIA",
+                        "width": "300px",
+                        "titleMargin": "-140px 0 0 0 ",
+                        "link": "/australia",
+                        "btnColor": "#fff",
+                        "cardOverflowMargin": "1",
+                        "titleColor": "#fff"
+                    },
+                    {
+                        "title": "NEW ZEALAND",
+                        "imageWrap": "1",
+                        "cardColor": "red",
+                        "cardBgColor": "#0a8355",
+                        "titleColor": "#fff",
+                        "img": "https://d11bzj7xhj1mue.cloudfront.net/wp-content/uploads/2019/05/Study-Newzealand.jpg",
+                        "cat": "STUDY IN NEW ZEALAND",
+                        "width": "300px",
+                        "link": "new-zealand",
+                        "titleMargin": "-140px 0 0 0 ",
+                        "cardOverflowMargin": "1",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "title": "USA",
+                        "img": "https://d11bzj7xhj1mue.cloudfront.net/wp-content/uploads/2019/05/Study-USA-1.jpg",
+                        "cat": "STUDY IN NEW USA",
+                        "titleMargin": "-140px 0 0 0 ",
+                        "cardBgColor": "#0a8355",
+                        "titleColor": "#fff",
+                        "imageWrap": "1",
+                        "cardOverflowMargin": "1",
+                        "link": "usa",
+                        "width": "300px",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "title": "UK",
+                        "imageWrap": "1",
+                        "img": "https://d11bzj7xhj1mue.cloudfront.net/wp-content/uploads/2019/05/Study-in-UK.jpg",
+                        "cat": "STUDY IN UK",
+                        "titleMargin": "-140px 0 0 0 ",
+                        "cardOverflowMargin": "1",
+                        "link": "uk",
+                        "width": "300px",
+                        "btnColor": "#fff",
+                        "titleColor": "#fff"
+                    },
+                    {
+                        "title": "CANADA",
+                        "cat": "Study in Canada",
+                        "link": "/canada",
+                        "imageWrap": "1",
+                        "cardOverflowMargin": "1",
+                        "btnColor": "#fff",
+                        "width": "300px",
+                        "img": "https://i.ibb.co/S5hmyFy/canada.png",
+                        "titleColor": "#fff"
+                    }
+                ],
+                "contactInfo": [],
+                "titleColor": "#fff",
+                "imgAuthorPosition": "bottom"
+            },
+            "order": 1264
+        },
+        {
+            "id": 1747,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "img": "https://i.ibb.co/N3p6Z83/s.webp",
+                        "title": "Language classes",
+                        "caption": "We offer language courses in English, Spanish, Italian, and Japanese. Whether you are studying or working abroad, or simply want to explore different cultures, you will find online courses to help you. "
+                    },
+                    {
+                        "img": "https://i.ibb.co/99nF4wC/237607852-438310724117792-2078568371613716132-n.jpg",
+                        "title": "Visa Processing",
+                        "caption": "Our counselors do a great deal of hand-holding to make sure students understand the application process because we know it can be overwhelming for them. We provide step-by-step guidance along with documentation and information about the institutions that we represent."
+                    },
+                    {
+                        "img": "https://www.linkpicture.com/q/131448891_1734277003393424_2691819501524871048_n.jpg",
+                        "title": "Test Preparation",
+                        "caption": "With a variety of  preparation options, you're sure to succeed. You can get expert advice, score practice tests to check if you're ready, or choose from a range of other test preparation resources, including free online courses."
+                    },
+                    {
+                        "caption": "Our network of accommodation providers helps students choose from a variety of options based on what suits them best with the guidance of their Counselor. They can also provide assistance in applying upon making the decision.",
+                        "title": "Accommodations",
+                        "img": "https://s3.ap-southeast-1.amazonaws.com/assets.amberstudent.com/inventories/132031/1d62991d.jpg",
+                        "width": "300px"
+                    },
+                    {
+                        "title": "Scholarship Application Assistance",
+                        "caption": "Each university has its own eligibility criteria for scholarships, so most offer some form of financial aid. By providing information and assistance to those interested in applying for scholarships or other financial aid, such as those available to international students, we guide them.\n",
+                        "img": "https://www.ktj.edu.my/userfiles/ktjmvc/images/news/thumbnails/How-to-apply-to-scholarships.jpg"
+                    },
+                    {
+                        "title": "Health Cover",
+                        "caption": "What do you need to know about the Australian healthcare system?\n\nGetting sick or injured in a new country can be confusing and scary, and sometimes it’s hard to know where to go or what to do. KIEC Global team is there to help you know how to get help should you or your family need it while you’re here.",
+                        "img": "https://i.ibb.co/c1KSYP3/238247383-238105058241280-9114399828669955856-n.jpg"
+                    }
+                ],
+                "cardMaxWidth": "300px",
+                "bgImg": "https://images.pexels.com/photos/5054348/pexels-photo-5054348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "bgColor": "#fff",
+                "cardPadding": "40px 0px",
+                "cardContentAlign": "left",
+                "parallax": "1",
+                "fontSize": "14px",
+                "contactInfo": [],
+                "title": "What We Offer"
+            },
+            "order": 1276
+        },
+        {
+            "id": 1748,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "title": "Testimonials",
+                "itemList": [
+                    {
+                        "img": "https://i.ibb.co/N18J75r/asdfgh.png",
+                        "cardBgColor": "#e6e4ec52",
+                        "caption": "Getting into a University in USA is much easier to dream than reality, I was baffled for a couple of month with the information on \"How to get into Top Ranked Institutes\" over the internet. The whole thing went smoothly from Admissions to Visa at Stellar Education.",
+                        "borderRadius": "50%",
+                        "author": "Shandhya",
+                        "width": "200px"
+                    },
+                    {
+                        "width": "200px",
+                        "cardBgColor": "#e6e4ec52",
+                        "img": "https://i.ibb.co/Q9dMqNM/1633007370719-alisha.webp",
+                        "caption": "I would like to thank Stellar Education for making my study abroad dream come true. They\nconstantly supported and guided me in finding the right course according to my area of\ninterest.",
+                        "borderRadius": "50%",
+                        "author": "Alisha"
+                    },
+                    {
+                        "img": "https://i.ibb.co/TmcFsgM/1630483070890-laxman.png",
+                        "width": "200px",
+                        "cardBgColor": "#e6e4ec52",
+                        "caption": "As I have gap in studies, I thought it is very difficult for me to go abroad for studies but Stellar\nEducation guided through each step of the admission process. I would like to thank Stellar for\nmaking my dream come true.&quot;",
+                        "borderRadius": "50%",
+                        "author": "Laxman"
+                    },
+                    {
+                        "img": "https://i.ibb.co/ZcMQxbM/1630483906587-dolma.png",
+                        "width": "200px",
+                        "cardBgColor": "#e6e4ec52",
+                        "caption": "Im really thankful to all the teachers who constantly helped me during my coaching in the\nmodules like speaking and writing by making me practice each and every question and solving\nmy queries. I would definitely nominate Stellar Education to every student who is looking for\nabroad study.",
+                        "borderRadius": "50%",
+                        "author": "Dolma"
+                    },
+                    {
+                        "img": "https://i.ibb.co/8rQT6yc/1630483722502-jenisha.webp",
+                        "width": "200px",
+                        "cardBgColor": "#e6e4ec52",
+                        "caption": "“The counselors at Stellar Education Consultants are very helpful and helped me gain Australia\nstudent visa. Today, I&#39;m very happy and would recommend them to each and every student.”",
+                        "borderRadius": "50%",
+                        "author": "Jenisha"
+                    },
+                    {
+                        "img": "https://i.ibb.co/yB314nT/1630484104123-sumi.png",
+                        "width": "200px",
+                        "cardBgColor": "#e6e4ec52",
+                        "caption": "Stellar Education helping me score 7.5 bands in IELTS examination. I would sincerely thank all\nthe faculties for being extremely co-operative in solving my doubts along with clearing my\nconcepts in a very comprehensive manner. The faculties are extremely experienced and really\nfriendly to be around. I would recommend\nStellar Education for IELTS coaching.”",
+                        "borderRadius": "50%",
+                        "author": "Sumi"
+                    }
+                ],
+                "cardMaxWidth": "350px",
+                "maxWidth": "500px",
+                "flexDirection": "column-reverse",
+                "display": "flex",
+                "cardContentAlign": "column-reverse",
+                "itemSize": "3",
+                "sideInfo": [],
+                "imgAuthorPosition": "bottom",
+                "contactInfo": [],
+                "activateSlider": "1"
+            },
+            "order": 1309
+        },
+        {
+            "id": 1749,
+            "component": "milestones",
+            "component_id": 32,
+            "attributes": {
+                "bgImg": "https://demo.keonthemes.com/gutener/demo103/wp-content/uploads/sites/4/2020/06/gutener-medical-img8-1200-800.jpg",
+                "bgColor": "#1E0F6B",
+                "color": "#000",
+                "milestones": [
+                    {
+                        "icon": "leanpub",
+                        "number": "8 + yrs",
+                        "title": "Years of Service"
+                    },
+                    {
+                        "icon": "people",
+                        "number": "5000 +",
+                        "title": "Students Served"
+                    },
+                    {
+                        "icon": "people",
+                        "number": "70K +",
+                        "title": "Engaged in Social Media"
+                    },
+                    {
+                        "icon": "awards",
+                        "number": "15 +",
+                        "title": "Agent Certifications"
+                    },
+                    {
+                        "icon": "leanpub",
+                        "number": "200+",
+                        "title": "Partner Institution"
+                    }
+                ]
+            },
+            "order": 1310
+        },
+        {
+            "id": 1754,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "contentList": [],
+                "cta": []
+            },
+            "order": 1314
+        },
+        {
+            "id": 1752,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "contentList": [],
+                "cta": []
+            },
+            "order": 1512
+        },
+        {
+            "id": 2285,
+            "component": "facebookMessengerChat",
+            "component_id": 47,
+            "attributes": {
+                "pageId": "193744734113333",
+                "appId": "AhzXWyMJr1ov8UdOCmMjFx8"
+            },
+            "order": 1519
+        }
+    ]
+}

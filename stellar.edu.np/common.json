@@ -1,0 +1,156 @@
+{
+    "data": [
+        {
+            "id": 1764,
+            "component": "base",
+            "component_id": 30,
+            "attributes": {
+                "txt": "this is title",
+                "common_component": "1",
+                "primaryFontColor": "#000",
+                "secondaryColor": "#445ac7",
+                "secondaryFontColor": "#fff",
+                "baseColor": "#000",
+                "fontSize": "14px",
+                "secondaryBgColor": "#ff0000",
+                "primaryColor": "#445ac7",
+                "fontFamily": "Poppins"
+            },
+            "order": 1253
+        },
+        {
+            "id": 2282,
+            "component": "seo",
+            "component_id": 36,
+            "attributes": {
+                "txt": "SEO Text",
+                "keywords": "study abroad, stellar education nepal, study plans",
+                "description": "Stellar Education, one of the reliable consultancy companies, with a team of expert professionals in the field of abroad studies and document processing. We provide you best counselling and assistance to any of your stages for abroad study plans.",
+                "title": "Study Abroad | Stellar Education ",
+                "common_component": "1",
+                "cannonicalUrl": "https://stellar.edu.np/"
+            },
+            "order": 1254
+        },
+        {
+            "id": 1742,
+            "component": "header",
+            "component_id": 4,
+            "attributes": {
+                "cat": [],
+                "logo": "https://drive.google.com/uc?id=1ouau5Jqg-DjuUrXmeri__xnyH5Ug-7tc",
+                "stickyHeader": "1",
+                "bgColor": "#fff",
+                "color": "#000",
+                "common_component": "1"
+            },
+            "order": 1255
+        },
+        {
+            "id": 1741,
+            "component": "list",
+            "component_id": 31,
+            "attributes": {
+                "contentList": [
+                    {
+                        "link1": "Adwait Marg, Bagbazar-31, Kathmandu, Nepal"
+                    },
+                    {
+                        "link1": "+977-01-4253002, +977-9823-005613"
+                    },
+                    {
+                        "socialMediaLink": "1",
+                        "fblink": "https://www.facebook.com/StellarNepal",
+                        "twitterlink": "https://twitter.com/StellarNepal",
+                        "linkedinlink": "https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQFWpU3NTWL3owAAAXrsqq_Y3A19x7fx3_02HLEmaG4gdGS12OfXYoouG0CUPjgJgEFwBWj591Nrn9Ew-36TQOa12ooMODI3UW2bNbiYq0JXJDWkHyDTjllxP236iypskzd42Gw=&originalReferer=https://stellar.spunk.link/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fstellar-education"
+                    }
+                ],
+                "cta": [],
+                "bgColor": "#1e0f6b",
+                "color": "#fff",
+                "fontSize": "14px",
+                "textAlign": "left",
+                "common_component": "1"
+            },
+            "order": 1260
+        },
+        {
+            "id": 1750,
+            "component": "contactForm",
+            "component_id": 43,
+            "attributes": {
+                "feedbackImg": "https://jssors8.azureedge.net/demos/image-slider/img/px-fun-man-person-2361598-image.jpg",
+                "mapZoomLevel": "18",
+                "mapCenterLatitude": "27.70324",
+                "mapCenterLongitude": "85.32135",
+                "color": "#fff",
+                "common_component": "1",
+                "enableContactForm": "1",
+                "enableMap": "1",
+                "siteMail": "info@stellar.edu.np",
+                "preQuestions": "1",
+                "cta": "SEND"
+            },
+            "order": 1513
+        },
+        {
+            "id": 2033,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "contentList": [],
+                "cta": [],
+                "contactInfo": [],
+                "common_component": "1"
+            },
+            "order": 1515
+        },
+        {
+            "id": 1753,
+            "component": "list",
+            "component_id": 31,
+            "attributes": {
+                "contentList": [
+                    {
+                        "socialMediaLink": "1",
+                        "fblink": "https://www.facebook.com/StellarNepal",
+                        "twitterlink": "https://www.twitter.com/StellarNepal",
+                        "linkedinlink": "https://www.linkedin.com/company/stellar-education",
+                        "link1": "Adwait Marg,  Bagbazar-31, Kathmandu Nepal",
+                        "link2": "+977-01-4253002, +977-9823-005613"
+                    }
+                ],
+                "cta": [],
+                "color": "#000",
+                "textAlign": "center",
+                "justifyContent": "center",
+                "common_component": "1"
+            },
+            "order": 1516
+        },
+        {
+            "id": 2032,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "contentList": [],
+                "cta": [],
+                "common_component": "1"
+            },
+            "order": 1517
+        },
+        {
+            "id": 1755,
+            "component": "list",
+            "component_id": 31,
+            "attributes": {
+                "title": "Copyright © 2021 Stellar Education – All Rights Reserved.",
+                "contentList": [],
+                "cta": [],
+                "fontSize": "10px",
+                "common_component": "1"
+            },
+            "order": 1518
+        }
+    ]
+}
