@@ -1,0 +1,68 @@
+{
+    "data": [
+        {
+            "id": 2657,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "img": "http://hn.arrowpress.net/efarm/wp-content/uploads/2017/02/16.jpg",
+                        "title": "Aged Whole",
+                        "caption": "$30.00 – $35.00 /kg",
+                        "width": "250px"
+                    },
+                    {
+                        "img": "http://hn.arrowpress.net/efarm/wp-content/uploads/2017/07/29-565x565.jpg",
+                        "title": "Aged Whole",
+                        "caption": "$30.00 /kg",
+                        "width": "250px"
+                    },
+                    {
+                        "img": "http://hn.arrowpress.net/efarm/wp-content/uploads/2017/07/29-565x565.jpg",
+                        "width": "250px",
+                        "title": "Asplenium Crissie Amy",
+                        "caption": "$35.00"
+                    },
+                    {
+                        "img": "http://hn.arrowpress.net/efarm/wp-content/uploads/2017/05/43.jpg",
+                        "width": "250px",
+                        "title": "Banana",
+                        "caption": "$29.00 $25.00 /kg"
+                    },
+                    {
+                        "img": "http://hn.arrowpress.net/efarm/wp-content/uploads/2017/02/16.jpg",
+                        "width": "250px",
+                        "title": "Aged Whole",
+                        "caption": "$30.00 – $35.00 /kg"
+                    },
+                    {
+                        "img": "http://hn.arrowpress.net/efarm/wp-content/uploads/2017/07/29-565x565.jpg",
+                        "width": "250px",
+                        "title": "Aged Whole",
+                        "caption": "$30.00 /kg"
+                    },
+                    {
+                        "img": "http://hn.arrowpress.net/efarm/wp-content/uploads/2017/05/43.jpg",
+                        "width": "250px",
+                        "title": "Banana",
+                        "caption": " $29.00 $25.00 /kg"
+                    },
+                    {
+                        "img": "http://hn.arrowpress.net/efarm/wp-content/uploads/2017/07/29-565x565.jpg",
+                        "width": "250px",
+                        "title": "Asplenium Crissie Amy",
+                        "caption": "$35.00"
+                    }
+                ],
+                "cardMaxWidth": "250px",
+                "cardPadding": "0px",
+                "cardContentAlign": "center",
+                "parallax": "1",
+                "contactInfo": [],
+                "itemSize": "4"
+            },
+            "order": 23
+        }
+    ]
+}

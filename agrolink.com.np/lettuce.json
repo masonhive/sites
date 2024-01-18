@@ -1,0 +1,93 @@
+{
+    "data": [
+        {
+            "id": 2822,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2020/12/%E3%83%AC%E3%83%83%E3%83%89%E3%83%A9%E3%82%AF%E3%83%80%E3%82%B9-wpcf_620x465.jpg",
+                        "title": "Red camel",
+                        "caption": "The plant height is compact, the number of leaves is large, and the weight increases. Also,…",
+                        "titleColor": "#003300",
+                        "cat": "read more",
+                        "link": "/red_camel",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2020/12/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%A9%E3%82%AF%E3%83%80%E3%82%B9-wpcf_620x464.jpg",
+                        "title": "Green camel NEO",
+                        "caption": "A type of number of leaves whose weight increases with the number of leaves.",
+                        "titleColor": "#003300",
+                        "cat": "read more",
+                        "link": "/green-camel",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2020/12/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%EF%BC%92-%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-wpcf_620x465.jpg",
+                        "title": "deep Purple",
+                        "caption": "Deep reddish purple with beautiful gradation. Standing ...",
+                        "titleColor": "#003300",
+                        "btnColor": "#fff",
+                        "cat": "read more",
+                        "link": "/deep_purple"
+                    },
+                    {
+                        "img": "https://i.ibb.co/mBtp900/1636873728554-lettuce.png",
+                        "title": "Cure Red No. 1",
+                        "caption": "A bright red late-drawing early-maturing species. The grass is open and the number of leaves is",
+                        "cat": "read more",
+                        "link": "/cure_red",
+                        "titleColor": "   #003300",
+                        "btnColor": "#fff",
+                        "width": "250px"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2020/12/%E3%82%AA%E3%83%BC%E3%82%A6%E3%82%A7%E3%83%B3-wpcf_620x465.jpg",
+                        "title": "Owen",
+                        "caption": "October-November Root rot race 1 as well as one ...",
+                        "cat": "read more",
+                        "link": "/owen",
+                        "titleColor": "#003300",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2020/12/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%97%E3%83%88-wpcf_620x465.jpg",
+                        "title": "Intercept",
+                        "caption": "October-November Dori Excellent heading among Salinas ...",
+                        "cat": "read more",
+                        "link": "/intercept",
+                        "titleColor": "#003300",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2013/06/re_ciruru-wpcf_620x465.jpg",
+                        "title": "Silurian",
+                        "caption": "November-December Dori Excellent heading hypertrophy, suitable for cultivation ...",
+                        "cat": "read more",
+                        "link": "/silurian",
+                        "titleColor": "#003300",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2013/05/re_asure4-wpcf_620x465.jpg",
+                        "title": "Athletic",
+                        "caption": "From December to January, in the Salinas series with outstanding quality and excellence ...",
+                        "cat": "read more",
+                        "link": "/athletic",
+                        "titleColor": "#003300",
+                        "btnColor": "#fff"
+                    }
+                ],
+                "title": "lettuce",
+                "cardMaxWidth": "250px",
+                "bgColor": "#fff",
+                "cardContentAlign": "left",
+                "contactInfo": [],
+                "itemSize": "4"
+            },
+            "order": 70
+        }
+    ]
+}

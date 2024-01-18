@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "id": 2832,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2020/12/%E6%84%9B%E5%AE%9F-wpcf_620x465.jpg",
+                        "title": "Aimi",
+                        "caption": "High-yielding early-maturing carrots! The grass is upright and grows vigorously ...",
+                        "cat": "Read More",
+                        "link": "/aimi",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2014/09/ni-aroma-wpcf_620x465.jpg",
+                        "title": "Aroma red",
+                        "caption": "Bright crimson, good quality! A variety for both spring and summer sowing. Suitable ...",
+                        "cat": "Read More",
+                        "link": "/aroma",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2020/12/%E6%81%8B%E3%81%86%E3%81%95%E3%81%8E-wpcf_620x413.jpg",
+                        "title": "Love rabbit",
+                        "caption": "Good alignment and hard to break! Assortment that can be harvested in about 95 days ...",
+                        "cat": "read more",
+                        "link": "/love_rabbit",
+                        "btnColor": "#fff"
+                    }
+                ],
+                "title": "Carrots",
+                "cardMaxWidth": "250px",
+                "bgColor": "#fff",
+                "cardContentAlign": "left",
+                "contactInfo": [],
+                "itemSize": "4"
+            },
+            "order": 81
+        }
+    ]
+}

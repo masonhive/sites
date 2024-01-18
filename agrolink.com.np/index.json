@@ -1,0 +1,344 @@
+{
+    "data": [
+        {
+            "id": 2688,
+            "component": "bannerSlider",
+            "component_id": 2,
+            "attributes": {
+                "color": "#fff",
+                "contentAlign": "left",
+                "slider": [
+                    {
+                        "img": "https://i.guim.co.uk/img/media/ac98e89f5c1a75964fa9b02bfa0c561517fbd3ae/0_0_6720_4032/master/6720.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=b0492041a2f04e33c3a7237f97065b47",
+                        "title": " Loaded with vegetables. Packed with taste.",
+                        "subTitle": "Healthy Seed, Healthy Soil, Healthy Life",
+                        "overlayColorTop": "#ef4a49",
+                        "overlayColorBottom": "#206dc717"
+                    },
+                    {
+                        "img": "https://www.fastbusinessplans.com/wp-content/uploads/2019/07/organic-farm-business-plan.jpg",
+                        "title": "Sow A Seed Today, Harvest Tomorrow",
+                        "subTitle": "Before the reward there must be labor. You plant before you harvest. You sow in tears before you reap joy.",
+                        "overlayColorTop": "#ff0000b3",
+                        "overlayColorBottom": "#1b80605e"
+                    }
+                ],
+                "maxWidth": "800px"
+            },
+            "order": 68
+        },
+        {
+            "id": 2693,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "title": "Innovation",
+                        "width": "100px",
+                        "img": "https://i.ibb.co/ZM6qhYN/1633420454928-save-world-innovation-concept-girl-holding-small-plant-tree-sapling-growing-up-soil-pa.png",
+                        "contentWidth": "200px",
+                        "caption": "We provide are tested and verified seeds imported from Japan",
+                        "cardBgColor": "#fff"
+                    },
+                    {
+                        "title": "100% Guranteed",
+                        "img": "https://i.ibb.co/D7nz4zM/1633420809439-percent-natural-logo-design-healty-food-stamp-vector-illustrations-185587750.png",
+                        "width": "100px",
+                        "contentWidth": "200px",
+                        "caption": "We provide seeds that are tested and 100% guaranteed for higher yield",
+                        "cardBgColor": "#fff",
+                        "contentTextAlign": "justify"
+                    },
+                    {
+                        "img": "https://i.ibb.co/5F61nNq/1633421071069-grain.png",
+                        "width": "100px",
+                        "title": "No GMO",
+                        "contentWidth": "200px",
+                        "cardBgColor": "#fff",
+                        "caption": "We provide original breed of lab tested seeds without genetic modifications"
+                    }
+                ],
+                "itemSize": "3",
+                "cardPadding": "10px 0",
+                "cardContentAlign": "left",
+                "linearCard": "1",
+                "imgContentRow": "1",
+                "contactInfo": [],
+                "cardAlignItems": "center",
+                "justifyContent": "space-between",
+                "color": "#000",
+                "imgPadding": "10px",
+                "flyer": "1"
+            },
+            "order": 88
+        },
+        {
+            "id": 2690,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.store-assets.com%2Fs%2F19962%2Fi%2F822701.jpeg&f=1&nofb=1",
+                        "title": "Cabbage (Early Light)",
+                        "caption": "December-February Dori Late July-Late August Sow, 12 ...",
+                        "cat": "View more",
+                        "btnColor": "#fff",
+                        "link": "/seeds"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2014/08/to-momo-wpcf_620x465.jpg",
+                        "title": "Tomato(Momotaro York)",
+                        "caption": "Stable fertility in house-suppressed cultivation makes it easy to make, different ...",
+                        "cat": "view more",
+                        "btnColor": "#fff",
+                        "link": "/seeds",
+                        "width": "250px"
+                    },
+                    {
+                        "width": "260 px",
+                        "title": "Cabbage",
+                        "caption": "Stable fertility in house-suppressed cultivation makes it easy to make, different ...",
+                        "cat": "view more",
+                        "link": "/seeds",
+                        "btnColor": "#fff",
+                        "img": "https://drive.google.com/uc?id=1-ghUnuRLrv_aCAlAGaj9RLXJvn1h_zMB"
+                    }
+                ],
+                "title": "Master Seeds ",
+                "cardMaxWidth": "300px",
+                "cardContentAlign": "left",
+                "contactInfo": [],
+                "itemSize": "3",
+                "titleColor": "#fff",
+                "imgPadding": "0",
+                "cardPadding": "20px",
+                "bgColor": "#3c7950c9",
+                "color": "#fff",
+                "cardBgColor": "#fafafa",
+                "cardColor": "#232323",
+                "bgImg": "https://drive.google.com/uc?id=d/1jcVBwj5g4iLYQsn2eenzG1LnSTE3Qfem"
+            },
+            "order": 90
+        },
+        {
+            "id": 3105,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "title": "Organic Products ",
+                        "caption": "We produce 100% organic food with natural fertilizers and pesticides that does not contain genetically modified organisms (GMOs). Our primary goal is to provide 100% organic food for healthy body and well being. Therefore, we heavily encourage you to start using all-natural and organic products.",
+                        "img": "https://i.ibb.co/2M0sWWQ/1633340686915-22.webp"
+                    },
+                    {
+                        "img": "https://i.ibb.co/7N46L9P/1633340978023-44.webp",
+                        "title": "Seeds",
+                        "caption": "A seed is an embryonic plant enclosed in a protective outer covering. The seed consists of enormous energy. If the seed is grown to a good plant it can feed many lives. We have admitted that A seed actually has the future and good seeds are actually the future of natation and healthier life. We provide the best seed all around the world.  "
+                    },
+                    {
+                        "img": "https://drive.google.com/uc?id=1jcVBwj5g4iLYQsn2eenzG1LnSTE3Qfem",
+                        "title": "Agricultural Products",
+                        "caption": "We are primarily the main company to provide the imported seeds from Japan with the best quality and productivity. We are inclined with the agricultural products as the inner core, that national building is possible only with healthy food and healthy mindset."
+                    }
+                ],
+                "title": "Services We Offer",
+                "cardMaxWidth": "250px",
+                "bgColor": "#fff",
+                "contactInfo": [],
+                "flatCard": "1",
+                "itemSize": "4"
+            },
+            "order": 91
+        },
+        {
+            "id": 3104,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "alignContent": "column-left",
+                "img": "https://drive.google.com/uc?id=1p-w-kglsTTRcYqRuZGU5D4aoCcBbU1S6",
+                "description": "At agrolink, we believe in building a healthy life for you and your family with nutritional foods produced from the best seed imported from Japan, grown in excellent soil conditions. We aim to uplift commercial farmers and household farmers alike, with premium quality Japanese seeds and boost productivity. Our initial phase is dedicated to uplifting the quality of seed used for crops all over Nepal and making agriculture more sustainable.",
+                "cta": [],
+                "contentList": [
+                    {
+                        "subTitle": "Healthy Seeds",
+                        "tick": "1"
+                    },
+                    {
+                        "subTitle": "100% Imported",
+                        "tick": "1"
+                    },
+                    {
+                        "subTitle": "100% Organic",
+                        "tick": "1"
+                    },
+                    {
+                        "subTitle": "Premium Quality",
+                        "tick": "1"
+                    }
+                ],
+                "alignImg": "left",
+                "maxWidth": "500px",
+                "justifyContent": "space-evenly",
+                "imageMaxWidth": "600px ",
+                "contactInfo": [],
+                "caption": "NUTRITIOUS FOOD IS OUR GOAL",
+                "title": "HEALTHY SEED, HEALTHY SOIL, HEALTHY LIFE ",
+                "ContentMaxWidth": "500px"
+            },
+            "order": 93
+        },
+        {
+            "id": 3107,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "alignContent": "column-left",
+                "img": "https://drive.google.com/uc?id=1q9p4fvYElEF0a6hQlwVyvLq_b58NnQr1\n",
+                "title": "We are here to serve you.",
+                "description": "Japan has been one of the largest hubs for agriculture and is investing a large portion of its GDP in the research and development of high-yield quality seeds. Our mission is to create an environment for coordination and knowledge sharing between Japanese experts and Nepali farmers. We take pride in being at the forefront of dealing high-quality seeds that have been through extensive research, tests, and certified by Japanese authorities.",
+                "cta": [],
+                "contentList": [
+                    {
+                        "title": "Excellent Service",
+                        "iconImg": "https://livewp.site/wp/md/agrosector/wp-content/uploads/sites/55/2019/01/icon_01.png",
+                        "iconImgWidth": "65px"
+                    },
+                    {
+                        "title": "\nEco-friendly Working Environment",
+                        "iconImg": "https://livewp.site/wp/md/agrosector/wp-content/uploads/sites/55/2019/01/icon_03.png",
+                        "iconImgWidth": "60px"
+                    },
+                    {
+                        "title": "Quality And Reliability",
+                        "iconImg": "https://livewp.site/wp/md/agrosector/wp-content/uploads/sites/55/2019/01/icon_02.png",
+                        "iconImgWidth": "60px"
+                    },
+                    {
+                        "title": "Expert's Support for Farmers",
+                        "iconImg": "https://livewp.site/wp/md/agrosector/wp-content/uploads/sites/55/2019/01/icon_04.png",
+                        "iconImgWidth": "60px"
+                    }
+                ],
+                "contactInfo": [],
+                "ContentMaxWidth": "600px",
+                "justifyContent": "space-evenly",
+                "imageMaxWidth": "500px ",
+                "fontSize": "15px"
+            },
+            "order": 93
+        },
+        {
+            "id": 3106,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "img": "https://i.ibb.co/BwyL5QX/1633341519570-55.webp",
+                        "borderRadius": "20px",
+                        "cat": "Project \"A\" At Chunikhel",
+                        "imageWrap": "1",
+                        "cardOverflowMargin": "1"
+                    },
+                    {
+                        "img": "https://i.ibb.co/mTYcWNZ/1633341763745-66.webp",
+                        "borderRadius": "20px",
+                        "cat": "Project \"B\" At Bungmati",
+                        "cardOverflowMargin": "1",
+                        "imageWrap": "1"
+                    },
+                    {
+                        "img": "https://i.ibb.co/TLnC73P/1633341940568-77.webp",
+                        "borderRadius": "20px",
+                        "cat": "Project \"C\" At Khokana",
+                        "imageWrap": "1",
+                        "cardOverflowMargin": "1"
+                    },
+                    {
+                        "img": "https://thumbs.dreamstime.com/b/beautiful-rice-farm-philippines-culasi-plantation-countryside-southeastasia-154943002.jpg",
+                        "borderRadius": "20px",
+                        "cat": "Project \" D \" at Champi",
+                        "imageWrap": "1",
+                        "cardOverflowMargin": "1"
+                    }
+                ],
+                "caption": "RECENTLY COMPLETED WORK",
+                "title": "Explore Our Projects",
+                "cardMaxWidth": "250px",
+                "bgColor": "#fff",
+                "cardContentAlign": "left",
+                "contactInfo": [],
+                "flatCard": "1",
+                "itemSize": "4",
+                "color": "#fff"
+            },
+            "order": 94
+        },
+        {
+            "id": 2694,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "title": "Our Trusted Partner",
+                "itemList": [],
+                "cardBgColor": "#fff",
+                "itemSize": "5",
+                "cardPadding": "0px",
+                "cardContentAlign": "left",
+                "imgContentRow": "1",
+                "contactInfo": [],
+                "titleColor": "transparent",
+                "color": "#fff",
+                "flatCard": "1",
+                "autoPlay": "1",
+                "activateSlider": "1"
+            },
+            "order": 99
+        },
+        {
+            "id": 2692,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "img": "https://i.ibb.co/zFZsygP/1637899797830-1637899658467-1637899490120-roasted-pumpkin-seeds-5.webp"
+                    },
+                    {
+                        "img": "https://rukminim1.flixcart.com/image/416/416/plant-seed/n/h/r/agro-max-30-okra-lady-finger-export-quality-vegetable-original-imaefzzrft2gaged.jpeg?q=70"
+                    },
+                    {
+                        "img": "https://i.ibb.co/3pmwp70/1633422368956-skyscraper-sunflower-types-1586794555.png"
+                    },
+                    {
+                        "img": "https://i.ibb.co/5F4R4nX/1633422548872-Russian-Banana.png"
+                    },
+                    {
+                        "img": "https://i.ibb.co/gdHcKLG/1633423003091-Moon-Drops-390x585.png"
+                    },
+                    {
+                        "img": "https://i.ibb.co/f1yt9Xw/1633423262687-fresh-basil-herb-bunch-070318.png"
+                    },
+                    {
+                        "img": "https://i.ibb.co/y0cM9dd/1633423447999-freestone-peaches-july292020-min.png"
+                    },
+                    {
+                        "img": "https://i.ibb.co/HN3vQyJ/1633423583779-Ashley.png"
+                    }
+                ],
+                "title": "ArgoLink's Harvests!!!",
+                "cardMaxWidth": "250px",
+                "cardContentAlign": "left",
+                "contactInfo": [],
+                "titleColor": "#000",
+                "itemSize": "4",
+                "flatCard": "1"
+            },
+            "order": 100
+        }
+    ]
+}

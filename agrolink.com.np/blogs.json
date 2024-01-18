@@ -1,0 +1,47 @@
+{
+    "data": [
+        {
+            "id": 3302,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "title": "Growing Your Own Food During A Pandemic",
+                        "width": "200px",
+                        "img": "https://cdn.britannica.com/17/196817-050-6A15DAC3/vegetables.jpg",
+                        "contentWidth": "300px"
+                    },
+                    {
+                        "title": "How to get best yield from Kitchen Garden/Terrace Garden",
+                        "img": "https://www.cdc.gov/foodsafety/images/comms/features/GettyImages-1247930626-500px.jpg",
+                        "width": "200px",
+                        "contentWidth": "300px"
+                    },
+                    {
+                        "img": "https://www.wlns.com/wp-content/uploads/sites/50/2020/10/vegetables.jpg",
+                        "width": "200px",
+                        "title": "How to Grow Microgreens At Home?",
+                        "contentWidth": "300px"
+                    },
+                    {
+                        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsantansun.com%2Fwp-content%2Fuploads%2F2019%2F07%2FFruit-Trees.jpeg&f=1&nofb=1",
+                        "width": "200px",
+                        "title": "Top 10 Fruits for Roof-Top Farming",
+                        "contentWidth": "300px"
+                    }
+                ],
+                "cardColor": "#000",
+                "cardBgColor": "#fff",
+                "itemSize": "2",
+                "cardMaxWidth": "900px",
+                "cardPadding": "0px",
+                "cardContentAlign": "left",
+                "linearCard": "1",
+                "imgContentRow": "1",
+                "contactInfo": []
+            },
+            "order": 66
+        }
+    ]
+}

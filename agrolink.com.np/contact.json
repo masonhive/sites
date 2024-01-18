@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": 3310,
+            "component": "contactForm",
+            "component_id": 43,
+            "attributes": {
+                "id": "contact",
+                "address": "Sainbhu Bhainsepati, Ward no: 18, Lalitpur, Nepal",
+                "phone": "Call : 977-1-5425109 / 977-98510-97108 / 9841-342668",
+                "email": "Email: agrolink@gmail.com",
+                "working_time": "Sun - Fri, 9 AM - 6 PM",
+                "enableContactDetail": "1",
+                "enableContactForm": "1",
+                "formTitle": "Contact Us",
+                "cta": "Send",
+                "link": "#",
+                "detailWidth": "40%",
+                "formWidth": "60%"
+            },
+            "order": 106
+        }
+    ]
+}

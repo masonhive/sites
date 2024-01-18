@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "id": 2836,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2014/08/br-summerdome-wpcf_620x465.jpg",
+                        "title": "Summer dome (SK3-081)",
+                        "caption": "It can be harvested in about 100 to 110 days after sowing in November ...",
+                        "cat": "Read More",
+                        "link": "/summer_dome",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2020/12/%E3%83%96%E3%83%AD%E3%83%83%E3%82%B1%E3%83%B3-wpcf_620x465.jpg",
+                        "title": "Brocken",
+                        "caption": "November-January Ants that can be harvested 90 days after sowing ...",
+                        "cat": "Read More",
+                        "link": "/brocken",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2021/01/brokken-HP-wpcf_620x464.jpg",
+                        "title": "Brocken HP",
+                        "caption": "From early November to early December, it will be collected in about 90 days after sowing ...",
+                        "cat": "read more",
+                        "link": "/brocken_hp",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2014/08/br-keirin-wpcf_620x465.jpg",
+                        "title": "Keirin Keirin",
+                        "caption": "Early November to mid-December About 105 days after sowing ...",
+                        "cat": "read mor",
+                        "link": "/keirin",
+                        "btnColor": "#fff"
+                    }
+                ],
+                "title": "Broccolis",
+                "cardMaxWidth": "250px",
+                "bgColor": "#fff",
+                "cardContentAlign": "left",
+                "contactInfo": [],
+                "itemSize": "4"
+            },
+            "order": 85
+        }
+    ]
+}

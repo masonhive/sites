@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "id": 2701,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "img": "https://cdn.tasteatlas.com/Images/Ingredients/7ea01754d8a24c4d939bcb841c4eab8f.jpg?w=600&h=450",
+                        "title": "Granny Smith",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit."
+                    },
+                    {
+                        "img": "https://himalsanchar.com/wp-content/uploads/2021/01/Jumla-farmers-are-attracted-to-Fuji-apple-1200x900.jpg",
+                        "title": "Fuji",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit."
+                    },
+                    {
+                        "img": "https://i.ibb.co/Hrt3h7B/1637908789751-Pink-Lady-Apple-3-grande.png",
+                        "title": "Pink lady",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit."
+                    },
+                    {
+                        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ymN3ObLXN9jOXrKUZ5s_uzskBxrpXAYScCHHTj732w_bXuBWDIeSE40p7n7BUf8S1xE&usqp=CAU",
+                        "title": "Honeycrisp",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit."
+                    },
+                    {
+                        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQqRWIFkMiBRQMEig5Y1w_k_dxSLwyYkYWAcLoSTxCcvvmVjB0oj8fxJBuanVAEDX7Hjg&usqp=CAU",
+                        "title": "Gala",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit"
+                    },
+                    {
+                        "img": "https://www.dalival.com/wp-content/uploads/2016/07/CRIPPS-PINK-SEXZIE-PRINCIPALE-LOGO-RECT.png",
+                        "title": "Jazz",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit"
+                    }
+                ],
+                "title": "Apples",
+                "cardMaxWidth": "250px",
+                "cardContentAlign": "left",
+                "contactInfo": [],
+                "titleColor": "#000",
+                "itemSize": "4"
+            },
+            "order": 65
+        }
+    ]
+}

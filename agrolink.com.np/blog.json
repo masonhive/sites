@@ -1,0 +1,108 @@
+{
+    "data": [
+        {
+            "id": 2644,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "title": "Barley",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "width": "250px",
+                        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwc1rR-nDoar_ZuL5ZGewuzQIfE_r4gIdFrA&usqp=CAU",
+                        "contentWidth": "300px",
+                        "cat": "Read More",
+                        "link": "#",
+                        "contentTextAlign": "center",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "title": "Wheat",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "img": "https://thumbs.dreamstime.com/b/wheat-sack-ears-wheat-grains-sack-ears-191681984.jpg",
+                        "width": "250px",
+                        "contentWidth": "300px",
+                        "cat": "Read More",
+                        "link": "#",
+                        "btnColor": "#fff"
+                    }
+                ],
+                "cardColor": "#000",
+                "cardBgColor": "#fff",
+                "itemSize": "2",
+                "cardMaxWidth": "800px",
+                "cardPadding": "0px",
+                "cardContentAlign": "left",
+                "linearCard": "1",
+                "imgContentRow": "1",
+                "contactInfo": [],
+                "justifyContent": "center",
+                "cardAlignItems": "center",
+                "title": "Our Grains"
+            },
+            "order": 40
+        },
+        {
+            "id": 2645,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "title": "Millet",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "width": "250px",
+                        "img": "https://images.outlookindia.com/public/uploads/articles/2019/7/12/Foxtail_millet.jpg",
+                        "contentWidth": "300px",
+                        "cat": "Read More",
+                        "link": "#",
+                        "contentTextAlign": "center",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "title": "Rice",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "img": "https://thumbor.thedailymeal.com/7EP9wZVYqequLJ9sIozOlYf4nBs=/696x454/https://www.thedailymeal.com/sites/default/files/recipe/2020/11601077small_long_grain_rice_istock-elenathewise_450x360.jpg",
+                        "width": "250px",
+                        "contentWidth": "300px",
+                        "cat": "Read More",
+                        "link": "#",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "http://3.bp.blogspot.com/-14UsUlgi2Sk/TtwbOVKXZwI/AAAAAAAAN64/S1JHzyeSIYo/s1600/DSC00375.JPG",
+                        "width": "250px",
+                        "title": "Yellow Mustard",
+                        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+                        "cat": "Read More",
+                        "link": "#",
+                        "contentWidth": "300px",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbKd1DfDJcCPonQV-Hp14cSfjN22MSSqm0Dg&usqp=CAU",
+                        "width": "250px",
+                        "title": "Chana",
+                        "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+                        "cat": "Read More",
+                        "link": "#",
+                        "contentWidth": "300px",
+                        "btnColor": "#fff"
+                    }
+                ],
+                "cardColor": "#000",
+                "cardBgColor": "#fff",
+                "itemSize": "2",
+                "cardMaxWidth": "800px",
+                "cardPadding": "0px",
+                "cardContentAlign": "left",
+                "linearCard": "1",
+                "imgContentRow": "1",
+                "contactInfo": [],
+                "cardAlignItems": "center"
+            },
+            "order": 53
+        }
+    ]
+}

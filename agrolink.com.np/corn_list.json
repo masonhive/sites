@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "id": 3095,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "img": "https://i.ibb.co/wCtzpzH/1636955919315-gold.png",
+                        "title": "Gold rush 90",
+                        "caption": "A 90-day ripening type mid-late variety. Strong rooting and lodging ...",
+                        "cat": "read more",
+                        "link": "/gold_rush_90",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://i.ibb.co/HHQCMH2/1636955787752-corn.png",
+                        "title": "Gold Rush 86",
+                        "caption": "It has a strong sweetness, a soft grain skin, and a fruity scent.",
+                        "cat": "read more",
+                        "link": "/gold_rush_86",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2000/10/goldrush88-wpcf_615x465.png",
+                        "title": "Gold Rush 88",
+                        "caption": "88th Thailand, which is about 5 days later than \"Gold Rush\" ...",
+                        "cat": "read more",
+                        "link": "/gold-rush-88",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2020/12/goldrush-wpcf_620x465.jpg",
+                        "title": "gold Rush",
+                        "caption": "Maturity 82-83 days type. Low temperature germination and early growth ...",
+                        "cat": "read more",
+                        "link": "/rush",
+                        "btnColor": "#fff"
+                    }
+                ],
+                "title": "Corns",
+                "cardMaxWidth": "250px",
+                "bgColor": "#fff",
+                "cardContentAlign": "left",
+                "contactInfo": [],
+                "itemSize": "4"
+            },
+            "order": 89
+        }
+    ]
+}

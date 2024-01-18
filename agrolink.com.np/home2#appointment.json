@@ -1,0 +1,15 @@
+{
+    "data": [
+        {
+            "id": 2821,
+            "component": "appointmentForm",
+            "component_id": 44,
+            "attributes": {
+                "title": "this is title",
+                "caption": "caption here!!",
+                "siteMail": "test@gmail.com"
+            },
+            "order": 72
+        }
+    ]
+}

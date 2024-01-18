@@ -1,0 +1,122 @@
+{
+    "data": [
+        {
+            "id": 2663,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "alignContent": "center",
+                "title": "Our Mission",
+                "cta": [],
+                "contentList": [],
+                "contactInfo": []
+            },
+            "order": 55
+        },
+        {
+            "id": 2664,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "alignContent": "center",
+                "img": "https://i.ibb.co/fptnBKP/side-image-box01.jpg",
+                "title": "Supporting Family Farmers",
+                "cta": [
+                    {
+                        "link": "#",
+                        "name": "More Information"
+                    }
+                ],
+                "contentList": [],
+                "contactInfo": [],
+                "imageMaxWidth": "600px",
+                "ContentMaxWidth": "500px",
+                "justifyContent": "space-evenly",
+                "buttonBackgroundColor": "#f5953f",
+                "buttonColor": "#fff",
+                "description": "Agro Link has helped keep family farmers on the land by providing immediate and effective support services to farm families in crisis. Our goal is to provide farmers with the resources needed to gain access to new markets, transition to more sustainable and profitable farming practices, and survive natural disasters. We are becoming the link for supporting farmers all the way to success.",
+                "video": "https://www.youtube.com/embed/J94E6EDxzuE"
+            },
+            "order": 56
+        },
+        {
+            "id": 2665,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "alignContent": "center",
+                "img": "https://i.ibb.co/7ywwZVB/side-image-box02.jpg",
+                "cta": [
+                    {
+                        "link": "#",
+                        "name": "More Information"
+                    }
+                ],
+                "contentList": [],
+                "alignImg": "right",
+                "maxWidth": "500px",
+                "justifyContent": "space-evenly",
+                "imageMaxWidth": "600px ",
+                "contactInfo": [],
+                "title": "Building A Movement",
+                "ContentMaxWidth": "500px",
+                "buttonBackgroundColor": "#f5953f",
+                "buttonColor": "#fff",
+                "description": "An agroecologist is a scientist with knowledge and expertise in sustainable agriculture. The concept draws on both the scientific tradition of ecological sciences as well as the traditional knowledge and expertise of small-scale farmers, especially women and Indigenous farmers. \nThe two most important assets of small-scale farmers are their variety of locally adapted seeds, and their knowledge and brain power. These assets allow them to grow healthy food without harming the environment.  We are excited to bring good movement towards sustainable development via agriculture and for families."
+            },
+            "order": 58
+        },
+        {
+            "id": 2666,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "alignContent": "center",
+                "img": "https://i.ibb.co/K7xm7Mm/side-image-box03.jpg",
+                "title": "Promoting farm foods",
+                "description": "With direct coordination and cooperation from farmers, we aim to bring food to the table direct from the field. This allows consumers to have the freshest food available to them. Since fresh food is healthiest thus promoting healthy life for consumers. \n",
+                "cta": [
+                    {
+                        "link": "#",
+                        "name": "More Information"
+                    }
+                ],
+                "contentList": [],
+                "contactInfo": [],
+                "imageMaxWidth": "600px",
+                "ContentMaxWidth": "500px",
+                "justifyContent": "space-evenly",
+                "buttonBackgroundColor": "#f5953f",
+                "buttonColor": "#fff"
+            },
+            "order": 59
+        },
+        {
+            "id": 2667,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "alignContent": "center",
+                "img": "https://i.ibb.co/GThSLCK/4.jpg",
+                "cta": [
+                    {
+                        "link": "#",
+                        "name": "More Information"
+                    }
+                ],
+                "contentList": [],
+                "alignImg": "right",
+                "maxWidth": "500px",
+                "justifyContent": "space-evenly",
+                "imageMaxWidth": "600px ",
+                "contactInfo": [],
+                "title": "Celebrating family farmers",
+                "ContentMaxWidth": "500px",
+                "description": "Being a agricultural nation, family farmers outnumber commercial farmers. Since family farmers produce fruits and vegetables in need basis, their produce is 100% organic in comparison and daily harvest contributes to its freshness. At agrolink, we highly appreciate the contributions made by family farmers to the availability of fresh and 100% organic fruits and vegetables",
+                "buttonBackgroundColor": "#f5953f",
+                "buttonColor": "#fff"
+            },
+            "order": 60
+        }
+    ]
+}

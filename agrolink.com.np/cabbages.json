@@ -1,0 +1,99 @@
+{
+    "data": [
+        {
+            "id": 2835,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2014/08/ca_ranten-wpcf_620x465.jpg",
+                        "title": "Indigo",
+                        "caption": "October Dori Strong against physiological disorders such as lime deficiency, high temperature period .",
+                        "cat": "read more",
+                        "link": "/indigo",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2015/05/ky_shibuki-wpcf_620x465.jpg",
+                        "title": "Splash",
+                        "caption": "October-November Dori July 20-August 5 Sow, 1 ...",
+                        "cat": "read more",
+                        "link": "/splash",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2020/12/YKK311%E3%81%AA%E3%81%94%E3%81%BF-%E3%83%88%E3%83%AA%E3%83%9F%E3%83%B3%E3%82%B0-wpcf_620x464.jpg",
+                        "title": "YR Nagomi",
+                        "caption": "Late October-November Dori July 20-August 5 Sowing ...",
+                        "cat": "read more",
+                        "link": "/nagomi",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2013/06/ky_wasehikari-wpcf_620x465.jpg",
+                        "title": "Early light",
+                        "caption": "November-December Dori July 20-August 5 Sow, 1 ...",
+                        "cat": "read more",
+                        "link": "/early-light",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2015/09/ky_yr886-wpcf_620x465.jpg",
+                        "title": "YR886",
+                        "caption": "December-January Sowed from July 25th to August 10th, 1 ...",
+                        "cat": "read more",
+                        "link": "/yr886",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2020/12/YR888-%E3%83%88%E3%83%AA%E3%83%9F%E3%83%B3%E3%82%B0-wpcf_620x465.jpg",
+                        "title": "YR888",
+                        "caption": "Late November-December Dori July 25-August 10 seeding ...",
+                        "cat": "read more",
+                        "link": "/yr888",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2013/06/ky_siwasu-wpcf_620x465.jpg",
+                        "title": "Wrinkle",
+                        "caption": "November-December Dori July 25-August 10 Sowed, ...",
+                        "cat": "read more",
+                        "link": "/wrinkle",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2013/06/ky_mikasa1-wpcf_620x465.jpg",
+                        "title": "CT Mikasa",
+                        "caption": "Features of CT Mikasa ◆ Sulfur disease resistant, strong roots ...",
+                        "cat": "read more",
+                        "link": "/mikasa",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2014/08/ca_ranpohikari-wpcf_620x465.jpg",
+                        "title": "Aiho Hikari",
+                        "caption": "December-January Cold-resistant, well-rooted, grass ...",
+                        "cat": "read more",
+                        "link": "/aiho_hikari",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2014/08/ca_toran1-wpcf_620x465.jpg",
+                        "title": "Winter indigo",
+                        "caption": "Sowed from December to late January from August 5th to 10th. Go ...",
+                        "cat": "read more",
+                        "link": "/winter_indigo",
+                        "btnColor": "#fff"
+                    }
+                ],
+                "title": "Cabbages",
+                "cardMaxWidth": "250px",
+                "cardContentAlign": "left",
+                "contactInfo": [],
+                "itemSize": "4"
+            },
+            "order": 84
+        }
+    ]
+}

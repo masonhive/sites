@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "id": 2687,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "img": "https://layerdrops.com/agriox/assets/images/resources/meet-farmers-v2-img1.jpg",
+                        "author": "Kevin Martin",
+                        "designation": "assistant"
+                    },
+                    {
+                        "img": "https://layerdrops.com/agriox/assets/images/resources/meet-farmers-v2-img2.jpg",
+                        "author": "Christine Eve",
+                        "designation": "manager"
+                    },
+                    {
+                        "img": "https://layerdrops.com/agriox/assets/images/resources/meet-farmers-v2-img3.jpg",
+                        "author": "Mike Hardson",
+                        "designation": "senior assistant"
+                    },
+                    {
+                        "img": "https://layerdrops.com/agriox/assets/images/resources/meet-farmers-v2-img4.jpg",
+                        "author": "Jessica Brown",
+                        "designation": "farmer"
+                    },
+                    {
+                        "img": "https://layerdrops.com/agriox/assets/images/resources/meet-farmers-v2-img5.jpg",
+                        "author": "David Cooper",
+                        "designation": "employee"
+                    },
+                    {
+                        "img": "https://layerdrops.com/agriox/assets/images/resources/meet-farmers-v2-img6.jpg",
+                        "author": "Aleesha Smith",
+                        "designation": "employee"
+                    }
+                ],
+                "title": "Our Teamates",
+                "cardMaxWidth": "300px",
+                "cardContentAlign": "left",
+                "contactInfo": [],
+                "imgAuthorPosition": "bottom"
+            },
+            "order": 52
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "id": 2831,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2020/12/%E3%82%A2%E3%83%AC%E3%82%B0%E3%83%AC%E3%83%83%E3%83%88%E3%82%B5%E3%82%A4%E3%82%BA%E5%A4%89%E6%9B%B4-e1608519027407.jpg ",
+                        "title": "Allegret",
+                        "caption": "Sowing from late September to late January The grass is upright and easy to harvest ...",
+                        "cat": "Read More",
+                        "link": "#",
+                        "btnColor": "#fff",
+                        "width": "250px"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2020/12/%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BC-wpcf_612x465.jpg",
+                        "title": "Sniper",
+                        "caption": "Mid-October-January Sowing The grass is standing and sometimes due to frost damage ...",
+                        "cat": "Read More",
+                        "link": "/sniper",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://i.ibb.co/tLwYkyx/1636877880921.png",
+                        "title": "staff",
+                        "caption": "February-early May Sown leaves are dark green with shallow notches, ...",
+                        "cat": "read more",
+                        "link": "/staff",
+                        "btnColor": "#fff",
+                        "width": "250px"
+                    },
+                    {
+                        "img": "https://i.ibb.co/QK8p5TF/1636878270439-last.png",
+                        "title": "Evening lottery Sun Hope",
+                        "caption": "Mid-March-Mid-July Sowing The grass is erect and the leaves are pointed ...",
+                        "cat": "read more",
+                        "link": "/sun_hope",
+                        "btnColor": "#fff"
+                    }
+                ],
+                "title": "Spinach",
+                "cardMaxWidth": "250px",
+                "cardContentAlign": "left",
+                "parallax": "1",
+                "contactInfo": [],
+                "itemSize": "4"
+            },
+            "order": 80
+        }
+    ]
+}

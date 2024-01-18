@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "id": 3093,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2014/07/me-ropia-wpcf_620x465.jpg",
+                        "title": "Lopia",
+                        "caption": "The flesh is pastel orange and has a high sugar content of 15 to 17 degrees.",
+                        "cat": "read more ",
+                        "link": "/lopia",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2014/07/me_kureo2-wpcf_620x465.jpg",
+                        "title": "Cleopatra II",
+                        "caption": "Queen of yellow-skinned melon The appearance is beautiful dark yellow, and the fruit weight is 1 ...",
+                        "cat": "read more",
+                        "link": "/cleopatra",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2014/08/me-kreo2a-wpcf_620x465.jpg",
+                        "title": "Cleopatra II LA",
+                        "caption": "Large varieties with good ball alignment Large cotyledons, thick stems, good ...",
+                        "cat": "read more",
+                        "link": "/clepatra_la",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2014/07/%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC%E3%82%A8%E3%82%A4%E3%83%88-wpcf_620x411.jpg",
+                        "title": "Yellow Eight",
+                        "caption": "A variety that demonstrates its ability in early-stage cultivation. The grass is relatively ...",
+                        "cat": "read more",
+                        "link": "/yellow_eight",
+                        "btnColor": "#fff"
+                    }
+                ],
+                "title": "Melons",
+                "cardMaxWidth": "250px",
+                "bgColor": "#fff",
+                "cardContentAlign": "left",
+                "contactInfo": [],
+                "itemSize": "4"
+            },
+            "order": 87
+        }
+    ]
+}

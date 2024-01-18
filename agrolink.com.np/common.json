@@ -1,0 +1,174 @@
+{
+    "data": [
+        {
+            "id": 3101,
+            "component": "base",
+            "component_id": 30,
+            "attributes": {
+                "secondaryBgColor": "#f5953f",
+                "secondaryFontColor": "#fff",
+                "common_component": "1",
+                "primaryBgColor": "#f2f2f2",
+                "primaryColor": "#fff",
+                "fontFamily": "Nunito"
+            },
+            "order": 27
+        },
+        {
+            "id": 3257,
+            "component": "list",
+            "component_id": 31,
+            "attributes": {
+                "contentList": [
+                    {
+                        "fblink": "1",
+                        "twitterlink": "11",
+                        "instagramlink": "1",
+                        "tiktoklink": "1",
+                        "link1": "Sainbhu Bhainsepati, Ward no: 18, Lalitpur, Nepal"
+                    },
+                    {
+                        "link1": "Call : 977-1-5425109 / 977-98510-97108"
+                    },
+                    {
+                        "link1": " Email: info@agrolink.com.np "
+                    }
+                ],
+                "cta": [],
+                "bgColor": "#199541",
+                "color": "#fafafa",
+                "fontSize": "12px",
+                "common_component": "1"
+            },
+            "order": 28
+        },
+        {
+            "id": 3258,
+            "component": "list",
+            "component_id": 31,
+            "attributes": {
+                "contentList": [
+                    {
+                        "logo": "https://i.ibb.co/cDp0mK3/argo.jpg",
+                        "Logowidth": "150px",
+                        "Display": "flex"
+                    },
+                    {
+                        "title": "Agro Link Pvt. Ltd",
+                        "link1": "Healthy Seed, Healthy Soil, Healthy Life"
+                    },
+                    {
+                        "socialMediaLink": "1",
+                        "fblink": "https://www.facebook.com/profile.php?id=100070506693227",
+                        "twitterlink": "https://www.facebook.com/agro.link.96",
+                        "instagramlink": "https://www.instagram.com/agrolink19/",
+                        "linkedinlink": "https://www.facebook.com/agro.link.96"
+                    }
+                ],
+                "color": "#199541",
+                "fontSize": "14px",
+                "cta": [],
+                "common_component": "1"
+            },
+            "order": 29
+        },
+        {
+            "id": 3100,
+            "component": "header",
+            "component_id": 4,
+            "attributes": {
+                "button": [
+                    {
+                        "link": "#",
+                        "cat": "Make Appointment"
+                    }
+                ],
+                "stickyHeader": "1",
+                "bgColor": "#f5953f",
+                "cat": [],
+                "common_component": "1",
+                "email": "hopefertilitycentre@gmail.com",
+                "logoWidth": "100px",
+                "color": "#fff",
+                "activateMenu": "1",
+                "justifyContent": "center"
+            },
+            "order": 30
+        },
+        {
+            "id": 3102,
+            "component": "list",
+            "component_id": 31,
+            "attributes": {
+                "contentList": [
+                    {
+                        "fblink": "https://www.facebook.com/agro.link.96",
+                        "twitterLink": "adf",
+                        "twitterlink": "https://www.facebook.com/agro.link.96",
+                        "instagramlink": "https://www.facebook.com/agro.link.96",
+                        "tiktoklink": "https://www.facebook.com/agro.link.96",
+                        "title": "Agro Link Pvt Ltd",
+                        "Logowidth": "100px",
+                        "Linkwidth": "300px",
+                        "socialMediaLink": "1",
+                        "linkedinlink": "https://www.facebook.com/agro.link.96"
+                    },
+                    {
+                        "subheading": " Content Sign UP News Letters",
+                        "link1": "Sainbhu Bhainsepati, Ward no: 18, Lalitpur, Nepal",
+                        "link2": "GPO Box: 2345",
+                        "link3": "977-1-5425109 / 977-98510-97108 / 9841-342668",
+                        "title": "Address",
+                        "Linkwidth": "300px"
+                    },
+                    {
+                        "description": "Descriptionsdf",
+                        "link1": "Seeds~seeds",
+                        "link2": "Blog~blogs",
+                        "link3": "About Us~about-us",
+                        "title": "Quick Links",
+                        "Linkwidth": "300px"
+                    }
+                ],
+                "cta": [],
+                "color": "#fafafa",
+                "common_component": "1",
+                "textAlign": "left",
+                "bgColor": "#199541",
+                "listAlignItems": "normal"
+            },
+            "order": 114
+        },
+        {
+            "id": 3103,
+            "component": "list",
+            "component_id": 31,
+            "attributes": {
+                "contentList": [
+                    {
+                        "link1": "Copyright © 2018 Company Name – All Rights Reserved. Made by Mason Hive"
+                    }
+                ],
+                "cta": [],
+                "bgColor": "#f5953f",
+                "color": "#fff",
+                "textAlign": "center",
+                "common_component": "1",
+                "justifyContent": "center"
+            },
+            "order": 115
+        },
+        {
+            "id": 3361,
+            "component": "seo",
+            "component_id": 36,
+            "attributes": {
+                "description": "With the motto of healthy seed, healthy soil, and healthy life, Agrolink is focused to work on all the aspects to build a healthy life. A seed is a base for the development to bring us a healthy life. As we are in our initial phase we are highly dedicated to bringing healthy seeds to crop our land. We will be working on healthy soil and to a healthy life. We motivate you with our base of creating a developed nation from a seed.",
+                "title": "Agro Link Pvt. Ltd | HEALTHY SEED, HEALTHY SOIL, HEALTHY LIFE",
+                "common_component": "1",
+                "keywords": "healthy seed, Japanese seed, best seed to buy, best seed in nepal"
+            },
+            "order": 116
+        }
+    ]
+}

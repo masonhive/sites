@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+            "id": 2700,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjynB0uFrUfKaTMnM1h4UAXeCS1Bqf1KvA_C0NocNi8wXDPDazdKrFf1MGZOjgKMuZBTw&usqp=CAU",
+                        "title": "Apple",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+                        "cat": "View More",
+                        "btnColor": "#fff",
+                        "link": "/apple"
+                    },
+                    {
+                        "img": "https://i.ibb.co/5MwMwXY/1637905972480-510dd-QLZGb-L.png",
+                        "title": "Mango",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+                        "cat": "View More",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://i.ibb.co/XyKwjyq/1633433271016-savor-pineapple.png",
+                        "title": "PineApple",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+                        "cat": "View More",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://cdn.britannica.com/w:400,h:300,c:crop/22/75922-050-D3982BD0/flowers-fruits-garden-strawberry-plant-species.jpg",
+                        "title": "Strawberry",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+                        "cat": "View More",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://i.ibb.co/nQ7BnP4/1633433543675-297863489-H.png",
+                        "title": "Peach",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+                        "cat": "View More",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://im.indiatimes.in/content/2012/Jul/1499029_1437661155.jpg?w=1200&h=900&cc=1",
+                        "title": "Pomogranate",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+                        "cat": "View More",
+                        "btnColor": "#fff"
+                    }
+                ],
+                "title": "Fruits",
+                "cardMaxWidth": "250px",
+                "cardContentAlign": "left",
+                "contactInfo": [],
+                "itemSize": "4"
+            },
+            "order": 64
+        }
+    ]
+}

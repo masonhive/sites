@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "id": 2661,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "img": "https://i.ibb.co/wys4bh3/1633418366468-tomato.png",
+                        "title": "Tomato",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                        "cat": "View More",
+                        "link": "/tomato",
+                        "width": "350px",
+                        "borderRadius": "20px",
+                        "contentWidth": "350px",
+                        "btnColor": "#fff",
+                        "contentTextAlign": "left"
+                    },
+                    {
+                        "img": "https://c.ndtvimg.com/p5qg74v8_potato_625x300_01_August_18.jpg",
+                        "title": "Potato",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                        "cat": "View More",
+                        "link": "#",
+                        "width": "350px",
+                        "borderRadius": "20px",
+                        "btnColor": "#fff",
+                        "contentWidth": "350px",
+                        "contentTextAlign": "left"
+                    },
+                    {
+                        "img": "https://www.agrifarming.in/wp-content/uploads/2020/05/Comp1-2.jpg",
+                        "width": "350px",
+                        "borderRadius": "20px",
+                        "title": "Brinjal",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                        "contentWidth": "350px",
+                        "btnColor": "#fff",
+                        "cat": "View More",
+                        "link": "#",
+                        "contentTextAlign": "left"
+                    },
+                    {
+                        "img": "https://indiagardening.com/wp-content/uploads/2020/04/1Copenhagen-Market.jpg",
+                        "width": "350px",
+                        "borderRadius": "20px",
+                        "title": "Cabbage",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                        "cat": "View More",
+                        "link": "#",
+                        "contentWidth": "350px",
+                        "btnColor": "#fff",
+                        "contentTextAlign": "left"
+                    },
+                    {
+                        "img": "https://www.thespruce.com/thmb/AGqD-ZcXtOTxvlagSuFtRQ8SJ4w=/4696x3130/filters:fill(auto,1)/how-to-grow-cauliflower-1403494-hero-76cf5f524a564adabb1ac6adfa311482.jpg",
+                        "width": "350px",
+                        "borderRadius": "20px",
+                        "title": "cauliflower",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                        "cat": "View More",
+                        "link": "#",
+                        "btnColor": "#fff",
+                        "contentWidth": "350px",
+                        "contentTextAlign": "left"
+                    },
+                    {
+                        "img": "https://images.medicinenet.com/images/article/main_image/what-are-the-benefits-of-eating-radishes.jpg",
+                        "width": "350px",
+                        "borderRadius": "20px",
+                        "title": "Radish",
+                        "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                        "cat": "View More",
+                        "link": "#",
+                        "contentWidth": "350px",
+                        "btnColor": "#fff",
+                        "contentTextAlign": "left"
+                    }
+                ],
+                "title": "Organic & Healthy Plants",
+                "cardMaxWidth": "250px",
+                "cardContentAlign": "left",
+                "contactInfo": [],
+                "flatCard": "1",
+                "itemSize": "4"
+            },
+            "order": 32
+        }
+    ]
+}

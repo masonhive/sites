@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "id": 2830,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2013/07/en_hakutou-wpcf_620x465.jpg",
+                        "title": "White flower sugar pea white sugar",
+                        "caption": "A very early variety of white-flowered sugar pea-based type, conventional varieties ..",
+                        "cat": "read more",
+                        "link": "/sugar_pea",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2013/07/en_misasa-wpcf_620x465.jpg",
+                        "title": "Misasa",
+                        "caption": "An ultra-early cultivar that begins harvesting about 50 days after sowing",
+                        "cat": "read more",
+                        "link": "/misasa",
+                        "btnColor": "#fff"
+                    },
+                    {
+                        "img": "https://www.nakagami.co.jp/lineup/files/2012/07/en_nimura-wpcf_620x465.jpg",
+                        "title": "Nimura Salad Snap",
+                        "caption": "Dark green peas that eat with pods Very early pea with low pod position ...",
+                        "cat": "read more",
+                        "link": "/nimura",
+                        "btnColor": "#fff"
+                    }
+                ],
+                "title": "Peas",
+                "cardMaxWidth": "250px",
+                "cardContentAlign": "left",
+                "contactInfo": []
+            },
+            "order": 79
+        }
+    ]
+}

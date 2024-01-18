@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "name": "HOME",
+            "id": 284,
+            "parent_menu_id": null,
+            "link": "/index",
+            "child": []
+        },
+        {
+            "name": "ABOUT US",
+            "id": 285,
+            "parent_menu_id": null,
+            "link": "/about-us",
+            "child": []
+        },
+        {
+            "name": "SEEDS",
+            "id": 302,
+            "parent_menu_id": null,
+            "link": "/seeds",
+            "child": []
+        },
+        {
+            "name": "BLOG",
+            "id": 371,
+            "parent_menu_id": null,
+            "link": "/blogs",
+            "child": []
+        },
+        {
+            "name": "GALLERY",
+            "id": 372,
+            "parent_menu_id": null,
+            "link": "/gallery",
+            "child": []
+        },
+        {
+            "name": "CONTACT US ",
+            "id": 495,
+            "parent_menu_id": null,
+            "link": "/contact",
+            "child": []
+        }
+    ]
+}
