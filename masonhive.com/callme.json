@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "id": 6657,
+            "component": "Callback",
+            "component_id": 70,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover vh-height mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{ \"min-height\": \"80vh\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-4  mbr-pt-3",
+                            "fontSize": "12px"
+                        },
+                        "content": "Build your website in minutes, not months.",
+                        "inlineCss": "{ \"color\": \"#000\"}"
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-andada font-size-7"
+                        }
+                    },
+                    "button": {
+                        "content": "Get Started",
+                        "link": "/about",
+                        "css": {
+                            "color": "btn clr-pl-7 mbr-pt-3"
+                        },
+                        "inlineCss": "{\"background\":\"#20561a\", \"border-radius\": \"20px 0px 20px 0px\"}"
+                    },
+                    "caption": {
+                        "content": "Create Beautiful and blazing fast funnels & websites with our Drag and Drop page builder, without ever touching a line of code.",
+                        "css": {
+                            "color": "font-family-raleway font-size-7 mbr-py-5"
+                        },
+                        "inlineCss": "{ \"color\": \"#4A4A4A\"}",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://content.app-sources.com/s/00551309621827894/uploads/Images/Untitled_43_1-3645638.png"
+                    },
+                    "callback": {
+                        "successLink": "/dashboard",
+                        "failureLink": "/"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "container mbr-flex mbr-jc-c  flex-wrap grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6 align-left"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    }
+                }
+            },
+            "order": 10
+        }
+    ]
+}

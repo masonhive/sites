@@ -1,0 +1,299 @@
+{
+    "data": [
+        {
+            "id": 6968,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "container mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "",
+                    "id": "experiences"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "Work Experiences",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://i.ibb.co/XSg52Fy/Dr-binay.png"
+                    },
+                    "caption": {
+                        "content": "Working as Interventional Cardiologist at Shahid Gangalal National Heart Center, Kathmandu, Nepal \n\nResponsible for running Non- invasive services including Emergency Department, Out-patient clinic, Echocardiograms, Holter monitoring, and Treadmill tests \n\nMajor exposure in Interventional Cardiology\n \nCan perform diagnostic and therapeutic cardiac catheterization procedures like PCIs including Primary PCI, BMV, BPV, BAV, ASD device closure, and others\n\nActively involved in the training of Post-Graduate students of Medicine and DM Cardiology \nstudents from NAMS as Associate Professor \n\nActively involved in the training of FCPS Cardiology students enrolled by the College of Physicians and Surgeons Pakistan (CPSP) as Supervisor \n"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 "
+                        },
+                        "inlineCss": "{\"textAlign\": \"justify\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4"
+                        }
+                    }
+                }
+            },
+            "order": 15
+        },
+        {
+            "id": 6969,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c clr-pt-7",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://template66519.motopreview.com/mt-demo/66500/66519/mt-content/uploads/2018/02/mt-1293-home-bg.jpg)\", \"color\":\"#fff\", \"minHeight\":\"80vh\",\"backgroundPosition\": \"top\"}",
+                    "id": "home"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-oxygen  font-size-5 mbr-pt-1",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "\"Being a public speaker is a challenging and mojor reponsiblity to convery the right message and have a lively conversation with the audience.\"",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-montserrat  font-size-7 mbr-pt-1 align-center"
+                        }
+                    },
+                    "button": {
+                        "content": "View More",
+                        "link": "/index#contact-us",
+                        "css": {
+                            "color": "btn bg-clr-pl-1 fontSize4 clr-pl-7 align-center mbr-mt-10 font-family-montserrat "
+                        },
+                        "inlineCss": "{\"background\":\"#d6932e\", \"marginTop\":\"20px\"}"
+                    },
+                    "image": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "mbr-p-2"
+                        }
+                    },
+                    "caption": {
+                        "content": "Speaking  to the people about \nPossibilities & Opportunities",
+                        "css": {
+                            "color": "font-family-montserrat  font-size-3 mbr-pt-1 align-center"
+                        },
+                        "parseHtml": "1"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-7 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-5"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container "
+                        }
+                    }
+                }
+            },
+            "order": 16
+        },
+        {
+            "id": 6970,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c clr-pt-7",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://template66519.motopreview.com/mt-demo/66500/66519/mt-content/uploads/2018/02/mt-1293-home-bg.jpg)\", \"color\":\"#fff\", \"minHeight\":\"80vh\",\"backgroundPosition\": \"top\"}",
+                    "id": "home"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-oxygen  font-size-5 mbr-pt-1",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "\"Being a public speaker is a challenging and mojor reponsiblity to convery the right message and have a lively conversation with the audience.\"",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-montserrat  font-size-7 mbr-pt-1 align-center"
+                        }
+                    },
+                    "button": {
+                        "content": "View More",
+                        "link": "/index#contact-us",
+                        "css": {
+                            "color": "btn bg-clr-pl-1 fontSize4 clr-pl-7 align-center mbr-mt-10 font-family-montserrat "
+                        },
+                        "inlineCss": "{\"background\":\"#d6932e\", \"marginTop\":\"20px\"}"
+                    },
+                    "image": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "mbr-p-2"
+                        }
+                    },
+                    "caption": {
+                        "content": "Speaking  to the people about \nPossibilities & Opportunities",
+                        "css": {
+                            "color": "font-family-montserrat  font-size-3 mbr-pt-1 align-center"
+                        },
+                        "parseHtml": "1"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-7 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-5"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container "
+                        }
+                    }
+                }
+            },
+            "order": 16
+        },
+        {
+            "id": 6971,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c clr-pt-7",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://template66519.motopreview.com/mt-demo/66500/66519/mt-content/uploads/2018/02/mt-1293-home-bg.jpg)\", \"color\":\"#fff\", \"minHeight\":\"80vh\",\"backgroundPosition\": \"top\"}",
+                    "id": "home"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-oxygen  font-size-5 mbr-pt-1",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "\"Being a public speaker is a challenging and mojor reponsiblity to convery the right message and have a lively conversation with the audience.\"",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-montserrat  font-size-7 mbr-pt-1 align-center"
+                        }
+                    },
+                    "button": {
+                        "content": "View More",
+                        "link": "/index#contact-us",
+                        "css": {
+                            "color": "btn bg-clr-pl-1 fontSize4 clr-pl-7 align-center mbr-mt-10 font-family-montserrat "
+                        },
+                        "inlineCss": "{\"background\":\"#d6932e\", \"marginTop\":\"20px\"}"
+                    },
+                    "image": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "mbr-p-2"
+                        }
+                    },
+                    "caption": {
+                        "content": "Speaking  to the people about \nPossibilities & Opportunities",
+                        "css": {
+                            "color": "font-family-montserrat  font-size-3 mbr-pt-1 align-center"
+                        },
+                        "parseHtml": "1"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-7 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-5"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container "
+                        }
+                    }
+                }
+            },
+            "order": 17
+        }
+    ]
+}

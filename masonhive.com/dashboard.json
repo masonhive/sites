@@ -1,0 +1,142 @@
+{
+    "data": [
+        {
+            "id": 6666,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "container mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-7",
+                            "fontSize": "12px"
+                        },
+                        "content": "Welcome Back !!!",
+                        "inlineCss": "{\"color\":\"#20561a\"}"
+                    },
+                    "description": {
+                        "content": "From easy access to multiple clouds to comprehensive end-to-end services, Ether provides a host of advantages for enterprises and SMBs.\n",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-poppins font-size-7"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Customize your website.",
+                        "css": {
+                            "color": "font-family-poppins font-size-6"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    }
+                }
+            },
+            "order": 13
+        },
+        {
+            "id": 6667,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover vh-height mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{ \"min-height\": \"80vh\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-4  mbr-pt-3",
+                            "fontSize": "12px"
+                        },
+                        "content": "Now you can customize your website and publish in now time. ",
+                        "inlineCss": "{ \"color\": \"#000\"}"
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-andada font-size-7"
+                        }
+                    },
+                    "button": {
+                        "content": "Start Customizing",
+                        "link": "/about",
+                        "css": {
+                            "color": "btn clr-pl-7 mbr-pt-3"
+                        },
+                        "inlineCss": "{\"background\":\"#20561a\", \"border-radius\": \"20px 0px 20px 0px\"}"
+                    },
+                    "caption": {
+                        "content": "You can now update your website via <a> admin.username.masonhive.com</a> . Use the same login credentials you have used registered to this site.\n\nHappy!! Customizing..",
+                        "css": {
+                            "color": "font-family-raleway font-size-7 mbr-py-5"
+                        },
+                        "inlineCss": "{ \"color\": \"#4A4A4A\"}",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://content.app-sources.com/s/00551309621827894/uploads/Images/Untitled_43_1-3645638.png"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "container mbr-flex mbr-jc-c  flex-wrap grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6 align-left"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    }
+                }
+            },
+            "order": 14
+        }
+    ]
+}

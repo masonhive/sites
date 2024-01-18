@@ -1,0 +1,290 @@
+{
+    "data": [
+        {
+            "id": 6622,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover vh-height mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{ \"min-height\": \"90vh\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-4  mbr-pt-3",
+                            "fontSize": "12px"
+                        },
+                        "content": "Start your online journey today, create website in minutes, not months.",
+                        "inlineCss": "{ \"color\": \"#000\"}"
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-andada font-size-7"
+                        }
+                    },
+                    "button": {
+                        "content": "Begin your journey, take the first step.",
+                        "link": "https://sso.masonhive.com/register?api_key=masonhive_api_key&redirect_uri=https://masonhive.com/callme",
+                        "css": {
+                            "color": "btn clr-pl-7 mbr-pt-3"
+                        },
+                        "inlineCss": "{\"background\":\"#20561a\", \"border-radius\": \"20px 0px 20px 0px\"}"
+                    },
+                    "caption": {
+                        "content": "Create a stunning website in just minutes, with our easy drag-and-drop platform. Say goodbye to long, complicated building processes and hello to a beautiful, functional site in no time.\n\n",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{ \"color\": \"#4A4A4A\"}",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://content.app-sources.com/s/00551309621827894/uploads/Images/Untitled_43_1-3645638.png"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "container mbr-flex mbr-jc-c  flex-wrap grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6 align-left"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    }
+                }
+            },
+            "order": 4
+        },
+        {
+            "id": 6623,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"background\": \"#efeaf9\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-5 mbr-pt-3",
+                            "fontSize": "12px"
+                        },
+                        "content": "The Smoothest Building Experience EVER!",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Design any layout imaginable! Simply select, drag-and-drop, and watch your beautiful site come to life.\n",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-raleway font-size-7 mbr-py-3"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container mbr-py-3"
+                        },
+                        "inlineCss": ""
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"color\": \"#20561a\",\"borderRadius\": \"20px\",\"padding\":\"15px\",\"box-shadow\":\"1px 1px 5px 0px\",\"margin-bottom\":\"30px\"}"
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-poppins font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 mbr-flex grid-row "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left clr-pl-1"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container grid-column"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemImageWrap": {
+                        "inlineCss": "{\"width\": \"80px\", \"position\": \"relative\", \"left\": \"calc(50% - 40px)\"}"
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Drag & Drop",
+                        "caption": "Smoothest drag & drop page builder on the planet. Organize your content in blocks - rows and columns.",
+                        "parseHtml": "1",
+                        "aos": "zoom-in",
+                        "image": "https://content.app-sources.com/s/00551309621827894/thumbnails/640x480/Images/Orion_move-object-4588940.svg"
+                    },
+                    {
+                        "heading": "200+ Page Templates",
+                        "caption": "Create a new page with a few clicks and pick one of the hundreds of stunning page designs.\n\n",
+                        "parseHtml": "1",
+                        "image": "https://content.app-sources.com/s/00551309621827894/thumbnails/640x480/Images/Orion_multiple-windows-4599262.svg"
+                    },
+                    {
+                        "heading": "200+ Block Templates",
+                        "caption": "Perfectly crafted templates for whole sections that help you build a page in less than a minute.\n\n\n",
+                        "aos": "zoom-in",
+                        "image": "https://content.app-sources.com/s/00551309621827894/thumbnails/640x480/Images/Orion_checked-server-4808770.svg"
+                    }
+                ]
+            },
+            "order": 5
+        },
+        {
+            "id": 6624,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover vh-height mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{ \"min-height\": \"80vh\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-4  mbr-pt-3",
+                            "fontSize": "12px"
+                        },
+                        "content": "Powerful Yet Easy Drag And Drop",
+                        "inlineCss": "{ \"color\": \"#000\"}"
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-andada font-size-7"
+                        }
+                    },
+                    "button": {
+                        "content": "Get Started",
+                        "link": "/about",
+                        "css": {
+                            "color": "btn clr-pl-7 mbr-pt-3"
+                        },
+                        "inlineCss": "{\"background\":\"#20561a\", \"border-radius\": \"20px 0px 20px 0px\"}"
+                    },
+                    "caption": {
+                        "content": "Create Beautiful and blazing fast funnels & websites with our Drag and Drop page builder, without ever touching a line of code.",
+                        "css": {
+                            "color": "font-family-raleway font-size-7 mbr-py-5"
+                        },
+                        "inlineCss": "{ \"color\": \"#4A4A4A\"}",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "video": {
+                        "link": "https://content.web-repository.com/s/24444282803329/uploads/a-wlsite/1a-6401489.mp4",
+                        "banner": "1"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "container mbr-flex mbr-jc-c  flex-wrap grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6 align-left"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    }
+                }
+            },
+            "order": 6
+        }
+    ]
+}

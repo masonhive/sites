@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "name": "Products",
+            "id": 562,
+            "parent_menu_id": null,
+            "link": "/products",
+            "child": []
+        },
+        {
+            "name": "Templates",
+            "id": 563,
+            "parent_menu_id": null,
+            "link": "/templates",
+            "child": []
+        },
+        {
+            "name": "Pricing",
+            "id": 564,
+            "parent_menu_id": null,
+            "link": "/pricings",
+            "child": []
+        },
+        {
+            "name": " Resources ",
+            "id": 565,
+            "parent_menu_id": null,
+            "link": "/resources",
+            "child": []
+        },
+        {
+            "name": "Contact Us",
+            "id": 566,
+            "parent_menu_id": null,
+            "link": "/contact",
+            "child": []
+        }
+    ]
+}

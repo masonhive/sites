@@ -1,0 +1,352 @@
+{
+    "data": [
+        {
+            "id": 6625,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "container mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-7",
+                            "fontSize": "12px"
+                        },
+                        "content": "Beneficial Advantages & Compliances",
+                        "inlineCss": "{\"color\":\"#20561a\"}"
+                    },
+                    "description": {
+                        "content": "All templates are fully customizable and can fit any idea you have. Filter to find the best one for your next project!\n\n",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-poppins font-size-7"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Choose from our free high-converting templates",
+                        "css": {
+                            "color": "font-family-poppins font-size-6"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    }
+                }
+            },
+            "order": 4
+        },
+        {
+            "id": 6626,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"background\": #efeaf9\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "School Templates test",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Here are Some of the Research Projects"
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "rowCounts": "3",
+                        "activateSlider": "1"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\",\"padding\":\"0px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 mbr-flex grid-row mbr-col-sm-6"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container grid-column"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "{\"padding\":\"10px\"}"
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Business / Proposal",
+                        "parseHtml": "1",
+                        "image": "https://content.app-sources.com/s/24444282803329/uploads/admin-files/2-1306155.png",
+                        "link": "/preview?website=https://gaousik.com.np"
+                    },
+                    {
+                        "image": "https://content.app-sources.com/s/24444282803329/uploads/admin-files/1-4876563.jpg",
+                        "heading": "Business / Proposal",
+                        "link": "/preview?website=https://hopefd.com.np",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://content.app-sources.com/s/24444282803329/uploads/admin-files/21-4039588.jpg",
+                        "heading": "Business / Proposal",
+                        "link": "/preview?website=https://ijli.com.np",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://content.app-sources.com/s/24444282803329/uploads/admin-files/1-4876563.jpg",
+                        "heading": "Business / Proposal",
+                        "link": "/preview?website=https://drbajarang.com/",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://content.app-sources.com/s/24444282803329/uploads/admin-files/1-4876563.jpg",
+                        "heading": "Business / Proposal",
+                        "link": "/preview?website=https://oktarkari.com.np",
+                        "parseHtml": "1"
+                    }
+                ]
+            },
+            "order": 6
+        },
+        {
+            "id": 6650,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "itemInfo": {
+                        "rowCounts": "4"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-7 align-left"
+                        },
+                        "inlineCss": "{\"fontWeight\":\"bold\"}"
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"30px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "mbr-col-md-3 mbr-flex grid-row mbr-col-sm-6"
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "grid-column "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "inlineCss": "{\"textAlign\":\"justify\"}"
+                    }
+                },
+                "itemList": [
+                    {
+                        "caption": "Super Speciality Services in Chitwan, Bharatpur. Patients can save travel and logistics cost in addition to saving their precious time. To Serve needy patients with an innovative medical solution with help of an expert clinician at an affordable cost.",
+                        "parseHtml": "1",
+                        "image": "https://drive.google.com/uc?id=1KDaPwT-q_XCMELLTdGDYHCQJghQl6ErO"
+                    },
+                    {
+                        "heading": "Quick Links",
+                        "caption": "<a href=\"\">Home</a>  \n\n <a href=\"\">Know Your Doctor</a>\n\n <a href=\"\">Patient Education</a> ",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "Treatments",
+                        "caption": "Pancreatic Cancer\n\nColon Rectal Cancer\n\nLiver Cancer"
+                    },
+                    {
+                        "heading": "Mailing Address",
+                        "caption": "Chitwan, Narayanghat, Nepal\n\nLandline: +977 - 056 - 494567\n\nMobile: +977 - 9824428898\n\ntejaswihealthclinic@gmail.com"
+                    }
+                ],
+                "common_component": "1"
+            },
+            "order": 10
+        },
+        {
+            "id": 6974,
+            "component": "seo",
+            "component_id": 36,
+            "attributes": {
+                "txt": "SEO Text"
+            },
+            "order": 19
+        }
+    ]
+}
