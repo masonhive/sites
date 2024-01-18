@@ -1,0 +1,296 @@
+{
+    "data": [
+        {
+            "id": 4757,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 clr-pl-16 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "VRV INDOOR UNIT",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    }
+                }
+            },
+            "order": 163
+        },
+        {
+            "id": 4758,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-cmbr-p-5 clr-pl-27 container",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-raleway font-size-5",
+                            "fontSize": "12px"
+                        },
+                        "content": "MID STATIC PRESSURE CEILING MOUNTED DUCT TYPE",
+                        "inlineCss": "{\"transform\": \"skewX(-190deg) translateX(-70px)\", \"background\": \"#009acf\", \"padding\":\"10px 40px\", \"color\": \"#fff\", \"margin\": \"20px 20px\"}"
+                    },
+                    "description": {
+                        "content": "FXMRQ40A / FXMRQ50A / FXMRQ63A FXMRQ80A / FXMRQ100A\n\nMid static pressure allows for flexible duct design all models are only 300 mm in height, an improvement over the 390 mm height of conventional models. The weight of the FXMRQ40A has been reduced from 44 kg to 28 kg. The drain pan can be detached for easy cleaning. An antibacterial treatment that uses silver ions has been applied to the drain pan, preventing the growth of slime, mould and bacteria that cause blockages and odours. Drain pump is equipped as standard accessory with 700 mm lift.",
+                        "inlineCss": "{\"paddingBottom\":\"90px\"}",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-25"
+                        }
+                    },
+                    "image": {
+                        "content": "https://www.vrvhome.com/sites/all/themes/vrvh/images/mid-static-pressure-ceiling.jpg",
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "font-family-nunito  font-size-7"
+                        },
+                        "inlineCss": ""
+                    },
+                    "table": {
+                        "tableStyle": {
+                            "tableColor": "#009acf",
+                            "tableHeadColor": "#e7e7e8",
+                            "color": "#000"
+                        },
+                        "table1": {
+                            "headings": "",
+                            "tableContent": "",
+                            "tableHead": ""
+                        },
+                        "enableRenderTable": "",
+                        "table2": {
+                            "headings": "",
+                            "tableHead": "",
+                            "tableContent": ""
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c"
+                        },
+                        "inlineCss": ""
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 align-left"
+                        },
+                        "inlineCss": ""
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4"
+                        },
+                        "inlineCss": "{\"zIndex\": \"99\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    }
+                }
+            },
+            "order": 165
+        },
+        {
+            "id": 4759,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "container mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "Mid Static Pressure Ceiling",
+                        "inlineCss": "{\"padding\":\"0px\"}"
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Mounted Duct Type",
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        },
+                        "inlineCss": "{\"padding\":\"0px\"}"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    }
+                }
+            },
+            "order": 166
+        },
+        {
+            "id": 4760,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "container mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"paddingTop\":\"0px\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-1 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "● Cooling: Indoor temp.: 27°CDB, 19°CWB, Outdoor temp.: 35°CDB, Equivalent piping length: 7.5 m, Level difference: 0 m. \n● Heating: Indoor temp.: 20°CDB, Outdoor temp.: 7°CDB, 6°CDB Equivalent piping length: 7.5 m, Level difference: 0 m. \n● Capacity of indoor unit is only for reference. Actual capacity of indoor unit is based on the total capacity index. \n● Sound level: Anechoic chamber conversion value, measured at a point 1.5 m downward from the unit centre.",
+                        "inlineCss": "{\"paddingTop\":\"0px\"}",
+                        "css": {
+                            "color": "font-family-andada font-size-7 mbr-m-1 "
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://drive.google.com/uc?id=1fVaOcpzXpT7UgdDdCM_uBpmlOwlPXtJK"
+                    },
+                    "caption": {
+                        "content": "Specifications are based on the following conditions:",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-left"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 167
+        }
+    ]
+}

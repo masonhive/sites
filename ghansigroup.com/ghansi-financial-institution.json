@@ -1,0 +1,199 @@
+{
+    "data": [
+        {
+            "id": 4529,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover mbr-flex mbr-align-item-c vh-height clr-pl-7",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{ \"backgroundImage\": \"linear-gradient(to bottom right,  rgb(4 1 20), rgb(202 174 174 / 0%)), url(https://drive.google.com/uc?id=124XgIw9MCYEdhJMIe9gFArRGcxbQKf-z)\" , \"margin\": \"-125px 0px -100px\", \"backgroundPosition\": \"center center\", \"min-height\": \"40vh\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 align-left ",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-raleway  font-size-6 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn bnt-lg bd-clr-pl-1 bd-stl-solid fontSize3 bg-clr-pl-22 clr-pl-7"
+                        }
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "font-family-raleway  font-size-4 mbr-m-0 align-center"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "container mbr-flex mbr-jc-c  flex-wrap mbr-align-item-c "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 align-center"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    }
+                },
+                "cat": []
+            },
+            "order": 97
+        },
+        {
+            "id": 4531,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "container mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-oxygen  font-size-5 mbr-pt-1",
+                            "fontSize": "12px"
+                        },
+                        "content": "Financial Institution/ Finance/ Financial Vertical/ Financial Services:",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "\n\n"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-left"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "bg-clr-pl-7 mbr-p-4"
+                        }
+                    }
+                }
+            },
+            "order": 98
+        },
+        {
+            "id": 4530,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c container  bg-clr-pl-7 mbr-pt-3",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "Ghansi Saving & Cooperative",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Ghansi saving & cooperative has already surpassed several milestones to reach horizon of financial sectors by building trust & value among customers. It achieves a unique footprint in growing competitive landscape and foster towards social, economic, & cultural development of the nation. we facilitate our optimum services by meeting customer standards, ensuring compliance & performance, flexibility, and higher interest rate for the sustainable development.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://drive.google.com/uc?id=1_Fy2jrS8mR27rtJBfzLaNMbPbrDTnYXV"
+                    },
+                    "caption": {
+                        "content": "\"Integrity leads to prosperity\"",
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 align-left"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4"
+                        }
+                    }
+                }
+            },
+            "order": 99
+        }
+    ]
+}

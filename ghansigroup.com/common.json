@@ -1,0 +1,187 @@
+{
+    "data": [
+        {
+            "id": 3974,
+            "component": "header",
+            "component_id": 4,
+            "attributes": {
+                "button": [
+                    {
+                        "link": "#",
+                        "cat": "Make Appointment"
+                    }
+                ],
+                "bgColor": "#a6792c",
+                "cat": [],
+                "common_component": "1",
+                "logo": "https://drive.google.com/uc?id=1EBv8MwLmVWHVeWqcDQQGaE8f4MBztMFd",
+                "logoWidth": "130px",
+                "color": "#fff"
+            },
+            "order": 2
+        },
+        {
+            "id": 4387,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row bg-clr-pl-22 clr-pl-7",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundColor\":\"#1940FF\",\"padding\":\"15px 0px 0px 0px\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-oxygen  font-size-5 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
+                        },
+                        "inlineCss": ""
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        },
+                        "inlineCss": ""
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-7 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"25px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 mbr-flex grid-row"
+                        },
+                        "inlineCss": "{ \"justifyContent\": \"space-evenly\", \"display\": \"flex\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemContainerWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "container grid-column"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "inlineCss": "{\"padding\":\"0px\"}"
+                    }
+                },
+                "itemList": [
+                    {
+                        "icon": "FaEnvelope",
+                        "heading": "Email",
+                        "caption": "info@ghansigroup.com"
+                    },
+                    {
+                        "heading": "Phone",
+                        "caption": "+977 01-5902492 / +977 01-5902492\nFor corporate Enquiry : +977 9851334572",
+                        "icon": "FaPhoneVolume"
+                    },
+                    {
+                        "heading": "Location",
+                        "caption": "BK Bhawan, 3rd Floor, Kupandole, Lalitpur, Nepal",
+                        "icon": "FaMapMarkerAlt",
+                        "link": "https://www.google.com/maps/place/27.6869544+85.3098073/@27.6869544,85.3098073,15z"
+                    }
+                ],
+                "common_component": "1"
+            },
+            "order": 207
+        },
+        {
+            "id": 3977,
+            "component": "list",
+            "component_id": 31,
+            "attributes": {
+                "contentList": [
+                    {
+                        "link1": "© All Rights Reserved. Ghansi Group"
+                    },
+                    {
+                        "socialMediaLink": "1",
+                        "fblink": "https://www.facebook.com/DaikinVRVHOME/",
+                        "linkedinlink": "-",
+                        "instagramlink": "-"
+                    }
+                ],
+                "cta": [],
+                "color": "#fff",
+                "bgColor": "#1940FF",
+                "titleColor": "#fff",
+                "justifyContent": "center",
+                "common_component": "1"
+            },
+            "order": 208
+        },
+        {
+            "id": 4117,
+            "component": "seo",
+            "component_id": 36,
+            "attributes": {
+                "txt": "SEO Text",
+                "title": "GHANSI GROUP | Hospitality, Manufacturing, Financial institution to Tourism business",
+                "description": "Ghansi Group began its journey as a trading Company importing textile and electronics product from Hongkong",
+                "keywords": "Ghansi Group ",
+                "common_component": "1"
+            },
+            "order": 209
+        }
+    ]
+}

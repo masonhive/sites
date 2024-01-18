@@ -1,0 +1,454 @@
+{
+    "data": [
+        {
+            "id": 4535,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover mbr-flex mbr-align-item-c vh-height clr-pl-7",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{ \"backgroundImage\": \"linear-gradient(to bottom right,  rgb(4 1 20), rgb(202 174 174 / 0%)), url(https://www.daikinindia.com/sites/default/files/Split-Section-Banners_20.jpg)\" , \"margin\": \"-125px 0px -100px\", \"backgroundPosition\": \"center center\", \"min-height\": \"80vh\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 align-left ",
+                            "fontSize": "12px"
+                        },
+                        "content": "DAIKIN SINGLE SPLIT",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "GTHT Series | Stabilizer Inside | Dual Comfort \nFTHT Series | Stabilizer Inside | Dual Comfort ",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-raleway  font-size-6 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn bnt-lg bd-clr-pl-1 bd-stl-solid fontSize3 bg-clr-pl-22 clr-pl-7"
+                        }
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "font-family-raleway  font-size-4 mbr-m-0 align-center"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "container mbr-flex mbr-jc-c  flex-wrap mbr-align-item-c "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 align-center"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    }
+                },
+                "cat": []
+            },
+            "order": 103
+        },
+        {
+            "id": 4551,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c container  bg-clr-pl-7 mbr-pt-3",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "GTHT Series",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "\nTechnology: Inverter\nRefrigerant: R-32",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "View Catalogue",
+                        "link": "https://drive.google.com/uc?id=1XT3CFDNiZ0z9TMIhuTtwOqwWOhBnoKUi",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://www.daikinindia.com/sites/default/files/salient-features/ftht35-img.png"
+                    },
+                    "caption": {
+                        "content": "An all-weather air conditioner series that gives the promise of ultimate air conditioning in any given situation! The GTHT is exceptionally powerful for both heating as well as cooling needs. Being a smart inverter AC, it lets you get more, save more.\n",
+                        "css": {
+                            "color": "font-size-7 mbr-pt-1"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 align-left"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4"
+                        }
+                    }
+                }
+            },
+            "order": 104
+        },
+        {
+            "id": 4655,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "img": "https://drive.google.com/uc?id=1eSpysBDfsHOlyv6pPz2oGX9sjCczmCEu",
+                        "video": "https://www.youtube.com/embed/n1gAHnEN5Zg",
+                        "width": "250px"
+                    }
+                ],
+                "itemSize": "2",
+                "contactInfo": [],
+                "flatCard": "1"
+            },
+            "order": 119
+        },
+        {
+            "id": 4654,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-l container  mbr-pt-3    ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "FTHT Series",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Star Rating: 3 Star\nTechnology: Inverter\nRefrigeration: R-32\nSeries: 3Star Hot & Cold Series",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "View More",
+                        "link": "/ftht",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://www.daikinindia.com/sites/default/files/salient-features/ftht35-img.png"
+                    },
+                    "caption": {
+                        "content": "Looking for an energy efficient air conditioner that works all year long? Well, look no further. Daikin FTHT series gives you the best in class heating as well cooling experience while you enjoy big savings. so you can enjoy seamless air conditioning throughout the year. ",
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-l grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 align-left"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4"
+                        }
+                    },
+                    "mainWrap": {
+                        "inlineCss": ""
+                    }
+                }
+            },
+            "order": 120
+        },
+        {
+            "id": 4548,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-oxygen  font-size-5 mbr-pt-1",
+                            "fontSize": "12px"
+                        },
+                        "content": "Salient Features",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "itemInfo": {
+                        "rowCounts": "2",
+                        "activateSlider": "1"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-size-6 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6 mbr-flex grid-row mbr-pt-5"
+                        },
+                        "inlineCss": "{\"justifyContent\":\"space-around\"}"
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "font-family-nunito  font-size-7 align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container grid-column"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Indoor Unit quiet operation ",
+                        "caption": "ROLE :\nThis feature ensures low noise level resulting in sound sleep. It optimises the speed of the airflow according to low noise level to give you uninterrupted comfort.\n \nFUNCTIONALITY :\nThe airflow rate is balanced with sound level to produce minimal noise while under this operation When the airflow is set to the quiet operation starts and noise from the indoor unit "
+                    },
+                    {
+                        "heading": "STAB FREE OPERATION ",
+                        "caption": "ROLE :\nIt ensures the air conditioner operates seamlessly even during voltage fluctuations.\n \nFUNCTIONALITY :\n Optimizes energy consumption - AC Operation Guarantee (160V-264V) and protect the electrical components of theAC during power fluctuations."
+                    },
+                    {
+                        "heading": "COANDA AIR FLOW OPERATION ",
+                        "caption": "ROLE :\nCoanda airflow operation gives you the best air conditioning experience. The powerful air draft doe not fall on your head directly, but it is steered upward letting air circulate into the corners of the room creating a comfortable ambience. \n\nFUNCTIONALITY: \nThe horizontal flap is controlled not to blow air directly at people in the room. The airflow rate can be set to any level. However, a low airflow rate may cause cold air to go down and blow on people. If SWING button is pressed during COANDA operation, Coanda operation will be cancelled. When COANDA operation is started during POWER blowing directly onto people."
+                    },
+                    {
+                        "heading": "ECONO OPERATION ",
+                        "caption": "ROLE :\nThis function enables efficient operation by limiting the maximum power consumption. It is useful when using the air-conditioner and other electrical devices simultaneously on a shared electrical circuit.\n\nFUNCTIONALITY: \n When this function is activated, the maximum capacity also decreases. Remote controller can send the ECONO command when the unit is in COOLING or DRY operation. This function can only be set when the unit is running. Switching off the AC using the remote cancels it. ECONO and POWER CHILL operations cannot be used together. The latest command takes priority. "
+                    },
+                    {
+                        "heading": "SELF DIAGNOSIS ",
+                        "caption": "ROLE :\nThe machine auto detects the error and shows the related code on the remote screen. Now you can easily self diagnose the error and report it to your Daikin authorised service centre for a quick resolution.\n\nFUNCTIONALITY: \nWhen the fault is recognised by the indoor unit it sends the corresponding error code to the remote control, which is displayed on the remote control. \n\n1. Press and hold CANCEL button on the remote for 5 seconds, \"00\" blinks in the temperature display section.\n2. Press CANCEL button repeatedly until a long beep is produced. The code indication changes as shown below, & notifies with a long beep."
+                    }
+                ]
+            },
+            "order": 133
+        },
+        {
+            "id": 4549,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-1 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://drive.google.com/uc?id=1NX4k780YWnEpVthjYSOJduu9Vhcv98Ob"
+                    },
+                    "caption": {
+                        "content": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 143
+        },
+        {
+            "id": 4740,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "title": "Testimonials",
+                "itemList": [
+                    {
+                        "width": "200px",
+                        "imageWrap": "1",
+                        "display": "flex",
+                        "borderRadius": "50%",
+                        "title": "- Dr.(P. ENG) Bharat Raj Pahari ",
+                        "subHeading": "Professor",
+                        "caption": "Very Satisfied with Product Performance of  Daikin Split Air Conditioner, works great. Installation was very much on time and clean.. Highly Recommend. \n\nChairman   \nSwiss International Hotel Sarowar, Pokhara",
+                        "contentWidth": "850px",
+                        "img": "https://drive.google.com/uc?id=1WzzMnppU6TD0IDv6mBgcojRAeLqS6a0T"
+                    },
+                    {
+                        "title": "Mr. Jyoti Nakarmi",
+                        "caption": "\"I always feel grateful for choosing Daikin AC for my restaurant  located at  Kupandole  I've never experienced any issues and complains about this product. Daikin is always my first choice and I'm satisfied enough with the qualities and services\"\n\nManaging Director\nJulies Cakes & Pastries",
+                        "borderRadius": "50%",
+                        "width": "200px",
+                        "img": "https://drive.google.com/uc?id=1bmeSzYUnasfNYkyA4faNlvhjS-wV6q32"
+                    },
+                    {
+                        "title": "Mr. Deepeksha Rana",
+                        "caption": "Installed a very trust worthen world's best AC brand \"Daikin\" at my home, found it very pleasing and promising with the looks and their functions. Meets all expectations. Compressor Noise level is Lower than my former unit. Overall very satisfied.\n\nGeneral Manager\nLabim Mall",
+                        "img": "https://drive.google.com/uc?id=1EmKGfKecgZIY9h2F7eMOOzYZqGHqAKrM",
+                        "width": "200px",
+                        "borderRadius": "50%"
+                    }
+                ],
+                "alignImg": "left",
+                "alignContent": "column-left",
+                "ContentMaxWidth": "500px",
+                "justifyContent": "space-evenly",
+                "imageMaxWidth": "400px",
+                "activateSlider": "1",
+                "itemSize": "1",
+                "contactInfo": [],
+                "cardContentAlign": "column-reverse",
+                "display": "flex",
+                "imgAuthorPosition": "bottom",
+                "flatCard": "1",
+                "autoPlay": "1"
+            },
+            "order": 165
+        }
+    ]
+}

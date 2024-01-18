@@ -1,0 +1,201 @@
+{
+    "data": [
+        {
+            "id": 4448,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover mbr-flex mbr-align-item-c vh-height clr-pl-7",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{ \"backgroundImage\": \"linear-gradient(to bottom right,  rgb(4 1 20), rgb(202 174 174 / 0%)), url(https://drive.google.com/uc?id=124XgIw9MCYEdhJMIe9gFArRGcxbQKf-z)\" , \"margin\": \"-125px 0px -100px\", \"backgroundPosition\": \"center center\", \"min-height\": \"40vh\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 align-left ",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-raleway  font-size-6 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn bnt-lg bd-clr-pl-1 bd-stl-solid fontSize3 bg-clr-pl-22 clr-pl-7"
+                        }
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "font-family-raleway  font-size-4 mbr-m-0 align-center"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "container mbr-flex mbr-jc-c  flex-wrap mbr-align-item-c "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 align-center"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    }
+                },
+                "cat": []
+            },
+            "order": 4
+        },
+        {
+            "id": 3979,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "img": "https://drive.google.com/uc?id=1ZqKCiWFY5FKwbGa5Yh-Do3_7xJJLvIvr",
+                "contactInfo": [
+                    {
+                        "title": "Contact Us",
+                        "list1": "For Bussiness Queries",
+                        "value1": "+ 977 01 - 5902492 / + 977 01 - 5902493,  info@ghansigroup.com ",
+                        "value2": "+977 9801384936, service@ghansigroup.com",
+                        "width": "500px",
+                        "descriptionAtTop": "1",
+                        "list2": "For Service Queries"
+                    }
+                ],
+                "alignImg": "right",
+                "alignContent": "column-left",
+                "descriptionPadding": "0px",
+                "fontSize": "15px",
+                "justifyContent": "space-evenly",
+                "imageMaxWidth": "500px",
+                "containerWidth": "500px",
+                "contentList": [],
+                "cta": [],
+                "bgColor": "#fff"
+            },
+            "order": 5
+        },
+        {
+            "id": 4650,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "container mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"maxWidth\":\"790px\",\"paddingBottom\":\"10px\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-size-3 align-left",
+                            "fontSize": "12px"
+                        },
+                        "content": "For Enquires",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    }
+                }
+            },
+            "order": 47
+        },
+        {
+            "id": 3980,
+            "component": "contactForm",
+            "component_id": 43,
+            "attributes": {
+                "alignContent": "image",
+                "title": "Title",
+                "subtitle": "Subtitle",
+                "description": "A person is a being that has certain capacities or attributes such as reason, morality, consciousness or self-consciousness, and being a part of a culturally established form of social relations such as kinship, ownership of property, or legal responsibility.",
+                "siteMail": "info@ghansigroup.com",
+                "caption": "caption here !!",
+                "mapZoomLevel": "14",
+                "mapCenterLatitude": "-122.337798",
+                "mapCenterLongitude": "37.810550",
+                "enableContactForm": "1",
+                "cta": "Send Message",
+                "formWidth": "800px",
+                "email": "info@ghansigroup.com"
+            },
+            "order": 66
+        },
+        {
+            "id": 4429,
+            "component": "contactForm",
+            "component_id": 43,
+            "attributes": {
+                "id": "contact",
+                "enableMap": "1",
+                "mapCenterLongitude": "85.3098073",
+                "mapCenterLatitude": "27.6869544",
+                "mapWidth": "80%",
+                "mapHeight": "500px",
+                "mapZoomLevel": "15",
+                "mapInfo": "Ghansi Group"
+            },
+            "order": 127
+        }
+    ]
+}
