@@ -1,0 +1,132 @@
+{
+    "data": [
+        {
+            "id": 4573,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover mbr-flex mbr-align-item-c vh-height clr-pl-7",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{ \"backgroundImage\": \"url(https://language-school.cmsmasters.net/wp-content/uploads/2016/01/home-bg-3.jpg)\" , \"margin\": \"0px 0px -200px\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 align-left ",
+                            "fontSize": "12px"
+                        },
+                        "content": "Japanese Language Classes",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-raleway  font-size-6 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn bnt-lg bd-clr-pl-1 bd-stl-solid fontSize3 bg-clr-pl-22 clr-pl-7"
+                        }
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "font-family-raleway  font-size-4 mbr-m-0 align-center"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "container mbr-flex mbr-jc-c  flex-wrap mbr-align-item-c "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 align-center"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    }
+                },
+                "cat": []
+            },
+            "order": 62
+        },
+        {
+            "id": 4574,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c container  bg-clr-pl-7 mbr-pt-3",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "Japanese Language Classes",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Konnichiwa!\n\nYou’re here because you want to know how to learn Japanese, right?\n\nThere are hundreds of different Japanese courses and textbooks out there, and there’s something for every budget.\n\nCourses to learn Japanese online for free\nDuolingo\nDuolingo is a popular language learning site and app, and last year they released their Japanese course. It’s a great way to learn beginner’s Japanese for free!\n\nWhat I really like about Duolingo is that you can learn Japanese in just 5 minutes a day. When you sign up, they’ll ask you how long you want to study each day (5 minutes, 10 minutes etc) and they’ll send you a reminder at the same time each day.\n\nThis is a really great way to study consistently and build up your Japanese day after day!\n\nDuolingo is really fun to use. It has lots of short, game-like activities. It is quite addictive and very different from the textbook way of studying.\n\nJapanesePod101\nJapanesePod101 is one of the most famous Japanese online courses, and for good reason. It’s been around for years and has literally thousands of audio and video lessons, accompanied by printable lesson notes, interactive quizzes, flashcard decks and more.\n\nLessons run all the way from absolute beginner to advanced, and they have special courses for JLPT preparation too.\n\nYou can get a free lifetime membership at JapanesePod101 which gives you access to all the newest lessons. There are 3 to 5 new lessons published every week, and free members get access to all the new lessons for three weeks.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-left"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 63
+        }
+    ]
+}

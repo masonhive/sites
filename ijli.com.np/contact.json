@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "id": 4560,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "img": "https://softek.radiantthemes.com/wp-content/uploads/2020/10/Contact-us.png",
+                "contactInfo": [
+                    {
+                        "title": "Contact Us",
+                        "list1": "Our Location",
+                        "value1": "Kumaripati Lalitpur ",
+                        "list2": "Phone Number",
+                        "value2": "5545948 / 5425109",
+                        "list3": "Email Address",
+                        "value3": "info@ijli.com.np",
+                        "width": "500px",
+                        "descriptionAtTop": "1"
+                    }
+                ],
+                "alignImg": "right",
+                "alignContent": "column-left",
+                "descriptionPadding": "0px",
+                "fontSize": "15px",
+                "justifyContent": "space-evenly",
+                "imageMaxWidth": "500px",
+                "containerWidth": "500px",
+                "contentList": [],
+                "cta": []
+            },
+            "order": 50
+        },
+        {
+            "id": 4563,
+            "component": "contactForm",
+            "component_id": 43,
+            "attributes": {
+                "mapInfo": "we are here! at Kumaripati, Way to United Academy",
+                "mapZoomLevel": "16",
+                "mapCenterLatitude": "27.6708325",
+                "mapCenterLongitude": "85.3189883",
+                "enableContactForm": "1",
+                "formTitle": "Make Enquiry",
+                "enableMap": "1",
+                "cta": "SEND",
+                "link": "#",
+                "bgColor": "#f2f2f2",
+                "color": "fff"
+            },
+            "order": 51
+        }
+    ]
+}

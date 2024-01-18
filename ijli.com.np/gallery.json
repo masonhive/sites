@@ -1,0 +1,122 @@
+{
+    "data": [
+        {
+            "id": 6975,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "",
+                    "id": "services"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "Our Gallery",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "parseHtml": ""
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"background\": \"#45a59a\",\"color\": \"#fff\",\"borderRadius\": \"20px\",\"padding\":\"25px\"}"
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 mbr-flex grid-row mbr-pt-5"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"textAlign\":\"justify\"}"
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container grid-column"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://drive.google.com/uc?id=18_WYInyh_XhITRZW3SD6zD46qAEZyrR-"
+                    },
+                    {
+                        "image": "https://drive.google.com/uc?id=18_WYInyh_XhITRZW3SD6zD46qAEZyrR-"
+                    },
+                    {
+                        "image": "https://drive.google.com/uc?id=18_WYInyh_XhITRZW3SD6zD46qAEZyrR-"
+                    },
+                    {
+                        "image": "https://drive.google.com/uc?id=18_WYInyh_XhITRZW3SD6zD46qAEZyrR-"
+                    }
+                ]
+            },
+            "order": 107
+        }
+    ]
+}

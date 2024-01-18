@@ -1,0 +1,515 @@
+{
+    "data": [
+        {
+            "id": 4593,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover  mbr-flex mbr-align-item-c clr-pl-7",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{ \"backgroundImage\": \"linear-gradient(to bottom right,  rgb(4 1 20), rgb(202 174 174 / 0%)), url(https://drive.google.com/uc?id=1cXJML_ZnKNd4TDam9so7pQxk7k-cVcEu)\",\"min-height\": \"60vh\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-raleway font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "Let Us Guide You & Be A Perfect Graduate",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "We are one of the best institutes with a higher success rate for student visas to study in Japan. Be confident and move the first step on joining us to achieve your dream to study in Japan.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "KNOW MORE ABOUT US",
+                        "link": "/contact",
+                        "css": {
+                            "color": "btn "
+                        },
+                        "inlineCss": "{\"background\":\"#013ebd\"}"
+                    },
+                    "caption": {
+                        "content": "Study in Japan",
+                        "css": {
+                            "color": "font-size-3 "
+                        },
+                        "parseHtml": "1",
+                        "inlineCss": "{\"lineHeight\":\"5px\"}"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "container mbr-flex mbr-jc-c  flex-wrap"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    }
+                },
+                "cat": []
+            },
+            "order": 47
+        },
+        {
+            "id": 4595,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c container  bg-clr-pl-7 mbr-p-5",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "Welcome to Innovative Japanese Language Institute",
+                        "inlineCss": "{\"color\":\"#013ebd\"}"
+                    },
+                    "description": {
+                        "content": "Innovative Japanese Language Institute, one of the reliable Japanese language institute and consultancy companies, with a team of expert professionals in the field of abroad studies and document processing. We provide you best counseling and assistance in any of your stages of abroad study plans. \nWe offer you the best service and make your dream come true.\n\nInnovative Japanese Language Institute is one of the renowned hereby registered Educational Consultancy which is situated in Kumaripati, Lalitpur. It was established in 2010 AD acquainted with the aim of permeating authentic counseling and information dedicated to studying in Japan.Among many educational institutions in Nepal, it has its own identity since its commencement. We has been providing the overall benefit of the student who has the zeal and affordability to have modern higher education at renowned college and universities in Japan.\n\n\n",
+                        "inlineCss": "{\"color\":\"#4d4d50\"}",
+                        "css": {
+                            "color": "font-family-karma  font-size-7 mbr-pt-1"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "Know More About Us",
+                        "link": "/about",
+                        "css": {
+                            "color": "btn btn-sm bd-stl-solid clr-pl-7"
+                        },
+                        "inlineCss": "{\"backgroundColor\":\"#013ebd\"}"
+                    },
+                    "image": {
+                        "content": "https://drive.google.com/uc?id=1yRf_0M7mApnc-idOAeQYLpLc4swbCxd8"
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 align-left"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4"
+                        }
+                    }
+                }
+            },
+            "order": 83
+        },
+        {
+            "id": 6294,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row clr-pl-7",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{ \"backgroundImage\": \"linear-gradient(to bottom right,  rgb(4 1 20 / 88%), rgb(100 99 99 / 59%)), url(https://templatekit.jegtheme.com/travisa/wp-content/uploads/sites/67/2021/03/passport-with-tickets-on-map.jpg)\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "We Take Care of Your Ambition",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "We have you as our first priority. We have always been happy to provide you best care for your ambition to study in Japan. We are dedicated to provide services adopting the Japanese's culture of love, care, and responsibility. ",
+                        "css": {
+                            "color": "font-family-karma  font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"background\": \"#ffffffd1\",\"color\": \"#000\",\"borderRadius\": \"10px\",\"padding\":\"0px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 mbr-flex grid-row mbr-col-sm-6"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container grid-column"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "{\"padding\":\"10px\"}"
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Language Classes / Test Preparations",
+                        "caption": "We offer Japanese language courses. Whether you are studying or working abroad, or simply want to explore different cultures, we provide the best classes and  preparation guidelines to succeed in different tests or regular conversations. ",
+                        "parseHtml": "1",
+                        "image": "https://drive.google.com/uc?id=1g42bRSyjVIt-LpEvOJh91FVd4l4AGEML"
+                    },
+                    {
+                        "image": "https://drive.google.com/uc?id=1vsecKjBxKvcyz1K9IK27sRmoUTKlBTse",
+                        "heading": "Counseling / Visa Assistance",
+                        "caption": "Our counselors do a great deal of hand-holding to make sure students understand the application process because we know it can be overwhelming for them. We provide step-by-step guidance along with documentation and information about the institutions that we represent.",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://drive.google.com/uc?id=1tTOOSJwgH8dqVIY5jwiBdIJ5TqTxeOHC",
+                        "heading": "Quality Document Translation ",
+                        "caption": "We have more than a decade of experience on Japanese language and have been providing the best translation service for quality documents required for visa processing and work documents. So be confident your documents will be translated with high lever of quality. We are achieving best success rates on visa due to quality document translation service we provide.\n",
+                        "parseHtml": "1"
+                    }
+                ]
+            },
+            "order": 85
+        },
+        {
+            "id": 4596,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "title": "What Our Students Say",
+                "itemList": [
+                    {
+                        "width": "200px",
+                        "borderRadius": "50%",
+                        "subHeading": "Yeendu Maya Tamang",
+                        "title": "- Student (April Intake 2023 ) ",
+                        "caption": "\"one must have first of all a solid foundation\"\nMy time in innovative's has been spectacular ! \nBreathtakingly, Innovative Japanese language institute facilitated me to develop my Japanese language skills. The entire team helped me in each and every stages of my visa application process. They work like magic and leaves no stone unturned to shape one's future. If you want to be the next leader of tomorrow, then Innovative Japanese language institute is the place to be. \n言語を知ることは賢者への道｡",
+                        "imageWrap": "1",
+                        "contentWidth": "850px",
+                        "img": "https://drive.google.com/uc?id=1Zr3UQGUJsMQSs6bZ88S6emeJA2kQthni"
+                    },
+                    {
+                        "width": "200px",
+                        "borderRadius": "50%",
+                        "subHeading": "Simran Adhikari",
+                        "title": "- Student ",
+                        "caption": "I would like to thank IJLI for making my study abroad dream come true. They\nconstantly supported and guided me in finding the right course according to my area of\ninterest. Thank you very very much.",
+                        "imageWrap": "1",
+                        "contentWidth": "850px"
+                    }
+                ],
+                "alignImg": "left",
+                "alignContent": "column-left",
+                "ContentMaxWidth": "500px",
+                "justifyContent": "space-evenly",
+                "imageMaxWidth": "400px",
+                "activateSlider": "1",
+                "itemSize": "1",
+                "contactInfo": [],
+                "cardContentAlign": "column-reverse",
+                "display": "flex",
+                "imgAuthorPosition": "bottom",
+                "flatCard": "1",
+                "autoPlay": "1"
+            },
+            "order": 86
+        },
+        {
+            "id": 6296,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"background\": \"#efeaf9\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "News & Announcements",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": ""
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\",\"padding\":\"0px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-6 align-left"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 mbr-flex grid-row mbr-col-sm-6"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container grid-column"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "{\"padding\":\"10px\"}"
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Language proficiency and appropriate skills are important in Japan, concludes the recent seminar.",
+                        "caption": "- Wednesday, August 24, 2022\n\nNow that most students are seeking to go abroad for higher studies, they are flocking to many consultancies for counseling and guidance. Across Nepal, many institutions and consultancies offer their services to cater to the student’s needs but mostly miss to inform them about the nitty gritty of their visiting country. To inform...\n\nRead More",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "Japan becoming the first choice of students from Nepal, What is the cost of studying?",
+                        "caption": "- Wednesday, August 24, 2022\n\nJapan becoming the first choice of students from Nepal, What is the cost of studying? Japan is now becoming the priority for students going abroad to study higher education. After the corona epidemic, Japan has become popular among Nepali students with the introduction of various policies for foreign students.\n\nRead More",
+                        "parseHtml": "1",
+                        "image": "https://uceap.universityofcalifornia.edu/sites/default/files/marketing-images/promo-slider-images/japan-promo-slider.jpg"
+                    },
+                    {
+                        "image": "https://drive.google.com/uc?id=1clCgjwPGHkHCUgijgGxX7H0E0R2vRhoY",
+                        "heading": "JLPT Mock on July 2 & December 3",
+                        "caption": "- Friday, Jun 23, 2023\nJLPT Test going to take place on July 2 & December 3",
+                        "parseHtml": "1"
+                    }
+                ]
+            },
+            "order": 87
+        },
+        {
+            "id": 4600,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c container  bg-clr-pl-7 mbr-pt-3",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "Message From MD",
+                        "inlineCss": "{\"color\": \"#013ebd\"}"
+                    },
+                    "description": {
+                        "content": "Welcome to Innovative Japanese Language Institute　ようこそ イノベイティブ日本語学校へ. If you are planning to study in Japan and you don't have any idea what to do and how to do, then you are at the right place browsing the right website of Innovative Japanese Language Institute. Since this institute is fully focused only in study in Japan, you are warmly welcome to our institute for proper guidance. We are here to guide you.\n\nNibesh Dangol\nMD ( Innovative Japanese Language Institude )\nFirst Vice President of JALSAN(Japanese Language School Association of Nepal)",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://drive.google.com/uc?id=1tcQVUrlsllg7EzSRssHQ9FWvG6cP-JJA",
+                        "inlineCss": "{\"borderRadius\":\"50%\"}"
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 align-left"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4"
+                        },
+                        "inlineCss": "{\"max-width\":\"250px\"}"
+                    }
+                }
+            },
+            "order": 88
+        }
+    ]
+}

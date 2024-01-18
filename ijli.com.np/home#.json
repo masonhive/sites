@@ -1,0 +1,134 @@
+{
+    "data": [
+        {
+            "id": 4598,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c container  bg-clr-pl-7 mbr-pt-3",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "Study In Japan",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": " Japan – land of Rising Sun is a country with rich nature, diverse topography, and beautiful turns of the seasons. Japan has always been one of the favorite destinations for students when it comes to abroad studies. Foreign students in Japan are provided with work permit enabling them to earn-as-you-learn. Japan, also known as ‘Nippon’ in local language, is a land of endless opportunities. It is a home to some of the world most trusted brands, vehicles and machineries like that of cars, motorbikes and electronic gadgets, including Honda, Nissan, Toyota, Yamaha and Sony. Success of such large fleet of products undoubtedly goes to the quality education and respect for work culture rooted in Japanese people.\n\n\n",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://thumbs.dreamstime.com/z/map-japan-japanese-flag-vector-hand-drawn-109028075.jpg"
+                    },
+                    "caption": {
+                        "content": "\" Safest countries in the world \"",
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 align-left"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4"
+                        }
+                    }
+                }
+            },
+            "order": 86
+        },
+        {
+            "id": 4599,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c container  bg-clr-pl-7 mbr-pt-3",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "Hotel Anandalaya",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "A perfect blissful place, aligned to meet the modern lifestyle need and wellbeing of surroundings indeed. It is an ultimate destination for a holistic wellbeing, to find your inner light, to feel a deeper sense, to dip self-exploration and a bit more sparkle.\n\n\n",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://drive.google.com/uc?id=1Cr8gp0TXqBbSi9og9pojcdMWmU7PyGb5"
+                    },
+                    "caption": {
+                        "content": "\" Uncover the spirit of Nepal \"",
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 align-left"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4"
+                        }
+                    }
+                }
+            },
+            "order": 87
+        }
+    ]
+}

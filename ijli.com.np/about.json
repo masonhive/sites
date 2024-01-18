@@ -1,0 +1,570 @@
+{
+    "data": [
+        {
+            "id": 4556,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover mbr-flex mbr-align-item-c clr-pl-7",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{ \"backgroundImage\": \"url(https://language-school.cmsmasters.net/wp-content/uploads/2016/01/home-bg-3.jpg)\" , \"margin\": \"0px 0px -200px\", \"min-height\": \"60vh\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 align-left ",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-raleway  font-size-6 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn bnt-lg bd-clr-pl-1 bd-stl-solid fontSize3 bg-clr-pl-22 clr-pl-7"
+                        }
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "font-family-raleway  font-size-4 mbr-m-0 align-center"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "container mbr-flex mbr-jc-c  flex-wrap mbr-align-item-c "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 align-center"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    }
+                },
+                "cat": []
+            },
+            "order": 13
+        },
+        {
+            "id": 4557,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "container mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " font-size-5 mbr-pt-1",
+                            "fontSize": "12px"
+                        },
+                        "content": "Innovative Japanese Language Institute",
+                        "inlineCss": "{\"color\":\"#013ebd\"}"
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "With founder principal Nibesh Dangol, an active member of JALSAN(Japanese Language School Association of Nepal), Innovative japanese language institute was established in 2010 with the sole purpose of providing Nepali student with a wonderful opportunity to study in Japan. \n\nIt is a well known fact that Japan is a well developed country. Today, Japan is considered as one of the most powerful country in every aspects, specially in the field of science and technology, management and economic aspect. \nJapan is a country with rich nature, diverse topography, and beautiful turns of the seasons. Also known for their tradition, culture and their politeness worldwide. Moreover, the greatest appeal of studying in Japan is its academic environment with adequate facilities of academic infrastructure that meets the demand of the challenging world to make one able to make their mark in their respective field of study. Due to above reasons, many students from Nepal are attracted to Study in Japan. \n\nBut many might be in the state of confusion on what to do and how to make it to Japan for their further study. So, this innovative japanese language institute being fully focused only in the theme 'study in japan' helps you to make it for Japan for your further study. It helps you to make the right choice of your school, college or universities, helps in your adjustment in Japan with accommodation and works. Japanese language is also the most important aspect if you are thinking of studying in Japan. \nSo, this institute provides japanese language classes from a highly qualified and experienced teachers which definitely makes you perfect in japanese language within a short period of time. It doesn't mean that these classes are for those who are going to study in Japan. Those who are only interested in learning this language are also most welcome in our language school.\n\nBesides, we provide preparation for japanese language tests like JLPT and NAT. Within short period of time, we have provided this opportunity to many students and proudly looking for more in the future. We are at your service from the very beginning. So feel free to join us for your bright future.\n"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-left"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "bg-clr-pl-7 mbr-p-4"
+                        }
+                    }
+                }
+            },
+            "order": 46
+        },
+        {
+            "id": 6297,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"background\": \"#efeaf9\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "ABOUT US",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": ""
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\",\"padding\":\"0px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 mbr-flex grid-row mbr-col-sm-6"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container grid-column"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "{\"padding\":\"10px\"}"
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Our History",
+                        "caption": "Innovative Japanese Language Institute ( IJLI ) was established in 2010 with the sole purpose of providing Nepali student with a wonderful opportunity to study in Japan. \n",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": " Our Mission",
+                        "caption": "We are aligned with one sole mission to provided as many opportunities for Nepali students who are eagar to study in Japan.\n",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": " Our Philosophy",
+                        "caption": "\" Every person is unique and has emensive value in life but only the location and time determines it\". We believe that post of Nepali students have best future and value in JAPAN. ",
+                        "parseHtml": "1"
+                    }
+                ]
+            },
+            "order": 47
+        },
+        {
+            "id": 6298,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{ \"backgroundImage\": \"url(https://drive.google.com/uc?id=1cXJML_ZnKNd4TDam9so7pQxk7k-cVcEu)\" , \"backgroundPosition\": \"center center\",\"backgroundAttachment\":\"fixed\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "\n\n"
+                    },
+                    "itemInfo": {
+                        "activateSlider": "1",
+                        "rowCounts": "4"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-khula font-size-3 mbr-m-0 mbr-pt-4"
+                        },
+                        "inlineCss": "{\"fontWeight\":\"bolder\"}"
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"40px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "mbr-col-md-3 mbr-col-sm-12 mbr-flex grid-row "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-center font-family-andada font-size-6"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        },
+                        "inlineCss": "{\"color\":\"#d6932e\", \"background\": \"#141312e8\"}"
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "10 +",
+                        "caption": "Years of Experience",
+                        "icon": "FaRegClock"
+                    },
+                    {
+                        "heading": "5000 +",
+                        "caption": "Visa Approvals",
+                        "icon": "FaUserMd"
+                    },
+                    {
+                        "heading": "4500 +",
+                        "caption": "Dream Accomplished",
+                        "icon": "FaBriefcaseMedical"
+                    },
+                    {
+                        "heading": "80 +",
+                        "caption": "University Associations",
+                        "icon": "BsPeople"
+                    }
+                ]
+            },
+            "order": 48
+        },
+        {
+            "id": 4565,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://lh5.googleusercontent.com/p/AF1QipNfo7QSDtoY1Y1T6L1DvjJWGphfxvNCCcgLraET=w750-h401-p-k-no"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    }
+                }
+            },
+            "order": 56
+        },
+        {
+            "id": 6300,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row container-fluid",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "itemInfo": {
+                        "rowCounts": "4"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "mbr-col-md-3 mbr-flex grid-row mbr-pt-5"
+                        },
+                        "inlineCss": "{ \"justifyContent\": \"space-evenly\", \"display\": \"flex\" }"
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container grid-column"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://lh5.googleusercontent.com/p/AF1QipMEXSltUxFDE7PYpSF1mlzICO7nTZfR2GMygYCc=w750-h1235-p-k-no"
+                    },
+                    {
+                        "image": "https://lh5.googleusercontent.com/p/AF1QipMlTHLYqd2N0slmm0WfN3Goo5MjnLuvWRw_N2D_=w750-h1235-p-k-no"
+                    },
+                    {
+                        "image": "https://lh5.googleusercontent.com/p/AF1QipPckKu0oxADeUg1W6xYf1pZROaH6UFQ-9FTffku=w750-h1235-p-k-no"
+                    }
+                ]
+            },
+            "order": 57
+        }
+    ]
+}

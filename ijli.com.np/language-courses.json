@@ -1,0 +1,133 @@
+{
+    "data": [
+        {
+            "id": 6302,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover mbr-flex mbr-align-item-c clr-pl-7",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{ \"backgroundImage\": \"url(https://language-school.cmsmasters.net/wp-content/uploads/2016/01/home-bg-3.jpg)\" , \"margin\": \"0px 0px -200px\", \"minHeight\":\"60vh\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 align-left ",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-raleway  font-size-6 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn bnt-lg bd-clr-pl-1 bd-stl-solid fontSize3 bg-clr-pl-22 clr-pl-7"
+                        }
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "font-family-raleway  font-size-4 mbr-m-0 align-center"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "container mbr-flex mbr-jc-c  flex-wrap mbr-align-item-c "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 align-center"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    }
+                },
+                "cat": []
+            },
+            "order": 5
+        },
+        {
+            "id": 6303,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c container  bg-clr-pl-7 mbr-pt-3",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "Japanese Language Classes",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "We Provide interactive Japanese Language Classes for students who want to learn the Japanese language and go abroad with language proficiency, we provide them with quality and regular classes with numerous tests and questionnaires. We make them capable to face the test easily and efficiently.\n\n<b> About Japanese Language </b>\nMuch about the roots of the Japanese language is unclear. Some link it to the Altaic language family, which includes Turkish, Mongolian, and other languages, but it also shows similarities to Austronesian languages like Polynesian.\n\n<b>Writing</b>\nThe Japanese writing system consists of three different character sets: kanji (thousands of Chinese characters), hiragana and katakana (two syllabaries of 46 characters each; together called kana). Texts can be written in two ways: in Western style, i.e. in horizontal rows from the top to the bottom of the page, or in traditional Japanese style, i.e. in vertical columns from the right to the left side of the page. Both writing styles exist side by side today.\n\n<b>Grammar</b>\nBasic Japanese grammar is relatively simple. Complicating factors such as gender articles and distinctions between plural and singular are missing almost completely. Conjugation rules for verbs and adjectives are simple and almost free of exceptions. Nouns are not declined at all but appear always in the same form.\n\n<b>Pronunciation</b>\nIn comparison with other languages, Japanese knows relatively few sounds, and pronunciation poses little problems to most learners. The biggest difficulty is accented, which does exist, but to a much lower extent than in the Chinese language. In addition, there are relatively many homonyms, i.e. words that are pronounced the same way but have different meanings.\n\n<b>Levels of speech</b>\nDifferent words and expressions are used when talking to an unknown person or a superior, as opposed to when talking to a child, family member, or a close friend. For instance, there are more than five different words for the English word \"I\", which are used depending on the context. For formal situations, an honorific language level (Keigo) is in common use.\n\nLanguage Related Pages\nStudying Japanese\nLanguage Schools\nKanji\nHiragana\nKatakana\nKeigo\nLoan Words\nProficiency Test\nJapanese on computers\n\n",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-size-7 mbr-pt-1"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-left"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 5
+        }
+    ]
+}

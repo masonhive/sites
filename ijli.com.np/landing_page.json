@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "id": 3422,
+            "component": "list",
+            "component_id": 31,
+            "attributes": {
+                "contentList": [
+                    {
+                        "logo": "https://s12697.pcdn.co/wp-content/uploads/2015/08/aura-transformation.png",
+                        "Logowidth": "300px"
+                    }
+                ],
+                "cta": []
+            },
+            "order": 23
+        },
+        {
+            "id": 3416,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "img": "https://img.youtube.com/vi/nataGiZHCo8/maxresdefault.jpg",
+                        "video": "https://www.youtube.com/embed/nataGiZHCo8",
+                        "width": "600px",
+                        "title": "Get your FREE step-by-step video courses for effortlessly engaging women with confidence",
+                        "cat": "Yes, Send My Video Now!",
+                        "btnBgColor": "#ffcc30",
+                        "btnColor": "#000"
+                    }
+                ],
+                "itemSize": "1",
+                "cardMaxWidth": "600px",
+                "contactInfo": [],
+                "bgImg": "https://s12697.pcdn.co/wp-content/uploads/2015/12/3378-rhombus-texture-1680x1050-abstract-wallpaper1.jpg",
+                "cardPadding": "30px 0",
+                "flatCard": "1",
+                "color": "#fff",
+                "fontSize": "20px",
+                "cardContentAlign": "self-start",
+                "flyerMargin": "-80px auto 0 auto"
+            },
+            "order": 25
+        },
+        {
+            "id": 3418,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "itemList": [
+                    {
+                        "title": "Before training at Aura, I never felt in control of my emotions and choices and often found myself reacting to the games women were engineering. David taught me how to build bulletproof beliefs and mindsets, and now I have total control and confidence in my dating life–I’m able to choose what kind of relationships I want with the women I want. A true pioneer and innovator in his field, Dr. Tian’s coaching helps you find your inner strength and rebuilds you from the inside out. Do it, you will not regret it.",
+                        "width": "200px",
+                        "img": "https://s12697.pcdn.co/wp-content/uploads/2015/09/SECRET-OF-ATTRACTION_CH9-img1.png",
+                        "contentWidth": "900px",
+                        "contentTextAlign": "left",
+                        "list": "Richard Lee (31, USA/Singapore)"
+                    }
+                ],
+                "cardColor": "#9e9b9e",
+                "cardBgColor": "#fff",
+                "itemSize": "1",
+                "cardMaxWidth": "1200px",
+                "cardPadding": "0px",
+                "cardContentAlign": "left",
+                "linearCard": "1",
+                "imgContentRow": "1",
+                "contactInfo": [],
+                "flatCard": "1",
+                "fontSize": "20px",
+                "cardAlignItems": "self-start",
+                "imgAtCenter": "1",
+                "justifyContent": "space-between"
+            },
+            "order": 26
+        },
+        {
+            "id": 3419,
+            "component": "bannerSlider",
+            "component_id": 2,
+            "attributes": {
+                "color": "#fff",
+                "contentAlign": "bottom",
+                "slider": [
+                    {
+                        "img": "https://s12697.pcdn.co/wp-content/uploads/2015/05/AURA-WEB-meet-david-banner-revised-final.jpg"
+                    }
+                ]
+            },
+            "order": 27
+        },
+        {
+            "id": 3420,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "alignContent": "center",
+                "cta": [
+                    {
+                        "name": "Learn More"
+                    }
+                ],
+                "contentList": [],
+                "contactInfo": [],
+                "fontSize": "30px",
+                "buttonBackgroundColor": "#d4b552",
+                "buttonColor": "#fff"
+            },
+            "order": 28
+        }
+    ]
+}
