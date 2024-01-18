@@ -1,0 +1,540 @@
+{
+    "data": [
+        {
+            "id": 6340,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "container mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-7",
+                            "fontSize": "12px"
+                        },
+                        "content": "Our Solutions & Innovations will Lead You to Build Your Business Empire",
+                        "inlineCss": "{\"color\":\"#20561a\"}"
+                    },
+                    "description": {
+                        "content": "5 stages or steps for digital transformation will help you accelerate and 6th one will scale it larger. \n \nOur 6-step process is a comprehensive solution to help your business transition into a digital environment. These building blocks aim to boost growth, reduce costs, increase security, enhance scalability and improve resilience. We offer a full range of services, from general solutions to customized and specialized offerings that cater to your specific requirements. With our end-to-end support, you'll have the tools and resources you need to thrive in the digital age.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-poppins font-size-7"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "\" The Building Blocks of Transformations\"\n",
+                        "css": {
+                            "color": "font-family-poppins font-size-6"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    }
+                }
+            },
+            "order": 21
+        },
+        {
+            "id": 6341,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-6 mbr-pt-6",
+                            "fontSize": "12px"
+                        },
+                        "content": "Step 1. Create Your Digital Identity on No Time",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "Let's Create Great Digital Identity",
+                        "link": "/contant",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid"
+                        }
+                    },
+                    "image": {
+                        "content": "https://drive.google.com/uc?id=13NAVfQ1p-i-J2dR6VU1CK_UO-MhbtC3E",
+                        "inlineCss": "{\"width\":\"300px\"}"
+                    },
+                    "caption": {
+                        "content": "Digital Identity of your business or organization is must in the digital era. We help you create the best digital identity for you on no time with our technology and tools.\nWe provide multiple options for this as per type and need of your business or offices. ",
+                        "css": {
+                            "color": "font-family-raleway font-size-7 mbr-pt-2"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 align-left  mbr-px-4"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 align-right"
+                        }
+                    }
+                }
+            },
+            "order": 22
+        },
+        {
+            "id": 6349,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-6 mbr-pt-6",
+                            "fontSize": "12px"
+                        },
+                        "content": "Step 2. Generate tons of leads through Digital Marketing",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "Get Leads For The Business",
+                        "link": "/contact",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://drive.google.com/uc?id=1n_3oDmcuCklXfGwffAUIQXukksh71P0v",
+                        "inlineCss": "{\"width\":\"300px\"}",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "caption": {
+                        "content": "Getting closer to your potential customers are the very important via different medias and getting closer has become more easier with the digital platforms. \nWe help you send your message to targeted customer  and generate tons of leads.",
+                        "css": {
+                            "color": "font-family-raleway font-size-7 mbr-pt-2"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column-reverse mbr-align-item-c "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 align-left  mbr-px-4 align-right"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 align-left"
+                        }
+                    }
+                }
+            },
+            "order": 22
+        },
+        {
+            "id": 6343,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-6 mbr-pt-6",
+                            "fontSize": "12px"
+                        },
+                        "content": "Step 3. Digitize & Automate your Business Processes",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "Let's Digitize Or Automate Process",
+                        "link": "/contact",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://drive.google.com/uc?id=1EjVH-lBsaWiSSUpmyAlsb1Fx8G5ZTYaX",
+                        "inlineCss": "{\"width\":\"300px\"}"
+                    },
+                    "caption": {
+                        "content": "One of the easiest ways to scale your business and multiply your profit exponentially is to go digital. We help you to automate your business. Automate any tasks or jobs for lesser interference will help you grow exponentially.",
+                        "css": {
+                            "color": "font-family-raleway font-size-7 mbr-pt-2"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 align-left  mbr-px-4"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 align-right"
+                        }
+                    }
+                }
+            },
+            "order": 24
+        },
+        {
+            "id": 6342,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-6 mbr-pt-6",
+                            "fontSize": "12px"
+                        },
+                        "content": "Step 4. Get connected to your potential customers and clients via Mobile Apps",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "Let's Create Customer Bond",
+                        "link": "/contact",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://drive.google.com/uc?id=1s_Bu2OrWbWsNnKQbZlianWSiSmFs2HL0",
+                        "inlineCss": "{\"width\":\"300px\"}",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "caption": {
+                        "content": "Maximize your reach to potential customers and clients through the convenience of mobile apps. Stay connected and engaged with your audience at all times with our custom-built, user-friendly app solutions.",
+                        "css": {
+                            "color": "font-family-raleway font-size-7 mbr-pt-2"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column-reverse mbr-align-item-c "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 align-left  mbr-px-4 align-right"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 align-left"
+                        }
+                    }
+                }
+            },
+            "order": 25
+        },
+        {
+            "id": 6347,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-6 mbr-pt-6",
+                            "fontSize": "12px"
+                        },
+                        "content": "Step 5. Be the brand and lead the innovations as never before",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "Let's Be the Brand",
+                        "link": "/contact",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://img.freepik.com/premium-vector/flat-design-business-strategy-analytics-trendy-illustration-concept-website-mobile-app_171919-219.jpg?w=900",
+                        "inlineCss": "{\"width\":\"300px\"}"
+                    },
+                    "caption": {
+                        "content": "Embrace the power of technology and stand out as a leader in your industry with innovative solutions. Empower your brand to reach new heights and drive success in the digital world",
+                        "css": {
+                            "color": "font-family-raleway font-size-7 mbr-pt-2"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 align-left  mbr-px-4"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 align-right"
+                        }
+                    }
+                }
+            },
+            "order": 27
+        },
+        {
+            "id": 6350,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-6 mbr-pt-6",
+                            "fontSize": "12px"
+                        },
+                        "content": "Step 6. Last But Not the Least  Scale Your Business  With Angle Investment or VCs",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "",
+                        "inlineCss": "{\"width\":\"300px\"}",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "caption": {
+                        "content": "Maximize growth potential by scaling your business with strategic investment, whether it be through angel investors or venture capital funding.\n\nAttracting investment from angel investors or venture capitalists can bring significant growth to your business. By partnering with experienced investors, you can gain access to much-needed capital and expertise to help you scale your operations and take your business to the next level. From developing new products and expanding into new markets to hiring top talent and making strategic acquisitions, the right investment partner can provide the support and resources needed to fuel your growth and achieve long-term success. So, if you're ready to scale your business and reach new heights, it's time to start exploring the benefits of angel investment or venture capital.",
+                        "css": {
+                            "color": "font-family-raleway font-size-7 mbr-pt-2"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column-reverse mbr-align-item-c "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-10 align-left  mbr-px-4 "
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 28
+        },
+        {
+            "id": 6668,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "container mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-7",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-poppins font-size-7"
+                        }
+                    },
+                    "button": {
+                        "content": "Contact Us",
+                        "link": "/contact",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "We are always ready to assist and support you, no matter what stage of the digital transformation journey you are at. Whether you are just starting out or looking to scale, we are here to help you reach your goals and transform your business for the future.",
+                        "css": {
+                            "color": "font-family-poppins font-size-6"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    }
+                }
+            },
+            "order": 29
+        }
+    ]
+}

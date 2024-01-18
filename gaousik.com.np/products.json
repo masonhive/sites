@@ -1,0 +1,239 @@
+{
+    "data": [
+        {
+            "id": 6323,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover vh-height mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{ \"min-height\": \"80vh\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-4  mbr-pt-3",
+                            "fontSize": "12px"
+                        },
+                        "content": "Turning Vision into Reality - Digital Transformation",
+                        "inlineCss": "{ \"color\": \"#000\"}"
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-andada font-size-7"
+                        }
+                    },
+                    "button": {
+                        "content": "Learn More About Us",
+                        "link": "/about",
+                        "css": {
+                            "color": "btn clr-pl-7 mbr-pt-3"
+                        },
+                        "inlineCss": "{\"background\":\"#20561a\", \"border-radius\": \"20px 0px 20px 0px\"}"
+                    },
+                    "caption": {
+                        "content": "We are tech startup digitizing visions to real world usable product & services. \nWe are dedicated to deliver digital transformation to any business  aligned with core value of business.  We use cutting edge technology with Artificial Intelligence (AI). <b>Gaousik Tech Solution Pvt. Ltd </b> is helping grow businesses turning business process & services more effective and efficient.",
+                        "css": {
+                            "color": "font-family-raleway font-size-7 mbr-py-5"
+                        },
+                        "inlineCss": "{ \"color\": \"#4A4A4A\"}",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://www.ethercloudservices.com/wp-content/uploads/2022/12/promotionalImage.png"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "container mbr-flex mbr-jc-c  flex-wrap grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 align-left"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4"
+                        }
+                    }
+                }
+            },
+            "order": 22
+        },
+        {
+            "id": 6351,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"background\": \"#eaf9f1\", \"backgroundImage\": \"url(https://drive.google.com/uc?id=1vsTi57yYcyFJngnk0FGmRAId8KMjdIGv)\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "Our products & projects",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Saas Model Developed there products will help you move your business sooner and easily as never before."
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "rowCounts": "2"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"width\":\"100px\"}"
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"background\": \"#ffffffb5\",\"color\": \"#000\",\"borderRadius\": \"100px 0px\",\"padding\":\"0px\", \"margin\":\"10px 0px\", \"border\": \"1px solid #57d371\"}"
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6 mbr-flex grid-row mbr-col-sm-6"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container grid-column"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "{\"padding\":\"10px 30px\"}"
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "itemImageWrap": {
+                        "inlineCss": "{\"width\":\"100px\", \"margin\":\"10px auto\"}"
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Mason Hive ( One Stop Web Builder )",
+                        "caption": "The Pineeor Product of he asdf  lasdf Plug and Play Mode",
+                        "parseHtml": "1",
+                        "image": "https://apusthemes.com/wp-demo/superio-new/wp-content/uploads/2021/03/t4.jpg"
+                    },
+                    {
+                        "image": "https://apusthemes.com/wp-demo/superio-new/wp-content/uploads/2021/03/t4.jpg",
+                        "heading": "Emporium ( One Stop Shop ) ",
+                        "caption": "We and our partners use cookies to store and access personal data such as browsing data for purposes such as serving and personalizing content and advertising and analyzing site traffic. ",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://apusthemes.com/wp-demo/superio-new/wp-content/uploads/2021/03/t3.jpg",
+                        "heading": "Congolomate ( One Stop Micro Workers )",
+                        "caption": "- Ghansi Hospitality\n\n\" We and our partners use cookies to store and access personal data such as browsing data for purposes such as serving and personalizing content and advertising and analyzing site traffic. \"\n",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://apusthemes.com/wp-demo/superio-new/wp-content/uploads/2021/03/t4.jpg",
+                        "heading": "Carrer Ambit ( You Carrer Booster )",
+                        "caption": "- Baama Consultancy \n\n\" We and our partners use cookies to store and access personal data such as browsing data for purposes such as serving and personalizing content and advertising and analyzing site traffic. \"\n",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://apusthemes.com/wp-demo/superio-new/wp-content/uploads/2021/03/t4.jpg",
+                        "heading": "Tele Health",
+                        "caption": "- Baama Consultancy \n\n\" We and our partners use cookies to store and access personal data such as browsing data for purposes such as serving and personalizing content and advertising and analyzing site traffic. \"\n",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://apusthemes.com/wp-demo/superio-new/wp-content/uploads/2021/03/t4.jpg",
+                        "heading": "Mobo Deliver",
+                        "caption": "- Baama Consultancy \n\n\" We and our partners use cookies to store and access personal data such as browsing data for purposes such as serving and personalizing content and advertising and analyzing site traffic. \"\n",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://apusthemes.com/wp-demo/superio-new/wp-content/uploads/2021/03/t4.jpg",
+                        "heading": "Acumen",
+                        "caption": "- Baama Consultancy \n\n\" We and our partners use cookies to store and access personal data such as browsing data for purposes such as serving and personalizing content and advertising and analyzing site traffic. \"\n",
+                        "parseHtml": "1"
+                    }
+                ]
+            },
+            "order": 23
+        }
+    ]
+}
