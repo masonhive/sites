@@ -1,0 +1,83 @@
+{
+    "data": [
+        {
+            "id": 1770,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "title": "COMPANY PROFILE",
+                "contentList": [],
+                "cta": [],
+                "alignContent": "center",
+                "color": "#3b3c42",
+                "bgColor": "#fef2ee",
+                "padding": "0px",
+                "alignImg": "top"
+            },
+            "order": 1264
+        },
+        {
+            "id": 1765,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "alignContent": "column-left",
+                "img": "https://drive.google.com/uc?id=1ouau5Jqg-DjuUrXmeri__xnyH5Ug-7tc",
+                "description": "Stellar Education is a team of professionals and experts who have vast knowledge and experience in the field of abroad education and documentation. It provides professional counselling and assistance to all stages of abroad study plans. In a short span of time, It has earned enviable reputation for its services.\n\nStellar Education is not just any other institution who would monotonously take up your dreams and leave it to luck. Stellar Education Foundation believes that chance always favors the prepared mind which is why Stellar Education Foundation believes in being prepared first and then guiding you towards your dreams. If you are reading this, then in all probability you are also one among those who has dared to dream with your eyes open and we gladly extol your courage. That is what Stellar Education Foundation look for in a student and that is where we take it up from.",
+                "cta": [],
+                "contentList": [],
+                "alignImg": "right",
+                "maxWidth": "900px",
+                "justifyContent": "space-evenly",
+                "imageMaxWidth": "200px",
+                "bgColor": "#fef2ee",
+                "color": "#3b3c42",
+                "padding": "0px",
+                "contactInfo": [],
+                "ContentMaxWidth": "900px"
+            },
+            "order": 1278
+        },
+        {
+            "id": 1771,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "contentList": [],
+                "cta": [],
+                "bgColor": "#fef2ee"
+            },
+            "order": 1279
+        },
+        {
+            "id": 1766,
+            "component": "blog",
+            "component_id": 34,
+            "attributes": {
+                "picture": [
+                    {
+                        "image": "http://stellar.edu.np/public/img/stellar-banner.jpg"
+                    }
+                ],
+                "content": [
+                    {
+                        "subtitle": "WHY STELLAR",
+                        "description": "This is how stellar education foundation counsellors can help you",
+                        "list": "General counselling about studies abroad.   We make sure you get the knowledge you need to choose the right education and university.  Information about the different universities' study programs, procedures, tuition fees and admission requirements.  Help with the application. \n Information on how to finance your studies.  We work closely with our partner universities. You will get quick answers to your questions.  We guarantee that your application will be handled in the best way possible.  We can assist with regards to practical matters like insurance, accommodation and visa."
+                    },
+                    {
+                        "subtitle": "VISION",
+                        "description": "Develop multifaceted professional in diverse fields to understand the rapidly changing needs of the complex global economy and to prepare their mindset to be confident, creative and proactive. Develop sustainable network with high quality academicians and professionals in the corporate and social arena. Shape up a complete human being through value education and training that has global focus enriched by extensive interactions.\n\nOur mission is to be the best centre of excellence in learning and innovation driven by social sensitivity and state-of-the-art technology. It will be amongst the top rated educational and professional Studies institutes in the country offering contemporary education, high quality research, training and consultancy services to suit the ever changing needs of the society.\n",
+                        "list": "To be Nepals best educational consultant and to provide quality services to all the students.  To serve the educational sector and the nation by making continuous investment towards helping the students get quality and diverse educational opportunities.  To operate the Company on a sound financial basis of profitable growth, increasing value for our intellectual property\nand creating career opportunities and financial rewards for the employee"
+                    },
+                    {
+                        "subtitle": "MISSION",
+                        "list": "To strive for excellence through continual improvements and to provide quality educational programs so as to meet total customer satisfaction.  To lead the industry in terms of quality in the south Asian region by focusing the resources towards diversity and growth and investments pan Nepal to research the market feasibility.  to support our vision of providing continuous career opportunities and financial rewards for our employees by growing and diversifying every year.  to support the social issues by innovative means in order to improve the quality of life and thereby creating a pool of students round the world for the social cause"
+                    }
+                ],
+                "fullView": "1"
+            },
+            "order": 1307
+        }
+    ]
+}

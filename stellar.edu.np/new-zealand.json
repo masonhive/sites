@@ -1,0 +1,85 @@
+{
+    "data": [
+        {
+            "id": 1785,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "contentList": [],
+                "cta": [],
+                "img": "https://www.linkpicture.com/q/nz.jpg"
+            },
+            "order": 1287
+        },
+        {
+            "id": 1786,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "title": "NEW ZEALAND",
+                "contentList": [],
+                "cta": [],
+                "color": "#3b3c42",
+                "alignContent": "center",
+                "padding": "0px"
+            },
+            "order": 1288
+        },
+        {
+            "id": 1787,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "contentList": [],
+                "cta": [],
+                "padding": "0px",
+                "color": "#3b3c42",
+                "description": "New Zealand is an island country situated about 2,000 km (1250 miles) southeast of Australia, in the south western Pacific Ocean. It has two main islands (North Island and South Island) and a number of smaller islands. The South Island is the largest land mass and is divided along its length by the Southern Alps. The North Island is less mountainous but marked by volcanism. New Zealand, with a total area of 268,680 square kilometres, is comparable in size to Great Britain, Japan, or Colorado. Its closest neighbours to the north are New Caledonia, Fiji, and Tonga. Its capital city is Wellington, the southernmost national capital in the world.",
+                "alignContent": "column-left"
+            },
+            "order": 1289
+        },
+        {
+            "id": 1788,
+            "component": "blog",
+            "component_id": 34,
+            "attributes": {
+                "id": "New zealand",
+                "picture": [
+                    {
+                        "image": "http://stellar.edu.np/public/img/stellar-banner.jpg"
+                    }
+                ],
+                "content": [
+                    {
+                        "subtitle": "CLIMATE",
+                        "description": "New Zealand has four distinct seasons but a mild climate characterises most of the country, along with fairly high regional rainfall but also lots of sunshine. New Zealand is one of the few places in the world where tropical rainforests, sunny coastline, alpine mountains and a variety of flora and fauna are found within a relatively close distance of each other."
+                    },
+                    {
+                        "subtitle": "HISTORY AND POPULATION",
+                        "description": "New Zealand has a rich heritage stemming from both Maori (aboriginal peoples) and European influences. The Europeans did not discover New Zealand until 1642 and it took another 150 years for settlers to begin to arrive. As European expansion increased, so did Maori resistance, and there were many conflicts in the 19th century (similar to the European/aboriginal friction in North America at around the same time). There have been several aboriginal/government settlements since that time to redress land lost by the Maori during European expansion, and Maori are now celebrated as an integral part of New Zealand culture.\n\nFor most of the 20th century, New Zealand was a member of the British Empire. It became an independent Commonwealth realm in 1947 and by this time Britain no longer played a notable role in governing the country. Britain, however, remained highly important to the New Zealand economy, and Britainâ€™s joining the EU in 1973 dealt a big blow to New Zealandâ€™s export-oriented economy. The economy suffered for some time because of this and other factors, but successive governments restructured it from highly protectionist and regulated to one of the freest in the world, and the country now has many more trading partners.\n\nThe population of New Zealand is approximately 4.2 million, with over 80% living in urban areas including Auckland, Wellington, Christchurch, Hamilton, and Dunedin. There is a great mix of ethnicities in the population, with Asians and Polynesians making up notable minorities in the majority Caucasian population. Christianity is the dominant religion, and English the most common language."
+                    },
+                    {
+                        "subtitle": "SOCIETY AND CULTURE",
+                        "description": "New Zealand is a harmonious and friendly society, unique in its identity. It is a multicultural fusion of Maori, Polynesian, Asian, and European cultures, and is recognised for a progressive humanitarian and pacifist stance, liberal politics, and world-leading social welfare. Cultural highlights include food and wine (and festivals celebrating these), outdoor activities and scenery, live music, a huge rugby tradition, and traditional Maori arts and crafts."
+                    },
+                    {
+                        "subtitle": "ECONOMY",
+                        "description": "New Zealand has a stable, healthy economy characterised by low inflation and steady growth, and a high standard of living. Over 50% of exports are agricultural products. The country is heavily dependent on free trade, and maintains a strong export industry with partners such as the United States, the U.K., Japan, and Australia. The dominant sector is agriculture and services, but manufacturing, construction and raw materials are also important. Tourism is also a major contributor to the economy; New Zealand is recognised around the world as being uniquely beautiful. The currency is the New Zealand Dollar."
+                    },
+                    {
+                        "subtitle": "GOVERNMENT",
+                        "description": "New Zealand is divided into 12 regions and 74 districts (15 of these are designated as cities) with a parliamentary system based on the British system, with special land legislation and courts for the Maori. It is a constitutional monarchy: Queen Elizabeth II is officially Queen of New Zealand, and she is represented by a Governor General, who ratifies all laws by the elected New Zealand parliament. New Zealand is a fully independent member of the Commonwealth."
+                    },
+                    {
+                        "subtitle": "LIVING CONDITIONS AND COST OF LIVING",
+                        "description": "Living conditions in New Zealand are very good due to its thriving economy, low crime rate, and relative lack of congestion and poverty. International indexes consistently place New Zealand high on their lists of good quality of life; for example, the 2009Â Legatum Institute Prosperity IndexÂ ranked New Zealand #1 in the world for social capital and #10 for overall prosperity.\n\nHousing in New Zealand is often more reasonable than that found in many parts of Asia, Europe, and North America. The government is active in supporting immigration, which includes helping people find good homes and suitable living conditions for their budgets.\n\nThe websiteÂ New Zealand EducatedÂ advises that tertiary students should budget for up to NZ$20,000 a year in living expenses, and provides the following indicative costs:",
+                        "list": "$100 to $200 a week for accommodation  \n50 cents to post a letter within New Zealand  \n$4.45 for a Big Mac at McDonald's  \nFree local phone calls from a home phone  \n$10 to $15 to go to the movies  $1.60 for a 1-stage bus fare  \nConsumer goods in New Zealand have lower levels of tax attached to them than is the case in many other OECD countries"
+                    }
+                ],
+                "fullView": "1"
+            },
+            "order": 1290
+        }
+    ]
+}
