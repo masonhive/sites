@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "id": 6670,
+            "component": "contactForm",
+            "component_id": 43,
+            "attributes": {
+                "id": "contact",
+                "address": "Lalitpur - 22, Chunikhel, Bungmati Nepal ",
+                "phone": "+977 - 9813364597",
+                "email": "mailforgaousik@gmail.com",
+                "working_time": "Sun - Fri, 9 AM - 6 PM (flexible)",
+                "enableContactDetail": "1",
+                "enableContactForm": "1",
+                "formTitle": "Make Enquiry",
+                "cta": "SEND",
+                "link": "#",
+                "siteMail": "mailforgaousik@gmail.com"
+            },
+            "order": 6
+        }
+    ]
+}

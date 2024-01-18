@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "name": "Products",
+            "id": 496,
+            "parent_menu_id": null,
+            "link": "/index",
+            "child": []
+        },
+        {
+            "name": "Solutions",
+            "id": 499,
+            "parent_menu_id": null,
+            "link": "/solutions",
+            "child": []
+        },
+        {
+            "name": "About Us ",
+            "id": 501,
+            "parent_menu_id": null,
+            "link": "/about",
+            "child": []
+        },
+        {
+            "name": "Contact Us",
+            "id": 558,
+            "parent_menu_id": null,
+            "link": "/contact",
+            "child": []
+        }
+    ]
+}
