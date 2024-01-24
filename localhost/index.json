@@ -53,7 +53,7 @@
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "container mbr-flex mbr-jc-c  flex-wrap grid-column-reverse mbr-align-item-c mbr-pb-5"
+                            "color": "container flex justify-center  flex-wrap flex-row-reverse items-center pb-5"
                         }
                     },
                     "contentWrap": {
