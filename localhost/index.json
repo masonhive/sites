@@ -15,7 +15,7 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-mono text-lg pt-3"
+                            "color": "font-mono text-4xl pt-3"
                         },
                         "content": "Empowering Business Growth with Digital Transformation",
                         "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}",
