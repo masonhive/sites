@@ -7,7 +7,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "",
+                        "color": "bg-black text-white",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -72,6 +72,79 @@
                 }
             },
             "order": 3
+        },
+        {
+            "id": 7013,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "What's the Next Step to StoryBrand Your Business?",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "How? Hire a StoryBrand Marketing Guide to create your small-business marketing plan.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-2xl pt-4 pb-10"
+                        }
+                    },
+                    "button": {
+                        "content": "Become a story Brand Guide",
+                        "link": "/about",
+                        "css": {
+                            "color": "text-xl p-4 bg-emerald-600 text-slate-200 rounded-lg hover:bg-sky-700 hover:text-slate-100"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Launch a StoryBrand Sales Funnel",
+                        "css": {
+                            "color": "text-6xl py-6 font-bold"
+                        },
+                        "inlineCss": "{\"fontFamily\": \"Montserrat\"}",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-32"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "col-start-3 col-span-7"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 4
         },
         {
             "id": 7012,
@@ -144,7 +217,7 @@
                     }
                 }
             },
-            "order": 4
+            "order": 5
         }
     ]
 }
