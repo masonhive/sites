@@ -1,31 +1,69 @@
 {
     "data": [
         {
-            "name": "Products",
-            "id": 496,
+            "name": " होमपेज",
+            "id": 85,
+            "parent_menu_id": null,
+            "link": "/agro",
+            "child": [
+                {
+                    "name": "home1",
+                    "id": 230,
+                    "parent_menu_id": 85,
+                    "link": "/home1",
+                    "child": []
+                }
+            ]
+        },
+        {
+            "name": "समाचार",
+            "id": 239,
+            "parent_menu_id": null,
+            "link": "/domain",
+            "child": [
+                {
+                    "name": "Domain Name Search",
+                    "id": 304,
+                    "parent_menu_id": 239,
+                    "link": "/domain-name-registration",
+                    "child": []
+                },
+                {
+                    "name": "Domain Transfer",
+                    "id": 315,
+                    "parent_menu_id": 239,
+                    "link": "/domain-transfer",
+                    "child": []
+                }
+            ]
+        },
+        {
+            "name": " जीवनशैली",
+            "id": 335,
+            "parent_menu_id": null,
+            "link": "/home1",
+            "child": []
+        },
+        {
+            "name": " मनोरन्जन",
+            "id": 348,
+            "parent_menu_id": null,
+            "link": "/cancerhome",
+            "child": [
+                {
+                    "name": "About Us",
+                    "id": 349,
+                    "parent_menu_id": 348,
+                    "link": "cancer_about",
+                    "child": []
+                }
+            ]
+        },
+        {
+            "name": "Home",
+            "id": 610,
             "parent_menu_id": null,
             "link": "/index",
-            "child": []
-        },
-        {
-            "name": "Solutions",
-            "id": 499,
-            "parent_menu_id": null,
-            "link": "/solutions",
-            "child": []
-        },
-        {
-            "name": "About Us ",
-            "id": 501,
-            "parent_menu_id": null,
-            "link": "/about",
-            "child": []
-        },
-        {
-            "name": "Contact Us",
-            "id": 558,
-            "parent_menu_id": null,
-            "link": "/contact",
             "child": []
         }
     ]

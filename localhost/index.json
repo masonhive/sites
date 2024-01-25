@@ -1,64 +1,62 @@
 {
     "data": [
         {
-            "id": 4623,
+            "id": 7006,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover vh-height mbr-flex mbr-align-item-c ",
+                        "color": "",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{ \"min-height\": \"70vh\"}"
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-4xl pt-3"
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
                         },
-                        "content": "Empowering Business Growth with Digital Transformation",
-                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}",
-                        "link": "",
-                        "aos": "zoom-in-up"
+                        "content": "What's the Next Step to StoryBrand Your Business?",
+                        "inlineCss": ""
                     },
                     "description": {
-                        "content": "",
+                        "content": "How? Hire a StoryBrand Marketing Guide to create your small-business marketing plan.",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-andada font-size-7"
+                            "color": "text-2xl pt-4 pb-10"
                         }
                     },
                     "button": {
-                        "content": "Learn More About Us",
-                        "link": "/about-us ",
+                        "content": "Become a story Brand Guide",
+                        "link": "/about",
                         "css": {
-                            "color": "btn clr-pl-7 mbr-pt-3"
+                            "color": "text-xl p-4 bg-emerald-600 text-slate-200 rounded-lg hover:bg-sky-700 hover:text-slate-100"
                         },
-                        "inlineCss": "{\"background\":\"#20561a\", \"border-radius\": \"20px 0px 20px 0px\"}"
+                        "inlineCss": ""
                     },
                     "caption": {
-                        "content": "We, <b> Gaousik Tech Solution Pvt. Ltd </b>, believe in harnessing the power of technology to make your visions a tangible reality.\nAs a tech startup, we specialize in bringing digital transformation to businesses of all sizes. Our team of experts leverages the latest Artificial Intelligence (AI) technology to streamline business processes, making them more efficient and effective. From website creation to core business services, we're dedicated to helping businesses grow and succeed. With our focus on innovation and customer satisfaction, we're poised to lead the way in digital transformation.\n\n",
+                        "content": "Launch a StoryBrand Sales Funnel",
                         "css": {
-                            "color": " font-size-7 mbr-py-3"
+                            "color": "text-6xl py-6 font-bold"
                         },
-                        "inlineCss": "{ \"color\": \"#4A4A4A\"}",
-                        "parseHtml": "1"
+                        "inlineCss": "{\"fontFamily\": \"Andada Pro\"}",
+                        "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//business-strategy-analytics.avif",
-                        "aos": "zoom-in-up"
+                        "content": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "container flex justify-center  flex-wrap flex-row-reverse items-center pb-5"
+                            "color": "grid grid-cols-12 text-left py-32"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-7 align-left"
+                            "color": "col-start-3 col-span-7"
                         }
                     },
                     "mainWrap": {
@@ -68,649 +66,85 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "mbr-col-md-5"
+                            "color": ""
                         }
                     }
                 }
             },
-            "order": 6
+            "order": 3
         },
         {
-            "id": 6450,
-            "component": "CardV2",
-            "component_id": 62,
+            "id": 7012,
+            "component": "TextV2",
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row clr-pl-7",
+                        "color": "",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\"}"
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand-wp.s3.us-west-1.amazonaws.com/wp-content/uploads/2023/03/close-sale.jpg)\"}"
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": " font-size-6 mbr-m-0 ",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
-                        "content": "We Empower Businesses with Simplified Technology Solutions",
+                        "content": "",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "",
+                        "content": "Want to clarify your message and build a marketing plan that works? Learn the StoryBrand Framework at your own pace in the comfort of your home or office with the online StoryBrand Messaging Course.",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                            "color": "text-2xl pt-4 pb-10"
                         }
                     },
                     "button": {
-                        "content": "",
-                        "link": "",
+                        "content": "Become a story Brand Guide",
+                        "link": "/about",
                         "css": {
-                            "color": ""
-                        }
+                            "color": "text-xl p-4 bg-emerald-600 text-slate-200 rounded-lg hover:bg-sky-700 hover:text-slate-100"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Watch the On-Demand Course To Help You Create a Clear Message that Works",
+                        "css": {
+                            "color": "text-6xl py-6 font-bold"
+                        },
+                        "inlineCss": "{\"fontFamily\": \"Montserrat\"}",
+                        "parseHtml": ""
                     },
                     "image": {
                         "content": ""
-                    },
-                    "caption": {
-                        "content": ""
-                    },
-                    "itemInfo": {
-                        "reverseDisplayOrder": "",
-                        "rowCounts": "3",
-                        "activateSlider": "1"
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container clr-pl-7 mbr-p-5"
+                            "color": "grid grid-cols-12 text-left py-32"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-center clr-pl-7"
+                            "color": "col-start-3 col-span-7"
                         }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"0px 0px 10px 10px\",\"padding\":\"0px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "font-size-7 mbr-m-0 clr-pl-7"
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": "{\"fontSize\":\"50px\"}"
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "mbr-col-md-4 mbr-flex grid-row mbr-col-sm-6"
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "css": {
-                            "color": "align-left clr-pl-7"
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": "container grid-column"
-                        }
-                    },
-                    "itemContentWrap": {
-                        "inlineCss": "{\"padding\":\"10px\"}"
-                    },
-                    "itemTitleWrap": {
-                        "css": {
-                            "color": "clr-pl-7"
-                        },
-                        "inlineCss": "{\"padding\":\"5px\"}"
                     },
                     "mainWrap": {
                         "css": {
                             "color": "container"
                         }
                     },
-                    "itemImageWrap": {
-                        "inlineCss": ""
-                    }
-                },
-                "itemList": [
-                    {
-                        "heading": "Website Design & Development",
-                        "parseHtml": "1",
-                        "image": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//corporate-meeting-employees-cartoon-characters-discussing-business-strategy-planning-further-actions-brainstorming-formal-communication-seminar-concept-illustration_335657-2035.avif",
-                        "aos": "fade-right"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//mis.jpeg",
-                        "heading": "Information Management System",
-                        "parseHtml": "1"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//business-strategy-analytics.avif",
-                        "heading": "Digital Marketing & Branding ",
-                        "parseHtml": "1",
-                        "aos": "fade-left"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//business-strategy-analytics.avif",
-                        "heading": "Mobile Applications ",
-                        "parseHtml": "1"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//benefits-of-integrated-healthcare-systems-3-1280x720.webp",
-                        "heading": "Health Care System Design",
-                        "parseHtml": "1"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//app_design.png",
-                        "heading": "Online Store & Ecommerce ",
-                        "parseHtml": "1"
-                    }
-                ]
-            },
-            "order": 7
-        },
-        {
-            "id": 6332,
-            "component": "CardV2",
-            "component_id": 62,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "font-family-poppins font-size-6 mbr-pt-3",
-                            "fontSize": "12px"
-                        },
-                        "content": "Leveraging Cutting-Edge Technology for Seamless Digital Transformation",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "caption": {
-                        "content": "We introduce the building blocks of transformation, empowering businesses to thrive in today's fast-paced digital landscape. With the use of cutting-edge technology, including microservices, we work to boost growth, cost-efficiency, security, and scalability, ensuring that our clients are always up-to-date with the latest advancements. Whether it's streamlining processes, upgrading systems, or enhancing security, we have the expertise and experience to help businesses reach their full potential and achieve a truly digital transformation.",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-raleway font-size-7 mbr-py-3"
-                        }
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container mbr-py-3"
-                        },
-                        "inlineCss": ""
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-12 align-center"
-                        }
-                    },
                     "imageWrap": {
                         "css": {
                             "color": ""
                         }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": "{\"color\": \"#20561a\",\"borderRadius\": \"20px\",\"padding\":\"15px\",\"box-shadow\":\"1px 1px 5px 0px\",\"margin-bottom\":\"30px\"}"
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "font-family-poppins font-size-7 mbr-pt-1"
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": "{\"fontSize\":\"50px\"}"
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "mbr-col-md-4 mbr-flex grid-row "
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "css": {
-                            "color": "align-left clr-pl-1"
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": "container grid-column"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container"
-                        },
-                        "inlineCss": "{\"border-radius\": \"25px 25px 0px 0px\", \"background\": \"linear-gradient(181deg, #72eb8647, transparent)\"}"
-                    },
-                    "itemImageWrap": {
-                        "inlineCss": "{\"width\": \"80px\", \"position\": \"relative\", \"left\": \"calc(50% - 40px)\"}"
-                    }
-                },
-                "itemList": [
-                    {
-                        "heading": "Pre-Build Software \n( Plug and Play )",
-                        "caption": "We've spent years learning about business needs and requirements. \nThrough our accumulated knowledge and experience, we have developed a set of tools and products that serve as the building blocks for business acceleration just a simple plug-and-play. Our products are based on a common understanding of what businesses need to succeed.",
-                        "parseHtml": "1",
-                        "aos": "zoom-in",
-                        "image": "https://static.thenounproject.com/png/3085693-200.png"
-                    },
-                    {
-                        "heading": "Custom Software\n ( As per Need )",
-                        "caption": " We are dedicated to understanding your business needs and providing tailored solutions to drive growth. With years of experience and expertise in both technology and business models, we are confident in our ability to enhance your operations with our knowledge and innovative tools. Whether you have a unique business idea or a well-established workflow, we are ready to work with you and help you reach new heights.",
-                        "image": "https://static.thenounproject.com/png/1555241-200.png"
-                    },
-                    {
-                        "heading": "Connecting the Dots",
-                        "caption": "Streamline your digital operations with seamless integration. Whether your business is already in the digital realm or needs a boost, we can help bridge the gap to success. Our services and microservices offer the support you need to achieve maximum efficiency. Let us handle your digital representation so you can focus on running your business",
-                        "aos": "zoom-in",
-                        "image": "https://static.thenounproject.com/png/252449-200.png"
-                    }
-                ]
-            },
-            "order": 9
-        },
-        {
-            "id": 6317,
-            "component": "TextV2",
-            "component_id": 61,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "container mbr-flex mbr-align-item-c ",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"padding-top\":\"60px\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "font-family-poppins font-size-7",
-                            "fontSize": "12px"
-                        },
-                        "content": "Empowering Business Growth with Digital Transformation",
-                        "inlineCss": "{\"color\":\"#20561a\"}"
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-poppins font-size-7"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//gts.png",
-                        "inlineCss": "{\"width\": \"200px\"}",
-                        "aos": "zoom-in-up"
-                    },
-                    "caption": {
-                        "content": "",
-                        "css": {
-                            "color": "font-family-poppins font-size-6"
-                        }
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-12 align-center"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-6"
-                        }
                     }
                 }
             },
-            "order": 10
-        },
-        {
-            "id": 6313,
-            "component": "TextV2",
-            "component_id": 61,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "mbr-flex mbr-align-item-c",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "font-family-poppins font-size-6 mbr-pt-6",
-                            "fontSize": "12px"
-                        },
-                        "content": "One-Stop-Digital-Solution",
-                        "inlineCss": "{\"color\":\"#20561a\"}",
-                        "aos": "zoom-in-left"
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": "https://img.freepik.com/free-vector/corporate-meeting-employees-cartoon-characters-discussing-business-strategy-planning-further-actions-brainstorming-formal-communication-seminar-concept-illustration_335657-2035.jpg?w=740&t=st=1673541186~exp=1673541786~hmac=784a6cae577f0e8a91b7d114b5ca128416ec26c71034d97dd944b7947d0a3d5c",
-                        "inlineCss": "",
-                        "aos": "zoom-in-right"
-                    },
-                    "caption": {
-                        "content": "We provide comprehensive digital services under one roof to help your organization thrive in the digital age. From consulting to execution, maintenance, and innovation, we have you covered. Partner with us and let us help you build on your core values and accelerate your success.",
-                        "css": {
-                            "color": "font-family-raleway font-size-7 mbr-pt-2"
-                        }
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-3 align-left  mbr-px-4"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-4 align-right"
-                        }
-                    }
-                }
-            },
-            "order": 11
-        },
-        {
-            "id": 6314,
-            "component": "TextV2",
-            "component_id": 61,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "mbr-flex mbr-align-item-c",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "font-family-poppins font-size-6 mbr-pt-6",
-                            "fontSize": "12px"
-                        },
-                        "content": "",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "Gaousik offers comprehensive solutions for digital transformation including web design, mobile app development, digital marketing, platform and SaaS offerings, and managed services with seamless integration. Our goal is to provide out-of-the-box solutions and create value for our partners and clients by delivering an end-to-end process that results in win-win situations",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-raleway font-size-7 mbr-pt-2"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np/business-strategy-analytics.avif",
-                        "inlineCss": "{\"width\":\"300px\"}",
-                        "css": {
-                            "color": ""
-                        },
-                        "aos": "zoom-in"
-                    },
-                    "caption": {
-                        "content": "Comprehensive Offering With Out of Box Mindset\n",
-                        "css": {
-                            "color": "font-family-poppins font-size-6 mbr-pt-6"
-                        },
-                        "aos": "zoom-in"
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column-reverse mbr-align-item-c "
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-4 align-left  mbr-px-4 align-right"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-4 align-left"
-                        }
-                    }
-                }
-            },
-            "order": 12
-        },
-        {
-            "id": 6315,
-            "component": "TextV2",
-            "component_id": 61,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "mbr-flex mbr-align-item-c",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "font-family-poppins font-size-6 mbr-pt-6",
-                            "fontSize": "12px"
-                        },
-                        "content": "Adding Massive Value to Your Business",
-                        "inlineCss": "",
-                        "aos": "zoom-in"
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": "https://img.freepik.com/premium-vector/financial-consultation-flat-editable-trendy-design_203633-1995.jpg?w=900",
-                        "inlineCss": "",
-                        "aos": "zoom-in"
-                    },
-                    "caption": {
-                        "content": "At Gaousik, our focus is to maximize value for all stakeholders, including end-users. We understand the importance of time and energy, and strive to use them wisely in our work. By partnering with us, you not only get your tasks completed but also receive valuable insights and support to enhance your business. Our expertise and knowledge base will help identify opportunities for increased efficiency and growth. Working with Gaousik is a sure way to add value to your business or workflow",
-                        "css": {
-                            "color": "font-family-raleway font-size-7 mbr-pt-2"
-                        }
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-4 align-left  mbr-px-4"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-4 align-right"
-                        }
-                    }
-                }
-            },
-            "order": 12
-        },
-        {
-            "id": 6316,
-            "component": "TextV2",
-            "component_id": 61,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "mbr-flex mbr-align-item-c",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "font-family-poppins font-size-6 mbr-pt-6",
-                            "fontSize": "12px"
-                        },
-                        "content": "Seamless Integrations",
-                        "inlineCss": "",
-                        "aos": "zoom-in"
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": "https://img.freepik.com/free-vector/business-intelligence-abstract-illustration-flat-style_335657-4554.jpg?t=st=1673541857~exp=1673542457~hmac=16104077279d702cbd05e46c74fff996ffceba780bf1bc80ad14c63b1aec5e7f",
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "aos": "zoom-in"
-                    },
-                    "caption": {
-                        "content": "Seamless integration is crucial for the success of any business. Attracting potential customers through multiple channels and converting them into loyal ones is crucial for business sustainability. These tasks are often handled by different services, tools, and channels, but effective integration is important for efficiency. We focus on delivering value as we help with seamless integration",
-                        "css": {
-                            "color": "font-family-raleway font-size-7 mbr-pt-2"
-                        }
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column-reverse mbr-align-item-c "
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-4 align-left  mbr-px-4 align-right"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-4 align-left"
-                        }
-                    }
-                }
-            },
-            "order": 13
+            "order": 4
         }
     ]
 }
