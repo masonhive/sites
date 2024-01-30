@@ -101,7 +101,7 @@
             "child": []
         },
         {
-            "name": "Gallery",
+            "name": "GALLERY",
             "id": 604,
             "parent_menu_id": null,
             "link": "/gallery",
