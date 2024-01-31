@@ -1,62 +1,209 @@
 {
     "data": [
         {
-            "id": 7006,
-            "component": "TextV2",
-            "component_id": 72,
+            "id": 6985,
+            "component": "NavV2",
+            "component_id": 67,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-black text-white",
+                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row",
                         "fontSize": "12px"
                     },
-                    "inlineCss": ""
+                    "inlineCss": "{\"background\":\"#fff\"}"
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-2xl py-2",
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
                             "fontSize": "12px"
                         },
-                        "content": "What's the Next Step to StoryBrand Your Business?",
+                        "content": "What our customers say",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "How? Hire a StoryBrand Marketing Guide to create your small-business marketing plan.",
+                        "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "text-2xl pt-4 pb-10"
+                            "color": "font-family-oxygen font-size-3 mbr-pt-1"
                         }
                     },
                     "button": {
-                        "content": "Become a story Brand Guide",
-                        "link": "/about",
+                        "content": "",
+                        "link": "",
                         "css": {
-                            "color": "text-xl p-4 bg-emerald-600 text-slate-200 rounded-lg hover:bg-sky-700 hover:text-slate-100"
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "Launch a StoryBrand Sales Funnel",
-                        "css": {
-                            "color": "text-6xl py-6 font-bold"
-                        },
-                        "inlineCss": "{\"fontFamily\": \"Andada Pro\"}",
-                        "parseHtml": ""
+                            "color": ""
+                        }
                     },
                     "image": {
                         "content": ""
+                    },
+                    "caption": {
+                        "content": "Here are some customers thought about Vigour Super Speciality Clinic and Diagnostic Centre as it is.\n\n\n"
+                    },
+                    "itemInfo": {
+                        "activateSlider": "1",
+                        "rowCounts": "3"
+                    },
+                    "logo": {
+                        "content": "Mason Hive",
+                        "logo": "",
+                        "css": {
+                            "color": "font-family-montserrat  font-size-5 mbr-pt-1"
+                        },
+                        "inlineCss": "{\"color\":\"#d6932e\", \"fontWeight\":\"600\"}"
+                    },
+                    "slogan": {
+                        "content": "Voice Of Motivation",
+                        "css": {
+                            "color": "font-family-andada font-size-7"
+                        }
+                    },
+                    "hamburger": {
+                        "icon": "GiHamburgerMenu",
+                        "css": {
+                            "color": "font-size-5"
+                        }
+                    },
+                    "menu": {
+                        "css": {
+                            "color": "font-size-7"
+                        },
+                        "inlineCss": "{\"fontWeight\":\"500\"}"
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "grid grid-cols-12 text-left py-32"
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "col-start-3 col-span-7"
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex align-center mbr-col-md-2"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 mbr-flex grid-row "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "flex grid-column"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    },
+                    "logoWrap": {
+                        "css": {
+                            "color": "mbr-col-md-2"
+                        }
+                    },
+                    "menuWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8"
+                        }
+                    }
+                },
+                "itemList": []
+            },
+            "order": 1
+        },
+        {
+            "id": 6984,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover vh-height mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{ \"min-height\": \"80vh\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-4  mbr-pt-3",
+                            "fontSize": "12px"
+                        },
+                        "content": "Build your website in minutes, not months.",
+                        "inlineCss": "{ \"color\": \"#000\"}"
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-andada font-size-7"
+                        }
+                    },
+                    "button": {
+                        "content": "Get Started",
+                        "link": "/about",
+                        "css": {
+                            "color": "btn clr-pl-7 mbr-pt-3"
+                        },
+                        "inlineCss": "{\"background\":\"#20561a\", \"border-radius\": \"20px 0px 20px 0px\"}"
+                    },
+                    "caption": {
+                        "content": "Create Beautiful and blazing fast funnels & websites with our Drag and Drop page builder, without ever touching a line of code.",
+                        "css": {
+                            "color": "font-family-raleway font-size-7 mbr-py-5"
+                        },
+                        "inlineCss": "{ \"color\": \"#4A4A4A\"}",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://content.app-sources.com/s/00551309621827894/uploads/Images/Untitled_43_1-3645638.png"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "container mbr-flex mbr-jc-c  flex-wrap grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6 align-left"
                         }
                     },
                     "mainWrap": {
@@ -66,7 +213,7 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": ""
+                            "color": "mbr-col-md-6"
                         }
                     }
                 }
@@ -74,62 +221,62 @@
             "order": 3
         },
         {
-            "id": 7013,
+            "id": 7002,
             "component": "TextV2",
-            "component_id": 72,
+            "component_id": 71,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "",
+                        "color": "bg-cover vh-height mbr-flex mbr-align-item-c ",
                         "fontSize": "12px"
                     },
-                    "inlineCss": ""
+                    "inlineCss": "{ \"min-height\": \"80vh\"}"
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-2xl py-2",
+                            "color": "font-family-poppins font-size-4  mbr-pt-3",
                             "fontSize": "12px"
                         },
-                        "content": "What's the Next Step to StoryBrand Your Business?",
-                        "inlineCss": ""
+                        "content": "Turning Vision into Reality - Digital Transformation",
+                        "inlineCss": "{ \"color\": \"#000\"}"
                     },
                     "description": {
-                        "content": "How? Hire a StoryBrand Marketing Guide to create your small-business marketing plan.",
+                        "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "text-2xl pt-4 pb-10"
+                            "color": "font-family-andada font-size-7"
                         }
                     },
                     "button": {
-                        "content": "Become a story Brand Guide",
+                        "content": "Learn More About Us",
                         "link": "/about",
                         "css": {
-                            "color": "text-xl p-4 bg-emerald-600 text-slate-200 rounded-lg hover:bg-sky-700 hover:text-slate-100"
+                            "color": "btn clr-pl-7 mbr-pt-3"
                         },
-                        "inlineCss": ""
+                        "inlineCss": "{\"background\":\"#20561a\", \"border-radius\": \"20px 0px 20px 0px\"}"
                     },
                     "caption": {
-                        "content": "Launch a StoryBrand Sales Funnel",
+                        "content": "We are tech startup digitizing visions to real world usable product & services. \nWe are dedicated to deliver digital transformation to any business  aligned with core value of business.  We use cutting edge technology with Artificial Intelligence (AI). <b>Gaousik Tech Solution Pvt. Ltd </b> is helping grow businesses turning business process & services more effective and efficient.",
                         "css": {
-                            "color": "text-6xl py-6 font-bold"
+                            "color": "font-family-raleway font-size-7 mbr-py-5"
                         },
-                        "inlineCss": "{\"fontFamily\": \"Montserrat\"}",
-                        "parseHtml": ""
+                        "inlineCss": "{ \"color\": \"#4A4A4A\"}",
+                        "parseHtml": "1"
                     },
                     "image": {
-                        "content": ""
+                        "content": "https://www.ethercloudservices.com/wp-content/uploads/2022/12/promotionalImage.png"
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "grid grid-cols-12 text-left py-32"
+                            "color": "container mbr-flex mbr-jc-c  flex-wrap grid-column-reverse"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "col-start-3 col-span-7"
+                            "color": "mbr-col-md-8 align-left"
                         }
                     },
                     "mainWrap": {
@@ -139,85 +286,12 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": ""
+                            "color": "mbr-col-md-4"
                         }
                     }
                 }
             },
             "order": 4
-        },
-        {
-            "id": 7012,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand-wp.s3.us-west-1.amazonaws.com/wp-content/uploads/2023/03/close-sale.jpg)\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2",
-                            "fontSize": "12px"
-                        },
-                        "content": "",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "Want to clarify your message and build a marketing plan that works? Learn the StoryBrand Framework at your own pace in the comfort of your home or office with the online StoryBrand Messaging Course.",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-2xl pt-4 pb-10"
-                        }
-                    },
-                    "button": {
-                        "content": "Become a story Brand Guide",
-                        "link": "/about",
-                        "css": {
-                            "color": "text-xl p-4 bg-emerald-600 text-slate-200 rounded-lg hover:bg-sky-700 hover:text-slate-100"
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "Watch the On-Demand Course To Help You Create a Clear Message that Works",
-                        "css": {
-                            "color": "text-6xl py-6 font-bold"
-                        },
-                        "inlineCss": "{\"fontFamily\": \"Montserrat\"}",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "grid grid-cols-12 text-left py-32"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "col-start-3 col-span-7"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    }
-                }
-            },
-            "order": 5
         }
     ]
 }
