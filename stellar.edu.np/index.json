@@ -1,916 +1,331 @@
 {
     "data": [
         {
-            "id": 7049,
-            "component": "CardV2",
-            "component_id": 62,
+            "id": 1743,
+            "component": "bannerSlider",
+            "component_id": 2,
             "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": " truncate",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"fontFamily\":\"Outfit\",\"height\":\"60vh\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "",
-                            "fontSize": "12px"
-                        },
-                        "content": "",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "caption": {
-                        "content": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemInfo": {
-                        "reverseDisplayOrder": "",
-                        "activateSlider": "1",
-                        "rowCounts": "1",
-                        "isBanner": "1",
-                        "autoPlay": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "items-center"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": "flex flex-col "
-                        },
-                        "inlineCss": ""
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "flex flex-col  text-5xl py-2 text-slate-800"
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": ""
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "md:col-span-12 "
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "css": {
-                            "color": "text-xl py-2 text-slate-800"
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemContentWrap": {
-                        "inlineCss": "{\"height\":\"60vh\"}",
-                        "css": {
-                            "color": "absolute  w-full absolute z-10 bg-slate-200/50  items-center justify-center flex flex-col"
-                        }
-                    },
-                    "itemTitleWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemImageWrap": {
-                        "css": {
-                            "color": "h-3/6"
-                        }
-                    },
-                    "itemButtonWrap": {
-                        "css": {
-                            "color": "bg-indigo-700\trounded-full px-5 py-3 text-white"
-                        }
-                    }
-                },
-                "itemList": [
+                "color": "#fff",
+                "contentAlign": "center",
+                "slider": [
                     {
-                        "image": "https://www.idp.com/medias/pswbanner.jpg?context=bWFzdGVyfHJvb3R8NzczNDl8aW1hZ2UvanBlZ3xhRFV5TDJnek5TODVPVEEzT1RJd05EQTBOVEV3TG1wd1p3fGVkZGY5NTdiNGVmNTA0N2Q2MTI3NzZiZmI4NjViNmY3OWJmYWUxYjIzNGQ5ZDMyMzU1MWY0YWUxNmVjMzk4ZjQ",
-                        "heading": "Study In  CANADA",
-                        "caption": "We’ve helped 60,000+ students turn their dreams into reality, for FREE!*",
-                        "button": "Get Started For Free",
-                        "parseHtml": "1"
+                        "img": "https://www.globalreach.in/images/banner/slider.jpg",
+                        "title": "PLANNING TO STUDY ABROAD?",
+                        "backgroundColor": "#ff000080",
+                        "subTitle": "LET'S MAKE IT EASIER FOR YOU",
+                        "contentAlign": "center"
                     },
                     {
-                        "image": "https://www.idp.com/medias/Aus-VF-banner-Feb.jpg?context=bWFzdGVyfHJvb3R8Nzc4MjB8aW1hZ2UvanBlZ3xhRGt6TDJoa01TOHhNVEk1TVRRNE1ETTVNVGN4TUM5QmRYTXRWa1l0WW1GdWJtVnlMVVpsWWk1cWNHY3w0NmQ5NmZjYmVhMzRjZTJhNzc4NmUzODIzMDVmNjI4ZDBiMTM2YTVlNzg1OTk3NjEwODEwMjY3N2MxZmQ0NmNj",
-                        "heading": "Nepal's leading study abroad consultants",
-                        "caption": "We’ve helped 60,000+ students turn their dreams into reality, for FREE!*",
-                        "button": "Detail About Australia"
+                        "img": "https://www.linkpicture.com/q/slider1_1.jpg",
+                        "title": "MAKE YOURSELF AT HOME IN OUR HOTEL. ",
+                        "backgroundColor": "#684694ab",
+                        "buttonBackgroundColor": "#684694ab",
+                        "cat": "Book Accommodation",
+                        "link": "/accommodations"
+                    },
+                    {
+                        "img": "https://www.linkpicture.com/q/slider2_1.jpg",
+                        "backgroundColor": "#445ac780",
+                        "title": "PREP SMARTER - SCORE HIGHER",
+                        "subTitle": "GRE GMAT SAT IELTS TOFEL"
                     }
-                ]
+                ],
+                "maxWidth": "600px",
+                "titleColor": "#fff",
+                "sliderHeight": "60vh"
             },
-            "order": 3
+            "order": 1260
         },
         {
-            "id": 7051,
-            "component": "CardV2",
-            "component_id": 62,
+            "id": 1744,
+            "component": "text",
+            "component_id": 1,
             "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2 text-slate-800",
-                            "fontSize": "12px"
-                        },
-                        "content": "",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "caption": {
-                        "content": "",
-                        "css": {
-                            "color": "text-2xl py-2 text-slate-800"
-                        }
-                    },
-                    "itemInfo": {
-                        "reverseDisplayOrder": "",
-                        "activateSlider": "",
-                        "rowCounts": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "flex flex-col"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": "flex flex-row items-center justify-center"
-                        },
-                        "inlineCss": ""
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "text-xl"
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-xl px-3"
-                        }
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "md:col-span-4 mx-5"
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "css": {
-                            "color": "align-left"
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": "container m-auto bg-slate-200 rounded-full py-8"
-                        }
-                    },
-                    "itemContentWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-left items-center justify-center flex"
-                        }
-                    },
-                    "itemTitleWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container items-center m-auto -mt-10 relative"
-                        }
-                    }
-                },
-                "itemList": [
-                    {
-                        "heading": "Step One. Clearify Your Message",
-                        "icon": "AiFillCustomerService"
-                    },
-                    {
-                        "heading": "Step Two: Launch a sales funnel",
-                        "icon": "AiFillSound"
-                    },
-                    {
-                        "heading": "Step Three: Watch Revenue ",
-                        "icon": "AiFillCustomerService"
-                    }
-                ]
+                "cta": [],
+                "contentList": [],
+                "img": "https://mail.ijli.com.np/uploads/stellar-logo.png",
+                "contactInfo": [],
+                "imageMaxWidth": "600px"
             },
-            "order": 4
+            "order": 1262
         },
         {
-            "id": 7055,
-            "component": "CardV2",
-            "component_id": 62,
+            "id": 1745,
+            "component": "text",
+            "component_id": 1,
             "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-4xl py-2 text-slate-800",
-                            "fontSize": "12px"
-                        },
-                        "content": "When you use StoryBrand, Revenue Goes Up.",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "caption": {
-                        "content": "You read Building a StoryBrand and then wondered… what’s next? Just understanding the StoryBrand Framework doesn’t help your bottom line. It’s time to implement StoryBrand in your business.",
-                        "css": {
-                            "color": "text-xl py-2 text-slate-800"
-                        }
-                    },
-                    "itemInfo": {
-                        "reverseDisplayOrder": "",
-                        "activateSlider": "",
-                        "rowCounts": "3"
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "grid-cols-5 grid"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "col-span-3 col-start-2"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": "flex flex-col "
-                        },
-                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "text-2xl py-3"
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": "{\"fontSize\":\"50px\"}"
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "md:col-span-4 mx-10"
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "css": {
-                            "color": "align-left"
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": "container m-auto px-20"
-                        }
-                    },
-                    "itemContentWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-center md:p-5"
-                        }
-                    },
-                    "itemTitleWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": "{\"padding\":\"5px\"}"
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container py-20 items-center m-auto"
-                        }
-                    },
-                    "itemImageWrap": {
-                        "css": {
-                            "color": "px-6"
-                        }
-                    }
-                },
-                "itemList": [
-                    {
-                        "heading": "CLARIFY YOUR MESSAGE",
-                        "parseHtml": "1",
-                        "image": "https://storybrand.com/wp-content/uploads/2022/09/1-bs-no-ds.png",
-                        "caption": "Take the online course or work with a StoryBrand Guide to create a clear marketing message."
-                    },
-                    {
-                        "image": "https://storybrand-wp.s3.us-west-1.amazonaws.com/wp-content/uploads/2023/03/sales-funnel.png",
-                        "heading": "LAUNCH A SALES FUNNEL",
-                        "caption": "Get landing pages, lead generators, and email sequences that turn strangers into paying customers.",
-                        "parseHtml": "1"
-                    },
-                    {
-                        "image": "https://storybrand.com/wp-content/uploads/2022/09/3.png",
-                        "heading": "WATCH SALES COME IN",
-                        "caption": "When you clarify your message and launch an effective sales funnel, orders will skyrocket and your business will grow.",
-                        "parseHtml": "1"
-                    }
-                ]
+                "alignContent": "column-center",
+                "cta": [],
+                "contentList": [],
+                "alignImg": "top",
+                "subheading": "Stellar International Education, one of the reliable consultancy companies, with a team of expert professionals in the field of abroad studies and document processing.\nWe provide you best counselling and assistance to any of your stages for abroad study plans.",
+                "fontSize": "14px",
+                "contactInfo": []
             },
-            "order": 5
+            "order": 1263
         },
         {
-            "id": 7056,
-            "component": "CardV2",
-            "component_id": 62,
+            "id": 1746,
+            "component": "cards",
+            "component_id": 5,
             "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2 text-slate-800",
-                            "fontSize": "12px"
-                        },
-                        "content": "Wherever you want to go, we'll get you there.",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "caption": {
-                        "content": "Explore the best study destinations in the world! Learn all about the countries' top universities, scholarships, cost of living, post-study work rights and more",
-                        "css": {
-                            "color": "text-sm py-2 text-slate-800"
-                        }
-                    },
-                    "itemInfo": {
-                        "reverseDisplayOrder": "",
-                        "activateSlider": "",
-                        "rowCounts": "3"
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "flex flex-col"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": "flex flex-col "
-                        },
-                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-6 mbr-m-0 "
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": "{\"fontSize\":\"50px\"}"
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "md:col-span-4 mx-5"
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "css": {
-                            "color": "align-left"
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": "container m-auto px-20"
-                        }
-                    },
-                    "itemContentWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-left md:p-5"
-                        }
-                    },
-                    "itemTitleWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": "{\"padding\":\"5px\"}"
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container py-10 items-center m-auto"
-                        }
-                    }
-                },
                 "itemList": [
                     {
-                        "heading": "Study In UK",
-                        "parseHtml": "1",
-                        "image": "https://www.aeccglobal.com.np/images/2023/08/14/uk-5.webp",
-                        "button": "Learn More"
+                        "imageWrap": "1",
+                        "cardColor": "#fff",
+                        "img": "https://cdn1.i-scmp.com/sites/default/files/topics/2017/07/27/1-1_australia_topic_image.jpg",
+                        "cat": "Study in Australia",
+                        "title": "AUSTRALIA",
+                        "width": "300px",
+                        "titleMargin": "-140px 0 0 0 ",
+                        "link": "/australia",
+                        "btnColor": "#fff",
+                        "cardOverflowMargin": "1",
+                        "titleColor": "#fff"
                     },
                     {
-                        "image": "https://www.aeccglobal.com.np/images/2023/08/14/canada-4.webp",
-                        "heading": "Study In UK",
-                        "parseHtml": "1",
-                        "button": "Learn More"
+                        "title": "NEW ZEALAND",
+                        "imageWrap": "1",
+                        "cardColor": "red",
+                        "cardBgColor": "#0a8355",
+                        "titleColor": "#fff",
+                        "img": "https://d11bzj7xhj1mue.cloudfront.net/wp-content/uploads/2019/05/Study-Newzealand.jpg",
+                        "cat": "STUDY IN NEW ZEALAND",
+                        "width": "300px",
+                        "link": "new-zealand",
+                        "titleMargin": "-140px 0 0 0 ",
+                        "cardOverflowMargin": "1",
+                        "btnColor": "#fff"
                     },
                     {
-                        "image": "https://www.aeccglobal.com.np/images/2023/08/14/australia-13.webp",
-                        "heading": "Study In UK",
-                        "parseHtml": "1",
-                        "button": "Learn More"
+                        "title": "USA",
+                        "img": "https://d11bzj7xhj1mue.cloudfront.net/wp-content/uploads/2019/05/Study-USA-1.jpg",
+                        "cat": "STUDY IN NEW USA",
+                        "titleMargin": "-140px 0 0 0 ",
+                        "cardBgColor": "#0a8355",
+                        "titleColor": "#fff",
+                        "imageWrap": "1",
+                        "cardOverflowMargin": "1",
+                        "link": "usa",
+                        "width": "300px",
+                        "btnColor": "#fff"
                     },
                     {
-                        "image": "https://www.aeccglobal.com.np/images/2023/08/14/canada-4.webp",
-                        "heading": "Study In UK",
-                        "parseHtml": "1",
-                        "button": "Learn More"
+                        "title": "UK",
+                        "imageWrap": "1",
+                        "img": "https://d11bzj7xhj1mue.cloudfront.net/wp-content/uploads/2019/05/Study-in-UK.jpg",
+                        "cat": "STUDY IN UK",
+                        "titleMargin": "-140px 0 0 0 ",
+                        "cardOverflowMargin": "1",
+                        "link": "uk",
+                        "width": "300px",
+                        "btnColor": "#fff",
+                        "titleColor": "#fff"
                     },
                     {
-                        "image": "https://www.aeccglobal.com.np/images/2023/08/14/australia-13.webp",
-                        "heading": "Study In UK",
-                        "parseHtml": "1",
-                        "button": "Learn More"
-                    },
-                    {
-                        "image": "https://www.aeccglobal.com.np/images/2023/08/14/uk-5.webp",
-                        "heading": "Study In UK",
-                        "parseHtml": "1",
-                        "button": "Learn More"
+                        "title": "CANADA",
+                        "cat": "Study in Canada",
+                        "link": "/canada",
+                        "imageWrap": "1",
+                        "cardOverflowMargin": "1",
+                        "btnColor": "#fff",
+                        "width": "300px",
+                        "img": "https://i.ibb.co/S5hmyFy/canada.png",
+                        "titleColor": "#fff"
                     }
-                ]
+                ],
+                "contactInfo": [],
+                "titleColor": "#fff",
+                "imgAuthorPosition": "bottom"
             },
-            "order": 6
+            "order": 1264
         },
         {
-            "id": 7057,
-            "component": "CardV2",
-            "component_id": 62,
+            "id": 1747,
+            "component": "cards",
+            "component_id": 5,
             "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2 text-slate-800",
-                            "fontSize": "12px"
-                        },
-                        "content": "Top education consultancy in Nepal, truly!",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "caption": {
-                        "content": "",
-                        "css": {
-                            "color": "text-2xl py-2 text-slate-800"
-                        }
-                    },
-                    "itemInfo": {
-                        "reverseDisplayOrder": "",
-                        "activateSlider": "",
-                        "rowCounts": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "flex flex-col"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": "flex flex-col "
-                        },
-                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-6 mbr-m-0 "
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": "{\"fontSize\":\"50px\"}"
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "md:col-span-4 mx-5"
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "css": {
-                            "color": "align-left"
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": "container m-auto px-20"
-                        }
-                    },
-                    "itemContentWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-left md:p-5"
-                        }
-                    },
-                    "itemTitleWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": "{\"padding\":\"5px\"}"
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container py-10 items-center m-auto"
-                        }
-                    }
-                },
                 "itemList": [
                     {
-                        "heading": "Getting into a University in USA is much easier to dream than reality, I was baffled for a couple of month with the information on \"How to get into Top Ranked Institutes\" over the internet. The whole thing went smoothly from Admissions to Visa at Stellar Education.",
-                        "icon": "FaQuoteLeft",
-                        "caption": "Raman Rai"
+                        "img": "https://i.ibb.co/N3p6Z83/s.webp",
+                        "title": "Language classes",
+                        "caption": "We offer language courses in English, Spanish, Italian, and Japanese. Whether you are studying or working abroad, or simply want to explore different cultures, you will find online courses to help you. "
                     },
                     {
-                        "heading": "Getting into a University in USA is much easier to dream than reality, I was baffled for a couple of month with the information on \"How to get into Top Ranked Institutes\" over the internet. The whole thing went smoothly from Admissions to Visa at Stellar Education.",
-                        "caption": "Raman Rai",
-                        "icon": "FaQuoteLeft"
+                        "img": "https://i.ibb.co/99nF4wC/237607852-438310724117792-2078568371613716132-n.jpg",
+                        "title": "Visa Processing",
+                        "caption": "Our counselors do a great deal of hand-holding to make sure students understand the application process because we know it can be overwhelming for them. We provide step-by-step guidance along with documentation and information about the institutions that we represent."
                     },
                     {
-                        "heading": "Getting into a University in USA is much easier to dream than reality, I was baffled for a couple of month with the information on \"How to get into Top Ranked Institutes\" over the internet. The whole thing went smoothly from Admissions to Visa at Stellar Education.",
-                        "caption": "Raman Rai",
-                        "icon": "FaQuoteLeft"
+                        "img": "https://www.linkpicture.com/q/131448891_1734277003393424_2691819501524871048_n.jpg",
+                        "title": "Test Preparation",
+                        "caption": "With a variety of  preparation options, you're sure to succeed. You can get expert advice, score practice tests to check if you're ready, or choose from a range of other test preparation resources, including free online courses."
+                    },
+                    {
+                        "caption": "Our network of accommodation providers helps students choose from a variety of options based on what suits them best with the guidance of their Counselor. They can also provide assistance in applying upon making the decision.",
+                        "title": "Accommodations",
+                        "img": "https://s3.ap-southeast-1.amazonaws.com/assets.amberstudent.com/inventories/132031/1d62991d.jpg",
+                        "width": "300px"
+                    },
+                    {
+                        "title": "Scholarship Application Assistance",
+                        "caption": "Each university has its own eligibility criteria for scholarships, so most offer some form of financial aid. By providing information and assistance to those interested in applying for scholarships or other financial aid, such as those available to international students, we guide them.\n",
+                        "img": "https://www.ktj.edu.my/userfiles/ktjmvc/images/news/thumbnails/How-to-apply-to-scholarships.jpg"
+                    },
+                    {
+                        "title": "Health Cover",
+                        "caption": "What do you need to know about the Australian healthcare system?\n\nGetting sick or injured in a new country can be confusing and scary, and sometimes it’s hard to know where to go or what to do. KIEC Global team is there to help you know how to get help should you or your family need it while you’re here.",
+                        "img": "https://i.ibb.co/c1KSYP3/238247383-238105058241280-9114399828669955856-n.jpg"
                     }
-                ]
+                ],
+                "cardMaxWidth": "300px",
+                "bgImg": "https://images.pexels.com/photos/5054348/pexels-photo-5054348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "bgColor": "#fff",
+                "cardPadding": "40px 0px",
+                "cardContentAlign": "left",
+                "parallax": "1",
+                "fontSize": "14px",
+                "contactInfo": [],
+                "title": "What We Offer"
             },
-            "order": 7
+            "order": 1276
         },
         {
-            "id": 7058,
-            "component": "CardV2",
-            "component_id": 62,
+            "id": 1748,
+            "component": "cards",
+            "component_id": 5,
             "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "",
-                            "fontSize": "12px"
-                        },
-                        "content": "",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "caption": {
-                        "content": "Study at Leading Universities",
-                        "css": {
-                            "color": "text-2xl py-2 text-slate-800"
-                        }
-                    },
-                    "itemInfo": {
-                        "reverseDisplayOrder": "",
-                        "activateSlider": "",
-                        "rowCounts": "4"
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "flex flex-col"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": "flex flex-col "
-                        },
-                        "inlineCss": ""
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-6 mbr-m-0 "
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": "{\"fontSize\":\"50px\"}"
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "md:col-span-3 mx-5 my-5"
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "css": {
-                            "color": "align-left"
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": "container m-auto px-20"
-                        }
-                    },
-                    "itemContentWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemTitleWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": "{\"padding\":\"5px\"}"
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container py-10 items-center m-auto"
-                        }
-                    }
-                },
+                "title": "Testimonials",
                 "itemList": [
                     {
-                        "image": "https://www.idp.com/medias/1.-The-Australian-National-University.jpg?context=bWFzdGVyfGltYWdlc3w0NTIwMHxpbWFnZS9qcGVnfGFEa3pMMmd4T0M4eE1EVXdOVGM1TXpreU9USTBOaTh4TGlCVWFHVWdRWFZ6ZEhKaGJHbGhiaUJPWVhScGIyNWhiQ0JWYm1sMlpYSnphWFI1TG1wd1p3fGU3NzYxYWY0M2EwOWViNWUwYzAzMTBmNjZiYmMxYTZkZGIyMjkwMjJmZjcxMmRiYjFmNjU4NmMzYTAxMjkxYzA"
+                        "img": "https://i.ibb.co/N18J75r/asdfgh.png",
+                        "cardBgColor": "#e6e4ec52",
+                        "caption": "Getting into a University in USA is much easier to dream than reality, I was baffled for a couple of month with the information on \"How to get into Top Ranked Institutes\" over the internet. The whole thing went smoothly from Admissions to Visa at Stellar Education.",
+                        "borderRadius": "50%",
+                        "author": "Shandhya",
+                        "width": "200px"
                     },
                     {
-                        "image": "https://www.idp.com/medias/Exceslia.jpg?context=bWFzdGVyfHJvb3R8MzAyMTd8aW1hZ2UvanBlZ3xhRFV6TDJnM1ppODVPVEEzT1RBNE1ERTRNakEyTG1wd1p3fDJkNDU0ODVhMDQxZGJmZTM1YTk1MzZjNTZhOGM4ZGQ3ODZkYjhjNmVlZTA5NzBiYjIzMjMyNjMyMjIwZDZkOWQ"
+                        "width": "200px",
+                        "cardBgColor": "#e6e4ec52",
+                        "img": "https://i.ibb.co/Q9dMqNM/1633007370719-alisha.webp",
+                        "caption": "I would like to thank Stellar Education for making my study abroad dream come true. They\nconstantly supported and guided me in finding the right course according to my area of\ninterest.",
+                        "borderRadius": "50%",
+                        "author": "Alisha"
                     },
                     {
-                        "image": "https://www.idp.com/medias/Tafe.jpg?context=bWFzdGVyfGltYWdlc3wyMTQ0MXxpbWFnZS9qcGVnfGFHUXlMMmd4Tnk4eE1EVXdOVGM1TXprNU5EYzRNaTlVWVdabExtcHdad3xmYjI2NTYzMWM1YTVkZTQ4YzZlNDRhOWRmOGU3ZTYxMGQzOWIwM2FiMDFkMzIwMmM5YWJlODM4YWUzYjk3MWEy"
+                        "img": "https://i.ibb.co/TmcFsgM/1630483070890-laxman.png",
+                        "width": "200px",
+                        "cardBgColor": "#e6e4ec52",
+                        "caption": "As I have gap in studies, I thought it is very difficult for me to go abroad for studies but Stellar\nEducation guided through each step of the admission process. I would like to thank Stellar for\nmaking my dream come true.&quot;",
+                        "borderRadius": "50%",
+                        "author": "Laxman"
                     },
                     {
-                        "image": "https://www.idp.com/medias/Waterloo.jpg?context=bWFzdGVyfGltYWdlc3wyMzQzN3xpbWFnZS9qcGVnfGFHVmhMMmd6TWk4eE1EVXdOVGM1TkRBMk1ETXhPQzlYWVhSbGNteHZieTVxY0djfDcxYjYwMmNmZjAyYzM5YzUwNWZkYTNjNzUyM2Y0NTU5NzMzZjkzMDRkY2ZhMjk3YWJkZWI2NDkxODM1ZmY0ZjU"
+                        "img": "https://i.ibb.co/ZcMQxbM/1630483906587-dolma.png",
+                        "width": "200px",
+                        "cardBgColor": "#e6e4ec52",
+                        "caption": "Im really thankful to all the teachers who constantly helped me during my coaching in the\nmodules like speaking and writing by making me practice each and every question and solving\nmy queries. I would definitely nominate Stellar Education to every student who is looking for\nabroad study.",
+                        "borderRadius": "50%",
+                        "author": "Dolma"
                     },
                     {
-                        "image": "https://www.idp.com/medias/La-Trobe-University.jpg?context=bWFzdGVyfGltYWdlc3wxNTQ4MHxpbWFnZS9qcGVnfGFEa3lMMmd4WWk4eE1EVXdOVGM1TXpnMk16Y3hNQzlNWVMxVWNtOWlaUzFWYm1sMlpYSnphWFI1TG1wd1p3fDJjZDllZTE2MGIwMjI3Y2FmOWViYmM3ZTNkNWJjOTMyODQwMTIxZDU5Y2M4YTNlMzYyODQxNWNiYmUzNzQ2ZjU"
+                        "img": "https://i.ibb.co/8rQT6yc/1630483722502-jenisha.webp",
+                        "width": "200px",
+                        "cardBgColor": "#e6e4ec52",
+                        "caption": "“The counselors at Stellar Education Consultants are very helpful and helped me gain Australia\nstudent visa. Today, I&#39;m very happy and would recommend them to each and every student.”",
+                        "borderRadius": "50%",
+                        "author": "Jenisha"
                     },
                     {
-                        "image": "https://www.idp.com/medias/La-Trobe-University.jpg?context=bWFzdGVyfGltYWdlc3wxNTQ4MHxpbWFnZS9qcGVnfGFEa3lMMmd4WWk4eE1EVXdOVGM1TXpnMk16Y3hNQzlNWVMxVWNtOWlaUzFWYm1sMlpYSnphWFI1TG1wd1p3fDJjZDllZTE2MGIwMjI3Y2FmOWViYmM3ZTNkNWJjOTMyODQwMTIxZDU5Y2M4YTNlMzYyODQxNWNiYmUzNzQ2ZjU"
+                        "img": "https://i.ibb.co/yB314nT/1630484104123-sumi.png",
+                        "width": "200px",
+                        "cardBgColor": "#e6e4ec52",
+                        "caption": "Stellar Education helping me score 7.5 bands in IELTS examination. I would sincerely thank all\nthe faculties for being extremely co-operative in solving my doubts along with clearing my\nconcepts in a very comprehensive manner. The faculties are extremely experienced and really\nfriendly to be around. I would recommend\nStellar Education for IELTS coaching.”",
+                        "borderRadius": "50%",
+                        "author": "Sumi"
+                    }
+                ],
+                "cardMaxWidth": "350px",
+                "maxWidth": "500px",
+                "flexDirection": "column-reverse",
+                "display": "flex",
+                "cardContentAlign": "column-reverse",
+                "itemSize": "3",
+                "sideInfo": [],
+                "imgAuthorPosition": "bottom",
+                "contactInfo": [],
+                "activateSlider": "1"
+            },
+            "order": 1309
+        },
+        {
+            "id": 1749,
+            "component": "milestones",
+            "component_id": 32,
+            "attributes": {
+                "bgImg": "https://demo.keonthemes.com/gutener/demo103/wp-content/uploads/sites/4/2020/06/gutener-medical-img8-1200-800.jpg",
+                "bgColor": "#1E0F6B",
+                "color": "#000",
+                "milestones": [
+                    {
+                        "icon": "leanpub",
+                        "number": "8 + yrs",
+                        "title": "Years of Service"
                     },
                     {
-                        "image": "https://www.idp.com/medias/La-Trobe-University.jpg?context=bWFzdGVyfGltYWdlc3wxNTQ4MHxpbWFnZS9qcGVnfGFEa3lMMmd4WWk4eE1EVXdOVGM1TXpnMk16Y3hNQzlNWVMxVWNtOWlaUzFWYm1sMlpYSnphWFI1TG1wd1p3fDJjZDllZTE2MGIwMjI3Y2FmOWViYmM3ZTNkNWJjOTMyODQwMTIxZDU5Y2M4YTNlMzYyODQxNWNiYmUzNzQ2ZjU"
+                        "icon": "people",
+                        "number": "5000 +",
+                        "title": "Students Served"
                     },
                     {
-                        "image": "https://www.idp.com/medias/Waterloo.jpg?context=bWFzdGVyfGltYWdlc3wyMzQzN3xpbWFnZS9qcGVnfGFHVmhMMmd6TWk4eE1EVXdOVGM1TkRBMk1ETXhPQzlYWVhSbGNteHZieTVxY0djfDcxYjYwMmNmZjAyYzM5YzUwNWZkYTNjNzUyM2Y0NTU5NzMzZjkzMDRkY2ZhMjk3YWJkZWI2NDkxODM1ZmY0ZjU"
+                        "icon": "people",
+                        "number": "70K +",
+                        "title": "Engaged in Social Media"
                     },
                     {
-                        "image": "https://www.idp.com/medias/Tafe.jpg?context=bWFzdGVyfGltYWdlc3wyMTQ0MXxpbWFnZS9qcGVnfGFHUXlMMmd4Tnk4eE1EVXdOVGM1TXprNU5EYzRNaTlVWVdabExtcHdad3xmYjI2NTYzMWM1YTVkZTQ4YzZlNDRhOWRmOGU3ZTYxMGQzOWIwM2FiMDFkMzIwMmM5YWJlODM4YWUzYjk3MWEy"
+                        "icon": "awards",
+                        "number": "15 +",
+                        "title": "Agent Certifications"
                     },
                     {
-                        "image": "https://www.idp.com/medias/Exceslia.jpg?context=bWFzdGVyfHJvb3R8MzAyMTd8aW1hZ2UvanBlZ3xhRFV6TDJnM1ppODVPVEEzT1RBNE1ERTRNakEyTG1wd1p3fDJkNDU0ODVhMDQxZGJmZTM1YTk1MzZjNTZhOGM4ZGQ3ODZkYjhjNmVlZTA5NzBiYjIzMjMyNjMyMjIwZDZkOWQ"
+                        "icon": "leanpub",
+                        "number": "200+",
+                        "title": "Partner Institution"
                     }
                 ]
             },
-            "order": 8
+            "order": 1310
+        },
+        {
+            "id": 1754,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "contentList": [],
+                "cta": []
+            },
+            "order": 1314
+        },
+        {
+            "id": 1752,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "contentList": [],
+                "cta": []
+            },
+            "order": 1512
+        },
+        {
+            "id": 2285,
+            "component": "facebookMessengerChat",
+            "component_id": 47,
+            "attributes": {
+                "pageId": "193744734113333",
+                "appId": "AhzXWyMJr1ov8UdOCmMjFx8"
+            },
+            "order": 1519
         }
     ]
 }
