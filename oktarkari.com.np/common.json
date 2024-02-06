@@ -1,1 +1,375 @@
-
+{
+    "data": [
+        {
+            "id": 4622,
+            "component": "base",
+            "component_id": 30,
+            "attributes": {
+                "fontFamily": "Poppins",
+                "fontSize": "15px",
+                "common_component": "1"
+            },
+            "order": 3
+        },
+        {
+            "id": 6307,
+            "component": "NavV2",
+            "component_id": 67,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "What our customers say",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Here are some customers thought about Vigour Super Speciality Clinic and Diagnostic Centre as it is.\n\n\n"
+                    },
+                    "itemInfo": {
+                        "activateSlider": "1",
+                        "rowCounts": "3"
+                    },
+                    "logo": {
+                        "content": "",
+                        "logo": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//gts.png",
+                        "css": {
+                            "color": "font-family-montserrat  font-size-5 mbr-pt-1"
+                        },
+                        "inlineCss": "{\"color\":\"#d6932e\", \"fontWeight\":\"600\",\"width\":\"120px\"}"
+                    },
+                    "slogan": {
+                        "content": "",
+                        "css": {
+                            "color": "font-family-andada font-size-7"
+                        }
+                    },
+                    "hamburger": {
+                        "icon": "GiHamburgerMenu",
+                        "css": {
+                            "color": "font-size-5"
+                        }
+                    },
+                    "menu": {
+                        "css": {
+                            "color": "font-size-7"
+                        },
+                        "inlineCss": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex align-center mbr-col-md-2"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 mbr-flex grid-row "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "flex grid-column"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    },
+                    "logoWrap": {
+                        "css": {
+                            "color": "mbr-col-md-3"
+                        },
+                        "inlineCss": "{\"text-align\":\"left\"}"
+                    },
+                    "menuWrap": {
+                        "css": {
+                            "color": "mbr-col-md-9"
+                        },
+                        "inlineCss": "{\"background\":\"#20561a\", \"color\":\"#fff\", \"borderRadius\":\"0 20px 0px 20px\"}"
+                    }
+                },
+                "itemList": [],
+                "common_component": "1"
+            },
+            "order": 5
+        },
+        {
+            "id": 6461,
+            "component": "seo",
+            "component_id": 36,
+            "attributes": {
+                "txt": "SEO Text",
+                "description": "Gaousik Tech Solution Pvt. Ltd  is helping grow businesses turning business process & services more effective and efficient.",
+                "title": "Gaousik Tech Solution Pvt. Ltd |  Empowering Business Growth with Digital Transformation",
+                "image": "https://drive.google.com/uc?id=1O-KremFdgGhazdHy64EJf7RmRV9wJ15L",
+                "keywords": "Digital Transformation, website, mobile app, digital transformation, technology, business, software company, startups, gaousik, gaousik tech solution",
+                "common_component": "1"
+            },
+            "order": 55
+        },
+        {
+            "id": 6325,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row clr-pl-7",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"background\": \"#20561a\", \"padding-top\": \"60px\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "itemInfo": {
+                        "rowCounts": "4"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-7 align-left"
+                        },
+                        "inlineCss": "{\"fontWeight\":\"bold\"}"
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"30px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "mbr-col-md-3 mbr-flex grid-row mbr-col-sm-12"
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "grid-column "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "inlineCss": "{\"textAlign\":\"left\"}"
+                    }
+                },
+                "itemList": [
+                    {
+                        "parseHtml": "1",
+                        "heading": "Gaousik Tech Solution Pvt. Ltd",
+                        "caption": "Turning Vision into Reality - Digital Transformation,\n\nWe Simplify Technology- and Propel Businesses Forward"
+                    },
+                    {
+                        "heading": "Solutions",
+                        "caption": "<a href=\"/contact\">Website Design & Development</a>\n\n<a href=\"/contact\">Web App & Mobile App</a>\n\n<a href=\"/contact\">System Designs</a>\n\n<a href=\"/contact\">Our SaaS Products</a>",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "caption": "<a href=\"/about-us\">About us</a>\n\n<a href=\"/contact-us\">Contact us</a>\n\n<a href=\"/contact\">Partnerships</a>\n\n<a href=\"/\">Home</a>",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "Address",
+                        "caption": "Lalitpur - 22, Chunikhel, Bungmati Nepal \n\nMobile: +977 - 9813364597\n\nEmail : mailforgaousik@gmail.com"
+                    }
+                ],
+                "common_component": "1"
+            },
+            "order": 56
+        },
+        {
+            "id": 6335,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c  clr-pl-7",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"background\": \"#20561a\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "© Copyright 2023, <a href=\"https://gaousik.com.np\">Gaousik Tech Solution Pvt. Ltd</a>\nDesigned And Developed via <a href=\"\">MasonHive.</a>",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "mbr-pt-1"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container "
+                        }
+                    }
+                },
+                "common_component": "1"
+            },
+            "order": 57
+        }
+    ]
+}
