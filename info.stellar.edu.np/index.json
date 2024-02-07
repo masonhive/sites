@@ -463,7 +463,7 @@
                         "color": "",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}"
+                    "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Poppins\"}"
                 },
                 "keyComponents": {
                     "heading": {
