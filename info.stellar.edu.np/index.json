@@ -10,7 +10,7 @@
                         "color": "",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"fontFamily\":\"Lato\"}"
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                 },
                 "keyComponents": {
                     "heading": {
@@ -309,7 +309,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "",
+                        "color": "text-center",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -460,7 +460,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "",
+                        "color": "text-center",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Poppins\"}"
@@ -624,7 +624,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "",
+                        "color": "text-center",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -767,7 +767,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "",
+                        "color": "text-center",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}"
