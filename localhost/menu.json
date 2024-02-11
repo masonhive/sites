@@ -1,3 +1,89 @@
 {
-    "data": []
+    "data": [
+        {
+            "name": "About Us",
+            "id": 611,
+            "parent_menu_id": null,
+            "link": "/about",
+            "child": []
+        },
+        {
+            "name": "Student Services",
+            "id": 612,
+            "parent_menu_id": null,
+            "link": "/student-services",
+            "child": []
+        },
+        {
+            "name": "Study Abroad",
+            "id": 613,
+            "parent_menu_id": null,
+            "link": "/study-abroad",
+            "child": [
+                {
+                    "name": "Study In Australia",
+                    "id": 619,
+                    "parent_menu_id": 613,
+                    "link": "/study-australia",
+                    "child": []
+                },
+                {
+                    "name": "Study In Newzealand",
+                    "id": 620,
+                    "parent_menu_id": 613,
+                    "link": "/study-newzealand",
+                    "child": []
+                },
+                {
+                    "name": "Study In USA",
+                    "id": 621,
+                    "parent_menu_id": 613,
+                    "link": "/study-usa",
+                    "child": []
+                },
+                {
+                    "name": "Study In Cananda",
+                    "id": 622,
+                    "parent_menu_id": 613,
+                    "link": "/study-canada",
+                    "child": []
+                },
+                {
+                    "name": "Study In UK",
+                    "id": 623,
+                    "parent_menu_id": 613,
+                    "link": "/study-uk",
+                    "child": []
+                }
+            ]
+        },
+        {
+            "name": "Test Preparation",
+            "id": 614,
+            "parent_menu_id": null,
+            "link": "/test-preparation",
+            "child": []
+        },
+        {
+            "name": "Success Stories",
+            "id": 615,
+            "parent_menu_id": null,
+            "link": "/success-stories",
+            "child": []
+        },
+        {
+            "name": "Contact Us",
+            "id": 616,
+            "parent_menu_id": null,
+            "link": "/contact-us",
+            "child": []
+        },
+        {
+            "name": "Upcoming Events",
+            "id": 617,
+            "parent_menu_id": null,
+            "link": "/events",
+            "child": []
+        }
+    ]
 }
