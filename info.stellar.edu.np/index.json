@@ -7,7 +7,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "",
+                        "color": "font-light text-white",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -74,7 +74,7 @@
                     },
                     "itemSectionWrap": {
                         "css": {
-                            "color": "md:absolute z-10 bg-slate-200/20 h-full w-full items-center justify-center flex flex-col bg-sky-200  py-10 top-0"
+                            "color": "md:absolute z-10 bg-slate-200/20 h-full w-full justify-center flex flex-col bg-sky-200  py-10 top-0 md:px-32"
                         },
                         "inlineCss": ""
                     },
@@ -85,7 +85,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "text-3xl py-3 text-slate-800  text-left"
+                            "color": "text-3xl py-3  text-left "
                         }
                     },
                     "itemIconWrap": {
@@ -98,7 +98,7 @@
                     },
                     "itemCaptionWrap": {
                         "css": {
-                            "color": "text-xl pb-10 text-slate-800 "
+                            "color": "text-xl pb-10 "
                         }
                     },
                     "itemContainerWrap": {
@@ -109,7 +109,7 @@
                     "itemContentWrap": {
                         "inlineCss": "",
                         "css": {
-                            "color": "flex flex-start flex-col text-left w-3/6"
+                            "color": "flex flex-start flex-col text-left w-3/6 text-white"
                         }
                     },
                     "itemTitleWrap": {
@@ -136,22 +136,9 @@
                 },
                 "itemList": [
                     {
-                        "image": "https://jwojalapaceramic.com/wp-content/uploads/2022/07/jc-banner11.jpg",
-                        "heading": "Quality Handmade Products",
-                        "caption": "All our products are hand made and we are focused on the best quality.\nAll our products are hand made and we are focused on the best quality.\nAll our products are hand made and we are focused on the best quality.",
-                        "button": "Get Started For Free"
-                    },
-                    {
-                        "image": "https://www.idp.com/medias/pswbanner.jpg?context=bWFzdGVyfHJvb3R8NzczNDl8aW1hZ2UvanBlZ3xhRFV5TDJnek5TODVPVEEzT1RJd05EQTBOVEV3TG1wd1p3fGVkZGY5NTdiNGVmNTA0N2Q2MTI3NzZiZmI4NjViNmY3OWJmYWUxYjIzNGQ5ZDMyMzU1MWY0YWUxNmVjMzk4ZjQ",
-                        "heading": "Study In  AUSTRALIA",
-                        "caption": "We’ve helped 60,000+ students turn their dreams into reality, for FREE!* We’ve helped 60,000+ students turn their dreams into reality, for FREE!* We’ve helped 60,000+ students turn their dreams into reality, for FREE!* We’ve helped 60,000+ students turn their dreams into reality, for FREE!*",
-                        "parseHtml": "1",
-                        "button": "Get Started For Free"
-                    },
-                    {
-                        "image": "https://www.idp.com/medias/pswbanner.jpg?context=bWFzdGVyfHJvb3R8NzczNDl8aW1hZ2UvanBlZ3xhRFV5TDJnek5TODVPVEEzT1RJd05EQTBOVEV3TG1wd1p3fGVkZGY5NTdiNGVmNTA0N2Q2MTI3NzZiZmI4NjViNmY3OWJmYWUxYjIzNGQ5ZDMyMzU1MWY0YWUxNmVjMzk4ZjQ",
-                        "heading": "Study In  CANADA",
-                        "caption": "We’ve helped 60,000+ students turn their dreams into reality, for FREE!* We’ve helped 60,000+ students turn their dreams into reality, for FREE!* We’ve helped 60,000+ students turn their dreams into reality, for FREE!* We’ve helped 60,000+ students turn their dreams into reality, for FREE!*",
+                        "image": "https://www.idp.com/medias/Carousal-Canada-Banner-New-Sep.jpg?context=bWFzdGVyfHJvb3R8MTExNTQ2fGltYWdlL2pwZWd8YURSbEwyZzRNQzh4TVRRMU5EWXlNRFk1TmpZd05pOURZWEp2ZFhOaGJDMURZVzVoWkdFdFFtRnVibVZ5TFU1bGR5MVRaWEF1YW5CbnxhYzBjODNlODNiMjdiYTdlMWIwODEwNDEyMWVlNTNiMGM5ODc5ZjIzMzA1MjY0NjA2ZjYwMzZhNTU5ZDBkN2Qx",
+                        "heading": "Seeking expert guidance for your study abroad aspirations? Look no further.",
+                        "caption": "Empower your global ambitions with personalized guidance on your study abroad journey",
                         "parseHtml": "1",
                         "button": "Get Started For Free"
                     }
@@ -264,7 +251,7 @@
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "container m-auto bg-slate-200 md:rounded-full py-4 "
+                            "color": "container m-auto bg-indigo-600 md:rounded-full py-2 text-yellow-400"
                         }
                     },
                     "itemContentWrap": {
@@ -287,16 +274,16 @@
                 },
                 "itemList": [
                     {
-                        "heading": "Step One. Clearify Your Message",
-                        "icon": "AiFillCustomerService"
+                        "heading": "Step 1. Schedule a Consultation",
+                        "icon": "FaPhoneAlt"
                     },
                     {
-                        "heading": "Step Two: Launch a sales funnel",
-                        "icon": "AiFillSound"
+                        "heading": "Step 2. Meet Your Advisor",
+                        "icon": "FaHandsHelping"
                     },
                     {
-                        "heading": "Step Three: Watch Revenue ",
-                        "icon": "AiFillCustomerService"
+                        "heading": "Step 3. Receive Personalized Guidance",
+                        "icon": "FaPaperPlane"
                     }
                 ]
             },
@@ -317,10 +304,10 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-4xl py-2 text-slate-800",
+                            "color": "text-2xl py-2 text-slate-800",
                             "fontSize": "12px"
                         },
-                        "content": "When you use StoryBrand, Revenue Goes Up. test",
+                        "content": "When you meet Nepal's leading study abroad consultant",
                         "inlineCss": ""
                     },
                     "description": {
@@ -331,7 +318,7 @@
                         }
                     },
                     "button": {
-                        "content": "Become a Story ",
+                        "content": "Begin Happy Journey to Abroad Study ",
                         "link": "",
                         "css": {
                             "color": "bg-indigo-700\trounded-full px-5 py-3 text-white"
@@ -341,9 +328,9 @@
                         "content": ""
                     },
                     "caption": {
-                        "content": "You read Building a StoryBrand and then wondered… what’s next? Just understanding the StoryBrand Framework doesn’t help your bottom line. It’s time to implement StoryBrand in your business.",
+                        "content": " We offer a comprehensive roadmap tailored to each student's needs and goals. This plan includes assistance with university selection, application support, visa guidance, scholarship and financial aid resources, and pre-departure orientation to prepare students for their new academic and cultural experiences.",
                         "css": {
-                            "color": "text-xl py-2 text-slate-800"
+                            "color": "text-lg py-2 text-slate-500"
                         }
                     },
                     "itemInfo": {
@@ -386,7 +373,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "text-2xl py-3"
+                            "color": "text-2xl py-3 text-yellow-700"
                         }
                     },
                     "itemIconWrap": {
@@ -399,7 +386,7 @@
                     },
                     "itemCaptionWrap": {
                         "css": {
-                            "color": "align-left"
+                            "color": "align-left text-indigo-700"
                         }
                     },
                     "itemContainerWrap": {
@@ -432,21 +419,21 @@
                 },
                 "itemList": [
                     {
-                        "heading": "CLARIFY YOUR MESSAGE",
+                        "heading": "Schedule a Consultation",
                         "parseHtml": "1",
                         "image": "https://storybrand.com/wp-content/uploads/2022/09/1-bs-no-ds.png",
-                        "caption": "Take the online course or work with a StoryBrand Guide to create a clear marketing message."
+                        "caption": "Reach out to one of our expert consultants and schedule a consultation to discuss your aspirations, concerns, and goals. "
                     },
                     {
                         "image": "https://storybrand-wp.s3.us-west-1.amazonaws.com/wp-content/uploads/2023/03/sales-funnel.png",
-                        "heading": "LAUNCH A SALES FUNNEL",
-                        "caption": "Get landing pages, lead generators, and email sequences that turn strangers into paying customers.",
+                        "heading": "Meet Your Advisor\n",
+                        "caption": "Attend the consultation and meet your dedicated advisor, share your academic interests, desired destinations, and preferences for studying abroad. We will begin crafting a customized plan to help you achieve your study abroad goals",
                         "parseHtml": "1"
                     },
                     {
                         "image": "https://storybrand.com/wp-content/uploads/2022/09/3.png",
-                        "heading": "WATCH SALES COME IN",
-                        "caption": "When you clarify your message and launch an effective sales funnel, orders will skyrocket and your business will grow.",
+                        "heading": "Receive Personalized Guidance",
+                        "caption": "After the consultation, we will continue to provide ongoing support and guidance throughout the study abroad process from selecting suitable universities and programs to navigating the application process, securing scholarships, and preparing for departure.",
                         "parseHtml": "1"
                     }
                 ]
@@ -460,10 +447,10 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "text-center",
+                        "color": "text-center bg-yellow-50",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Poppins\"}"
+                    "inlineCss": "{\"fontFamily\":\"Poppins\"}"
                 },
                 "keyComponents": {
                     "heading": {
@@ -526,9 +513,9 @@
                     },
                     "itemSectionWrap": {
                         "css": {
-                            "color": "flex flex-col "
+                            "color": "flex flex-col bg-indigo-200 my-10 rounded-lg"
                         },
-                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
+                        "inlineCss": ""
                     },
                     "itemHeadingWrap": {
                         "css": {
@@ -572,7 +559,7 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container py-10 items-center m-auto px-5"
+                            "color": "container py-16 items-center m-auto px-5"
                         }
                     }
                 },
@@ -690,9 +677,9 @@
                     },
                     "itemSectionWrap": {
                         "css": {
-                            "color": "flex flex-col "
+                            "color": "flex flex-col border-solid border border-indigo-600"
                         },
-                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
+                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\", \"margin\":\"20px 0px\"}"
                     },
                     "itemHeadingWrap": {
                         "css": {
@@ -701,11 +688,15 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "font-family-andada font-size-6 mbr-m-0 "
-                        }
+                            "color": "text-lg"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Khula\"}"
                     },
                     "itemIconWrap": {
-                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                        "inlineCss": "{\"fontSize\":\"50px\"}",
+                        "css": {
+                            "color": "text-yellow-500 pt-4 pl-4"
+                        }
                     },
                     "itemRowWrap": {
                         "css": {
@@ -714,8 +705,9 @@
                     },
                     "itemCaptionWrap": {
                         "css": {
-                            "color": "align-left"
-                        }
+                            "color": "align-left py-3"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
                     "itemContainerWrap": {
                         "css": {
@@ -742,7 +734,7 @@
                 },
                 "itemList": [
                     {
-                        "heading": "Getting into a University in USA is much easier to dream than reality, I was baffled for a couple of month with the information on \"How to get into Top Ranked Institutes\" over the internet. The whole thing went smoothly from Admissions to Visa at Stellar Education.",
+                        "heading": "My decision to study in New Zealand was one of the best I've ever made, and SIE played a crucial role in making it happen. Their team provided exceptional support throughout the entire process, from helping me choose the right university to guiding me through the visa application process. Thanks to their expertise and personalized assistance, I am now thriving in my studies in New Zealand, surrounded by a welcoming community and breathtaking landscapes. I am immensely grateful to SIE for making my dream of studying abroad a reality.",
                         "icon": "FaQuoteLeft",
                         "caption": "Raman Rai"
                     },
@@ -752,7 +744,7 @@
                         "icon": "FaQuoteLeft"
                     },
                     {
-                        "heading": "Getting into a University in USA is much easier to dream than reality, I was baffled for a couple of month with the information on \"How to get into Top Ranked Institutes\" over the internet. The whole thing went smoothly from Admissions to Visa at Stellar Education.",
+                        "heading": "Studying abroad seemed like a daunting task until I connected with SIE. From the moment I reached out, they provided unwavering support and guidance that made the entire process feel manageable. Thanks to their expertise, I was able to navigate the complexities of applying to universities in the USA seamlessly. Their personalized approach ensured that I found the perfect fit for my academic and personal goals. Now, as I embark on my journey here in the USA, I am forever grateful for SIE's invaluable assistance. I highly recommend them to anyone considering studying abroad",
                         "caption": "Raman Rai",
                         "icon": "FaQuoteLeft"
                     }
@@ -917,157 +909,6 @@
                 ]
             },
             "order": 14
-        },
-        {
-            "id": 7080,
-            "component": "CardV2",
-            "component_id": 62,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-blue-900 text-white",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "",
-                            "fontSize": "12px"
-                        },
-                        "content": "",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
-                        },
-                        "parseHtml": "1"
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "image": {
-                        "content": "https://mail.ijli.com.np/uploads/stellar-logo.png"
-                    },
-                    "itemInfo": {
-                        "rowCounts": "3"
-                    },
-                    "caption": {
-                        "content": "Stellar International Education is one of the leading consultancy for abroad study. "
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "md:col-span-2 text-left col-span-12"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-12 align-center"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "text-xl text-white"
-                        },
-                        "inlineCss": ""
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": "{\"fontSize\":\"30px\"}"
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "flex md:col-span-4 col-span-12 md:justify-center m-3 px-10 "
-                        },
-                        "inlineCss": ""
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto py-8 px-2 grid grid-cols-12"
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": "md:col-span-10  col-span-12"
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "flex flex-col text-sm text-slate-300"
-                        }
-                    },
-                    "itemContentWrap": {
-                        "css": {
-                            "color": "text-left"
-                        }
-                    }
-                },
-                "itemList": [
-                    {
-                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
-                        "parseHtml": "1",
-                        "heading": "About Us"
-                    },
-                    {
-                        "heading": "Quick Links",
-                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
-                        "parseHtml": "1"
-                    },
-                    {
-                        "heading": "Courses Abroad",
-                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
-                        "parseHtml": "1"
-                    },
-                    {
-                        "heading": "Quick Links",
-                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
-                        "parseHtml": "1"
-                    },
-                    {
-                        "heading": "Courses Abroad",
-                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
-                        "parseHtml": "1"
-                    },
-                    {
-                        "heading": "About Us",
-                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
-                        "parseHtml": "1"
-                    }
-                ],
-                "common_component": "1"
-            },
-            "order": 26
         },
         {
             "id": 7081,
