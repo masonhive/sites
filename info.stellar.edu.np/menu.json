@@ -1,3 +1,60 @@
 {
-    "data": []
+    "data": [
+        {
+            "name": "About",
+            "id": 611,
+            "parent_menu_id": null,
+            "link": "/about",
+            "child": []
+        },
+        {
+            "name": "Student Services",
+            "id": 612,
+            "parent_menu_id": null,
+            "link": "/student-services",
+            "child": []
+        },
+        {
+            "name": "Study Abroad",
+            "id": 613,
+            "parent_menu_id": null,
+            "link": "/study-abroad",
+            "child": []
+        },
+        {
+            "name": "Test Preparation",
+            "id": 614,
+            "parent_menu_id": null,
+            "link": "/test-preparation",
+            "child": []
+        },
+        {
+            "name": "Success Stories",
+            "id": 615,
+            "parent_menu_id": null,
+            "link": "/success-stories",
+            "child": []
+        },
+        {
+            "name": "Contact Us",
+            "id": 616,
+            "parent_menu_id": null,
+            "link": "/contact-us",
+            "child": []
+        },
+        {
+            "name": "Upcoming Events",
+            "id": 617,
+            "parent_menu_id": null,
+            "link": "/events",
+            "child": []
+        },
+        {
+            "name": "Blogs",
+            "id": 618,
+            "parent_menu_id": null,
+            "link": "/blogs",
+            "child": []
+        }
+    ]
 }
