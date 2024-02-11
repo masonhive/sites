@@ -538,7 +538,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": ""
+                            "color": "text-orange-200"
                         }
                     },
                     "itemIconWrap": {
@@ -581,38 +581,28 @@
                     {
                         "heading": "Study In UK",
                         "parseHtml": "1",
-                        "image": "https://www.aeccglobal.com.np/images/2023/08/14/uk-5.webp",
-                        "button": "Learn More"
+                        "image": "https://www.aeccglobal.com.np/images/2023/08/14/uk-5.webp"
                     },
                     {
                         "image": "https://www.aeccglobal.com.np/images/2023/08/14/canada-4.webp",
-                        "heading": "Study In UK",
-                        "parseHtml": "1",
-                        "button": "Learn More"
+                        "heading": "Study In UK"
                     },
                     {
                         "image": "https://www.aeccglobal.com.np/images/2023/08/14/australia-13.webp",
-                        "heading": "Study In UK",
-                        "parseHtml": "1",
-                        "button": "Learn More"
+                        "heading": "Study In UK"
                     },
                     {
                         "image": "https://www.aeccglobal.com.np/images/2023/08/14/canada-4.webp",
-                        "heading": "Study In UK",
-                        "parseHtml": "1",
-                        "button": "Learn More"
-                    },
-                    {
-                        "image": "https://www.aeccglobal.com.np/images/2023/08/14/australia-13.webp",
-                        "heading": "Study In UK",
-                        "parseHtml": "1",
-                        "button": "Learn More"
+                        "heading": "Study In UK"
                     },
                     {
                         "image": "https://www.aeccglobal.com.np/images/2023/08/14/uk-5.webp",
                         "heading": "Study In UK",
-                        "parseHtml": "1",
-                        "button": "Learn More"
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://www.aeccglobal.com.np/images/2023/08/14/canada-4.webp",
+                        "heading": "Study In UK"
                     }
                 ]
             },
