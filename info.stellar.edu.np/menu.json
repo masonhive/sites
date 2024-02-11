@@ -48,13 +48,6 @@
             "parent_menu_id": null,
             "link": "/events",
             "child": []
-        },
-        {
-            "name": "Blogs",
-            "id": 618,
-            "parent_menu_id": null,
-            "link": "/blogs",
-            "child": []
         }
     ]
 }
