@@ -332,7 +332,7 @@
                         }
                     },
                     "button": {
-                        "content": "Begin Happy Journey to Abroad Study ",
+                        "content": "Schedule A Consultation ",
                         "link": "",
                         "css": {
                             "color": "bg-indigo-700\trounded-full px-5 py-3 text-white"
@@ -633,7 +633,7 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-2xl py-2 text-slate-800",
+                            "color": "text-2xl py-5 text-slate-800",
                             "fontSize": "12px"
                         },
                         "content": "Top education consultancy in Nepal, truly!",
@@ -691,9 +691,9 @@
                     },
                     "itemSectionWrap": {
                         "css": {
-                            "color": "flex flex-col border-solid border border-indigo-600"
+                            "color": "flex flex-col bg-indigo-500 text-stone-100 rounded-lg text-sm "
                         },
-                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\", \"margin\":\"20px 0px\"}"
+                        "inlineCss": ""
                     },
                     "itemHeadingWrap": {
                         "css": {
@@ -725,7 +725,7 @@
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "container m-auto px-20"
+                            "color": "container m-auto px-10 py-4"
                         }
                     },
                     "itemContentWrap": {

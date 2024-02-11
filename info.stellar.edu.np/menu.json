@@ -19,7 +19,43 @@
             "id": 613,
             "parent_menu_id": null,
             "link": "/study-abroad",
-            "child": []
+            "child": [
+                {
+                    "name": "Study In Australia",
+                    "id": 619,
+                    "parent_menu_id": 613,
+                    "link": "/study-australia",
+                    "child": []
+                },
+                {
+                    "name": "Study In Newzealand",
+                    "id": 620,
+                    "parent_menu_id": 613,
+                    "link": "/study-newzealand",
+                    "child": []
+                },
+                {
+                    "name": "Study In USA",
+                    "id": 621,
+                    "parent_menu_id": 613,
+                    "link": "/study-usa",
+                    "child": []
+                },
+                {
+                    "name": "Study In Cananda",
+                    "id": 622,
+                    "parent_menu_id": 613,
+                    "link": "/study-canada",
+                    "child": []
+                },
+                {
+                    "name": "Study In UK",
+                    "id": 623,
+                    "parent_menu_id": 613,
+                    "link": "/study-uk",
+                    "child": []
+                }
+            ]
         },
         {
             "name": "Test Preparation",
