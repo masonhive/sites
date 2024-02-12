@@ -4,7 +4,7 @@
             "name": "About Us",
             "id": 611,
             "parent_menu_id": null,
-            "link": "/about",
+            "link": "/about-us",
             "child": []
         },
         {
@@ -12,7 +12,36 @@
             "id": 612,
             "parent_menu_id": null,
             "link": "/student-services",
-            "child": []
+            "child": [
+                {
+                    "name": "Health Cover",
+                    "id": 624,
+                    "parent_menu_id": 612,
+                    "link": "/health-cover",
+                    "child": []
+                },
+                {
+                    "name": "Student Accomodation",
+                    "id": 625,
+                    "parent_menu_id": 612,
+                    "link": "/student-accomodation",
+                    "child": []
+                },
+                {
+                    "name": "Admission Counseling",
+                    "id": 626,
+                    "parent_menu_id": 612,
+                    "link": "/admission-counseling",
+                    "child": []
+                },
+                {
+                    "name": "Student Visa Service",
+                    "id": 627,
+                    "parent_menu_id": 612,
+                    "link": "/visa-services",
+                    "child": []
+                }
+            ]
         },
         {
             "name": "Study Abroad",
@@ -62,7 +91,29 @@
             "id": 614,
             "parent_menu_id": null,
             "link": "/test-preparation",
-            "child": []
+            "child": [
+                {
+                    "name": "IELTS",
+                    "id": 628,
+                    "parent_menu_id": 614,
+                    "link": "/test-preparation-ielts",
+                    "child": []
+                },
+                {
+                    "name": "TOFEL",
+                    "id": 629,
+                    "parent_menu_id": 614,
+                    "link": "/test-preparation-tofel",
+                    "child": []
+                },
+                {
+                    "name": "PTE",
+                    "id": 630,
+                    "parent_menu_id": 614,
+                    "link": "/test-preparation-pte",
+                    "child": []
+                }
+            ]
         },
         {
             "name": "Success Stories",

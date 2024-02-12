@@ -304,7 +304,7 @@
                 ],
                 "common_component": "1"
             },
-            "order": 32
+            "order": 45
         },
         {
             "id": 7081,
@@ -378,7 +378,7 @@
                 },
                 "common_component": "1"
             },
-            "order": 33
+            "order": 46
         }
     ]
 }
