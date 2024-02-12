@@ -207,7 +207,8 @@
                         "link": "#why-study-in-australia"
                     },
                     {
-                        "caption": "Benifits"
+                        "caption": "Benifits",
+                        "link": "#benifits"
                     },
                     {
                         "caption": "Courses & Universities"
@@ -235,7 +236,8 @@
                         "color": "bg-cover",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}"
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}",
+                    "id": "why-study-in-australia"
                 },
                 "keyComponents": {
                     "heading": {
@@ -310,7 +312,8 @@
                         "color": "bg-cover",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}"
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}",
+                    "id": "benifits"
                 },
                 "keyComponents": {
                     "heading": {
