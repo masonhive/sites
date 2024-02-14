@@ -1,88 +1,83 @@
 {
     "data": [
         {
-            "name": "About Us",
-            "id": 611,
-            "parent_menu_id": null,
-            "link": "/about",
-            "child": []
-        },
-        {
             "name": "Student Services",
-            "id": 612,
+            "id": 85,
             "parent_menu_id": null,
-            "link": "/student-services",
-            "child": []
-        },
-        {
-            "name": "Study Abroad",
-            "id": 613,
-            "parent_menu_id": null,
-            "link": "/study-abroad",
+            "link": "",
             "child": [
                 {
-                    "name": "Study In Australia",
-                    "id": 619,
-                    "parent_menu_id": 613,
-                    "link": "/study-australia",
-                    "child": []
-                },
-                {
-                    "name": "Study In Newzealand",
-                    "id": 620,
-                    "parent_menu_id": 613,
-                    "link": "/study-newzealand",
-                    "child": []
-                },
-                {
-                    "name": "Study In USA",
-                    "id": 621,
-                    "parent_menu_id": 613,
-                    "link": "/study-usa",
-                    "child": []
-                },
-                {
-                    "name": "Study In Cananda",
-                    "id": 622,
-                    "parent_menu_id": 613,
-                    "link": "/study-canada",
-                    "child": []
-                },
-                {
-                    "name": "Study In UK",
-                    "id": 623,
-                    "parent_menu_id": 613,
-                    "link": "/study-uk",
+                    "name": "home1",
+                    "id": 230,
+                    "parent_menu_id": 85,
+                    "link": "/home1",
                     "child": []
                 }
             ]
         },
         {
-            "name": "Test Preparation",
-            "id": 614,
+            "name": "समाचार",
+            "id": 239,
             "parent_menu_id": null,
-            "link": "/test-preparation",
+            "link": "/domain",
+            "child": [
+                {
+                    "name": "Domain Name Search",
+                    "id": 304,
+                    "parent_menu_id": 239,
+                    "link": "/domain-name-registration",
+                    "child": []
+                },
+                {
+                    "name": "Domain Transfer",
+                    "id": 315,
+                    "parent_menu_id": 239,
+                    "link": "/domain-transfer",
+                    "child": []
+                }
+            ]
+        },
+        {
+            "name": " जीवनशैली",
+            "id": 335,
+            "parent_menu_id": null,
+            "link": "/home1",
             "child": []
         },
         {
-            "name": "Success Stories",
-            "id": 615,
+            "name": " मनोरन्जन",
+            "id": 348,
             "parent_menu_id": null,
-            "link": "/success-stories",
+            "link": "/cancerhome",
+            "child": [
+                {
+                    "name": "About Us",
+                    "id": 349,
+                    "parent_menu_id": 348,
+                    "link": "cancer_about",
+                    "child": []
+                }
+            ]
+        },
+        {
+            "name": "Home",
+            "id": 610,
+            "parent_menu_id": null,
+            "link": "/index",
             "child": []
         },
         {
-            "name": "Contact Us",
-            "id": 616,
+            "name": "test",
+            "id": 631,
             "parent_menu_id": null,
-            "link": "/contact-us",
+            "link": "/test",
             "child": []
         },
         {
-            "name": "Upcoming Events",
-            "id": 617,
+            "name": "",
+            "id": 632,
             "parent_menu_id": null,
-            "link": "/events",
+            "link": null,
             "child": []
         }
     ]
