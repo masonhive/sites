@@ -109,7 +109,7 @@
                     "itemContentWrap": {
                         "inlineCss": "",
                         "css": {
-                            "color": "flex flex-start flex-col text-left w-3/6 text-white"
+                            "color": "flex flex-start flex-col text-left md:w-3/6 md:text-white text-black px-10 md:px-0"
                         }
                     },
                     "itemTitleWrap": {
@@ -538,7 +538,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "text-orange-200"
+                            "color": "text-orange-200 p-5 md:p-0"
                         }
                     },
                     "itemIconWrap": {
@@ -681,7 +681,7 @@
                     },
                     "itemSectionWrap": {
                         "css": {
-                            "color": "flex flex-col bg-indigo-500 text-stone-100 rounded-lg text-sm "
+                            "color": "flex flex-col bg-indigo-500 text-stone-100 rounded-lg text-sm md: m-0 my-5"
                         },
                         "inlineCss": ""
                     },
@@ -704,7 +704,7 @@
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "md:col-span-4 col-span-12 md:mx-5"
+                            "color": "md:col-span-4 col-span-12 md:mx-5 "
                         }
                     },
                     "itemCaptionWrap": {
@@ -715,13 +715,13 @@
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "container m-auto px-10 py-4"
+                            "color": "container m-auto md:px-10 py-4"
                         }
                     },
                     "itemContentWrap": {
                         "inlineCss": "",
                         "css": {
-                            "color": "text-left md:p-5"
+                            "color": "text-left md:p-5 p-5"
                         }
                     },
                     "itemTitleWrap": {
@@ -732,7 +732,7 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container py-10 items-center m-auto"
+                            "color": "container py-10 items-center m-auto md:px-5 px-10"
                         }
                     }
                 },
@@ -754,7 +754,7 @@
                     }
                 ]
             },
-            "order": 13
+            "order": 15
         },
         {
             "id": 7078,
@@ -912,7 +912,7 @@
                     }
                 ]
             },
-            "order": 14
+            "order": 16
         }
     ]
 }
