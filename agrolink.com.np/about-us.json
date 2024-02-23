@@ -57,7 +57,7 @@
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-span-6  order-1 px-6"
+                            "color": "md:col-span-6  order-1 px-6 col-span-12"
                         }
                     },
                     "mainWrap": {
@@ -68,7 +68,7 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-span-6  order-2"
+                            "color": "md:col-span-6  order-2 col-span-12"
                         }
                     }
                 }
