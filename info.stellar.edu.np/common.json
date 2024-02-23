@@ -162,7 +162,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-blue-900 text-white",
+                        "color": "bg-indigo-800 text-white",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -313,7 +313,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-blue-900 text-white text-center",
+                        "color": "bg-indigo-800 text-white text-center",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -343,7 +343,7 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Copyright © 2024 aecc. Useful Links | Glossary | Terms of Use | Privacy Policy",
+                        "content": "Copyright © 2024 SIE ( Stellar International Education ). Useful Links | Glossary | Terms of Use | Privacy Policy",
                         "css": {
                             "color": "text-sm "
                         },
