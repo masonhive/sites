@@ -1,24 +1,24 @@
 {
     "data": [
         {
-            "id": 4611,
-            "component": "TextV2",
-            "component_id": 61,
+            "id": 7127,
+            "component": "CardV2",
+            "component_id": 62,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "container mbr-flex mbr-align-item-c ",
+                        "color": "bg-yellow-100",
                         "fontSize": "12px"
                     },
-                    "inlineCss": ""
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-andada font-size-6",
+                            "color": "text-lg",
                             "fontSize": "12px"
                         },
-                        "content": "Some Random Click",
+                        "content": "Some of Clicks !!",
                         "inlineCss": ""
                     },
                     "description": {
@@ -32,166 +32,125 @@
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                            "color": ""
                         }
                     },
                     "image": {
                         "content": ""
                     },
                     "caption": {
-                        "content": ""
+                        "content": "",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "3"
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                            "color": "flex flex-col"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-center"
+                            "color": ""
                         }
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "mbr-col-md-6"
+                            "color": ""
                         }
-                    }
-                }
-            },
-            "order": 31
-        },
-        {
-            "id": 2659,
-            "component": "cards",
-            "component_id": 5,
-            "attributes": {
-                "itemList": [
-                    {
-                        "cardColor": "#fff",
-                        "img": "https://i.ibb.co/rd94P3q/1633086713668-1633086337560-img4.webp"
                     },
-                    {
-                        "cardColor": "red",
-                        "img": "https://i.ibb.co/8dVfWkx/1633086473393-img1-480x600.webp"
-                    },
-                    {
-                        "img": "https://i.ibb.co/pbJGqVx/1633087474092-1633087214813-1633086910376-laura-ockel-157536-497x900.webp"
-                    },
-                    {
-                        "img": "https://i.ibb.co/JnxNwTB/1633087586111-img2.webp"
-                    },
-                    {
-                        "img": "https://i.ibb.co/rGqhhBY/1633087699783-about-carousel-01-695x600.webp"
-                    },
-                    {
-                        "img": "https://i.ibb.co/jJxNpBP/1633087820530-f1-695x600.webp"
-                    },
-                    {
-                        "img": "https://i.ibb.co/Tc8SfSD/1633087902335-d14e6340409851.webp"
-                    },
-                    {
-                        "img": "https://i.ibb.co/mzy76Wt/1633088083998-Depositphotos-30695129-original-695x600.webp"
-                    },
-                    {
-                        "img": "https://drive.google.com/uc?id=1OO7YUbTmz6nnU5LzsdZAphDz6HN2p9my"
-                    },
-                    {
-                        "img": "https://drive.google.com/uc?id=16sFM821lYXU7NKWikxmaA3KYIYbp41hJ"
-                    }
-                ],
-                "itemSize": "4",
-                "cardMaxWidth": "250px",
-                "justifyContent": "center",
-                "color": "#fff",
-                "cardColor": "#000",
-                "contactInfo": [],
-                "flatCard": "1"
-            },
-            "order": 105
-        },
-        {
-            "id": 4612,
-            "component": "TextV2",
-            "component_id": 61,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "container mbr-flex mbr-align-item-c ",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
+                    "itemheadingWrap": {
                         "css": {
-                            "color": "font-family-andada font-size-6",
-                            "fontSize": "12px"
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col "
                         },
-                        "content": "Informative Videos",
                         "inlineCss": ""
                     },
-                    "description": {
-                        "content": "",
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 col-span-6  md:mx-5 mx-2 md:my-5 my-2"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5"
+                        }
+                    },
+                    "itemContentWrap": {
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                            "color": ""
                         }
                     },
-                    "button": {
-                        "content": "",
-                        "link": "",
+                    "itemTitleWrap": {
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto text-center"
                         }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "caption": {
-                        "content": ""
                     }
                 },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-12 align-center"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-6"
-                        }
-                    }
-                }
-            },
-            "order": 107
-        },
-        {
-            "id": 4613,
-            "component": "cards",
-            "component_id": 5,
-            "attributes": {
                 "itemList": [
                     {
-                        "img": "https://drive.google.com/uc?id=1cmDb9RPIl3Kp0xw_6UIRdNZN6wWpofX6",
-                        "width": "550px",
-                        "btnColor": "#fff",
-                        "video": "https://www.youtube.com/embed/jC_4lnSO-m0&t=1s\n"
+                        "image": "https://i.ibb.co/Tc8SfSD/1633087902335-d14e6340409851.webp"
+                    },
+                    {
+                        "image": "https://i.ibb.co/mzy76Wt/1633088083998-Depositphotos-30695129-original-695x600.webp"
+                    },
+                    {
+                        "image": "https://i.ibb.co/rGqhhBY/1633087699783-about-carousel-01-695x600.webp"
+                    },
+                    {
+                        "image": "https://i.ibb.co/8dVfWkx/1633086473393-img1-480x600.webp"
+                    },
+                    {
+                        "image": "https://i.ibb.co/JnxNwTB/1633087586111-img2.webp"
+                    },
+                    {
+                        "image": "https://i.ibb.co/rd94P3q/1633086713668-1633086337560-img4.webp"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/admin.agrolink.com.np/farmer.jpeg"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/admin.agrolink.com.np/download.jpeg"
                     }
-                ],
-                "itemSize": "2",
-                "cardMaxWidth": "550px",
-                "contactInfo": [],
-                "flatCard": "1"
+                ]
             },
-            "order": 108
+            "order": 120
         }
     ]
 }
