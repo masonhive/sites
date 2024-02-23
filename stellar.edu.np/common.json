@@ -177,10 +177,10 @@
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "Adwait Marg, Bagbazar-31, Kathmandu Nepal\n+977-01-5353002, +977-9823-005613",
+                        "content": "Adwait Marg, Bagbazar-31, Kathmandu Nepal <br/>\n+977-01-5353002, +977-9823-005613",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                            "color": "pt-2"
                         },
                         "parseHtml": "1"
                     },
@@ -272,18 +272,18 @@
                 },
                 "itemList": [
                     {
-                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/team\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
                         "parseHtml": "1",
                         "heading": "About Us"
                     },
                     {
-                        "heading": "Quick Links",
-                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "heading": "Study Destinations",
+                        "caption": "<a href=\"/about-us\">Study in Australia </a> \n<a href=\"/contact-us\">Study in New Zealand</a> \n<a href=\"/contact\">Study in USA</a> \n<a href=\"/\">Study in UK</a>\n <a href=\"/\">Study in Canada </a> ",
                         "parseHtml": "1"
                     },
                     {
-                        "heading": "Courses Abroad",
-                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "heading": "Our Services",
+                        "caption": "<a href=\"/about-us\">Admission Counselling</a> \n<a href=\"/contact-us\">Health Coverage</a> \n<a href=\"/contact-us\">Accomodations</a> ",
                         "parseHtml": "1"
                     }
                 ],
