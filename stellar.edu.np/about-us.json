@@ -57,7 +57,7 @@
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-span-8 order-1 px-6"
+                            "color": "md:col-span-8 order-1 px-6 col-span-12"
                         }
                     },
                     "mainWrap": {
@@ -68,7 +68,7 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-span-3  order-2"
+                            "color": "md:col-span-3  order-2 col-span-12"
                         }
                     }
                 }
@@ -132,7 +132,7 @@
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-span-6  order-1 px-6"
+                            "color": "md:col-span-6  order-1 px-6 col-span-12"
                         }
                     },
                     "mainWrap": {
@@ -143,7 +143,7 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-span-6  order-2"
+                            "color": "md:col-span-6  order-2 col-span-12"
                         }
                     }
                 }
@@ -359,7 +359,7 @@
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-span-12  order-2 px-6"
+                            "color": "md:col-span-12  order-2 px-6 col-span-12"
                         }
                     },
                     "mainWrap": {
@@ -434,7 +434,7 @@
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-span-6  order-1 px-6"
+                            "color": "md:col-span-6  order-1 px-6 col-span-12"
                         }
                     },
                     "mainWrap": {
@@ -445,7 +445,7 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-span-6  order-2"
+                            "color": "md:col-span-6  order-2 col-span-12"
                         }
                     }
                 }
