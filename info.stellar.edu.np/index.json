@@ -265,7 +265,7 @@
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "container m-auto bg-indigo-600 md:rounded-full py-2 text-yellow-400"
+                            "color": "container m-auto bg-indigo-800 md:rounded-full py-2 text-yellow-400"
                         }
                     },
                     "itemContentWrap": {
@@ -321,19 +321,19 @@
                             "color": "text-2xl py-2 text-slate-800",
                             "fontSize": "12px"
                         },
-                        "content": "When you meet Nepal's leading study abroad consultant",
+                        "content": "SIE (Stellar International Education)",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "",
+                        "content": "SIE offer a comprehensive roadmap tailored to each student's needs and goals. This plan includes assistance with university selection, application support, visa guidance, scholarship and financial aid resources, and pre-departure orientation to prepare students for their new academic and cultural experiences.",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                            "color": "text-lg py-2 text-slate-500"
                         }
                     },
                     "button": {
                         "content": "Schedule A Consultation ",
-                        "link": "",
+                        "link": "/contact-us",
                         "css": {
                             "color": "bg-indigo-700\trounded-full px-5 py-3 text-white"
                         }
@@ -342,9 +342,9 @@
                         "content": ""
                     },
                     "caption": {
-                        "content": " We offer a comprehensive roadmap tailored to each student's needs and goals. This plan includes assistance with university selection, application support, visa guidance, scholarship and financial aid resources, and pre-departure orientation to prepare students for their new academic and cultural experiences.",
+                        "content": "Nepal's leading study abroad consultant",
                         "css": {
-                            "color": "text-lg py-2 text-slate-500"
+                            "color": "text-2xl py-2 text-slate-800"
                         }
                     },
                     "itemInfo": {
@@ -433,20 +433,17 @@
                 },
                 "itemList": [
                     {
-                        "heading": "Schedule a Consultation",
+                        "heading": "1. Schedule a Consultation",
                         "parseHtml": "1",
-                        "image": "https://storybrand.com/wp-content/uploads/2022/09/1-bs-no-ds.png",
                         "caption": "Reach out to one of our expert consultants and schedule a consultation to discuss your aspirations, concerns, and goals. "
                     },
                     {
-                        "image": "https://storybrand-wp.s3.us-west-1.amazonaws.com/wp-content/uploads/2023/03/sales-funnel.png",
-                        "heading": "Meet Your Advisor\n",
+                        "heading": "2. Meet Your Advisor",
                         "caption": "Attend the consultation and meet your dedicated advisor, share your academic interests, desired destinations, and preferences for studying abroad. We will begin crafting a customized plan to help you achieve your study abroad goals",
                         "parseHtml": "1"
                     },
                     {
-                        "image": "https://storybrand.com/wp-content/uploads/2022/09/3.png",
-                        "heading": "Receive Personalized Guidance",
+                        "heading": "3. Receive Personalized Guidance",
                         "caption": "After the consultation, we will continue to provide ongoing support and guidance throughout the study abroad process from selecting suitable universities and programs to navigating the application process, securing scholarships, and preparing for departure.",
                         "parseHtml": "1"
                     }
@@ -579,30 +576,9 @@
                 },
                 "itemList": [
                     {
-                        "heading": "Study In UK",
-                        "parseHtml": "1",
-                        "image": "https://www.aeccglobal.com.np/images/2023/08/14/uk-5.webp"
-                    },
-                    {
-                        "image": "https://www.aeccglobal.com.np/images/2023/08/14/canada-4.webp",
-                        "heading": "Study In UK"
-                    },
-                    {
-                        "image": "https://www.aeccglobal.com.np/images/2023/08/14/australia-13.webp",
-                        "heading": "Study In UK"
-                    },
-                    {
-                        "image": "https://www.aeccglobal.com.np/images/2023/08/14/canada-4.webp",
-                        "heading": "Study In UK"
-                    },
-                    {
+                        "heading": "Study In Australia",
                         "image": "https://www.aeccglobal.com.np/images/2023/08/14/uk-5.webp",
-                        "heading": "Study In UK",
-                        "parseHtml": "1"
-                    },
-                    {
-                        "image": "https://www.aeccglobal.com.np/images/2023/08/14/canada-4.webp",
-                        "heading": "Study In UK"
+                        "link": "/study-australia"
                     }
                 ]
             },
