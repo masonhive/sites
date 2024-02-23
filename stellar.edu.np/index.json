@@ -65,38 +65,6 @@
             "order": 1263
         },
         {
-            "id": 1745,
-            "component": "text",
-            "component_id": 1,
-            "attributes": {
-                "img": "https://mail.ijli.com.np/uploads/stellar-logo.png",
-                "alignContent": "column-center",
-                "cta": [],
-                "contentList": [],
-                "alignImg": "top",
-                "subheading": "Ever since Stellar Education was founded in 2011, I have observed its advancement as a 
-                superlative counseling organization in Nepal. It serves the swiftly and spectacularly 
-                changing needs of innovative students from the region. We rest on the principled 
-                foundation as laid out in our mission while fashioning a new future with our students and 
-                our constituents. 
-                So as we move towards the third decade, let's work together to aim strategies for the 
-                challenges. Let's find new ways to reach students aiming at liberal and accessible higher 
-                education that leads to career opportunities worldwide. It has been an honor to serve as 
-                Managing Director over 10 years, associating with so many talented team members in this 
-                organization, as well as various professionals amongst education providers and embassies. 
-                It has also been a thrill to meet and work with many wonderful students, parents, and 
-                friends now at University around the globe. The passion we all hold for our work at this 
-                special place is acknowledged by our stakeholders. I wish to thank all who have made 
-                Stellar Education, a leader amongst Overseas Education Consultancy Organizations in 
-                Nepal. Stellar Education welcomes clients from different social, educational, and 
-                backgrounds regardless of race, color and religion. 
-                I look forward to the challenges and openings of the future! ",
-                "fontSize": "14px",
-                "contactInfo": []
-            },
-            "order": 1263
-        },
-        {
             "id": 1746,
             "component": "cards",
             "component_id": 5,
