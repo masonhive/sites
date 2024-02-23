@@ -65,6 +65,22 @@
             "order": 1263
         },
         {
+            "id": 9999,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "img": "https://mail.ijli.com.np/uploads/stellar-logo.png",
+                "alignContent": "column-center",
+                "cta": [],
+                "contentList": [],
+                "alignImg": "top",
+                "subheading": "Ever since Stellar Education was founded in 2011, I have observed its advancement as a superlative counseling organization in Nepal. It serves the swiftly and spectacularly changing needs of innovative students from the region. We rest on the principled foundation as laid out in our mission while fashioning a new future with our students and our constituents.",
+                "fontSize": "14px",
+                "contactInfo": []
+            },
+            "order": 1264
+        },
+        {
             "id": 1746,
             "component": "cards",
             "component_id": 5,
@@ -138,7 +154,7 @@
                 "titleColor": "#fff",
                 "imgAuthorPosition": "bottom"
             },
-            "order": 1264
+            "order": 1265
         },
         {
             "id": 1747,
