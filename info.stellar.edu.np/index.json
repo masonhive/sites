@@ -136,25 +136,28 @@
                 },
                 "itemList": [
                     {
-                        "image": "https://www.aeccglobal.com.np/images/2023/08/17/study-in-uae-from-nepal.webp",
+                        "image": "https://www.idp.com/medias/Carousal-Canada-Banner-New-Sep.jpg?context=bWFzdGVyfHJvb3R8MTExNTQ2fGltYWdlL2pwZWd8YURSbEwyZzRNQzh4TVRRMU5EWXlNRFk1TmpZd05pOURZWEp2ZFhOaGJDMURZVzVoWkdFdFFtRnVibVZ5TFU1bGR5MVRaWEF1YW5CbnxhYzBjODNlODNiMjdiYTdlMWIwODEwNDEyMWVlNTNiMGM5ODc5ZjIzMzA1MjY0NjA2ZjYwMzZhNTU5ZDBkN2Qx",
                         "heading": "Seeking expert guidance for your study abroad aspirations? Look no further.",
                         "caption": "Empower your global ambitions with personalized guidance on your study abroad journey",
                         "parseHtml": "1",
-                        "button": "Get Started For Free"
+                        "button": "Get Started For Free",
+                        "link": "/contact-us"
                     },
                     {
                         "image": "https://www.aeccglobal.com.np/images/2023/08/02/australia-14.png",
                         "heading": "Your dream of studying in\nAustralia is closer than you think!",
                         "caption": "Learn everything you need to know about studying\nin Australia and get end to end expert guidance from us.",
                         "parseHtml": "1",
-                        "button": "Get Started For Free"
+                        "button": "Get Started For Free",
+                        "link": "/study-australia"
                     },
                     {
-                        "image": "https://www.idp.com/medias/Carousal-Canada-Banner-New-Sep.jpg?context=bWFzdGVyfHJvb3R8MTExNTQ2fGltYWdlL2pwZWd8YURSbEwyZzRNQzh4TVRRMU5EWXlNRFk1TmpZd05pOURZWEp2ZFhOaGJDMURZVzVoWkdFdFFtRnVibVZ5TFU1bGR5MVRaWEF1YW5CbnxhYzBjODNlODNiMjdiYTdlMWIwODEwNDEyMWVlNTNiMGM5ODc5ZjIzMzA1MjY0NjA2ZjYwMzZhNTU5ZDBkN2Qx",
-                        "heading": "Seeking expert guidance for your study abroad aspirations? Look no further.",
+                        "image": "https://www.globalreach.in/images/banner/slider.jpg",
+                        "heading": "Your dream of studying in New Zealand is closer than you think!",
                         "caption": "Empower your global ambitions with personalized guidance on your study abroad journey",
                         "parseHtml": "1",
-                        "button": "Get Started For Free"
+                        "button": "Get Started For Free",
+                        "link": "/study-new-zealand"
                     }
                 ]
             },
@@ -265,7 +268,7 @@
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "container m-auto bg-indigo-800 md:rounded-full py-2 text-yellow-400"
+                            "color": "container m-auto bg-indigo-800 md:rounded-full py-2 text-white"
                         }
                     },
                     "itemContentWrap": {
@@ -879,16 +882,85 @@
                     },
                     {
                         "image": "https://www.idp.com/medias/Waterloo.jpg?context=bWFzdGVyfGltYWdlc3wyMzQzN3xpbWFnZS9qcGVnfGFHVmhMMmd6TWk4eE1EVXdOVGM1TkRBMk1ETXhPQzlYWVhSbGNteHZieTVxY0djfDcxYjYwMmNmZjAyYzM5YzUwNWZkYTNjNzUyM2Y0NTU5NzMzZjkzMDRkY2ZhMjk3YWJkZWI2NDkxODM1ZmY0ZjU"
-                    },
-                    {
-                        "image": "https://www.idp.com/medias/Tafe.jpg?context=bWFzdGVyfGltYWdlc3wyMTQ0MXxpbWFnZS9qcGVnfGFHUXlMMmd4Tnk4eE1EVXdOVGM1TXprNU5EYzRNaTlVWVdabExtcHdad3xmYjI2NTYzMWM1YTVkZTQ4YzZlNDRhOWRmOGU3ZTYxMGQzOWIwM2FiMDFkMzIwMmM5YWJlODM4YWUzYjk3MWEy"
-                    },
-                    {
-                        "image": "https://www.idp.com/medias/Exceslia.jpg?context=bWFzdGVyfHJvb3R8MzAyMTd8aW1hZ2UvanBlZ3xhRFV6TDJnM1ppODVPVEEzT1RBNE1ERTRNakEyTG1wd1p3fDJkNDU0ODVhMDQxZGJmZTM1YTk1MzZjNTZhOGM4ZGQ3ODZkYjhjNmVlZTA5NzBiYjIzMjMyNjMyMjIwZDZkOWQ"
                     }
                 ]
             },
             "order": 16
+        },
+        {
+            "id": 7144,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Director's Message",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Sudip K.C",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Ever since Stellar Education was founded in 2011, I have observed its advancement as a \nsuperlative counseling organization in Nepal. It serves the swiftly and spectacularly \nchanging needs of innovative students from the region. We rest on the principled \nfoundation as laid out in our mission while fashioning a new future with our students and \nour constituents. \nSo as we move towards the third decade, let's work together to aim strategies for the \nchallenges. Let's find new ways to reach students aiming at liberal and accessible higher \neducation that leads to career opportunities worldwide. It has been an honor to serve as \nManaging Director over 10 years, associating with so many talented team members in this \norganization, as well as various professionals amongst education providers and embassies. \nIt has also been a thrill to meet and work with many wonderful students, parents, and \nfriends now at University around the globe. The passion we all hold for our work at this \nspecial place is acknowledged by our stakeholders. I wish to thank all who have made \nStellar Education, a leader amongst Overseas Education Consultancy Organizations in \nNepal. Stellar Education welcomes clients from different social, educational, and \nbackgrounds regardless of race, color and religion. \nI look forward to the challenges and openings of the future! ",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/admin.info.stellar.edu.np//sudip-kc-3.png",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 17
         }
     ]
 }
