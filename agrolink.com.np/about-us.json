@@ -1,122 +1,379 @@
 {
     "data": [
         {
-            "id": 2663,
-            "component": "text",
-            "component_id": 1,
+            "id": 7146,
+            "component": "TextV2",
+            "component_id": 72,
             "attributes": {
-                "alignContent": "center",
-                "title": "Our Mission",
-                "cta": [],
-                "contentList": [],
-                "contactInfo": []
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover bg-green-800 text-white",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Agro Link  Pvt. Ltd.",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "\nAgro Link serves as a vital bridge connecting agricultural communities between Japan and Nepal, facilitating the exchange of seeds and agricultural knowledge. Founded on the principle of fostering cross-border collaboration, Agro Link plays a pivotal role in introducing high-quality seeds from Japan to Nepal, enriching the agricultural landscape in both countries. With a focus on promoting innovation and sustainability, Agro Link not only provides access to superior seed varieties but also cultivates partnerships aimed at enhancing farming practices and addressing local challenges. Through its dedication to nurturing agricultural networks, Agro Link stands as a beacon of cooperation, driving progress and resilience in the agricultural sector across borders.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "- Healthy Seed, Healthy Soil, Healthy Life",
+                        "css": {
+                            "color": "text-slate-200 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://i.ibb.co/cDp0mK3/argo.jpg",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                }
             },
-            "order": 55
+            "order": 120
         },
         {
-            "id": 2664,
-            "component": "text",
-            "component_id": 1,
+            "id": 7117,
+            "component": "TextV2",
+            "component_id": 72,
             "attributes": {
-                "alignContent": "center",
-                "img": "https://i.ibb.co/fptnBKP/side-image-box01.jpg",
-                "title": "Supporting Family Farmers",
-                "cta": [
-                    {
-                        "link": "#",
-                        "name": "More Information"
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Supporting Family Farmers",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Agro Link has helped keep family farmers on the land by providing immediate and effective support services to farm families in crisis. Our goal is to provide farmers with the resources needed to gain access to new markets, transition to more sustainable and profitable farming practices, and survive natural disasters. We are becoming the link for supporting farmers all the way to success.",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://i.ibb.co/fptnBKP/side-image-box01.jpg",
+                        "link": ""
                     }
-                ],
-                "contentList": [],
-                "contactInfo": [],
-                "imageMaxWidth": "600px",
-                "ContentMaxWidth": "500px",
-                "justifyContent": "space-evenly",
-                "buttonBackgroundColor": "#f5953f",
-                "buttonColor": "#fff",
-                "description": "Agro Link has helped keep family farmers on the land by providing immediate and effective support services to farm families in crisis. Our goal is to provide farmers with the resources needed to gain access to new markets, transition to more sustainable and profitable farming practices, and survive natural disasters. We are becoming the link for supporting farmers all the way to success.",
-                "video": "https://www.youtube.com/embed/J94E6EDxzuE"
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid  md:grid-cols-12 text-left py-20 px-5 items-center flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-1"
+                        }
+                    }
+                }
             },
-            "order": 56
+            "order": 121
         },
         {
-            "id": 2665,
-            "component": "text",
-            "component_id": 1,
+            "id": 7118,
+            "component": "TextV2",
+            "component_id": 72,
             "attributes": {
-                "alignContent": "center",
-                "img": "https://i.ibb.co/7ywwZVB/side-image-box02.jpg",
-                "cta": [
-                    {
-                        "link": "#",
-                        "name": "More Information"
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover bg-green-100",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Building A Movement",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "An agroecologist is a scientist with knowledge and expertise in sustainable agriculture. The concept draws on both the scientific tradition of ecological sciences as well as the traditional knowledge and expertise of small-scale farmers, especially women and Indigenous farmers. \nThe two most important assets of small-scale farmers are their variety of locally adapted seeds, and their knowledge and brain power. These assets allow them to grow healthy food without harming the environment.  We are excited to bring good movement towards sustainable development via agriculture and for families.",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://i.ibb.co/7ywwZVB/side-image-box02.jpg",
+                        "link": ""
                     }
-                ],
-                "contentList": [],
-                "alignImg": "right",
-                "maxWidth": "500px",
-                "justifyContent": "space-evenly",
-                "imageMaxWidth": "600px ",
-                "contactInfo": [],
-                "title": "Building A Movement",
-                "ContentMaxWidth": "500px",
-                "buttonBackgroundColor": "#f5953f",
-                "buttonColor": "#fff",
-                "description": "An agroecologist is a scientist with knowledge and expertise in sustainable agriculture. The concept draws on both the scientific tradition of ecological sciences as well as the traditional knowledge and expertise of small-scale farmers, especially women and Indigenous farmers. \nThe two most important assets of small-scale farmers are their variety of locally adapted seeds, and their knowledge and brain power. These assets allow them to grow healthy food without harming the environment.  We are excited to bring good movement towards sustainable development via agriculture and for families."
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left py-20 px-5 items-center flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                }
             },
-            "order": 58
+            "order": 122
         },
         {
-            "id": 2666,
-            "component": "text",
-            "component_id": 1,
+            "id": 7119,
+            "component": "TextV2",
+            "component_id": 72,
             "attributes": {
-                "alignContent": "center",
-                "img": "https://i.ibb.co/K7xm7Mm/side-image-box03.jpg",
-                "title": "Promoting farm foods",
-                "description": "With direct coordination and cooperation from farmers, we aim to bring food to the table direct from the field. This allows consumers to have the freshest food available to them. Since fresh food is healthiest thus promoting healthy life for consumers. \n",
-                "cta": [
-                    {
-                        "link": "#",
-                        "name": "More Information"
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Promoting farm foods",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "With direct coordination and cooperation from farmers, we aim to bring food to the table direct from the field. This allows consumers to have the freshest food available to them. Since fresh food is healthiest thus promoting healthy life for consumers. \n",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://i.ibb.co/K7xm7Mm/side-image-box03.jpg",
+                        "link": ""
                     }
-                ],
-                "contentList": [],
-                "contactInfo": [],
-                "imageMaxWidth": "600px",
-                "ContentMaxWidth": "500px",
-                "justifyContent": "space-evenly",
-                "buttonBackgroundColor": "#f5953f",
-                "buttonColor": "#fff"
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left py-20 px-5 items-center flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-1"
+                        }
+                    }
+                }
             },
-            "order": 59
+            "order": 123
         },
         {
-            "id": 2667,
-            "component": "text",
-            "component_id": 1,
+            "id": 7120,
+            "component": "TextV2",
+            "component_id": 72,
             "attributes": {
-                "alignContent": "center",
-                "img": "https://i.ibb.co/GThSLCK/4.jpg",
-                "cta": [
-                    {
-                        "link": "#",
-                        "name": "More Information"
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Celebrating family farmers",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Being a agricultural nation, family farmers outnumber commercial farmers. Since family farmers produce fruits and vegetables in need basis, their produce is 100% organic in comparison and daily harvest contributes to its freshness. At agrolink, we highly appreciate the contributions made by family farmers to the availability of fresh and 100% organic fruits and vegetables",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://i.ibb.co/GThSLCK/4.jpg",
+                        "link": ""
                     }
-                ],
-                "contentList": [],
-                "alignImg": "right",
-                "maxWidth": "500px",
-                "justifyContent": "space-evenly",
-                "imageMaxWidth": "600px ",
-                "contactInfo": [],
-                "title": "Celebrating family farmers",
-                "ContentMaxWidth": "500px",
-                "description": "Being a agricultural nation, family farmers outnumber commercial farmers. Since family farmers produce fruits and vegetables in need basis, their produce is 100% organic in comparison and daily harvest contributes to its freshness. At agrolink, we highly appreciate the contributions made by family farmers to the availability of fresh and 100% organic fruits and vegetables",
-                "buttonBackgroundColor": "#f5953f",
-                "buttonColor": "#fff"
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left py-20 px-5 flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                }
             },
-            "order": 60
+            "order": 124
         }
     ]
 }
