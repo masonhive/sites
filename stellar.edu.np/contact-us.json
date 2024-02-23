@@ -23,7 +23,7 @@
                         "1": "inlineCss",
                         "2": "id",
                         "css": {
-                            "color": "col-span-6"
+                            "color": "md:col-span-6 col-span-12"
                         }
                     },
                     "form": {
@@ -77,7 +77,7 @@
                     },
                     "formWrap": {
                         "css": {
-                            "color": "col-span-6 px-12 py-5"
+                            "color": "md:col-span-6 px-12 py-5 col-span-12"
                         }
                     }
                 },
