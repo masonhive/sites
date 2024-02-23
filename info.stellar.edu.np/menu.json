@@ -8,42 +8,6 @@
             "child": []
         },
         {
-            "name": "Student Services",
-            "id": 612,
-            "parent_menu_id": null,
-            "link": "/student-services",
-            "child": [
-                {
-                    "name": "Health Cover",
-                    "id": 624,
-                    "parent_menu_id": 612,
-                    "link": "/health-cover",
-                    "child": []
-                },
-                {
-                    "name": "Student Accomodation",
-                    "id": 625,
-                    "parent_menu_id": 612,
-                    "link": "/student-accomodation",
-                    "child": []
-                },
-                {
-                    "name": "Admission Counseling",
-                    "id": 626,
-                    "parent_menu_id": 612,
-                    "link": "/admission-counseling",
-                    "child": []
-                },
-                {
-                    "name": "Student Visa Service",
-                    "id": 627,
-                    "parent_menu_id": 612,
-                    "link": "/visa-services",
-                    "child": []
-                }
-            ]
-        },
-        {
             "name": "Study Abroad",
             "id": 613,
             "parent_menu_id": null,
@@ -123,17 +87,17 @@
             "child": []
         },
         {
-            "name": "Contact Us",
+            "name": "Gallery",
             "id": 616,
             "parent_menu_id": null,
-            "link": "/contact-us",
+            "link": "/gallery",
             "child": []
         },
         {
-            "name": "Upcoming Events",
+            "name": "Contact US",
             "id": 617,
             "parent_menu_id": null,
-            "link": "/events",
+            "link": "/contact-us",
             "child": []
         }
     ]

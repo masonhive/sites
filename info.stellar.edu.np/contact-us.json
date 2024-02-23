@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "id": 7140,
+            "component": "FunnelV2",
+            "component_id": 73,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "textContainerLayout": [
+                        {
+                            "name": "css",
+                            "keys": [
+                                "color"
+                            ]
+                        },
+                        "inlineCss",
+                        "id"
+                    ],
+                    "form": {
+                        "id": "enquiry",
+                        "type": "enquiry",
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}"
+                    },
+                    "formHeading": {
+                        "content": "Turn your Study Abroad Dream to Degrees abroad",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "inlineCss": ""
+                    },
+                    "formButton": {
+                        "content": "Submit Form",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                },
+                "wrapper": {
+                    "inputWrap": {
+                        "css": {
+                            "color": "text-start"
+                        }
+                    }
+                },
+                "formInputs": [
+                    {
+                        "id": "name",
+                        "label": "Name",
+                        "type": "",
+                        "placeholder": "Enter Your Name",
+                        "data": "",
+                        "required": "1"
+                    },
+                    {
+                        "id": "email",
+                        "label": "Email Address",
+                        "type": "",
+                        "placeholder": "Enter Your Email",
+                        "data": "",
+                        "required": ""
+                    },
+                    {
+                        "id": "preferred_destination",
+                        "label": "Preferred Study Destination",
+                        "type": "select",
+                        "placeholder": "Choose a Destination",
+                        "data": "[\"USA\",\"Australia\",\"Canada\"]",
+                        "required": "1"
+                    }
+                ]
+            },
+            "order": 2
+        }
+    ]
+}

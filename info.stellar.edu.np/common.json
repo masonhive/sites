@@ -146,14 +146,14 @@
                 },
                 "itemList": [
                     {
-                        "content": "Meet Us Online",
+                        "content": "Connect With Us",
                         "css": "bg-indigo-700\trounded-full px-4 py-1 text-white text-base",
-                        "link": "/meet-us"
+                        "link": "/contact-us"
                     }
                 ],
                 "common_component": "1"
             },
-            "order": 2
+            "order": 1
         },
         {
             "id": 7080,
