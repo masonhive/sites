@@ -37,7 +37,7 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Stellar Education is a team of professionals and experts who have vast knowledge and experience in the field of abroad education and documentation. It provides professional counselling and assistance to all stages of abroad study plans. In a short span of time, It has earned enviable reputation for its services.\n\nStellar Education is not just any other institution who would monotonously take up your dreams and leave it to luck. Stellar Education Foundation believes that chance always favors the prepared mind which is why Stellar Education Foundation believes in being prepared first and then guiding you towards your dreams. If you are reading this, then in all probability you are also one among those who has dared to dream with your eyes open and we gladly extol your courage. That is what Stellar Education Foundation look for in a student and that is where we take it up from.",
+                        "content": "STELLAR EDUCATION, government registered private limited organization in Nepal, with a mission of providing test prepara- \ntion courses and overseas academics counselling for both national and international students. Stellar has already built a strong \nreputation as most trusted top educational organization by providing a unique learning and overseas counselling environment \nwith its deep committed, devoted and dynamic working team in Nepal and has already helped hundreds of students to make \ntheir abroad study dream come true. \nSTELLAR is an academic enterprise dedicated to working for the interest of the students who aspire to pursue their further \neducation abroad. The enterprise embodies a collective goal envisioned by experienced academic professionals who have long \ncommitted themselves to the well-being of the national academia. \nSTELLAR is dedicated to providing professional counselling and documentation support to the students who plan to study in \ncountries such as the Australia, New Zealand, UK, USA, Canada, Ireland and Japan. The enterprise also helps students find right \nuniversities, university colleges and schools for the aspirants' desired courses, and ensures successful admission a primary \nconcern to us. ",
                         "css": {
                             "color": "text-slate-400 font-light"
                         },
@@ -45,19 +45,19 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://www.globalreach.in/images/about-gr-img.jpg",
+                        "content": "https://mail.ijli.com.np/uploads/stellar-logo.png",
                         "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "grid grid-cols-12 text-left py-20 px-5"
+                            "color": "grid grid-cols-12 text-left py-20 px-5 items-center"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-span-6  order-1 px-6"
+                            "color": "md:col-span-10  order-2 px-6"
                         }
                     },
                     "mainWrap": {
@@ -68,7 +68,7 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-span-6  order-2"
+                            "color": "md:col-span-2  order-1"
                         }
                     }
                 }
@@ -271,7 +271,7 @@
                         "parseHtml": "1"
                     },
                     "image": {
-                        "content": "https://www.globalreach.in/images/about-gr-img.jpg",
+                        "content": "https://mail.ijli.com.np/uploads/admin.info.stellar.edu.np/IMG_2710.JPG",
                         "link": ""
                     }
                 },
@@ -347,7 +347,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://www.globalreach.in/images/about-gr-img.jpg",
+                        "content": "",
                         "link": ""
                     }
                 },
@@ -359,7 +359,7 @@
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-span-7  order-2 px-6"
+                            "color": "md:col-span-12  order-2 px-6"
                         }
                     },
                     "mainWrap": {
@@ -370,7 +370,7 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-span-5  order-1"
+                            "color": ""
                         }
                     }
                 }
@@ -395,11 +395,11 @@
                             "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
-                        "content": "Message From MD",
+                        "content": "Director's Message",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "",
+                        "content": "Sudip K.C",
                         "inlineCss": "",
                         "css": {
                             "color": ""
@@ -414,7 +414,7 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Stellar Education is a team of professionals and experts who have vast knowledge and experience in the field of abroad education and documentation. It provides professional counselling and assistance to all stages of abroad study plans. In a short span of time, It has earned enviable reputation for its services.\n\nStellar Education is not just any other institution who would monotonously take up your dreams and leave it to luck. Stellar Education Foundation believes that chance always favors the prepared mind which is why Stellar Education Foundation believes in being prepared first and then guiding you towards your dreams. If you are reading this, then in all probability you are also one among those who has dared to dream with your eyes open and we gladly extol your courage. That is what Stellar Education Foundation look for in a student and that is where we take it up from.",
+                        "content": "Ever since Stellar Education was founded in 2011, I have observed its advancement as a \nsuperlative counseling organization in Nepal. It serves the swiftly and spectacularly \nchanging needs of innovative students from the region. We rest on the principled \nfoundation as laid out in our mission while fashioning a new future with our students and \nour constituents. \nSo as we move towards the third decade, let's work together to aim strategies for the \nchallenges. Let's find new ways to reach students aiming at liberal and accessible higher \neducation that leads to career opportunities worldwide. It has been an honor to serve as \nManaging Director over 10 years, associating with so many talented team members in this \norganization, as well as various professionals amongst education providers and embassies. \nIt has also been a thrill to meet and work with many wonderful students, parents, and \nfriends now at University around the globe. The passion we all hold for our work at this \nspecial place is acknowledged by our stakeholders. I wish to thank all who have made \nStellar Education, a leader amongst Overseas Education Consultancy Organizations in \nNepal. Stellar Education welcomes clients from different social, educational, and \nbackgrounds regardless of race, color and religion. \nI look forward to the challenges and openings of the future! ",
                         "css": {
                             "color": "text-slate-400 font-light"
                         },
@@ -422,7 +422,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://www.globalreach.in/images/about-gr-img.jpg",
+                        "content": "https://mail.ijli.com.np/uploads/admin.info.stellar.edu.np//sudip-kc-3.png",
                         "link": ""
                     }
                 },
