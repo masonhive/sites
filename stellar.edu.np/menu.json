@@ -1,110 +1,103 @@
 {
     "data": [
         {
-            "name": "HOME",
-            "id": 206,
-            "parent_menu_id": null,
-            "link": "/",
-            "child": []
-        },
-        {
-            "name": "ABOUT US",
-            "id": 207,
+            "name": "About Us",
+            "id": 611,
             "parent_menu_id": null,
             "link": "/about-us",
             "child": []
         },
         {
-            "name": "STUDY ABROAD",
-            "id": 208,
+            "name": "Study Abroad",
+            "id": 613,
             "parent_menu_id": null,
-            "link": "",
+            "link": "/study-abroad",
             "child": [
                 {
-                    "name": "AUSTRALIA",
-                    "id": 209,
-                    "parent_menu_id": 208,
-                    "link": "/australia",
+                    "name": "Study In Australia",
+                    "id": 619,
+                    "parent_menu_id": 613,
+                    "link": "/study-australia",
                     "child": []
                 },
                 {
-                    "name": "CANADA",
-                    "id": 210,
-                    "parent_menu_id": 208,
-                    "link": "/canada",
+                    "name": "Study In Newzealand",
+                    "id": 620,
+                    "parent_menu_id": 613,
+                    "link": "/study-newzealand",
                     "child": []
                 },
                 {
-                    "name": "JAPAN",
-                    "id": 211,
-                    "parent_menu_id": 208,
-                    "link": "/japan",
+                    "name": "Study In USA",
+                    "id": 621,
+                    "parent_menu_id": 613,
+                    "link": "/study-usa",
                     "child": []
                 },
                 {
-                    "name": "NEW ZEALAND",
-                    "id": 212,
-                    "parent_menu_id": 208,
-                    "link": "/new-zealand",
+                    "name": "Study In Cananda",
+                    "id": 622,
+                    "parent_menu_id": 613,
+                    "link": "/study-canada",
                     "child": []
                 },
                 {
-                    "name": "UNITED KINGDOM",
-                    "id": 213,
-                    "parent_menu_id": 208,
-                    "link": "/uk",
-                    "child": []
-                },
-                {
-                    "name": "USA",
-                    "id": 214,
-                    "parent_menu_id": 208,
-                    "link": "/usa",
+                    "name": "Study In UK",
+                    "id": 623,
+                    "parent_menu_id": 613,
+                    "link": "/study-uk",
                     "child": []
                 }
             ]
         },
         {
-            "name": "COURSES",
-            "id": 216,
+            "name": "Test Preparation",
+            "id": 614,
             "parent_menu_id": null,
-            "link": "",
+            "link": "/test-preparation",
             "child": [
                 {
-                    "name": "LANGUAGES CLASSES",
-                    "id": 217,
-                    "parent_menu_id": 216,
-                    "link": "/language-classes",
+                    "name": "IELTS",
+                    "id": 628,
+                    "parent_menu_id": 614,
+                    "link": "/test-preparation-ielts",
                     "child": []
                 },
                 {
-                    "name": "TEST PREPARATION",
-                    "id": 218,
-                    "parent_menu_id": 216,
-                    "link": "/test-preparation",
+                    "name": "TOFEL",
+                    "id": 629,
+                    "parent_menu_id": 614,
+                    "link": "/test-preparation-tofel",
+                    "child": []
+                },
+                {
+                    "name": "PTE",
+                    "id": 630,
+                    "parent_menu_id": 614,
+                    "link": "/test-preparation-pte",
                     "child": []
                 }
             ]
         },
         {
-            "name": "ACCOMMODATION",
-            "id": 219,
+            "name": "Success Stories",
+            "id": 615,
             "parent_menu_id": null,
-            "link": "/accommodations",
-            "child": []
-        },
-        {
-            "name": "CONTACT US",
-            "id": 220,
-            "parent_menu_id": null,
-            "link": "/contact-us",
+            "link": "/success-stories",
             "child": []
         },
         {
             "name": "Gallery",
-            "id": 604,
+            "id": 616,
             "parent_menu_id": null,
             "link": "/gallery",
+            "child": []
+        },
+        {
+            "name": "Contact Us",
+            "id": 617,
+            "parent_menu_id": null,
+            "link": "/contact-us",
             "child": []
         }
     ]
