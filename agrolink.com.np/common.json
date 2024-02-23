@@ -1,174 +1,507 @@
 {
     "data": [
         {
-            "id": 3101,
-            "component": "base",
-            "component_id": 30,
+            "id": 7107,
+            "component": "CardV2",
+            "component_id": 62,
             "attributes": {
-                "secondaryBgColor": "#f5953f",
-                "secondaryFontColor": "#fff",
-                "common_component": "1",
-                "primaryBgColor": "#f2f2f2",
-                "primaryColor": "#fff",
-                "fontFamily": "Nunito"
-            },
-            "order": 27
-        },
-        {
-            "id": 3257,
-            "component": "list",
-            "component_id": 31,
-            "attributes": {
-                "contentList": [
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-green-700 text-white",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-row items-center md:justify-center justify-start my-2"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-sm"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-xl px-3"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 md:mx-5 col-span-12 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto px-5 md:px-0"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:items-center md:justify-center flex "
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container items-center m-auto "
+                        }
+                    }
+                },
+                "itemList": [
                     {
-                        "fblink": "1",
-                        "twitterlink": "11",
-                        "instagramlink": "1",
-                        "tiktoklink": "1",
-                        "link1": "Sainbhu Bhainsepati, Ward no: 18, Lalitpur, Nepal"
+                        "heading": "Sainbhu Bhainsepati, Ward no: 18, Lalitpur, Nepal"
                     },
                     {
-                        "link1": "Call : 977-1-5425109 / 977-98510-97108"
+                        "heading": "Call : 977-1-5425109 / 977-98510-97108"
                     },
                     {
-                        "link1": " Email: info@agrolink.com.np "
+                        "heading": "Email: info@agrolink.com.np"
                     }
                 ],
-                "cta": [],
-                "bgColor": "#199541",
-                "color": "#fafafa",
-                "fontSize": "12px",
                 "common_component": "1"
             },
-            "order": 28
+            "order": 2
         },
         {
-            "id": 3258,
-            "component": "list",
-            "component_id": 31,
+            "id": 7109,
+            "component": "NavV2",
+            "component_id": 67,
             "attributes": {
-                "contentList": [
-                    {
+                "containerLayout": {
+                    "css": {
+                        "color": " shadow-sm shadow-slate-200",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "What our customers say",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Here are some customers thought about Vigour Super Speciality Clinic and Diagnostic Centre as it is.\n\n\n"
+                    },
+                    "itemInfo": {
+                        "activateSlider": "",
+                        "rowCounts": ""
+                    },
+                    "logo": {
+                        "content": "",
                         "logo": "https://i.ibb.co/cDp0mK3/argo.jpg",
-                        "Logowidth": "150px",
-                        "Display": "flex"
+                        "css": {
+                            "color": "md:h-16 h-12"
+                        },
+                        "inlineCss": ""
                     },
-                    {
-                        "title": "Agro Link Pvt. Ltd",
-                        "link1": "Healthy Seed, Healthy Soil, Healthy Life"
+                    "slogan": {
+                        "content": "Healthy Seed, Healthy Soil, Healthy Life",
+                        "css": {
+                            "color": "text-sm pb-2"
+                        }
                     },
-                    {
-                        "socialMediaLink": "1",
-                        "fblink": "https://www.facebook.com/profile.php?id=100070506693227",
-                        "twitterlink": "https://www.facebook.com/agro.link.96",
-                        "instagramlink": "https://www.instagram.com/agrolink19/",
-                        "linkedinlink": "https://www.facebook.com/agro.link.96"
+                    "hamburger": {
+                        "icon": "FaBars",
+                        "css": {
+                            "color": "md:hidden p-4 z-20 relative text-black"
+                        },
+                        "smDeviceOnly": ""
+                    },
+                    "menu": {
+                        "css": {
+                            "color": " px-4 py-2 hover:border-violet-600   border-white border-b-2 ease-in duration-300 text-sm flex items-center gap-1"
+                        },
+                        "inlineCss": ""
                     }
-                ],
-                "color": "#199541",
-                "fontSize": "14px",
-                "cta": [],
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex align-center"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 mbr-flex grid-row "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "md:col-span-3 flex items-center md:col-start-11  col-span-1 md:flex-row-reverse gap-1"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto grid grid-cols-12 items-center pt-3 md:px-10"
+                        }
+                    },
+                    "logoWrap": {
+                        "css": {
+                            "color": "md:col-span-3  col-span-9 px-5 md:px-0"
+                        }
+                    },
+                    "menuWrap": {
+                        "css": {
+                            "color": "col-span-0 md:col-span-8 md:flex items-center md:visible text-sm flex-row-reverse"
+                        }
+                    }
+                },
+                "itemList": [],
                 "common_component": "1"
             },
-            "order": 29
+            "order": 118
         },
         {
-            "id": 3100,
-            "component": "header",
-            "component_id": 4,
+            "id": 7105,
+            "component": "CardV2",
+            "component_id": 62,
             "attributes": {
-                "button": [
-                    {
-                        "link": "#",
-                        "cat": "Make Appointment"
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-green-900 text-white",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": "",
+                        "css": {
+                            "color": "md:h-8 h-8"
+                        }
+                    },
+                    "itemInfo": {
+                        "rowCounts": "3"
+                    },
+                    "caption": {
+                        "content": "Agrolink Pvt. Ltd. is one of the leading seed importer from Japan to Nepal."
                     }
-                ],
-                "stickyHeader": "1",
-                "bgColor": "#f5953f",
-                "cat": [],
-                "common_component": "1",
-                "email": "hopefertilitycentre@gmail.com",
-                "logoWidth": "100px",
-                "color": "#fff",
-                "activateMenu": "1",
-                "justifyContent": "center"
-            },
-            "order": 30
-        },
-        {
-            "id": 3102,
-            "component": "list",
-            "component_id": 31,
-            "attributes": {
-                "contentList": [
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:col-span-2 text-left col-span-12"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-xl text-white"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"30px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "flex md:col-span-4 col-span-12 md:justify-center m-3 px-10 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto py-8 px-2 grid grid-cols-12"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "md:col-span-10  col-span-12"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-col text-sm text-slate-300"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "css": {
+                            "color": "text-left"
+                        }
+                    }
+                },
+                "itemList": [
                     {
-                        "fblink": "https://www.facebook.com/agro.link.96",
-                        "twitterLink": "adf",
-                        "twitterlink": "https://www.facebook.com/agro.link.96",
-                        "instagramlink": "https://www.facebook.com/agro.link.96",
-                        "tiktoklink": "https://www.facebook.com/agro.link.96",
-                        "title": "Agro Link Pvt Ltd",
-                        "Logowidth": "100px",
-                        "Linkwidth": "300px",
-                        "socialMediaLink": "1",
-                        "linkedinlink": "https://www.facebook.com/agro.link.96"
+                        "caption": "<a href=\"/about-us\">Who We Are </a>\n <a href=\"/contact-us\">Contact Us</a>\n <a href=\"/seeds\">Seeds</a> \n<a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "parseHtml": "1",
+                        "heading": "About Us"
                     },
                     {
-                        "subheading": " Content Sign UP News Letters",
-                        "link1": "Sainbhu Bhainsepati, Ward no: 18, Lalitpur, Nepal",
-                        "link2": "GPO Box: 2345",
-                        "link3": "977-1-5425109 / 977-98510-97108 / 9841-342668",
-                        "title": "Address",
-                        "Linkwidth": "300px"
+                        "heading": "Quick Links",
+                        "caption": "<a href=\"/seeds\">Insecticides </a> \n<a href=\"/seeds\">Seeds</a> \n<a href=\"/about-us\">Our Leadership Team</a>",
+                        "parseHtml": "1"
                     },
                     {
-                        "description": "Descriptionsdf",
-                        "link1": "Seeds~seeds",
-                        "link2": "Blog~blogs",
-                        "link3": "About Us~about-us",
-                        "title": "Quick Links",
-                        "Linkwidth": "300px"
+                        "heading": "Address",
+                        "caption": "Sainbhu Bhainsepati, Ward no: 18, Lalitpur, Nepal <br/>\nGPO Box: 2345 <br/>\n977-1-5425109 / 977-98510-97108 / 9841-342668",
+                        "parseHtml": "1"
                     }
                 ],
-                "cta": [],
-                "color": "#fafafa",
-                "common_component": "1",
-                "textAlign": "left",
-                "bgColor": "#199541",
-                "listAlignItems": "normal"
+                "common_component": "1"
             },
-            "order": 114
+            "order": 127
         },
         {
-            "id": 3103,
-            "component": "list",
-            "component_id": 31,
+            "id": 7147,
+            "component": "TextV2",
+            "component_id": 72,
             "attributes": {
-                "contentList": [
-                    {
-                        "link1": "Copyright © 2018 Company Name – All Rights Reserved. Made by Mason Hive"
+                "containerLayout": {
+                    "css": {
+                        "color": "text-black text-center bg-orange-300",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-5xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-2xl pt-4 pb-10"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Copyright © 2024 agrolink. Useful Links | Glossary | Terms of Use | Privacy Policy",
+                        "css": {
+                            "color": "text-sm "
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": ""
                     }
-                ],
-                "cta": [],
-                "bgColor": "#f5953f",
-                "color": "#fff",
-                "textAlign": "center",
-                "common_component": "1",
-                "justifyContent": "center"
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "col-start-3 col-span-7"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-5 items-center m-auto"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                },
+                "common_component": "1"
             },
-            "order": 115
-        },
-        {
-            "id": 3361,
-            "component": "seo",
-            "component_id": 36,
-            "attributes": {
-                "description": "With the motto of healthy seed, healthy soil, and healthy life, Agrolink is focused to work on all the aspects to build a healthy life. A seed is a base for the development to bring us a healthy life. As we are in our initial phase we are highly dedicated to bringing healthy seeds to crop our land. We will be working on healthy soil and to a healthy life. We motivate you with our base of creating a developed nation from a seed.",
-                "title": "Agro Link Pvt. Ltd | HEALTHY SEED, HEALTHY SOIL, HEALTHY LIFE",
-                "common_component": "1",
-                "keywords": "healthy seed, Japanese seed, best seed to buy, best seed in nepal"
-            },
-            "order": 116
+            "order": 140
         }
     ]
 }
