@@ -1,24 +1,131 @@
 {
     "data": [
         {
-            "id": 3310,
-            "component": "contactForm",
-            "component_id": 43,
+            "id": 7128,
+            "component": "FunnelV2",
+            "component_id": 73,
             "attributes": {
-                "id": "contact",
-                "address": "Sainbhu Bhainsepati, Ward no: 18, Lalitpur, Nepal",
-                "phone": "Call : 977-1-5425109 / 977-98510-97108 / 9841-342668",
-                "email": "Email: agrolink@gmail.com",
-                "working_time": "Sun - Fri, 9 AM - 6 PM",
-                "enableContactDetail": "1",
-                "enableContactForm": "1",
-                "formTitle": "Contact Us",
-                "cta": "Send",
-                "link": "#",
-                "detailWidth": "40%",
-                "formWidth": "60%"
+                "containerLayout": {
+                    "css": {
+                        "color": "container m-auto md:grid md:grid-cols-12 py-8 flex flex-col",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "textContainerLayout": {
+                        "0": {
+                            "name": "css",
+                            "keys": [
+                                "color"
+                            ]
+                        },
+                        "1": "inlineCss",
+                        "2": "id",
+                        "css": {
+                            "color": "col-span-6"
+                        }
+                    },
+                    "form": {
+                        "id": "enquiry",
+                        "type": "enquiry",
+                        "css": {
+                            "color": "col-span-6",
+                            "fontSize": "12px"
+                        },
+                        "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}"
+                    },
+                    "formHeading": {
+                        "content": "",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "inlineCss": ""
+                    },
+                    "formButton": {
+                        "content": "Send Message",
+                        "link": "",
+                        "css": {
+                            "color": "bg-green-800 text-white rounded-full p-3"
+                        }
+                    },
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "caption": {
+                        "content": "\n<b>Address</b>\n<br/>\nSainbhu Bhainsepati, Ward no: 18, Lalitpur, Nepal\n<br/><br/>\n<b>Phone</b>\n<br/>\nCall : 977-1-5425109 / 977-98510-97108 / 9841-342668\n<br/><br/>\n<b>Email</b>\n<br/>\nEmail: agrolink@gmail.com\n<b><br/><br/>\nWorking-Time</b>\n<br/>\nSun - Fri, 9 AM - 6 PM",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": ""
+                    }
+                },
+                "wrapper": {
+                    "inputWrap": {
+                        "css": {
+                            "color": "text-start"
+                        }
+                    },
+                    "formWrap": {
+                        "css": {
+                            "color": "col-span-6 md:p-0 p-10"
+                        }
+                    },
+                    "mainWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "items-center px-10"
+                        }
+                    }
+                },
+                "formInputs": [
+                    {
+                        "id": "full_name",
+                        "label": "Full Name",
+                        "placeholder": "Enter Your Full Name",
+                        "required": "1"
+                    },
+                    {
+                        "id": "phone",
+                        "label": "Phone",
+                        "placeholder": "Enter Your Full Name",
+                        "required": "1"
+                    },
+                    {
+                        "id": "email_address",
+                        "label": "Email Address",
+                        "placeholder": "Enter Your Email Address",
+                        "required": "1"
+                    },
+                    {
+                        "id": "subject",
+                        "label": "Subject",
+                        "placeholder": "Enter Your Topic",
+                        "required": "1"
+                    },
+                    {
+                        "id": "message",
+                        "type": "textarea",
+                        "label": "Message",
+                        "placeholder": "Enter Your Message",
+                        "required": "1"
+                    }
+                ]
             },
-            "order": 106
+            "order": 120
         }
     ]
 }
