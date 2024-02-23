@@ -1,47 +1,154 @@
 {
     "data": [
         {
-            "id": 3302,
-            "component": "cards",
-            "component_id": 5,
+            "id": 7123,
+            "component": "TextV2",
+            "component_id": 72,
             "attributes": {
-                "itemList": [
-                    {
-                        "title": "Growing Your Own Food During A Pandemic",
-                        "width": "200px",
-                        "img": "https://cdn.britannica.com/17/196817-050-6A15DAC3/vegetables.jpg",
-                        "contentWidth": "300px"
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
                     },
-                    {
-                        "title": "How to get best yield from Kitchen Garden/Terrace Garden",
-                        "img": "https://www.cdc.gov/foodsafety/images/comms/features/GettyImages-1247930626-500px.jpg",
-                        "width": "200px",
-                        "contentWidth": "300px"
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-4xl py-2 font-light",
+                            "fontSize": "12px"
+                        },
+                        "content": "Growing Your Own Food During A Pandemic",
+                        "inlineCss": ""
                     },
-                    {
-                        "img": "https://www.wlns.com/wp-content/uploads/sites/50/2020/10/vegetables.jpg",
-                        "width": "200px",
-                        "title": "How to Grow Microgreens At Home?",
-                        "contentWidth": "300px"
+                    "description": {
+                        "content": "Growing your own food during a pandemic can be a rewarding and practical endeavor. Not only does it provide a sense of self-sufficiency, but it also ensures a steady supply of fresh produce, which might be difficult to obtain during times of crisis. ",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-slate-800 font-light"
+                        }
                     },
-                    {
-                        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsantansun.com%2Fwp-content%2Fuploads%2F2019%2F07%2FFruit-Trees.jpeg&f=1&nofb=1",
-                        "width": "200px",
-                        "title": "Top 10 Fruits for Roof-Top Farming",
-                        "contentWidth": "300px"
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://cdn.britannica.com/17/196817-050-6A15DAC3/vegetables.jpg",
+                        "link": ""
                     }
-                ],
-                "cardColor": "#000",
-                "cardBgColor": "#fff",
-                "itemSize": "2",
-                "cardMaxWidth": "900px",
-                "cardPadding": "0px",
-                "cardContentAlign": "left",
-                "linearCard": "1",
-                "imgContentRow": "1",
-                "contactInfo": []
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left  flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6 md:col-start-2  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto pt-10"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-3  order-2"
+                        }
+                    }
+                }
             },
-            "order": 66
+            "order": 120
+        },
+        {
+            "id": 7124,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-4xl py-2 font-light",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Growing your own food during a pandemic can be a rewarding and practical endeavor. Not only does it provide a sense of self-sufficiency, but it also ensures a steady supply of fresh produce, which might be difficult to obtain during times of crisis. Here are some key points to consider: \n<br/> <br/>\nFood Security:  With disruptions in supply chains and potential shortages at grocery stores, growing your own food can help ensure you have access to fresh produce.\n<br/> <br/>\n Health Benefits: Homegrown fruits and vegetables are often more nutritious than store-bought counterparts since they can be harvested at peak ripeness and consumed immediately, retaining maximum nutrients.\n<br/> <br/>\n Cost Savings: While there might be an initial investment in gardening supplies, growing your own food can ultimately save money, especially if you regularly consume fresh produce. \n<br/> <br/>\nReduced Dependency: Relying less on external sources for food reduces dependency on fragile supply chains, making you more resilient in the face of crises. \n<br/> <br/>\nTherapeutic Benefits: Gardening has been shown to have therapeutic effects, reducing stress and promoting mental well-being, which can be particularly valuable during challenging times. \n<br/> <br/>\nCommunity Building: Sharing surplus produce with neighbors or participating in community gardens fosters a sense of camaraderie and strengthens local food networks. \n<br/> <br/>\nLearning Opportunity: Growing your own food provides an excellent opportunity to learn about gardening, sustainability, and the natural world, fostering valuable skills that can be passed down to future generations. \n<br/> <br/>\nAdaptability: You can tailor your garden to your specific needs and preferences, growing a variety of crops that suit your tastes and dietary requirements.\n<br/> <br/>\n Sustainability: Home gardens can be designed to be environmentally friendly, using organic practices, conserving water, and minimizing waste. \n<br/> <br/>\nPreparedness: Beyond the pandemic, having the skills and resources to grow your own food prepares you for other emergencies or unforeseen circumstances. \n<br/> <br/>\nWhether you have a spacious backyard or just a few pots on a balcony, there are numerous ways to grow your own food, from traditional vegetable gardens to container gardening or even hydroponics. Regardless of the method, the act of cultivating your own sustenance can be empowering and fulfilling, offering a sense of control in uncertain times.",
+                        "css": {
+                            "color": "text-slate-600 leading-7"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left items-center flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-8 md:col-start-2  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto py-3"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 121
         }
     ]
 }
