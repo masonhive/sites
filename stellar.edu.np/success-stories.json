@@ -1,0 +1,182 @@
+{
+    "data": [
+        {
+            "id": 7135,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-5 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "Discover Nepal's leading education consultancy, unrivaled in excellence and commitment to your academic success!",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Look no further for proof of our exceptional service\n than the following testimonials from satisfied students",
+                        "css": {
+                            "color": "text-lg py-2 text-slate-700"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col bg-indigo-500 text-stone-100 rounded-lg text-sm md: m-0 my-5"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-light text-base"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}",
+                        "css": {
+                            "color": "text-yellow-500 pt-4 pl-4"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 col-span-12 md:mx-5 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left py-3 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-10 py-4"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:p-5 p-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto md:px-5 px-10"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "My decision to study in New Zealand was one of the best I've ever made, and SIE played a crucial role in making it happen. Their team provided exceptional support throughout the entire process, from helping me choose the right university to guiding me through the visa application process. Thanks to their expertise and personalized assistance, I am now thriving in my studies in New Zealand, surrounded by a welcoming community and breathtaking landscapes. I am immensely grateful to SIE for making my dream of studying abroad a reality.",
+                        "icon": "FaQuoteLeft",
+                        "caption": "Raman Rai"
+                    },
+                    {
+                        "heading": "Getting into a University in USA is much easier to dream than reality, I was baffled for a couple of month with the information on \"How to get into Top Ranked Institutes\" over the internet. The whole thing went smoothly from Admissions to Visa at Stellar Education.",
+                        "caption": "Raman Rai",
+                        "icon": "FaQuoteLeft"
+                    },
+                    {
+                        "heading": "Studying abroad seemed like a daunting task until I connected with SIE. From the moment I reached out, they provided unwavering support and guidance that made the entire process feel manageable. Thanks to their expertise, I was able to navigate the complexities of applying to universities in the USA seamlessly. Their personalized approach ensured that I found the perfect fit for my academic and personal goals. Now, as I embark on my journey here in the USA, I am forever grateful for SIE's invaluable assistance. I highly recommend them to anyone considering studying abroad",
+                        "caption": "Raman Rai",
+                        "icon": "FaQuoteLeft"
+                    },
+                    {
+                        "heading": "Getting into a University in USA is much easier to dream than reality, I was baffled for a couple of month with the information on \"How to get into Top Ranked Institutes\" over the internet. The whole thing went smoothly from Admissions to Visa at Stellar Education.",
+                        "caption": "Raman Rai",
+                        "icon": "FaQuoteLeft"
+                    },
+                    {
+                        "heading": "My decision to study in New Zealand was one of the best I've ever made, and SIE played a crucial role in making it happen. Their team provided exceptional support throughout the entire process, from helping me choose the right university to guiding me through the visa application process. Thanks to their expertise and personalized assistance, I am now thriving in my studies in New Zealand, surrounded by a welcoming community and breathtaking landscapes. I am immensely grateful to SIE for making my dream of studying abroad a reality.",
+                        "caption": "Raman Rai",
+                        "icon": "FaQuoteLeft"
+                    },
+                    {
+                        "heading": "Studying abroad seemed like a daunting task until I connected with SIE. From the moment I reached out, they provided unwavering support and guidance that made the entire process feel manageable. Thanks to their expertise, I was able to navigate the complexities of applying to universities in the USA seamlessly. Their personalized approach ensured that I found the perfect fit for my academic and personal goals. Now, as I embark on my journey here in the USA, I am forever grateful for SIE's invaluable assistance. I highly recommend them to anyone considering studying abroad",
+                        "caption": "Raman Rai",
+                        "icon": "FaQuoteLeft"
+                    },
+                    {
+                        "heading": "My decision to study in New Zealand was one of the best I've ever made, and SIE played a crucial role in making it happen. Their team provided exceptional support throughout the entire process, from helping me choose the right university to guiding me through the visa application process. Thanks to their expertise and personalized assistance, I am now thriving in my studies in New Zealand, surrounded by a welcoming community and breathtaking landscapes. I am immensely grateful to SIE for making my dream of studying abroad a reality.",
+                        "caption": "Raman Rai",
+                        "icon": "FaQuoteLeft"
+                    },
+                    {
+                        "heading": "Studying abroad seemed like a daunting task until I connected with SIE. From the moment I reached out, they provided unwavering support and guidance that made the entire process feel manageable. Thanks to their expertise, I was able to navigate the complexities of applying to universities in the USA seamlessly. Their personalized approach ensured that I found the perfect fit for my academic and personal goals. Now, as I embark on my journey here in the USA, I am forever grateful for SIE's invaluable assistance. I highly recommend them to anyone considering studying abroad",
+                        "caption": "Raman Rai",
+                        "icon": "FaQuoteLeft"
+                    },
+                    {
+                        "heading": "My decision to study in New Zealand was one of the best I've ever made, and SIE played a crucial role in making it happen. Their team provided exceptional support throughout the entire process, from helping me choose the right university to guiding me through the visa application process. Thanks to their expertise and personalized assistance, I am now thriving in my studies in New Zealand, surrounded by a welcoming community and breathtaking landscapes. I am immensely grateful to SIE for making my dream of studying abroad a reality.",
+                        "caption": "Raman Rai",
+                        "icon": "FaQuoteLeft"
+                    }
+                ]
+            },
+            "order": 2
+        }
+    ]
+}
