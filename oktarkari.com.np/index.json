@@ -1,100 +1,24 @@
 {
     "data": [
         {
-            "id": 4623,
-            "component": "TextV2",
-            "component_id": 61,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-cover vh-height mbr-flex mbr-align-item-c ",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{ \"min-height\": \"70vh\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "font-family-poppins font-size-4  mbr-pt-3",
-                            "fontSize": "12px"
-                        },
-                        "content": "Empowering Business Growth with Digital Transformation",
-                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}",
-                        "link": "",
-                        "aos": "zoom-in-up"
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-andada font-size-7"
-                        }
-                    },
-                    "button": {
-                        "content": "Learn More About Us",
-                        "link": "/about-us ",
-                        "css": {
-                            "color": "btn clr-pl-7 mbr-pt-3"
-                        },
-                        "inlineCss": "{\"background\":\"#20561a\", \"border-radius\": \"20px 0px 20px 0px\"}"
-                    },
-                    "caption": {
-                        "content": "We, <b> Gaousik Tech Solution Pvt. Ltd </b>, believe in harnessing the power of technology to make your visions a tangible reality.\nAs a tech startup, we specialize in bringing digital transformation to businesses of all sizes. Our team of experts leverages the latest Artificial Intelligence (AI) technology to streamline business processes, making them more efficient and effective. From website creation to core business services, we're dedicated to helping businesses grow and succeed. With our focus on innovation and customer satisfaction, we're poised to lead the way in digital transformation.\n\n",
-                        "css": {
-                            "color": " font-size-7 mbr-py-3"
-                        },
-                        "inlineCss": "{ \"color\": \"#4A4A4A\"}",
-                        "parseHtml": "1"
-                    },
-                    "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//business-strategy-analytics.avif",
-                        "aos": "zoom-in-up"
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "container mbr-flex mbr-jc-c  flex-wrap grid-column-reverse mbr-align-item-c mbr-pb-5"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-7 align-left"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-5"
-                        }
-                    }
-                }
-            },
-            "order": 6
-        },
-        {
-            "id": 6450,
+            "id": 7155,
             "component": "CardV2",
             "component_id": 62,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row clr-pl-7",
+                        "color": "font-light  overflow-hidden text-white",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\"}"
+                    "inlineCss": "{\"fontFamily\":\"Outfit\", \"height\":\"500px\"}"
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": " font-size-6 mbr-m-0 ",
+                            "color": "",
                             "fontSize": "12px"
                         },
-                        "content": "We Empower Businesses with Simplified Technology Solutions",
+                        "content": "",
                         "inlineCss": ""
                     },
                     "description": {
@@ -115,23 +39,554 @@
                         "content": ""
                     },
                     "caption": {
-                        "content": ""
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
                     },
                     "itemInfo": {
                         "reverseDisplayOrder": "",
-                        "rowCounts": "3",
-                        "activateSlider": "1"
+                        "activateSlider": "1",
+                        "rowCounts": "1",
+                        "isBanner": "1"
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container clr-pl-7 mbr-p-5"
+                            "color": ""
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-center clr-pl-7"
+                            "color": "items-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "sm:hidden"
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "md:absolute z-10 bg-slate-200/10 w-full justify-center flex flex-col bg-sky-200  py-10 top-0 md:px-32"
+                        },
+                        "inlineCss": "{\"height\":\"500px\"}"
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-4xl py-3  text-left "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": ""
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "text-xl pb-10 "
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-start flex-col text-left "
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": " relative hidden lg:block"
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": "bg-green-700\trounded-full px-5 py-3 text-white mb-10 w-fit"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/admin.oktarkari.com.np//fresh-vegetables-are-placed-kitchen.jpg",
+                        "heading": "We Are On A MISSION",
+                        "caption": "Empower your global ambitions with personalized guidance on your study abroad journey",
+                        "parseHtml": "1",
+                        "button": "Get Started For Free"
+                    }
+                ]
+            },
+            "order": 2
+        },
+        {
+            "id": 6462,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c clr-pt-7",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"position\":\"relative\",\"height\":\"80vh\"}",
+                    "id": "home"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-raleway  font-size-5 mbr-pt-1",
+                            "fontSize": "12px"
+                        },
+                        "content": "We Are On a MISSION",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "to grow the best plants possible for the betterment of humanity.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-montserrat  font-size-7 mbr-pt-1 align-center"
+                        }
+                    },
+                    "button": {
+                        "content": "Explore Our Mission",
+                        "link": "/index#contact-us",
+                        "css": {
+                            "color": "btn bg-clr-pl-1 fontSize4 clr-pl-7 align-center mbr-mt-10 font-family-montserrat "
+                        },
+                        "inlineCss": "{\"background\":\"#d6932e\", \"marginTop\":\"20px\"}"
+                    },
+                    "image": {
+                        "content": "",
+                        "inlineCss": "{\"position\":\"absolute\"}",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "font-family-montserrat  font-size-3 mbr-pt-1 align-center"
+                        },
+                        "parseHtml": ""
+                    },
+                    "video": {
+                        "link": "https://www.youtube.com/embed/nYDsyr_OP1Y",
+                        "banner": "1"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-7 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-5"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        },
+                        "inlineCss": "{\"position\":\"relative\",\"color\":\"#fff\",\"width\":\"100%\"}"
+                    }
+                }
+            },
+            "order": 920
+        },
+        {
+            "id": 1305,
+            "component": "seo",
+            "component_id": 36,
+            "attributes": {
+                "txt": "SEO Text",
+                "keywords": "Oktarkari,\nOnline Tarkari Pasal,\nOrganic vegetables online,\norganic vegetables and fruits,\nvegetables and fruits,\nBuy vegetables online in Nepal,\nonline vegetables delivery near me,\nonline vegetables near me,\nonline vegetables delivery in kathmandu,\nvegetable home delivery near me,\nonline vegetable store in kathmandu,\nvegetables online,\nonline delivery during lockdown nepal,\nonline fruits delivery in kathmandu,\nonline vegetable delivery,\nonline fruits delivery in kathmandu,\norganic vegetables in kathmandu,\nvegetables online kathmandu,\nbuy vegetables online in  nepal,\nfarm fresh vegetables online,\nonline fruits delivery in kathmandu,\nonline grocery,\nbuy groceries online in Nepal,\nfresh and organic fruits,\norder vegetables online,\nonline tarkari,\ntarkari online,\nhealthy food,\nbalanced diet,\nhealthy diet,\nhealthy food list,\nnutritious food,\nbest diet plan for weight loss,\n\n",
+                "title": "Top 10 Healthy food for your diet | Oktarkari \n",
+                "description": "The following fruits and vegetables are nutritious, but these picks have the highest levels of good-for-you nutrients that fight disease, improve cognition, and prevent heart disease.\n\n"
+            },
+            "order": 921
+        },
+        {
+            "id": 1308,
+            "component": "base",
+            "component_id": 30,
+            "attributes": {
+                "txt": "this is title",
+                "fontSize": "15px",
+                "secondaryBgColor": "#f26c29",
+                "secondaryFontColor": "#fff",
+                "trackingId": "UA-193509029-2",
+                "fontFamily": "Raleway"
+            },
+            "order": 924
+        },
+        {
+            "id": 6477,
+            "component": "NavV2",
+            "component_id": 67,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"background\":\"#fff\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "What our customers say",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Here are some customers thought about Vigour Super Speciality Clinic and Diagnostic Centre as it is.\n\n\n"
+                    },
+                    "itemInfo": {
+                        "activateSlider": "1",
+                        "rowCounts": "3"
+                    },
+                    "logo": {
+                        "content": "",
+                        "logo": "https://drive.google.com/uc?id=18g2Wu37P31e-JTQ9uEtV5igA4wsJL66o",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"width\":\"100px\"}"
+                    },
+                    "slogan": {
+                        "content": "",
+                        "css": {
+                            "color": "font-family-andada font-size-7"
+                        }
+                    },
+                    "hamburger": {
+                        "icon": "GiHamburgerMenu",
+                        "css": {
+                            "color": "font-size-5"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex align-center mbr-col-md-2"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 mbr-flex grid-row "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "flex grid-column"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    },
+                    "logoWrap": {
+                        "css": {
+                            "color": "mbr-col-md-2"
+                        }
+                    },
+                    "menuWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Cardio Monitoring",
+                        "caption": "We and our partners use cookies to store and access personal data such as browsing data for purposes such as serving and personalizing content and advertising and analyzing site traffic. \n\n",
+                        "link": "https://oktarkari.com",
+                        "content": "Get Our Produces",
+                        "css": "font-size-7 mbr-p-2 bg-clr-pl-4"
+                    }
+                ]
+            },
+            "order": 925
+        },
+        {
+            "id": 6468,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "container mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-7",
+                            "fontSize": "12px"
+                        },
+                        "content": "Beneficial Advantages & Compliances",
+                        "inlineCss": "{\"color\":\"#20561a\"}"
+                    },
+                    "description": {
+                        "content": "From easy access to multiple clouds to comprehensive end-to-end services, Ether provides a host of advantages for enterprises and SMBs.\n",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-poppins font-size-7"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Different. Distinct. Discerning.",
+                        "css": {
+                            "color": "font-family-poppins font-size-6"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    }
+                }
+            },
+            "order": 928
+        },
+        {
+            "id": 6469,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "container mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-7",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-poppins font-size-7"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://www.aerofarms.com/wp-content/uploads/2021/04/Website-Photos-v2-02-1024x615.png"
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "font-family-poppins font-size-6"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    }
+                }
+            },
+            "order": 929
+        },
+        {
+            "id": 6471,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"background\": \"#efeaf9\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "Research Projects",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Here are Some of the Research Projects"
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
                         }
                     },
                     "imageWrap": {
@@ -148,7 +603,7 @@
                         "css": {
                             "color": ""
                         },
-                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"0px 0px 10px 10px\",\"padding\":\"0px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
+                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\",\"padding\":\"0px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
                     },
                     "itemHeadingWrap": {
                         "css": {
@@ -157,7 +612,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "font-size-7 mbr-m-0 clr-pl-7"
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
                         }
                     },
                     "itemIconWrap": {
@@ -170,7 +625,7 @@
                     },
                     "itemCaptionWrap": {
                         "css": {
-                            "color": "align-left clr-pl-7"
+                            "color": "align-left"
                         }
                     },
                     "itemContainerWrap": {
@@ -183,58 +638,306 @@
                     },
                     "itemTitleWrap": {
                         "css": {
-                            "color": "clr-pl-7"
+                            "color": ""
                         },
                         "inlineCss": "{\"padding\":\"5px\"}"
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container"
-                        }
-                    },
-                    "itemImageWrap": {
-                        "inlineCss": ""
                     }
                 },
                 "itemList": [
                     {
-                        "heading": "Website Design & Development",
+                        "heading": " Organic Mushrooms",
+                        "caption": "We and our partners use cookies to store and access personal data such as browsing data for purposes such as serving and personalizing content and advertising and analyzing site traffic.   TEst\n",
                         "parseHtml": "1",
-                        "image": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//corporate-meeting-employees-cartoon-characters-discussing-business-strategy-planning-further-actions-brainstorming-formal-communication-seminar-concept-illustration_335657-2035.avif",
-                        "aos": "fade-right"
+                        "image": "https://assets.website-files.com/62d901050b694cd462d2879c/63932cce7c6441c4be94a760_thumb.webp"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//mis.jpeg",
-                        "heading": "Information Management System",
+                        "image": "https://assets.website-files.com/62d901050b694cd462d2879c/63932cce7c6441c4be94a760_thumb.webp",
+                        "heading": " Vermi Composting",
+                        "caption": "We and our partners use cookies to store and access personal data such as browsing data for purposes such as serving and personalizing content and advertising and analyzing site traffic.   TEst\n",
                         "parseHtml": "1"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//business-strategy-analytics.avif",
-                        "heading": "Digital Marketing & Branding ",
-                        "parseHtml": "1",
-                        "aos": "fade-left"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//business-strategy-analytics.avif",
-                        "heading": "Mobile Applications ",
-                        "parseHtml": "1"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//benefits-of-integrated-healthcare-systems-3-1280x720.webp",
-                        "heading": "Health Care System Design",
-                        "parseHtml": "1"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//app_design.png",
-                        "heading": "Online Store & Ecommerce ",
+                        "image": "https://assets.website-files.com/62d901050b694cd462d2879c/63932cce7c6441c4be94a760_thumb.webp",
+                        "heading": " Aquaponics System",
+                        "caption": "We and our partners use cookies to store and access personal data such as browsing data for purposes such as serving and personalizing content and advertising and analyzing site traffic.   TEst\n",
                         "parseHtml": "1"
                     }
                 ]
             },
-            "order": 7
+            "order": 931
         },
         {
-            "id": 6332,
+            "id": 6476,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "container mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-7",
+                            "fontSize": "12px"
+                        },
+                        "content": "Beneficial Advantages & Compliances",
+                        "inlineCss": "{\"color\":\"#20561a\"}"
+                    },
+                    "description": {
+                        "content": "From easy access to multiple clouds to comprehensive end-to-end services, Ether provides a host of advantages for enterprises and SMBs.\n",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-poppins font-size-7"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Different. Distinct. Discerning.",
+                        "css": {
+                            "color": "font-family-poppins font-size-6"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    }
+                }
+            },
+            "order": 932
+        },
+        {
+            "id": 6463,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-6 mbr-pt-6",
+                            "fontSize": "12px"
+                        },
+                        "content": "Cutting-Edge Technology",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Take a virtual tour of one of our indoor vertical farms to see how we grow our local, pesticide-free leafy greens that are better for you and better for the planet.",
+                        "css": {
+                            "color": "font-family-raleway font-size-7 mbr-pt-2"
+                        }
+                    },
+                    "video": {
+                        "imageLink": "https://www.aerofarms.com/wp-content/uploads/bb-plugin/cache/FSQA-protocols-landscape-landscape.jpg",
+                        "link": "https://www.youtube.com/embed/YDQQj-WzT_U"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 align-left  mbr-px-4"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 align-right"
+                        }
+                    }
+                }
+            },
+            "order": 933
+        },
+        {
+            "id": 6464,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-6 mbr-pt-6",
+                            "fontSize": "12px"
+                        },
+                        "content": "World Class Team",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://www.aerofarms.com/wp-content/uploads/bb-plugin/cache/FSQA-protocols-landscape-landscape.jpg",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "caption": {
+                        "content": "We have assembled the best and brightest, all aligned with our mission and how we transform agriculture. We have deep expertise from science to engineering to technology to food safety. Our work is for the bold. If that’s you, join us. If you want to help us change the world, apply to our open jobs below.",
+                        "css": {
+                            "color": "font-family-raleway font-size-7 mbr-pt-2"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column-reverse mbr-align-item-c "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 align-left  mbr-px-4 align-right"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 align-left"
+                        }
+                    }
+                }
+            },
+            "order": 935
+        },
+        {
+            "id": 6465,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-6 mbr-pt-6",
+                            "fontSize": "12px"
+                        },
+                        "content": "Grow With Purpose",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://www.aerofarms.com/wp-content/uploads/bb-plugin/cache/Website-Photos-v3-03-landscape.png",
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "AeroFarms is proud to be the first indoor vertical farming company to be a Certified B Corporation. Learn more about how we put people, planet and purpose first and use business as a force for good.",
+                        "css": {
+                            "color": "font-family-raleway font-size-7 mbr-pt-2"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 align-left  mbr-px-4"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 align-right"
+                        }
+                    }
+                }
+            },
+            "order": 936
+        },
+        {
+            "id": 6473,
             "component": "CardV2",
             "component_id": 62,
             "attributes": {
@@ -248,10 +951,10 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-poppins font-size-6 mbr-pt-3",
+                            "color": "font-family-poppins font-size-5 mbr-pt-3",
                             "fontSize": "12px"
                         },
-                        "content": "Leveraging Cutting-Edge Technology for Seamless Digital Transformation",
+                        "content": "Let us Serve Your to Kitchen",
                         "inlineCss": ""
                     },
                     "description": {
@@ -272,11 +975,14 @@
                         "content": ""
                     },
                     "caption": {
-                        "content": "We introduce the building blocks of transformation, empowering businesses to thrive in today's fast-paced digital landscape. With the use of cutting-edge technology, including microservices, we work to boost growth, cost-efficiency, security, and scalability, ensuring that our clients are always up-to-date with the latest advancements. Whether it's streamlining processes, upgrading systems, or enhancing security, we have the expertise and experience to help businesses reach their full potential and achieve a truly digital transformation.",
+                        "content": "Achieving the business transformed digitally is efficient with our building blocks.  Digital transformation is what all businesses and offices need, to thrive today, tomorrow, and beyond.\nWe are working with cutting-edge technology with the use of microservices to boost growth, cost-efficiency, security, and scalability updating and upgrading the system daily.\n",
                         "inlineCss": "",
                         "css": {
                             "color": "font-family-raleway font-size-7 mbr-py-3"
                         }
+                    },
+                    "itemInfo": {
+                        "rowCounts": "4"
                     }
                 },
                 "wrapper": {
@@ -305,7 +1011,7 @@
                         "css": {
                             "color": ""
                         },
-                        "inlineCss": "{\"color\": \"#20561a\",\"borderRadius\": \"20px\",\"padding\":\"15px\",\"box-shadow\":\"1px 1px 5px 0px\",\"margin-bottom\":\"30px\"}"
+                        "inlineCss": "{\"color\": \"#20561a\",\"borderRadius\": \"20px\",\"padding\":\"15px\",\"box-shadow\":\"1px 1px 5px 0px\"}"
                     },
                     "itemHeadingWrap": {
                         "css": {
@@ -314,7 +1020,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "font-family-poppins font-size-7 mbr-pt-1"
+                            "color": "font-family-poppins font-size-6  mbr-pt-1"
                         }
                     },
                     "itemIconWrap": {
@@ -322,7 +1028,7 @@
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "mbr-col-md-4 mbr-flex grid-row "
+                            "color": "mbr-col-md-3 mbr-flex grid-row "
                         }
                     },
                     "itemCaptionWrap": {
@@ -339,86 +1045,87 @@
                         "css": {
                             "color": "container"
                         },
-                        "inlineCss": "{\"border-radius\": \"25px 25px 0px 0px\", \"background\": \"linear-gradient(181deg, #72eb8647, transparent)\"}"
-                    },
-                    "itemImageWrap": {
-                        "inlineCss": "{\"width\": \"80px\", \"position\": \"relative\", \"left\": \"calc(50% - 40px)\"}"
+                        "inlineCss": "{\"border-radius\": \"100px 100px 0px 0px\", \"background\": \"linear-gradient(181deg, #72eb8647, transparent)\"}"
                     }
                 },
                 "itemList": [
                     {
-                        "heading": "Pre-Build Software \n( Plug and Play )",
-                        "caption": "We've spent years learning about business needs and requirements. \nThrough our accumulated knowledge and experience, we have developed a set of tools and products that serve as the building blocks for business acceleration just a simple plug-and-play. Our products are based on a common understanding of what businesses need to succeed.",
+                        "heading": "Choose Your Meal",
+                        "caption": "We keep dinner interesting. From top-rated favorites and health-conscious options to Premium dishes and more, variety is always on the menu.",
+                        "link": "https://oktarkari.com",
                         "parseHtml": "1",
-                        "aos": "zoom-in",
-                        "image": "https://static.thenounproject.com/png/3085693-200.png"
+                        "image": "https://drive.google.com/uc?id=1htYckcmb6AWuxNInUa326cVq3f-STULx"
                     },
                     {
-                        "heading": "Custom Software\n ( As per Need )",
-                        "caption": " We are dedicated to understanding your business needs and providing tailored solutions to drive growth. With years of experience and expertise in both technology and business models, we are confident in our ability to enhance your operations with our knowledge and innovative tools. Whether you have a unique business idea or a well-established workflow, we are ready to work with you and help you reach new heights.",
-                        "image": "https://static.thenounproject.com/png/1555241-200.png"
+                        "heading": "Unpack Your Deliverables",
+                        "caption": "We guarantee the freshness of all our ingredients and deliver them in an insulated box right to your door.",
+                        "link": "/services",
+                        "parseHtml": "1",
+                        "image": "https://img.freepik.com/free-vector/box-subscription-service-abstract-concept-illustration-subscription-plan-ecommerce-business-shopping-service-box-delivery-startup-internet-marketing-marketplace_335657-3322.jpg?w=740&t=st=1673666920~exp=1673667520~hmac=9dc1acb5e3aa47bb750e9bc3797a4abf0906ee2d0ae54ac8791875c35389d567"
                     },
                     {
-                        "heading": "Connecting the Dots",
-                        "caption": "Streamline your digital operations with seamless integration. Whether your business is already in the digital realm or needs a boost, we can help bridge the gap to success. Our services and microservices offer the support you need to achieve maximum efficiency. Let us handle your digital representation so you can focus on running your business",
-                        "aos": "zoom-in",
-                        "image": "https://static.thenounproject.com/png/252449-200.png"
+                        "heading": "Cook, Create & Enjoy",
+                        "caption": "Follow our easy step-by-step recipes to learn new skills, try new tastes, and make your family amazing meals.\n",
+                        "image": "https://img.freepik.com/premium-vector/hand-drawing-spaghetti-vegetable-meat-topping_39624-69.jpg?w=740"
+                    },
+                    {
+                        "heading": "Decompose to Nature",
+                        "caption": "Follow our easy step-by-step recipes to learn new skills, try new tastes, and make your family amazing meals.",
+                        "image": "https://img.freepik.com/premium-vector/compost-isolated-cartoon-vector-illustrations_107173-21843.jpg?w=740"
                     }
                 ]
             },
-            "order": 9
+            "order": 937
         },
         {
-            "id": 6317,
-            "component": "TextV2",
-            "component_id": 61,
+            "id": 6474,
+            "component": "CardV2",
+            "component_id": 62,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "container mbr-flex mbr-align-item-c ",
+                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"padding-top\":\"60px\"}"
+                    "inlineCss": "{\"background\": \"#efeaf9\"}"
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-poppins font-size-7",
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
                             "fontSize": "12px"
                         },
-                        "content": "Empowering Business Growth with Digital Transformation",
-                        "inlineCss": "{\"color\":\"#20561a\"}"
+                        "content": "Major Breakthroughs & Milestones",
+                        "inlineCss": ""
                     },
                     "description": {
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-poppins font-size-7"
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
                         }
                     },
                     "button": {
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                            "color": ""
                         }
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//gts.png",
-                        "inlineCss": "{\"width\": \"200px\"}",
-                        "aos": "zoom-in-up"
+                        "content": ""
                     },
                     "caption": {
-                        "content": "",
-                        "css": {
-                            "color": "font-family-poppins font-size-6"
-                        }
+                        "content": "Here are Some of the Research Projects"
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
                         }
                     },
                     "contentWrap": {
@@ -428,290 +1135,80 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "mbr-col-md-6"
-                        }
-                    }
-                }
-            },
-            "order": 10
-        },
-        {
-            "id": 6313,
-            "component": "TextV2",
-            "component_id": 61,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "mbr-flex mbr-align-item-c",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "font-family-poppins font-size-6 mbr-pt-6",
-                            "fontSize": "12px"
-                        },
-                        "content": "One-Stop-Digital-Solution",
-                        "inlineCss": "{\"color\":\"#20561a\"}",
-                        "aos": "zoom-in-left"
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
+                            "color": ""
                         }
                     },
-                    "button": {
-                        "content": "",
-                        "link": "",
+                    "itemheadingWrap": {
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
                         }
                     },
-                    "image": {
-                        "content": "https://img.freepik.com/free-vector/corporate-meeting-employees-cartoon-characters-discussing-business-strategy-planning-further-actions-brainstorming-formal-communication-seminar-concept-illustration_335657-2035.jpg?w=740&t=st=1673541186~exp=1673541786~hmac=784a6cae577f0e8a91b7d114b5ca128416ec26c71034d97dd944b7947d0a3d5c",
-                        "inlineCss": "",
-                        "aos": "zoom-in-right"
-                    },
-                    "caption": {
-                        "content": "We provide comprehensive digital services under one roof to help your organization thrive in the digital age. From consulting to execution, maintenance, and innovation, we have you covered. Partner with us and let us help you build on your core values and accelerate your success.",
-                        "css": {
-                            "color": "font-family-raleway font-size-7 mbr-pt-2"
-                        }
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-3 align-left  mbr-px-4"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-4 align-right"
-                        }
-                    }
-                }
-            },
-            "order": 11
-        },
-        {
-            "id": 6314,
-            "component": "TextV2",
-            "component_id": 61,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "mbr-flex mbr-align-item-c",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "font-family-poppins font-size-6 mbr-pt-6",
-                            "fontSize": "12px"
-                        },
-                        "content": "",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "Gaousik offers comprehensive solutions for digital transformation including web design, mobile app development, digital marketing, platform and SaaS offerings, and managed services with seamless integration. Our goal is to provide out-of-the-box solutions and create value for our partners and clients by delivering an end-to-end process that results in win-win situations",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-raleway font-size-7 mbr-pt-2"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np/business-strategy-analytics.avif",
-                        "inlineCss": "{\"width\":\"300px\"}",
+                    "itemSectionWrap": {
                         "css": {
                             "color": ""
                         },
-                        "aos": "zoom-in"
+                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\",\"padding\":\"0px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
                     },
-                    "caption": {
-                        "content": "Comprehensive Offering With Out of Box Mindset\n",
+                    "itemHeadingWrap": {
                         "css": {
-                            "color": "font-family-poppins font-size-6 mbr-pt-6"
-                        },
-                        "aos": "zoom-in"
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column-reverse mbr-align-item-c "
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
                         }
                     },
-                    "contentWrap": {
+                    "itemHeaderWrap": {
                         "css": {
-                            "color": "mbr-col-md-4 align-left  mbr-px-4 align-right"
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
                         }
                     },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-4 align-left"
-                        }
-                    }
-                }
-            },
-            "order": 12
-        },
-        {
-            "id": 6315,
-            "component": "TextV2",
-            "component_id": 61,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "mbr-flex mbr-align-item-c",
-                        "fontSize": "12px"
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
                     },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
+                    "itemRowWrap": {
                         "css": {
-                            "color": "font-family-poppins font-size-6 mbr-pt-6",
-                            "fontSize": "12px"
-                        },
-                        "content": "Adding Massive Value to Your Business",
-                        "inlineCss": "",
-                        "aos": "zoom-in"
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
+                            "color": "mbr-col-md-4 mbr-flex grid-row mbr-col-sm-6"
                         }
                     },
-                    "button": {
-                        "content": "",
-                        "link": "",
+                    "itemCaptionWrap": {
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                            "color": "align-left"
                         }
                     },
-                    "image": {
-                        "content": "https://img.freepik.com/premium-vector/financial-consultation-flat-editable-trendy-design_203633-1995.jpg?w=900",
-                        "inlineCss": "",
-                        "aos": "zoom-in"
-                    },
-                    "caption": {
-                        "content": "At Gaousik, our focus is to maximize value for all stakeholders, including end-users. We understand the importance of time and energy, and strive to use them wisely in our work. By partnering with us, you not only get your tasks completed but also receive valuable insights and support to enhance your business. Our expertise and knowledge base will help identify opportunities for increased efficiency and growth. Working with Gaousik is a sure way to add value to your business or workflow",
+                    "itemContainerWrap": {
                         "css": {
-                            "color": "font-family-raleway font-size-7 mbr-pt-2"
-                        }
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c"
+                            "color": "container grid-column"
                         }
                     },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-4 align-left  mbr-px-4"
-                        }
+                    "itemContentWrap": {
+                        "inlineCss": "{\"padding\":\"10px\"}"
                     },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-4 align-right"
-                        }
-                    }
-                }
-            },
-            "order": 12
-        },
-        {
-            "id": 6316,
-            "component": "TextV2",
-            "component_id": 61,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "mbr-flex mbr-align-item-c",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "font-family-poppins font-size-6 mbr-pt-6",
-                            "fontSize": "12px"
-                        },
-                        "content": "Seamless Integrations",
-                        "inlineCss": "",
-                        "aos": "zoom-in"
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": "https://img.freepik.com/free-vector/business-intelligence-abstract-illustration-flat-style_335657-4554.jpg?t=st=1673541857~exp=1673542457~hmac=16104077279d702cbd05e46c74fff996ffceba780bf1bc80ad14c63b1aec5e7f",
-                        "inlineCss": "",
+                    "itemTitleWrap": {
                         "css": {
                             "color": ""
                         },
-                        "aos": "zoom-in"
-                    },
-                    "caption": {
-                        "content": "Seamless integration is crucial for the success of any business. Attracting potential customers through multiple channels and converting them into loyal ones is crucial for business sustainability. These tasks are often handled by different services, tools, and channels, but effective integration is important for efficiency. We focus on delivering value as we help with seamless integration",
-                        "css": {
-                            "color": "font-family-raleway font-size-7 mbr-pt-2"
-                        }
+                        "inlineCss": "{\"padding\":\"5px\"}"
                     }
                 },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column-reverse mbr-align-item-c "
-                        }
+                "itemList": [
+                    {
+                        "heading": " Marpipe 2022 Review, Pricing & The Best Alternative in Creative Automation",
+                        "caption": "We and our partners use cookies to store and access personal data such as browsing data for purposes such as serving and personalizing content and advertising and analyzing site traffic.   TEst\n",
+                        "parseHtml": "1",
+                        "image": "https://assets.website-files.com/62d901050b694cd462d2879c/63932cce7c6441c4be94a760_thumb.webp"
                     },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-4 align-left  mbr-px-4 align-right"
-                        }
+                    {
+                        "image": "https://assets.website-files.com/62d901050b694cd462d2879c/63932cce7c6441c4be94a760_thumb.webp",
+                        "heading": " Marpipe 2022 Review, Pricing & The Best Alternative in Creative Automation",
+                        "caption": "We and our partners use cookies to store and access personal data such as browsing data for purposes such as serving and personalizing content and advertising and analyzing site traffic.   TEst\n",
+                        "parseHtml": "1"
                     },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-4 align-left"
-                        }
+                    {
+                        "image": "https://assets.website-files.com/62d901050b694cd462d2879c/63932cce7c6441c4be94a760_thumb.webp",
+                        "heading": " Marpipe 2022 Review, Pricing & The Best Alternative in Creative Automation",
+                        "caption": "We and our partners use cookies to store and access personal data such as browsing data for purposes such as serving and personalizing content and advertising and analyzing site traffic.   TEst\n",
+                        "parseHtml": "1"
                     }
-                }
+                ]
             },
-            "order": 13
+            "order": 939
         }
     ]
 }

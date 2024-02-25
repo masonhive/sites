@@ -1,27 +1,16 @@
 {
     "data": [
         {
-            "id": 4622,
-            "component": "base",
-            "component_id": 30,
-            "attributes": {
-                "fontFamily": "Poppins",
-                "fontSize": "15px",
-                "common_component": "1"
-            },
-            "order": 3
-        },
-        {
-            "id": 6307,
+            "id": 7149,
             "component": "NavV2",
             "component_id": 67,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row",
+                        "color": " shadow-sm shadow-slate-200",
                         "fontSize": "12px"
                     },
-                    "inlineCss": ""
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                 },
                 "keyComponents": {
                     "heading": {
@@ -53,16 +42,16 @@
                         "content": "Here are some customers thought about Vigour Super Speciality Clinic and Diagnostic Centre as it is.\n\n\n"
                     },
                     "itemInfo": {
-                        "activateSlider": "1",
-                        "rowCounts": "3"
+                        "activateSlider": "",
+                        "rowCounts": ""
                     },
                     "logo": {
                         "content": "",
-                        "logo": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//gts.png",
+                        "logo": "https://mail.ijli.com.np/uploads/admin.oktarkari.com.np//oktarkari_logo.jpg",
                         "css": {
-                            "color": "font-family-montserrat  font-size-5 mbr-pt-1"
+                            "color": "md:h-16 h-12"
                         },
-                        "inlineCss": "{\"color\":\"#d6932e\", \"fontWeight\":\"600\",\"width\":\"120px\"}"
+                        "inlineCss": ""
                     },
                     "slogan": {
                         "content": "",
@@ -73,12 +62,13 @@
                     "hamburger": {
                         "icon": "GiHamburgerMenu",
                         "css": {
-                            "color": "font-size-5"
-                        }
+                            "color": "md:hidden p-4 z-20 relative"
+                        },
+                        "smDeviceOnly": ""
                     },
                     "menu": {
                         "css": {
-                            "color": "font-size-7"
+                            "color": " px-4 py-2 hover:border-green-600   border-white border-b-2 ease-in duration-300 text-sm flex items-center gap-1"
                         },
                         "inlineCss": ""
                     }
@@ -106,7 +96,7 @@
                     },
                     "itemSectionWrap": {
                         "css": {
-                            "color": "flex align-center mbr-col-md-2"
+                            "color": "flex align-center"
                         },
                         "inlineCss": ""
                     },
@@ -135,48 +125,378 @@
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "flex grid-column"
+                            "color": "md:col-span-2 flex items-center md:col-start-11  col-span-6 md:flex-row-reverse gap-1"
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container"
+                            "color": "container m-auto grid grid-cols-12 items-center pt-3 md:px-10"
                         }
                     },
                     "logoWrap": {
                         "css": {
-                            "color": "mbr-col-md-3"
-                        },
-                        "inlineCss": "{\"text-align\":\"left\"}"
+                            "color": "md:col-span-2  col-span-5"
+                        }
                     },
                     "menuWrap": {
                         "css": {
-                            "color": "mbr-col-md-9"
-                        },
-                        "inlineCss": "{\"background\":\"#20561a\", \"color\":\"#fff\", \"borderRadius\":\"0 20px 0px 20px\"}"
+                            "color": "md:col-span-8 md:flex items-center md:visible text-sm flex-row-reverse"
+                        }
                     }
                 },
-                "itemList": [],
+                "itemList": [
+                    {
+                        "content": "Get Our Produces",
+                        "css": "bg-green-700\trounded-full px-4 py-1 text-white text-base",
+                        "link": "/meet-us"
+                    }
+                ],
                 "common_component": "1"
             },
-            "order": 5
+            "order": 1
         },
         {
-            "id": 6461,
-            "component": "seo",
-            "component_id": 36,
+            "id": 7156,
+            "component": "CardV2",
+            "component_id": 62,
             "attributes": {
-                "txt": "SEO Text",
-                "description": "Gaousik Tech Solution Pvt. Ltd  is helping grow businesses turning business process & services more effective and efficient.",
-                "title": "Gaousik Tech Solution Pvt. Ltd |  Empowering Business Growth with Digital Transformation",
-                "image": "https://drive.google.com/uc?id=1O-KremFdgGhazdHy64EJf7RmRV9wJ15L",
-                "keywords": "Digital Transformation, website, mobile app, digital transformation, technology, business, software company, startups, gaousik, gaousik tech solution",
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "Problem Statements",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "itemInfo": {
+                        "rowCounts": "2"
+                    },
+                    "caption": {
+                        "content": "The widespread presence of pesticides, insecticides, and nitrates in commercially available vegetables poses a significant health concern for consumers. Despite efforts to regulate their use, residues of these chemicals persist on vegetables, potentially leading to adverse health effects such as hormone disruption, cancer, and neurological disorders. Additionally, improper storage and handling of vegetables can result in the formation of harmful compounds like nitrosamines from nitrates. Addressing this issue is crucial to ensure the availability of safe and nutritious vegetables for consumers, promoting both public health and environmental sustainability."
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:col-span-6 text-left col-span-12"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-xl "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"30px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "flex md:col-span-6 col-span-12 md:justify-center m-3 px-10 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto py-8 px-2 grid grid-cols-12"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "md:col-span-6  col-span-12"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-col text-sm text-slate-300"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "css": {
+                            "color": "text-left"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "parseHtml": "1",
+                        "heading": "What are we consuming ?"
+                    },
+                    {
+                        "heading": "Quick Links",
+                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "parseHtml": "1"
+                    }
+                ],
                 "common_component": "1"
             },
-            "order": 55
+            "order": 3
         },
         {
-            "id": 6325,
+            "id": 7152,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-green-900 text-white",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "Ok Tarkari Mart Pvt. Ltd.",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "itemInfo": {
+                        "rowCounts": "3"
+                    },
+                    "caption": {
+                        "content": "Stellar International Education is one of the leading consultancy for abroad study. "
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:col-span-2 text-left col-span-12"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-xl text-white"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"30px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "flex md:col-span-4 col-span-12 md:justify-center m-3 px-10 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto py-8 px-2 grid grid-cols-12"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "md:col-span-10  col-span-12"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-col text-sm text-slate-300"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "css": {
+                            "color": "text-left"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "caption": "<a href=\"/about-us\">On the Menu </a> \n<a href=\"/contact-us\">Pricing</a> \n<a href=\"/contact\">Our Leadership Team</a> \n<a href=\"/\">Partner With Us</a> \n<a href=\"/\">Awards Recognitions</a>\n <a href=\"/\">Careers</a>",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "Quick Links",
+                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "Courses Abroad",
+                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "parseHtml": "1"
+                    }
+                ],
+                "common_component": "1"
+            },
+            "order": 916
+        },
+        {
+            "id": 7151,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-green-800 text-white text-center",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-5xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-2xl pt-4 pb-10"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Copyright © 2024 aecc. Useful Links | Glossary | Terms of Use | Privacy Policy",
+                        "css": {
+                            "color": "text-sm "
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "col-start-3 col-span-7"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-5 items-center m-auto"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                },
+                "common_component": "1"
+            },
+            "order": 917
+        },
+        {
+            "id": 6472,
             "component": "CardV2",
             "component_id": 62,
             "attributes": {
@@ -185,7 +505,7 @@
                         "color": "mbr-flex mbr-align-item-c bg-cover grid-row clr-pl-7",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"background\": \"#20561a\", \"padding-top\": \"60px\"}"
+                    "inlineCss": "{\"background\":\"#0f346c\"}"
                 },
                 "keyComponents": {
                     "heading": {
@@ -214,7 +534,7 @@
                         "content": ""
                     },
                     "itemInfo": {
-                        "rowCounts": "4"
+                        "rowCounts": "6"
                     }
                 },
                 "wrapper": {
@@ -260,7 +580,7 @@
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "mbr-col-md-3 mbr-flex grid-row mbr-col-sm-12"
+                            "color": "mbr-col-md-3 mbr-flex grid-row mbr-col-sm-6"
                         },
                         "inlineCss": ""
                     },
@@ -275,101 +595,28 @@
                         }
                     },
                     "itemCaptionWrap": {
-                        "inlineCss": "{\"textAlign\":\"left\"}"
+                        "inlineCss": "{\"textAlign\":\"justify\"}"
                     }
                 },
                 "itemList": [
                     {
-                        "parseHtml": "1",
-                        "heading": "Gaousik Tech Solution Pvt. Ltd",
-                        "caption": "Turning Vision into Reality - Digital Transformation,\n\nWe Simplify Technology- and Propel Businesses Forward"
+                        "caption": "On the Menu\n\nPricing\n \nValues\n\nWine\n\nMarket"
                     },
                     {
-                        "heading": "Solutions",
-                        "caption": "<a href=\"/contact\">Website Design & Development</a>\n\n<a href=\"/contact\">Web App & Mobile App</a>\n\n<a href=\"/contact\">System Designs</a>\n\n<a href=\"/contact\">Our SaaS Products</a>",
-                        "parseHtml": "1"
+                        "caption": "Suppliers\n\nAffiliates\n \nSupply Chain Acts\n\nCareers\n\nPress \n\nOur Team\n\nOffers Not To Miss\n\nRecepes"
                     },
                     {
-                        "caption": "<a href=\"/about-us\">About us</a>\n\n<a href=\"/contact-us\">Contact us</a>\n\n<a href=\"/contact\">Partnerships</a>\n\n<a href=\"/\">Home</a>",
-                        "parseHtml": "1"
+                        "heading": "Customer Support",
+                        "caption": "Help Center & FAQ\n\noktarkari@gmail.com\n\n9813-364597"
                     },
                     {
-                        "heading": "Address",
-                        "caption": "Lalitpur - 22, Chunikhel, Bungmati Nepal \n\nMobile: +977 - 9813364597\n\nEmail : mailforgaousik@gmail.com"
+                        "caption": "Do Not Sell or Share My Info\nNotice to California Residents\nAd Preferences\nPrivacy\nTerms",
+                        "heading": "© Ok Tarkari Mart Pvt. Ltd. 2012"
                     }
                 ],
                 "common_component": "1"
             },
-            "order": 56
-        },
-        {
-            "id": 6335,
-            "component": "TextV2",
-            "component_id": 61,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "mbr-flex mbr-align-item-c  clr-pl-7",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"background\": \"#20561a\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "font-family-andada font-size-5 mbr-m-0 ",
-                            "fontSize": "12px"
-                        },
-                        "content": "",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "© Copyright 2023, <a href=\"https://gaousik.com.np\">Gaousik Tech Solution Pvt. Ltd</a>\nDesigned And Developed via <a href=\"\">MasonHive.</a>",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "mbr-pt-1"
-                        },
-                        "parseHtml": "1"
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "caption": {
-                        "content": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-12 align-center"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-6"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container "
-                        }
-                    }
-                },
-                "common_component": "1"
-            },
-            "order": 57
+            "order": 932
         }
     ]
 }
