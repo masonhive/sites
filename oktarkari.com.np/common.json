@@ -192,11 +192,14 @@
                         }
                     },
                     "image": {
-                        "content": ""
+                        "content": "https://mail.ijli.com.np/uploads/admin.oktarkari.com.np/oktarkari_logo.jpg",
+                        "css": {
+                            "color": ""
+                        }
                     },
                     "itemInfo": {
                         "rowCounts": "1",
-                        "activateSlider": "1"
+                        "activateSlider": ""
                     },
                     "caption": {
                         "content": "The widespread presence of pesticides, insecticides, and nitrates in commercially available vegetables poses a significant health concern for consumers. Despite efforts to regulate their use, residues of these chemicals persist on vegetables, potentially leading to adverse health effects such as hormone disruption, cancer, and neurological disorders. Additionally, improper storage and handling of vegetables can result in the formation of harmful compounds like nitrosamines from nitrates. Addressing this issue is crucial to ensure the availability of safe and nutritious vegetables for consumers, promoting both public health and environmental sustainability."
@@ -215,7 +218,7 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": ""
+                            "color": "max-w-48"
                         }
                     },
                     "itemheadingWrap": {
