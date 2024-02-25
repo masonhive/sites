@@ -47,7 +47,7 @@
                     },
                     "logo": {
                         "content": "",
-                        "logo": "https://mail.ijli.com.np/uploads/admin.oktarkari.com.np//oktarkari_logo.jpg",
+                        "logo": "https://mail.ijli.com.np/uploads/admin.oktarkari.com.np/oktarkari_logo.jpg",
                         "css": {
                             "color": "md:h-16 h-12"
                         },
@@ -284,7 +284,7 @@
                 ],
                 "common_component": "1"
             },
-            "order": 3
+            "order": 4
         },
         {
             "id": 7152,
