@@ -195,7 +195,8 @@
                         "content": ""
                     },
                     "itemInfo": {
-                        "rowCounts": "2"
+                        "rowCounts": "1",
+                        "activateSlider": "1"
                     },
                     "caption": {
                         "content": "The widespread presence of pesticides, insecticides, and nitrates in commercially available vegetables poses a significant health concern for consumers. Despite efforts to regulate their use, residues of these chemicals persist on vegetables, potentially leading to adverse health effects such as hormone disruption, cancer, and neurological disorders. Additionally, improper storage and handling of vegetables can result in the formation of harmful compounds like nitrosamines from nitrates. Addressing this issue is crucial to ensure the availability of safe and nutritious vegetables for consumers, promoting both public health and environmental sustainability."
@@ -244,7 +245,7 @@
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "flex md:col-span-6 col-span-12 md:justify-center m-3 px-10 "
+                            "color": "flex md:col-span-12 col-span-12 md:justify-center m-3 px-10 "
                         },
                         "inlineCss": ""
                     },
@@ -272,13 +273,28 @@
                 },
                 "itemList": [
                     {
-                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "caption": "Many consumers are uncertain about the quality and safety of the vegetables available in supermarkets. They worry about the presence of pesticides, insecticides, and other harmful chemicals used in conventional farming practices, which can potentially pose health risks.",
                         "parseHtml": "1",
                         "heading": "What are we consuming ?"
                     },
                     {
-                        "heading": "Quick Links",
-                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "heading": "Lack of Transparency",
+                        "caption": "Consumers often feel disconnected from the food they eat and are frustrated by the lack of transparency in the food industry. They want to know where their food comes from, how it is grown, and who is responsible for producing it.",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "Limited Access to Locally Grown Produce",
+                        "caption": "Many consumers are also concerned about the environmental impact of long-distance food transportation and are seeking out locally grown produce to reduce their carbon footprint. However, they may struggle to find local farms or farmers' markets in their area, limiting their access to fresh, locally sourced vegetables.",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "Sustainable Agriculture",
+                        "caption": "Consumers who value sustainable agriculture and want to support local farmers may find it challenging to identify farms that align with their values. They may be unsure about which farms use sustainable farming practices and may struggle to find convenient ways to purchase their products.",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "Desire for Healthier Options: ",
+                        "caption": "Health-conscious individuals and families are increasingly seeking out healthier food options, including fresh, organic vegetables. They understand the importance of consuming nutrient-rich foods to support their overall well-being and are actively looking for ways to incorporate more wholesome foods into their diets.",
                         "parseHtml": "1"
                     }
                 ],

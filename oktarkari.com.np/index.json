@@ -192,7 +192,7 @@
                         "content": ""
                     },
                     "caption": {
-                        "content": "<b>OK Tarkari : </b> Better Health Through Best Food",
+                        "content": "<b>OK Tarkari : </b> Better Health Through Best Meal",
                         "css": {
                             "color": "text-xl pt-5 font-light"
                         },
@@ -302,6 +302,81 @@
             "order": 3
         },
         {
+            "id": 7159,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover text-center",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-base text-slate-400 font-light",
+                            "fontSize": "12px"
+                        },
+                        "content": "Solving the Toughest problem in Nepal",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Fresh & Safe Food Produce In Nepal",
+                        "css": {
+                            "color": "text-3xl  py-2 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": " text-center items-center"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-10 "
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto pt-12"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 4
+        },
+        {
             "id": 6462,
             "component": "TextV2",
             "component_id": 61,
@@ -381,7 +456,7 @@
                     }
                 }
             },
-            "order": 922
+            "order": 923
         },
         {
             "id": 1305,
@@ -393,7 +468,7 @@
                 "title": "Top 10 Healthy food for your diet | Oktarkari \n",
                 "description": "The following fruits and vegetables are nutritious, but these picks have the highest levels of good-for-you nutrients that fight disease, improve cognition, and prevent heart disease.\n\n"
             },
-            "order": 923
+            "order": 924
         },
         {
             "id": 1308,
@@ -407,7 +482,7 @@
                 "trackingId": "UA-193509029-2",
                 "fontFamily": "Raleway"
             },
-            "order": 926
+            "order": 927
         },
         {
             "id": 6477,
@@ -556,7 +631,7 @@
                     }
                 ]
             },
-            "order": 927
+            "order": 928
         },
         {
             "id": 6468,
@@ -621,7 +696,7 @@
                     }
                 }
             },
-            "order": 930
+            "order": 931
         },
         {
             "id": 6469,
@@ -686,7 +761,7 @@
                     }
                 }
             },
-            "order": 931
+            "order": 932
         },
         {
             "id": 6471,
@@ -819,7 +894,7 @@
                     }
                 ]
             },
-            "order": 933
+            "order": 934
         },
         {
             "id": 6476,
@@ -884,7 +959,7 @@
                     }
                 }
             },
-            "order": 934
+            "order": 935
         },
         {
             "id": 6463,
@@ -954,7 +1029,7 @@
                     }
                 }
             },
-            "order": 935
+            "order": 936
         },
         {
             "id": 6464,
@@ -1023,7 +1098,7 @@
                     }
                 }
             },
-            "order": 937
+            "order": 938
         },
         {
             "id": 6465,
@@ -1089,7 +1164,7 @@
                     }
                 }
             },
-            "order": 938
+            "order": 939
         },
         {
             "id": 6473,
@@ -1230,7 +1305,7 @@
                     }
                 ]
             },
-            "order": 939
+            "order": 940
         },
         {
             "id": 6474,
@@ -1363,7 +1438,7 @@
                     }
                 ]
             },
-            "order": 941
+            "order": 942
         }
     ]
 }
