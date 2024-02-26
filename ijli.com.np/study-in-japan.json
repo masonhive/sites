@@ -1,21 +1,21 @@
 {
     "data": [
         {
-            "id": 4566,
+            "id": 7188,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover mbr-flex mbr-align-item-c vh-height clr-pl-7",
+                        "color": "",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{ \"backgroundImage\": \"linear-gradient(to bottom right,  rgb(4 1 20), rgb(202 174 174 / 0%)), url(https://in-japan.education/wp-content/uploads/2017/05/Fotolia_52921809_XXL-1068x1493.jpg)\" , \"margin\": \"0px 0px -100px\", \"backgroundPosition\": \"center center\", \"min-height\": \"40vh\"}"
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 align-left ",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
                         "content": "",
@@ -25,52 +25,67 @@
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-raleway  font-size-6 mbr-pt-1"
+                            "color": ""
                         }
                     },
                     "button": {
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn bnt-lg bd-clr-pl-1 bd-stl-solid fontSize3 bg-clr-pl-22 clr-pl-7"
-                        }
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
                         "content": "",
                         "css": {
-                            "color": "font-family-raleway  font-size-4 mbr-m-0 align-center"
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://language-school.cmsmasters.net/wp-content/uploads/2016/01/home-bg-3.jpg",
+                        "link": "",
+                        "css": {
+                            "color": "w-full "
                         }
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "container mbr-flex mbr-jc-c  flex-wrap mbr-align-item-c "
+                            "color": ""
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-8 align-center"
+                            "color": ""
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container"
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
                         }
                     }
-                },
-                "cat": []
+                }
             },
-            "order": 56
+            "order": 3
         },
         {
-            "id": 4569,
+            "id": 7189,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "mbr-flex mbr-align-item-c container  bg-clr-pl-7 mbr-pt-3",
+                        "color": "container m-auto ",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -78,64 +93,74 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "color": "text-2xl py-2 text-blue-700",
                             "fontSize": "12px"
                         },
                         "content": "Study In Japan",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": " Japan – land of Rising Sun is a country with rich nature, diverse topography, and beautiful turns of the seasons. Japan has always been one of the favorite destinations for students when it comes to abroad studies. Foreign students in Japan are provided with work permit enabling them to earn-as-you-learn. Japan, also known as ‘Nippon’ in local language, is a land of endless opportunities. It is a home to some of the world most trusted brands, vehicles and machineries like that of cars, motorbikes and electronic gadgets, including Honda, Nissan, Toyota, Yamaha and Sony. Success of such large fleet of products undoubtedly goes to the quality education and respect for work culture rooted in Japanese people.\n\n\n",
+                        "content": " Japan, land of Rising Sun is a country with rich nature, diverse topography, and beautiful turns of the seasons. Japan has always been one of the favorite destinations for students when it comes to abroad studies. Foreign students in Japan are provided with work permit enabling them to earn-as-you-learn. Japan, also known as âNipponâ in local language, is a land of endless opportunities. It is a home to some of the world most trusted brands, vehicles and machineries like that of cars, motorbikes and electronic gadgets, including Honda, Nissan, Toyota, Yamaha and Sony. Success of such large fleet of products undoubtedly goes to the quality education and respect for work culture rooted in Japanese people.",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
+                            "color": "text-slate-400 font-light"
                         }
                     },
                     "button": {
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": "https://thumbs.dreamstime.com/z/map-japan-japanese-flag-vector-hand-drawn-109028075.jpg"
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
                         "content": "\" Safest countries in the world \"",
                         "css": {
-                            "color": "font-family-andada font-size-6 mbr-m-0 "
-                        }
+                            "color": ""
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/editor.ijli.com.np//20813801.jpg",
+                        "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                            "color": "grid grid-cols-12 text-left p-5 items-center"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-8 align-left"
+                            "color": "md:col-span-7  order-1 px-6"
                         }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "-mt-96 z-10  relative bg-white"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "mbr-col-md-4"
+                            "color": "md:col-span-3  order-2 md:col-start-9"
                         }
                     }
                 }
             },
-            "order": 57
+            "order": 4
         },
         {
-            "id": 4570,
+            "id": 7190,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "container mbr-flex mbr-align-item-c ",
+                        "color": "",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -143,60 +168,65 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
                         "content": "Why Study Abroad in Japan?",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "Courses :\n\n• Aviation\n• Biological & Life Sciences\n• Business Studies\n• Economics and Administration\n• Fashion\n• Engineering & Technology\n• Humanities and Social Sciences\n• Language\n\n\nUniversities:\n\n•  Hokkaido University\n•  International University of Japan\n•  Keio University\n•  Kobe University\n• Kyoto University\n• Kyushu University\n• Nagoya University\n\t\t",
+                        "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
+                            "color": ""
                         }
                     },
                     "button": {
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": ""
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Japan is one of the safest countries in the world where students get a peaceful place to study. Japan also has one of the world’s most advanced healthcare systems, reflected in this high life expectancy.\nInternational students can discover Japan’s rich cultural heritage. Japan has a long and fascinating history filled war and intrigue. Students can find out peaceful temples and shrines, demon museums, and the history of how Japan was unified by the sword.\n\nTuition fees are comparatively cheap in Japan which is one of the best options to get highly qualified education in convenient way. A wide range of other scholarships are available, with some directed towards specific nationalities, women, minorities, or those with high level Japanese proficiency.\n\nInternational students get high educational standards and excellent research environment. Many institutions of higher education, such as universities and junior colleges, are well equipped with fine research, computer, and library facilities and enable students to carry out their research in an excellent environment.\nUniversities of Japan are recognized as the leading research universities in the world and at the forefront of technological innovation in Japan. The strong orientation toward innovation, partnership with the local community and industry, and pioneering efforts in interdisciplinary research and education, all reflect the university’s unique history and characteristics.",
+                        "content": "Japan is one of the safest countries in the world where students get a peaceful place to study. Japan also has one of the worldâs most advanced healthcare systems, reflected in this high life expectancy.\nInternational students can discover Japanâs rich cultural heritage. Japan has a long and fascinating history filled war and intrigue. Students can find out peaceful temples and shrines, demon museums, and the history of how Japan was unified by the sword.\n<br/><br/>\nTuition fees are comparatively cheap in Japan which is one of the best options to get highly qualified education in convenient way. A wide range of other scholarships are available, with some directed towards specific nationalities, women, minorities, or those with high level Japanese proficiency.\n<br/><br/>\nInternational students get high educational standards and excellent research environment. Many institutions of higher education, such as universities and junior colleges, are well equipped with fine research, computer, and library facilities and enable students to carry out their research in an excellent environment.\nUniversities of Japan are recognized as the leading research universities in the world and at the forefront of technological innovation in Japan. The strong orientation toward innovation, partnership with the local community and industry, and pioneering efforts in interdisciplinary research and education, all reflect the universityâs unique history and characteristics.\n<br/><br/>\nCourses :\n<br/><br/>\n- Aviation <br/>\n- Biological & Life Sciences <br/>\n- Business Studies <br/>\n- Economics and Administration <br/>\n- Fashion <br/>\n- Engineering & Technology <br/>\n- Humanities and Social Sciences <br/>\n- Language <br/>\n\n<br/><br/>\nUniversities:\n<br/><br/>\n- Hokkaido University <br/>\n- International University of Japan <br/>\n-  Keio University <br/>\n- Kobe University <br/>\n- Kyoto University <br/>\n- Kyushu University <br/>\n- Nagoya University\n ",
                         "css": {
-                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
-                        }
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-left"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-6"
+                            "color": "md:col-span-12  order-1 px-6"
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "bg-clr-pl-7 mbr-p-4"
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
                         }
                     }
                 }
             },
-            "order": 59
+            "order": 5
         }
     ]
 }
