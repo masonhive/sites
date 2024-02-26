@@ -1,0 +1,190 @@
+{
+    "data": [
+        {
+            "id": 7191,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+0288d1(85.3189883,27.6708325)/85.3189883,27.6708325,16,0,0/1000x500@2x?access_token=pk.eyJ1IjoiYW1kYWlyaXMiLCJhIjoiY2tsMXhnZzRyMDR0ajJwbW5xcHBtNzlwNiJ9.Rmey9ZADzy2TLF6phscN0Q",
+                        "link": "",
+                        "css": {
+                            "color": "w-full"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left  items-center"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-12 order-2"
+                        }
+                    }
+                }
+            },
+            "order": 3
+        },
+        {
+            "id": 7192,
+            "component": "FunnelV2",
+            "component_id": 73,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "container m-auto grid grid-cols-12",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "textContainerLayout": {
+                        "0": {
+                            "name": "css",
+                            "keys": [
+                                "color"
+                            ]
+                        },
+                        "1": "inlineCss",
+                        "2": "id",
+                        "css": {
+                            "color": "col-span-6"
+                        }
+                    },
+                    "form": {
+                        "id": "enquiry",
+                        "type": "enquiry",
+                        "css": {
+                            "color": "p-4",
+                            "fontSize": "12px"
+                        },
+                        "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}"
+                    },
+                    "formHeading": {
+                        "content": "",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "inlineCss": ""
+                    },
+                    "formButton": {
+                        "content": "Send",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": "https://softek.radiantthemes.com/wp-content/uploads/2020/10/Contact-us.png"
+                    }
+                },
+                "wrapper": {
+                    "inputWrap": {
+                        "css": {
+                            "color": "text-start"
+                        }
+                    },
+                    "formWrap": {
+                        "css": {
+                            "color": "md:col-span-5 p-4 md:col-start-8"
+                        }
+                    }
+                },
+                "formInputs": [
+                    {
+                        "id": "name",
+                        "label": "Full Name",
+                        "placeholder": "Enter Your Name",
+                        "required": "1"
+                    },
+                    {
+                        "id": "email",
+                        "label": "Email Address",
+                        "placeholder": "Enter Your Email"
+                    },
+                    {
+                        "id": "email",
+                        "label": "Subject",
+                        "placeholder": "Enter Subject"
+                    },
+                    {
+                        "id": "email",
+                        "type": "textarea",
+                        "label": "Subject",
+                        "placeholder": "Enter Subject"
+                    }
+                ]
+            },
+            "order": 4
+        }
+    ]
+}
