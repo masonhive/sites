@@ -1,0 +1,94 @@
+{
+    "data": [
+        {
+            "id": 2028,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "alignContent": "column-center",
+                "img": "https://i.ibb.co/S5hmyFy/canada.png",
+                "cta": [],
+                "contentList": [],
+                "alignImg": "top",
+                "contactInfo": []
+            },
+            "order": 1312
+        },
+        {
+            "id": 2029,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "title": "CANADA",
+                "contentList": [],
+                "cta": [],
+                "color": "#3b3c42",
+                "alignContent": "center",
+                "padding": "0px"
+            },
+            "order": 1314
+        },
+        {
+            "id": 2030,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "contentList": [],
+                "cta": [],
+                "color": "#3b3c42",
+                "description": "Canada is a country in North America that extends from the Atlantic Ocean in the east, to the Pacific Ocean in the west, and the Arctic Ocean to the north. Canada borders the United States. The geography of Canada is mostly plains with mountains in the west. The government system is a parliamentary democracy, a federation, and a constitutional monarchy. The head of state is the queen of the United Kingdom, and the head of government is the prime minister of Canada. Canada has a market economic system in which the prices of goods and services are determined in a free price system. Canada is a member of the Asia-Pacific Economic Cooperation (APEC), the North American Free Trade Agreement (NAFTA), and the Trans-Pacific Partnership (TPP).",
+                "alignContent": "column-left",
+                "padding": "0px"
+            },
+            "order": 1318
+        },
+        {
+            "id": 2031,
+            "component": "blog",
+            "component_id": 34,
+            "attributes": {
+                "picture": [
+                    {
+                        "image": "http://stellar.edu.np/public/img/stellar-banner.jpg"
+                    }
+                ],
+                "content": [
+                    {
+                        "subtitle": "CLIMATE",
+                        "description": "Because of its great latitudinal extent, Canada has a wide variety of climates. Ocean currents play an important role, with both the warm waters of the Gulf Stream in the Atlantic and the Alaska Current in the Pacific affecting climate. Westerly winds, blowing from the sea to the land, are the prevailing air currents in the Pacific and bring coastal British Columbia heavy precipitation and moderate winter and summer temperatures. Inland, the Great Lakes moderate the weather in both southern Ontario and Quebec. In the east the cold Labrador Current meets the Gulf Stream along the coast of Newfoundland and Labrador, cooling the air and causing frequent fog."
+                    },
+                    {
+                        "subtitle": "WHY STUDY IN CANADA ?\n",
+                        "description": "\nFor decades, we’ve welcomed international students from around the globe. Through them, we’ve discovered there’s plenty to love about Canada. Here are some of the many benefits of making Canada your education destination:"
+                    },
+                    {
+                        "description": "\nYou’ll learn with the best and brightest"
+                    },
+                    {
+                        "description": "Canada is recognized worldwide for our outstanding quality of education—from elementary school to post-secondary studies. Our educators are highly trained and bring diverse perspectives to the classroom. At the university level, 2 out of every 5 academics hold at least 1 international degree. And we have 10 of the top 250 universities worldwide[2]. In our opinion, there’s no better place to learn! Need more convincing? "
+                    },
+                    {
+                        "description": "\nWe’ll welcome you with open arms"
+                    },
+                    {
+                        "description": "We’re proud to say that the ‘warm and friendly’ stereotype about Canadians is true. When you come to Canada, you’ll find a welcoming country with a unique Canadian culture that embraces diversity. From urban centres to small towns, Canada is considered one of the safest countries in the world for international students."
+                    },
+                    {
+                        "description": "\nOur quality of life ranks highest in the world"
+                    },
+                    {
+                        "description": "If you’re looking for the high life, we have it. Canadians and international students in Canada enjoy a high standard of living. It’s a great place to live and work. In fact, we rank #1 in the world when it comes to quality of life. According to the World University Rankings, we also have 4 of the top 100 best student cities in the world[3]. Now that’s something to write home about!"
+                    },
+                    {
+                        "description": "\nWe’ll set you on the path to a promising future"
+                    },
+                    {
+                        "description": "We like to study too. In fact, we’ve researched graduate outcomes for our students—both domestic and international—for years. And you know what we’ve learned? Canadian college and university students graduate with a strong earning potential. That’s because we position them (and you) for a successful future and rewarding careers. In the last decade alone, Canada created 1.6 million new jobs for graduates[4]."
+                    }
+                ],
+                "fullView": "1"
+            },
+            "order": 1510
+        }
+    ]
+}

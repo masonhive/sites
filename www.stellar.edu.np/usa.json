@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "id": 1794,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "contentList": [],
+                "cta": [],
+                "img": "https://www.linkpicture.com/q/usa_1.jpg"
+            },
+            "order": 1295
+        },
+        {
+            "id": 1795,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "title": "USA",
+                "contentList": [],
+                "cta": [],
+                "padding": "0px",
+                "color": "#3b3c42",
+                "alignContent": "center"
+            },
+            "order": 1297
+        },
+        {
+            "id": 1796,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "contentList": [],
+                "cta": [],
+                "description": "The United States of America (also referred to as the United States, the U.S., the USA, or America) borders Canada to the north, Mexico to the south, the North Atlantic Ocean to the east, and the North Pacific Ocean to the west. At roughly 9.8 million square kilometres, the U.S. is the worldâ€™s third-largest country in size and population and one of the most ethnically diverse and multicultural nations. The U.S. consists of 50 states (48 continental plus Alaska and Hawaii), a federal district, Washington D.C., and small territories in the Pacific and Caribbean. The capital city is Washington, D.C.\n",
+                "padding": "0px",
+                "color": "#3b3c42",
+                "alignContent": "column-left"
+            },
+            "order": 1298
+        },
+        {
+            "id": 1797,
+            "component": "blog",
+            "component_id": 34,
+            "attributes": {
+                "picture": [
+                    {
+                        "image": "http://stellar.edu.np/public/img/stellar-banner.jpg"
+                    }
+                ],
+                "content": [
+                    {
+                        "subtitle": "CLIMATE",
+                        "description": "With its large size and geographic variety, the U.S. includes most climate types from the tropical atmosphere of Hawaii and Florida to the semi-arid Great Plains; from the arid Mojave Desert to the snow-capped Rocky Mountains, not to mention the cold Arctic climate of Alaska. Because of the climate, the ecology in the U.S. is extremely diverse, with abundant flora and fauna and amazing natural habitats for nature-inspired visitors to explore.\n\n"
+                    },
+                    {
+                        "subtitle": "HISTORY AND POPULATION",
+                        "description": "The United Statesâ€™ earliest settlers were aboriginal natives (now referred to as Native Americans). The British then began settling on the east coast, and eventually established 13 colonies. These colonies declared their independence in 1776 from Britain as a result of the American Revolution, a war that grew out of the colonistsâ€™ protest of the fact that they were ordered to pay taxes but had no representation in the British government. The Treaty of Paris in 1783 officially recognized the United States of America as a sovereign nation, and the U.S. constitution was signed in 1787. The U.S. went on to become a superpower in the 20th century, and it is one of the worldâ€™s most influential nations.\n\nToday, the population of the U.S. is approximately 309 million. It is ethnically and culturally diverse, thanks to a long history of immigration, with Caucasians comprising 70% of the population, Hispanic or Latino 13%, Black or African American 12%, Asian 4%, and indigenous native Americans 1%. English is the main language, with Spanish the second-most common language.\n\n"
+                    },
+                    {
+                        "subtitle": "SOCIETY AND CULTURE\n",
+                        "description": "A common metaphor used to describe American culture is â€œthe melting pot,â€ which means that a variety of ethnicities and nationalities are represented in the population and blend to form a common culture. While it is true that there is a strong sense of â€œAmericannessâ€ among the population, most would agree that there are still very distinct sub-cultures, especially along ethnic lines (e.g., Hispanic or Latino).\n\nThe United States is a secular country, with a core principle being the separation of church and state and freedom for individuals to worship as they choose. Another distinctive factor is freedom of expression ensuring individuals the right to express themselves without fear of government reprisals. These individual freedoms help to shape a culture where an individualâ€™s interest and skills can be more important than family or connections in the marketplace â€“ at least relative to other countries.\n\nIn recent decades, women, ethnic minorities, and gays and lesbians have made considerable progress in overcoming traditional barriers and prejudices in both the workplace and society at large.\n\nSports are quite popular in the United States. American football, baseball, and basketball represent the most successful professional franchises, while soccer is popular as a youth team sport. University sports, especially American football and basketball, are also very popular. Elite university football programs, for example, may draw regular crowds of 75,000.\n\n"
+                    },
+                    {
+                        "subtitle": "ECONOMY",
+                        "description": "The U.S. is the largest economy in the world, and one of the most technologically advanced. The gross domestic product (GDP) in 2009 was roughly $14 trillion USD (U.S. dollar), with per capita GDP at $47,000 USD. American firms are at or near the forefront of technological advances, especially with regard to computers and in medical, aerospace, and military equipment. The currency is the U.S. Dollar.\n\n"
+                    },
+                    {
+                        "subtitle": "LIVING CONDITIONS AND COST OF LIVING\n",
+                        "description": "Living conditions and cost of living in the U.S. vary greatly depending on location and lifestyle, but in an overall sense, they are similar to what they are in other affluent nations. Consumer goods are certainly easy to find, and basic needs such as food and household items are affordable to almost all people who live in the U.S. What the visitor will notice is that there is a huge range of quality, and some brands and items will be accessible only to the wealthy. There is a pronounced income disparity between the poorest and richest Americans, and the marketplace reflects these extremes of purchasing power. The income disparity also shows up in living conditions: most places in the U.S. are relatively safe (and some are very safe), but in poorer neighbourhoods, crime rates are higher.Â  As in most nations, the cost of living is higher in big cities than in smaller towns; accommodation can be expensive in the cities.\n\n"
+                    },
+                    {
+                        "subtitle": "EDUCATION SYSTEM\n",
+                        "description": "The American higher education system is administratively managed at three levels: primary (generally ages 5â€“11 or 5â€“12), secondary (generally ages 12â€“18), and post-secondary or tertiary (generally ages 18 and up). Students are required to remain in school until the age of 16. Ninety-nine percent of the U.S. population is literate; 85% achieve a secondary school leaving certificate (diploma); and 27% achieve a post-secondary leaving certificate (diploma). In 2009, there were over 77 million students enrolled in some level of education.\n\n"
+                    },
+                    {
+                        "subtitle": "WHY STUDY IN USA\n",
+                        "description": "Top Reasons to study in the United States\n",
+                        "list": "Excellent Academics\n  High Quality Research\n  Flexibility in Course Curriculum Offerings\n  Financial Assistance\n  On-Campus Work Opportunities\n  Internships\n Job Opportunities / Professional Training\n International Student Affairs Offices\n Cultural Exchange"
+                    }
+                ],
+                "fullView": "1"
+            },
+            "order": 1299
+        }
+    ]
+}

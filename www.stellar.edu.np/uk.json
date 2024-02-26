@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "id": 1789,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "contentList": [],
+                "cta": [],
+                "img": "https://www.linkpicture.com/q/uk.jpg"
+            },
+            "order": 1291
+        },
+        {
+            "id": 1790,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "title": "UNITED KINGDOM",
+                "contentList": [],
+                "cta": [],
+                "color": "#3b3c42",
+                "alignContent": "center",
+                "padding": "0px"
+            },
+            "order": 1292
+        },
+        {
+            "id": 1791,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "contentList": [],
+                "cta": [],
+                "description": "The UK is one of the worldâ€™s most popular destinations to study higher education, with more than 500,000 international students enrolling each year.\n\nOne of the worldâ€™s leading destinations for international students, second only to the USA. UK universities are among the best in the world, and consistently perform well in world rankings. They also have a reputation for world-class research.\n\nUK higher education degrees and qualifications are recognised by employers and academics worldwide.\n\nStudents get the opportunity to develop the skills, knowledge, critical thinking, and connections to drive forward their careers.\n\nHigh quality postgraduate study opportunities are also available at the majority of UK universities, with some universities offering sponsorship to extend Tier 4 visas.",
+                "alignContent": "column-left",
+                "padding": "0px"
+            },
+            "order": 1293
+        },
+        {
+            "id": 1793,
+            "component": "blog",
+            "component_id": 34,
+            "attributes": {
+                "picture": [
+                    {
+                        "image": "http://stellar.edu.np/public/img/stellar-banner.jpg"
+                    }
+                ],
+                "content": [
+                    {
+                        "subtitle": "WHY CHOOSE HIGHER EDUCATION IN THE UK?",
+                        "description": "Going to university in the UK is a great way to expand your knowledge, meet new people, experience a new culture, and enjoy new experiences. Youâ€™ll get plenty of support at university, and a chance to experience a great student lifestyle. Whatever your interests, there's a huge range of clubs and societies, as well as a diverse social life on offer.\n\nThe benefits:\n\nChoose from over 50,000 courses, in more than 25 subject areas.\nUK courses are generally shorter than other countries, helping to reduce overall tuition fees and accommodation costs.\nIt can be possible to work while you study too â€“ find out more from UK Visas and Immigration (UKVI) and the UK Council for International Student Affairs (UKCISA)."
+                    },
+                    {
+                        "subtitle": "EIGHT THINGS YOU NEED TO KNOW ABOUT STUDYING IN THE UK\n",
+                        "description": "There are more than 395 universities and colleges, offering over 50,000 undergraduate-level higher education courses across the UK.\n  UK higher education applications are made through UCAS.\n  There are different deadlines for applying for different courses, and to different universities â€“ take a look at the key dates and deadlines relevant to courses youâ€™re interested in.\n  You will need to pay tuition fees â€“ these vary depending on the uni or college and course you choose. You may be able to get financial help with your tuition fees, or a scholarship. However, EU students are not subject to tuition fees in Scotland.\n  The amount of money you will need to cover living costs will vary based on where you study. London and other large cities tend to be more expensive.\n  Many international students need to apply for a visa to study in the UK, and there are work permit restrictions and some English language qualifications you may need.\n  Universities advise all applicants what standard of English is required for their courses. Most course providers will ask you to demonstrate proficiency in English, or to take an approved English language test if English is not your first language.\n  First year students tend to live in university halls of residence (university accommodation) â€“ but there are lots of other accommodation options."
+                    },
+                    {
+                        "subtitle": "GREAT PLACE TO LIVE & STUDY",
+                        "description": "The United Kingdom (UK) is made up of England, Scotland, Northern Ireland, and Wales. Each country has distinct regions, each offering large cosmopolitan cities, towns, and countryside villages.\n\nThe UK has a multicultural society, with a rich diversity of cultures, languages, and faiths.\nYouâ€™ll find widely varied cuisine, strong transport links, famous music festivals, and international sporting championships."
+                    }
+                ],
+                "fullView": "1"
+            },
+            "order": 1294
+        }
+    ]
+}

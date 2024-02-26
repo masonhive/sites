@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "id": 1781,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "contentList": [],
+                "cta": [],
+                "img": "https://www.frosch.com/wp-content/uploads/2019/04/Blog-Thumbnail-Princess-Cruises-Announces-2020-Japan-Voyages.png"
+            },
+            "order": 1283
+        },
+        {
+            "id": 1782,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "title": "JAPAN",
+                "contentList": [],
+                "cta": [],
+                "color": "#3b3c42",
+                "padding": "0px",
+                "alignContent": "center"
+            },
+            "order": 1284
+        },
+        {
+            "id": 1783,
+            "component": "text",
+            "component_id": 1,
+            "attributes": {
+                "contentList": [],
+                "cta": [],
+                "color": "#3b3c42",
+                "alignContent": "column-left",
+                "padding": "0px",
+                "description": "Japan is situated in northeastern Asia between the North Pacific Ocean and the Sea of Japan. In terms of size (377,835 square kilometers), Japan is nearly equivalent to Germany and Switzerland combined, or slightly smaller than the U.S. state of California. Japan consists of four major islands, surrounded by more than 4,000 smaller islands. The countryâ€™s topographical features include coastlines with varied scenery, towering, often volcanic mountains, forests, and valleys. The capital city is Tokyo."
+            },
+            "order": 1285
+        },
+        {
+            "id": 1784,
+            "component": "blog",
+            "component_id": 34,
+            "attributes": {
+                "picture": [
+                    {
+                        "image": "http://stellar.edu.np/public/img/stellar-banner.jpg"
+                    }
+                ],
+                "content": [
+                    {
+                        "subtitle": "CLIMATE",
+                        "description": "The combination of Japanâ€™s mountainous territory and the length of the archipelago results in a complex climate. Most of the country is located in the northern temperate zone, which yields four distinct seasons. In addition, there are significant climatic differences between Hokkaido in the north, which has short summers and lengthy winters with heavy snowfalls, and the southern islands, such as Okinawa in the south, which enjoy a subtropical climate. Japan's topographical features include coastlines with varied scenery, towering often volcanic mountains, and twisted valleys that invite visitors into the mysterious world of nature."
+                    },
+                    {
+                        "subtitle": "LIVING CONDITION",
+                        "description": "Japan is relatively expensive place to study for international students. Living costs are notorious for being among the worlds highest. However, students living outside of central Tokyo who adjust to a Japanese lifestyle and do not depend too heavily on food and products from their home countries (and who donâ€™t eat out too much) will find Japan much more affordable. The general cost of living and accommodation varies depending on where students choose to stay."
+                    },
+                    {
+                        "subtitle": "EDUCATION SYSTEM",
+                        "description": "There are about 765 universities in Japan, including national, public, and private ones. The best/popular national institutions are famously tough to get into. Applying for them entails two exams: a standard exam given by the National Center for University Entrance examinations and the university-specific exam administered by each school. Many students who do not get into the university of their choice wait till the following year to try again with the exams. Recent years have also seen the ascendance of private educational institutes, many of which now rival national universities in prestige and popularity. Information Specific to International Students In 2008, the Government of Japan announced the â€œ300,000 Foreign Students Plan,â€ which aims to more than double the number of foreign students in Japan (currently 120,000) by 2020, and to achieve a significant part of that increase in the next five years. Suffice it to say that the current climate in Japan is welcoming to students coming from other countries."
+                    },
+                    {
+                        "subtitle": "WHY STUDY IN JAPAN",
+                        "description": "Best Reason to Learn Japanese",
+                        "list": "Japan has the 2nd largest economy in the world.  Knowing Japanese brings business opportunities.  \nJapanese is a gateway to other Asian languages & cultures. \nJapanese speakers are the Internet's 3rd largest language group.  \nThe Japanese are innovators."
+                    }
+                ],
+                "fullView": "1"
+            },
+            "order": 1286
+        }
+    ]
+}
