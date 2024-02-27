@@ -135,12 +135,12 @@
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-span-12  order-1 px-6"
+                            "color": "md:col-span-12  order-1 px-6 col-span-12"
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "-mt-96 z-10  relative bg-white"
+                            "color": "md:-mt-96 z-10  relative bg-white"
                         },
                         "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
