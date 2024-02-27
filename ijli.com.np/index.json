@@ -314,7 +314,7 @@
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "md:col-span-4 md:mx-10 col-span-12 px-4"
+                            "color": "md:col-span-4 md:mx-2 col-span-12 px-4"
                         }
                     },
                     "itemCaptionWrap": {
@@ -330,7 +330,7 @@
                     "itemContentWrap": {
                         "inlineCss": "",
                         "css": {
-                            "color": "text-center md:p-5"
+                            "color": "text-center"
                         }
                     },
                     "itemTitleWrap": {
