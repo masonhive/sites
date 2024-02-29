@@ -1,24 +1,177 @@
 {
     "data": [
         {
-            "id": 4796,
+            "id": 7259,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "mbr-flex mbr-align-item-c",
+                        "color": "-mt-10 h-80 overflow-hidden",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"padding\":\"0px\"}"
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 ",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
                         "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "DIKIN VRV Home <br/>",
+                        "css": {
+                            "color": "text-slate-300 font-light  text-2xl"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://www.daikinindia.com/sites/default/files/Split-Section-Banners_20.jpg",
+                        "link": "",
+                        "css": {
+                            "color": "w-full "
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "absolute w-full text-center top-48 bg-slate-700/40 py-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "bg-slate-700/60"
+                        },
+                        "inlineCss": ""
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 3
+        },
+        {
+            "id": 7260,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-blue-700",
+                            "fontSize": "12px"
+                        },
+                        "content": "DIKIN VRV Home",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "View More",
+                        "link": "/daikin-vrv-home-product",
+                        "css": {
+                            "color": "bg-yellow-700\trounded-full px-4 py-2 text-white text-base"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "VRV Home is an air-conditioning solution which packages engineering and luxury together. An ideal solution to make your home a comfortable place according to your needs without covering much space. Unlike any traditional split air conditioning solution, it does not need dedicated outdoor unit with each indoor unit, but a single outdoor unit controls multiple indoor units instead. It does not only provide energy efficiency, but utilizes space efficiently too and gives no hassle during installation.\n<br/>\nAn outdoor unit with 4 HP capacity can run 6 indoor units. Similarly, a 5HP outdoor unit can run 6 indoor units and a 6HP outdoor unit can be used to run 8 indoor units. A hi-wall split air-conditioner and a duct each with low static pressure and high static pressure are available as indoor unit options. With consistent comfort and quiet operation; increased installation flexibility and energy efficiency, and an efficient system of simultaneous heating and cooling that ensures user comfort, VRV air-conditioning solutions.",
+                        "css": {
+                            "color": "text-slate-400 font-light p-5"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://mj-northamerica-daikin.imgix.net/assets/globals/daikin_logo.jpg",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-8  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 4
+        },
+        {
+            "id": 7261,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\", \"backgroundImage\":\"url(https://www.vrvhome.com/sites/all/themes/vrvh/images/product-1.jpg)\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "Energy Efficiency",
                         "inlineCss": ""
                     },
                     "description": {
@@ -32,174 +185,33 @@
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": "https://drive.google.com/uc?id=10TBAZ37u-agWMNJyViaKJYCLu28IQAgf"
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-12 align-center"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-12"
-                        },
-                        "inlineCss": "{\"padding\":\"0px\"}"
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    }
-                }
-            },
-            "order": 107
-        },
-        {
-            "id": 4539,
-            "component": "TextV2",
-            "component_id": 61,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "mbr-flex mbr-align-item-c bg-clr-pl-7 mbr-pt-3",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"backgroundColor\":\"#f8f8f8\", \"minHeight\": \"60vh\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "font-family-oxygen  font-size-5 mbr-pt-1",
-                            "fontSize": "12px"
-                        },
-                        "content": "DIKIN VRV Home",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "VRV Home is an air-conditioning solution which packages engineering and luxury together. An ideal solution to make your home a comfortable place according to your needs without covering much space. Unlike any traditional split air conditioning solution, it does not need dedicated outdoor unit with each indoor unit, but a single outdoor unit controls multiple indoor units instead. It does not only provide energy efficiency, but utilizes space efficiently too and gives no hassle during installation.\n\nAn outdoor unit with 4 HP capacity can run 6 indoor units. Similarly, a 5HP outdoor unit can run 6 indoor units and a 6HP outdoor unit can be used to run 8 indoor units. A hi-wall split air-conditioner and a duct each with low static pressure and high static pressure are available as indoor unit options. With consistent comfort and quiet operation; increased installation flexibility and energy efficiency, and an efficient system of simultaneous heating and cooling that ensures user comfort, VRV air-conditioning solution by ",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-nunito  font-size-7"
-                        }
-                    },
-                    "button": {
-                        "content": "View More",
-                        "link": "/daikin-vrv-home-product",
-                        "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": "https://mj-northamerica-daikin.imgix.net/assets/globals/daikin_logo.jpg"
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-8 align-left"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-4"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container"
-                        }
-                    }
-                }
-            },
-            "order": 108
-        },
-        {
-            "id": 4658,
-            "component": "cards",
-            "component_id": 5,
-            "attributes": {
-                "itemList": [
-                    {
-                        "img": "https://drive.google.com/uc?id=1ijyueJeTg6ybD-Efkto4dz6qgqNjQsxB",
-                        "video": "https://www.youtube.com/embed/hvuNMZtiB7M",
-                        "width": "800px"
-                    }
-                ],
-                "itemSize": "1",
-                "cardMaxWidth": "800px",
-                "contactInfo": [],
-                "flatCard": "1"
-            },
-            "order": 109
-        },
-        {
-            "id": 4541,
-            "component": "CardV2",
-            "component_id": 62,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "font-family-oxygen  font-size-5 mbr-pt-1",
-                            "fontSize": "12px"
-                        },
-                        "content": "Energy Efficiency",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": " One of the most salient features of VRV Home is its energy efficiency. The smart air conditioning unit has some unique elements that make it a. system for Indian homes. Featuring the automatic refrigerant charge function, the system automates the charging of the optimum refrigerant amount and closing of shut-off valves with the press of a switch post pre-charging. In other words, they circulate only the minimum amount of refrigerant needed. Also, they offer individual temperature control of the air conditioning zones. If you want an air conditioning system for your home that not only uses less energy but would also help you save money in the long run on your utility bills, then Daikin’s VRV system is the most energy efficient central air conditioner system for your home.",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
                             "color": ""
                         }
                     },
                     "image": {
-                        "content": "https://www.vrvhome.com/sites/all/themes/vrvh/images/product-1.jpg"
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": " One of the most salient features of VRV Home is its energy efficiency. The smart air conditioning unit has some unique elements that make it a. system for Indian homes. Featuring the automatic refrigerant charge function, the system automates the charging of the optimum refrigerant amount and closing of shut-off valves with the press of a switch post pre-charging. In other words, they circulate only the minimum amount of refrigerant needed. Also, they offer individual temperature control of the air conditioning zones. If you want an air conditioning system for your home that not only uses less energy but would also help you save money in the long run on your utility bills, then Daikin's VRV system is the most energy efficient central air conditioner system for your home.\n\n",
+                        "css": {
+                            "color": "text-slate-600 font-light p-5"
+                        }
                     },
                     "itemInfo": {
-                        "rowCounts": "2",
-                        "activateSlider": "1"
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "2"
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
+                            "color": "grid-cols-10 grid"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-center"
+                            "color": "md:col-span-10 md:col-start-2 col-span-12"
                         }
                     },
                     "imageWrap": {
@@ -214,9 +226,9 @@
                     },
                     "itemSectionWrap": {
                         "css": {
-                            "color": ""
+                            "color": "flex flex-col  bg-yellow-100/60"
                         },
-                        "inlineCss": ""
+                        "inlineCss": "{\"color\": \"#000\",\"borderRadius\": \"10px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
                     },
                     "itemHeadingWrap": {
                         "css": {
@@ -225,7 +237,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "font-family-oxygen font-size-6 mbr-m-0 "
+                            "color": "text-xl py-3"
                         }
                     },
                     "itemIconWrap": {
@@ -233,72 +245,98 @@
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "mbr-col-md-6 mbr-flex grid-row mbr-pt-5"
-                        },
-                        "inlineCss": "{\"justifyContent\":\"space-around\"}"
+                            "color": "md:col-span-6 md:mx-3 col-span-12"
+                        }
                     },
                     "itemCaptionWrap": {
                         "css": {
-                            "color": "font-family-nunito  font-size-7 align-left"
+                            "color": "text-left text-slate-600 font-light p-5"
                         }
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "container grid-column"
+                            "color": "container m-auto px-20"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "md:p-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-20 items-center m-auto md:px-0 px-5 bg-slate-100/80"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "px-6"
                         }
                     }
                 },
                 "itemList": [
                     {
                         "heading": "Swing Compressor",
-                        "caption": "Thanks to its smooth rotation, the swing compressor decreases friction and vibration. In addition, it also prevents leakage of refrigerant gas during compression. Altogether, it results into quiet and efficient operation. \n It achieves high COP during cooling and heating operations especially at part load.Daikin was presented 32nd Chairman's award by the Japan society for the promotion of the machine industry for swing compressor."
+                        "parseHtml": "1",
+                        "caption": "Swing Compressor\nThanks to its smooth rotation, the swing compressor decreases friction and vibration. In addition, it also prevents leakage of refrigerant gas during compression. Altogether, it results into quiet and efficient operation. \n It achieves high COP during cooling and heating operations especially at part load.Daikin was presented 32nd Chairman's award by the Japan society for the promotion of the machine industry for swing compressor."
                     },
                     {
                         "heading": "DC Fan Motor",
-                        "caption": "Its highly advanced DC motor enables fine rotation control, which reduces energy consumption. The motor also improves operational efficiency by up to 40%, compared to AC motor. These improvements are mainly noticeable in the low-speed range."
+                        "caption": "Its highly advanced DC motor enables fine rotation control, which reduces energy consumption. The motor also improves operational efficiency by up to 40%, compared to AC motor. These improvements are mainly noticeable in the low-speed range.",
+                        "parseHtml": "1"
                     },
                     {
                         "heading": "RELUCTANCE DC MOTOR FOR COMPRESSOR",
-                        "caption": "Daikin's internally embedded neodymium magnet generates strong magnetic field and high torque resulting in high operational efficiency with less electricity consumption. It is more efficient at low frequencies most commonly used by air-conditioners' improving efficiency by approximately 20%."
+                        "caption": "Daikin's internally embedded neodymium magnet generates strong magnetic field and high torque resulting in high operational efficiency with less electricity consumption. It is more efficient at low frequencies most commonly used by air-conditioners' improving efficiency by approximately 20%.",
+                        "parseHtml": "1"
                     },
                     {
                         "heading": "SINE WAVE",
-                        "caption": "Smooth sine wave of the inverter's electric current removes pulsation and high harmonic noise. Highly effective inverter, that can generate the control signal closer to the sine wave, results into better efficiency. "
+                        "caption": "Smooth sine wave of the inverter's electric current removes pulsation and high harmonic noise. Highly effective inverter, that can generate the control signal closer to the sine wave, results into better efficiency. ",
+                        "parseHtml": "1"
                     },
                     {
                         "heading": "EFFICIENT HEAT EXCHANGER",
-                        "caption": "The VRV Home boasts of bigger centralized outdoor unit compared to separate unitary products. This enables much bigger heat exchanger in case partial number of indoor units are operational."
+                        "caption": "The VRV Home boasts of bigger centralized outdoor unit compared to separate unitary products. This enables much bigger heat exchanger in case partial number of indoor units are operational.\n\n",
+                        "parseHtml": "1"
                     }
                 ]
             },
-            "order": 111
+            "order": 5
         },
         {
-            "id": 4543,
+            "id": 7262,
             "component": "CardV2",
             "component_id": 62,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "",
+                        "color": "text-center bg-cover",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"backgroundColor\":\"#f8f8f8\"}"
+                    "inlineCss": "{\"fontFamily\":\"Outfit\", \"backgroundImage\":\"url(https://www.vrvhome.com/sites/all/themes/vrvh/images/product-2.jpg)\"}"
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-oxygen  font-size-5 mbr-pt-1",
+                            "color": "text-2xl py-2 text-slate-800",
                             "fontSize": "12px"
                         },
                         "content": "Design Flexibility",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "Daikin VRV Home is designed in such a way to complement your existing space in an enduring way. It provides easy installation of up to 8 indoor units to a single outdoor unit.",
+                        "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "mbr-pt-1"
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
                         }
                     },
                     "button": {
@@ -309,22 +347,29 @@
                         }
                     },
                     "image": {
-                        "content": "https://www.vrvhome.com/sites/all/themes/vrvh/images/product-2.jpg"
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Daikin VRV Home is designed in such a way to complement your existing space in an enduring way. It provides easy installation of up to 8 indoor units to a single outdoor unit.\n",
+                        "css": {
+                            "color": "text-slate-600 font-light p-5"
+                        }
                     },
                     "itemInfo": {
-                        "rowCounts": "2",
-                        "activateSlider": "1"
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "2"
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
+                            "color": "grid-cols-10 grid"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-center"
+                            "color": "md:col-span-10 md:col-start-2 col-span-12"
                         }
                     },
                     "imageWrap": {
@@ -339,9 +384,9 @@
                     },
                     "itemSectionWrap": {
                         "css": {
-                            "color": ""
+                            "color": "flex flex-col bg-white/60"
                         },
-                        "inlineCss": ""
+                        "inlineCss": "{\"color\": \"#000\",\"borderRadius\": \"10px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
                     },
                     "itemHeadingWrap": {
                         "css": {
@@ -350,7 +395,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "font-family-oxygen font-size-6 mbr-m-0 "
+                            "color": "text-xl py-3"
                         }
                     },
                     "itemIconWrap": {
@@ -358,77 +403,98 @@
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "mbr-col-md-6 mbr-flex grid-row mbr-pt-5"
-                        },
-                        "inlineCss": "{\"justifyContent\":\"space-around\"}"
+                            "color": "md:col-span-6 md:mx-3 col-span-12"
+                        }
                     },
                     "itemCaptionWrap": {
                         "css": {
-                            "color": "font-family-nunito  font-size-7 align-left"
+                            "color": "text-left text-slate-600 font-light p-5"
                         }
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "container grid-column"
+                            "color": "container m-auto px-20"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "md:p-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-20 items-center m-auto md:px-0 px-5 bg-zinc-300/60"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "px-6"
                         }
                     }
                 },
                 "itemList": [
                     {
                         "heading": "Piping Length",
-                        "caption": "VRV Home series features broad design flexibility with long refrigerant combinations, which provides substantial liberty in home design. As many as 8 indoor units can be connected to a single outdoor unit, making the VRV Home a remarkably versatile system. Total capacity index of connectable indoor units must be 50% to 140 % of the capacity index of the outdoor unit. \n\nThe VRV Home provides long piping length range of 40 m, with a total piping length of 100 m. If the outdoor unit is installed above indoor units, the level difference can be up to a maximum of 30 m. These plentiful allowances enable a wide variety of system designs.",
-                        "link": "/ghansi-group-network"
+                        "parseHtml": "1",
+                        "caption": "VRV Home series features broad design flexibility with long refrigerant combinations, which provides substantial liberty in home design. As many as 8 indoor units can be connected to a single outdoor unit, making the VRV Home a remarkably versatile system. Total capacity index of connectable indoor units must be 50% to 140 % of the capacity index of the outdoor unit. \n<br/><br/>\nThe VRV Home provides long piping length range of 40 m, with a total piping length of 100 m. If the outdoor unit is installed above indoor units, the level difference can be up to a maximum of 30 m. These plentiful allowances enable a wide variety of system designs."
                     },
                     {
-                        "heading": "Brazing Free Installation ",
-                        "caption": "Daikin’s next-gen Brazing Free Installation is another testament of its superior quality innovation. Flare connection-based header pack removes the need of brazing, leading to quick, safe & quality installation.",
-                        "link": "/ghansi-group-network"
+                        "heading": "Brazing Free Installation",
+                        "caption": "Daikin's next-gen Brazing Free Installation is another testament of its superior quality innovation. Flare connection-based header pack removes the need of brazing, leading to quick, safe & quality installation.",
+                        "parseHtml": "1"
                     },
                     {
                         "heading": "Connection Ratio",
                         "caption": "With VRV Home, one has flexibility to connect up to 140% capacity of indoor units and take advantage of the redundancy of usage (Connection capacity from 50% to 140%).",
-                        "link": "/ghansi-group-network"
+                        "parseHtml": "1"
                     },
                     {
                         "heading": "Wide Operation Temperature Range",
-                        "caption": "The versatile operation range of the VRV Home system reduces limitations on installation locations. The operation temperature range for heating goes all the way down to 0°C, while cooling can be done with outdoor temperatures as high as 49°C.",
-                        "link": "/ghansi-group-network"
+                        "caption": "The versatile operation range of the VRV Home system reduces limitations on installation locations. The operation temperature range for heating goes all the way down to 0Â°C, while cooling can be done with outdoor temperatures as high as 49Â°C.",
+                        "parseHtml": "1"
                     },
                     {
                         "heading": "Single Phase Power Supply",
-                        "caption": "Daikin VRV Home’s indoor units as well as outdoor units operate on single phase power supply. This enables VRV Home adaptation at places where 3-phase power supply is not available.",
-                        "link": "/ghansi-group-network"
+                        "caption": "Daikin VRV Home's indoor units as well as outdoor units operate on single phase power supply. This enables VRV Home adaptation at places where 3-phase power supply is not available.",
+                        "parseHtml": "1"
                     }
                 ]
             },
-            "order": 112
+            "order": 6
         },
         {
-            "id": 4544,
+            "id": 7263,
             "component": "CardV2",
             "component_id": 62,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "",
+                        "color": "text-center bg-cover bg-no-repeat",
                         "fontSize": "12px"
                     },
-                    "inlineCss": ""
+                    "inlineCss": "{\"fontFamily\":\"Outfit\", \"backgroundImage\":\"url(https://www.vrvhome.com/sites/all/themes/vrvh/images/product-3.jpg)\"}"
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-oxygen  font-size-5 mbr-pt-1",
+                            "color": "text-2xl py-2 text-slate-800",
                             "fontSize": "12px"
                         },
-                        "content": "COMFORT",
+                        "content": "Comfort",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "Daikin VRV Home is all set to redefine comfort with its smart temperature control feature. With it, embrace year-round air conditioning as its heat pump version maintains comfortable room temperature during summer and winter season.",
+                        "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "mbr-pt-1"
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
                         }
                     },
                     "button": {
@@ -439,22 +505,29 @@
                         }
                     },
                     "image": {
-                        "content": "https://www.vrvhome.com/sites/all/themes/vrvh/images/product-3.jpg"
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Daikin VRV Home is all set to redefine comfort with its smart temperature control feature. With it, embrace year-round air conditioning as its heat pump version maintains comfortable room temperature during summer and winter season.",
+                        "css": {
+                            "color": "text-slate-600 font-light p-5"
+                        }
                     },
                     "itemInfo": {
-                        "rowCounts": "2",
-                        "activateSlider": "1"
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "3"
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
+                            "color": "grid-cols-10 grid"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-center"
+                            "color": "md:col-span-10 md:col-start-2 col-span-12"
                         }
                     },
                     "imageWrap": {
@@ -469,9 +542,9 @@
                     },
                     "itemSectionWrap": {
                         "css": {
-                            "color": ""
+                            "color": "flex flex-col bg-blue-200/60"
                         },
-                        "inlineCss": ""
+                        "inlineCss": "{\"color\": \"#000\",\"borderRadius\": \"10px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
                     },
                     "itemHeadingWrap": {
                         "css": {
@@ -480,7 +553,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "font-family-oxygen font-size-6 mbr-m-0 "
+                            "color": "text-xl py-3"
                         }
                     },
                     "itemIconWrap": {
@@ -488,65 +561,88 @@
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "mbr-col-md-6 mbr-flex grid-row mbr-pt-5"
-                        },
-                        "inlineCss": "{\"justifyContent\":\"space-around\"}"
+                            "color": "md:col-span-4 md:mx-3 col-span-12"
+                        }
                     },
                     "itemCaptionWrap": {
                         "css": {
-                            "color": "font-family-nunito  font-size-7 align-left"
+                            "color": "text-left text-slate-600 font-light p-5"
                         }
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "container grid-column"
+                            "color": "container m-auto px-20"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "md:p-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-20 items-center m-auto md:px-0 px-5 bg-slate-100/55"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "px-6"
                         }
                     }
                 },
                 "itemList": [
                     {
                         "heading": "Precise Temperature Control",
+                        "parseHtml": "1",
                         "caption": "The inverter technology in VRV Home provides very close tolerance of room temperature in the range of +-0.5 degree Celsius compared to conventional system where in it is as high as +- 2 degree Celsius. This not only reduces temperature fluctuation but also results in better human comfort."
                     },
                     {
                         "heading": "Night Time Quiet Operation",
-                        "caption": "Quietness is a major feature of VRV Home system and promises luxurious comfort. To reduce noise and realize comfortable operation, latest technologies and features are applied to the indoor units as well as outdoor unit."
+                        "caption": "Quietness is a major feature of VRV Home system and promises luxurious comfort. To reduce noise and realize comfortable operation, latest technologies and features are applied to the indoor units as well as outdoor unit.",
+                        "parseHtml": "1"
                     },
                     {
                         "heading": "Year Round Air-Conditioning",
-                        "caption": "VRV Home’s Heat pump works all-round the year maintaining comfortable room temperature during summer and winter season.",
-                        "link": "/ghansi-group-network"
+                        "caption": "VRV Home's Heat pump works all-round the year maintaining comfortable room temperature during summer and winter season.",
+                        "parseHtml": "1"
                     }
                 ]
             },
-            "order": 114
+            "order": 7
         },
         {
-            "id": 4545,
+            "id": 7264,
             "component": "CardV2",
             "component_id": 62,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "",
+                        "color": "text-center bg-cover",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"backgroundColor\":\"#f8f8f8\"}"
+                    "inlineCss": "{\"fontFamily\":\"Outfit\", \"backgroundImage\":\"url(https://www.vrvhome.com/sites/all/themes/vrvh/images/product-4.jpg)\"}"
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-oxygen  font-size-5 mbr-pt-1",
+                            "color": "text-2xl py-2 text-slate-800",
                             "fontSize": "12px"
                         },
-                        "content": "CONTEMPORARY",
+                        "content": "Contemporary",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "Get the comfort of centralized air conditioning that gives your space and flexibility to create the perfect home you desire. With its centralized outdoor unit, VRV Home series provides neat and clean look and saves space to make room for other essentials. To discover more, click here.",
+                        "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "mbr-pt-1"
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
                         }
                     },
                     "button": {
@@ -557,22 +653,29 @@
                         }
                     },
                     "image": {
-                        "content": "https://www.vrvhome.com/sites/all/themes/vrvh/images/product-4.jpg"
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Get the comfort of centralized air conditioning that gives your space and flexibility to create the perfect home you desire. With its centralized outdoor unit, VRV Home series provides neat and clean look and saves space to make room for other essentials. To discover more, click here.",
+                        "css": {
+                            "color": "text-slate-600 font-light p-5"
+                        }
                     },
                     "itemInfo": {
-                        "rowCounts": "2",
-                        "activateSlider": "1"
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "3"
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
+                            "color": "grid-cols-10 grid"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-center"
+                            "color": "md:col-span-10 md:col-start-2 col-span-12"
                         }
                     },
                     "imageWrap": {
@@ -587,7 +690,155 @@
                     },
                     "itemSectionWrap": {
                         "css": {
+                            "color": "flex flex-col "
+                        },
+                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-xl py-3"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 md:mx-3 col-span-12"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "text-left text-slate-600 font-light p-5"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto px-20"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "md:p-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
                             "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-20 items-center m-auto md:px-0 px-5 bg-slate-100/80"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "px-6"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Centralized Air Conditioning",
+                        "parseHtml": "1",
+                        "caption": "VRV Home offers centralized Lifestyle Air Conditioning solutions wherein one Outdoor unit can be connected with multiple Indoor units. This system has flexibility of connecting different types of Indoor units in the same circuit. "
+                    },
+                    {
+                        "heading": "Hide And Sleek Design",
+                        "caption": "The units are compact and slim enough to fit into any false ceiling, giving you more space and flexibility to create the perfect home you desire. Now, function and aesthetics can live in a perfect harmony. ",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "SPACE Saving",
+                        "caption": "The external beauty of your home reflects on the interior beauty as well. With its centralized outdoor unit, VRV Home series provides a sophisticated look and saves space to make room for other essentials.",
+                        "parseHtml": "1"
+                    }
+                ]
+            },
+            "order": 8
+        },
+        {
+            "id": 7265,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-5 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "Testimonials",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "bg-indigo-700\trounded-full px-5 py-3 text-white"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Look no further for proof of our exceptional service\n than the following testimonials from satisfied students",
+                        "css": {
+                            "color": "text-lg py-2 text-slate-700"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col bg-indigo-500 text-stone-100 rounded-lg text-sm md: m-0 my-5 flex items-center pt-4"
                         },
                         "inlineCss": ""
                     },
@@ -598,133 +849,89 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "font-family-oxygen font-size-6 mbr-m-0 "
-                        }
+                            "color": "font-light text-base"
+                        },
+                        "inlineCss": ""
                     },
                     "itemIconWrap": {
-                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                        "inlineCss": "{\"fontSize\":\"50px\"}",
+                        "css": {
+                            "color": "text-yellow-500 pt-4 pl-4 w-full"
+                        }
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "mbr-col-md-6 mbr-flex grid-row mbr-pt-5"
-                        },
-                        "inlineCss": "{\"justifyContent\":\"space-around\"}"
+                            "color": "md:col-span-4 col-span-12 md:mx-5"
+                        }
                     },
                     "itemCaptionWrap": {
                         "css": {
-                            "color": "font-family-nunito  font-size-7 align-left"
-                        }
+                            "color": "align-left py-3 "
+                        },
+                        "inlineCss": ""
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "container grid-column"
+                            "color": "container m-auto md:px-10 py-4"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:p-5 p-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto md:px-5 px-10"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "rounded-full overflow-hidden h-32 w-32"
                         }
                     }
                 },
                 "itemList": [
                     {
-                        "heading": "Centralized Air Conditioning",
-                        "caption": "VRV Home offers centralized Lifestyle Air Conditioning solutions wherein one Outdoor unit can be connected with multiple Indoor units. This system has flexibility of connecting different types of Indoor units in the same circuit. "
+                        "heading": "I was in dilemma about choosing the AC brands, then my friend recommended to go for Daikin and acknowledged me about the technology and its legacy. I kept 4 numbers indoors and one 4HP outdoor unit Daikin VRV Home at my office which is working so smoothly without any hassle so far. I would definitely recommend everyone to go with Daikin.\n\n",
+                        "icon": "FaQuoteLeft",
+                        "caption": "Mr. Niraj Rai <br/>\nCEO <br/>\nAwarded international Education Pvt Ltd <br/>",
+                        "parseHtml": "1"
                     },
                     {
-                        "heading": "Hide And Sleek Design",
-                        "caption": "The units are compact and slim enough to fit into any false ceiling, giving you more space and flexibility to create the perfect home you desire. Now, function and aesthetics can live in a perfect harmony. "
+                        "heading": "There is one very similar trait between us and Daikin. Both of us believe in offering the best to our customers. And that's why we opted for Daikin VRV Home System. It is Flexible, Smart and Optimal Solution with best energy efficiency. ",
+                        "caption": "Mr. Dinesh Poudyal<br/>\nGeneral Manager<br/>\nAnnapurna Cable Car Pvt Ltd , Pokhara",
+                        "icon": "FaQuoteLeft",
+                        "parseHtml": "1"
                     },
                     {
-                        "heading": "SPACE Saving",
-                        "caption": "The external beauty of your home reflects on the interior beauty as well. With its centralized outdoor unit, VRV Home series provides a sophisticated look and saves space to make room for other essentials.",
-                        "link": "/ghansi-group-network"
+                        "heading": "We are delighted to install Daikin VRV home air conditioning system in STR advertisement Pvt Ltd corporate office United world center Tripureswor . \nMore than satisfied with the machines outstanding performance. It has been reliable and easy to use. It runs very quiet and make room pretty cool. \n",
+                        "caption": "Mr. Sandip Hirachan <br/>\nChairman <br/>\nSTR Advertisement Pvt Ltd <br/>",
+                        "icon": "FaQuoteLeft",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "We chose Daikin VRV Home series for our Cooperative located in Sankata, Kathmandu. The brand embracing more than 95 years of legacy with product excellence and services. Daikin will always remain in our preference and would recommend to go forever with Daikin without any hesitation.\n",
+                        "caption": "Mr. Prem Bahadur Ranabhat <br/>\nCEO <br/>\nBhudeo Multipurpose Cooperative Ltd <br/>",
+                        "icon": "FaQuoteLeft",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "I Decided to Install Daikin VRV Home Series at my apartment, placed 5 Indoor unit with 6HP outdoor unit and it covered entire flat properly. The best part is energy efficiency , design parts are so plausible, with occupying minimal Area ",
+                        "caption": "Mr. Suresh Man Shakya <br/>\nGahana Palace <br/>\nNew Road ",
+                        "icon": "FaQuoteLeft",
+                        "parseHtml": "1"
                     }
                 ]
             },
-            "order": 131
-        },
-        {
-            "id": 4745,
-            "component": "cards",
-            "component_id": 5,
-            "attributes": {
-                "title": "Testimonials",
-                "itemList": [
-                    {
-                        "title": "Mr. Sandip Hirachan",
-                        "caption": "We are delighted to install Daikin VRV home air conditioning system in STR advertisement Pvt Ltd corporate office United world center Tripureswor . \nMore than satisfied with the machines outstanding performance. It has been reliable and easy to use. It runs very quiet and make room pretty cool. \n\nChairman\nSTR Advertisement Pvt Ltd",
-                        "width": "200px",
-                        "borderRadius": "50%"
-                    },
-                    {
-                        "title": "Mr. Prem Bahadur Ranabhat",
-                        "caption": "We chose Daikin VRV Home series for our Cooperative located in Sankata, Kathmandu. The brand embracing more than 95 years of legacy with product excellence and services. Daikin will always remain in our preference and would recommend to go forever with Daikin without any hesitation.\n\nCEO\nBhudeo Multipurpose Cooperative Ltd"
-                    },
-                    {
-                        "title": "Mr. Suresh Man Shakya",
-                        "caption": "I Decided to Install Daikin VRV Home Series at my apartment, placed 5 Indoor unit with 6HP outdoor unit and it covered entire flat properly. The best part is energy efficiency , design parts are so plausible, with occupying minimal Area \n\nGahana Palace\nNew Road  "
-                    },
-                    {
-                        "title": "Mr. Niraj Rai",
-                        "caption": "I was in dilemma about choosing the AC brands, then my friend recommended to go for Daikin and acknowledged me about the technology and its legacy. I kept 4 numbers indoors and one 4HP outdoor unit Daikin VRV Home at my office which is working so smoothly without any hassle so far. I would definitely recommend everyone to go with Daikin.\n\nCEO\nAwarded international Education Pvt Ltd",
-                        "img": "https://drive.google.com/uc?id=1kq6XpRkF1XXNGaDxpz-LlhhF5rxBwG8P",
-                        "width": "200px",
-                        "borderRadius": "50%"
-                    },
-                    {
-                        "title": "Mr. Dinesh Poudyal",
-                        "caption": "There is one very similar trait between us and Daikin. Both of us believe in offering the best to our customers. And that’s why we opted for Daikin VRV Home System. It is Flexible, Smart and Optimal Solution with best energy efficiency. \n\nGeneral Manager\nAnnapurna Cable Car Pvt Ltd , Pokhara",
-                        "img": "https://drive.google.com/uc?id=1SeGvjUU4bmvai4_uG4fCppWfwcEYC--9",
-                        "width": "200px",
-                        "borderRadius": "50%"
-                    }
-                ],
-                "alignImg": "left",
-                "alignContent": "column-left",
-                "ContentMaxWidth": "500px",
-                "justifyContent": "space-evenly",
-                "imageMaxWidth": "400px",
-                "activateSlider": "1",
-                "itemSize": "1",
-                "contactInfo": [],
-                "cardContentAlign": "column-reverse",
-                "display": "flex",
-                "imgAuthorPosition": "bottom",
-                "flatCard": "1",
-                "autoPlay": "1"
-            },
-            "order": 162
-        },
-        {
-            "id": 4546,
-            "component": "cards",
-            "component_id": 5,
-            "attributes": {
-                "flatCard": "1",
-                "itemSize": "4",
-                "cardMaxWidth": "200px",
-                "imageList": "1",
-                "itemList": [
-                    {
-                        "img": "https://drive.google.com/uc?id=1t15jGFYSzx2yvLyG5sJ-xRkk8rUBh26S"
-                    },
-                    {
-                        "img": "https://drive.google.com/uc?id=1jn9e9jQ3CM4RuqPjjzp8wI8Vf1ahm1Wx"
-                    },
-                    {
-                        "img": "https://drive.google.com/uc?id=1IksU6npSNiv0mH4ZkjHcZBNTl5kF0_ij"
-                    },
-                    {
-                        "img": "http://www.hotelhimalayanglacier.com/images/preference/izdjw-Logo.png"
-                    },
-                    {
-                        "img": "https://drive.google.com/uc?id=1s6JOlVfQwFZ736nWYWAOYkgBJdn1P80l"
-                    }
-                ],
-                "contactInfo": [],
-                "imgAtCenter": "1",
-                "cardContainerWidth": "1000px",
-                "activateSlider": "1",
-                "color": "#000",
-                "title": "Our Customers"
-            },
-            "order": 174
+            "order": 9
         }
     ]
 }
