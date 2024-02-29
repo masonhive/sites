@@ -1,21 +1,21 @@
 {
     "data": [
         {
-            "id": 4484,
+            "id": 7219,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover mbr-flex mbr-align-item-c vh-height clr-pl-7",
+                        "color": "-mt-10 h-80 overflow-hidden",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{ \"backgroundImage\": \"linear-gradient(to bottom right,  rgb(4 1 20), rgb(202 174 174 / 0%)), url(https://drive.google.com/uc?id=124XgIw9MCYEdhJMIe9gFArRGcxbQKf-z)\" , \"margin\": \"-125px 0px -100px\", \"backgroundPosition\": \"center center\", \"min-height\": \"40vh\"}"
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 align-left ",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
                         "content": "",
@@ -25,52 +25,67 @@
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-raleway  font-size-6 mbr-pt-1"
+                            "color": ""
                         }
                     },
                     "button": {
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn bnt-lg bd-clr-pl-1 bd-stl-solid fontSize3 bg-clr-pl-22 clr-pl-7"
-                        }
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
                         "content": "",
                         "css": {
-                            "color": "font-family-raleway  font-size-4 mbr-m-0 align-center"
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com/ghansi-banner.jpeg",
+                        "link": "",
+                        "css": {
+                            "color": "w-full "
                         }
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "container mbr-flex mbr-jc-c  flex-wrap mbr-align-item-c "
+                            "color": ""
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-8 align-center"
+                            "color": ""
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container"
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
                         }
                     }
-                },
-                "cat": []
+                }
             },
-            "order": 89
+            "order": 3
         },
         {
-            "id": 4486,
+            "id": 7220,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "container mbr-flex mbr-align-item-c ",
+                        "color": "container m-auto ",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -78,116 +93,65 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-oxygen  font-size-5 mbr-pt-1",
+                            "color": "text-2xl py-2 text-blue-700",
                             "fontSize": "12px"
                         },
                         "content": "Ghansi Nepal",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "",
+                        "content": "\"Education is the foremost foundation of development\". Ghansi Ideal Society Nepal was officially established as a non-governmental organization as service oriented in 2007. The organization is serving nation to develop through education. We strongly believe that every child is born equal but what makes them different is the opportunity & environment they get. Ghansi Nepal is working towards providing a platform and opportunity for the children where they can learn and grow as human being.\n\n",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-size-3 mbr-pt-1"
+                            "color": "text-slate-400 font-light py-5"
                         }
                     },
                     "button": {
-                        "content": "",
-                        "link": "",
+                        "content": "Know More",
+                        "link": "http://ghansinepal.org/",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": ""
+                            "color": "bg-yellow-700\trounded-full px-4 py-2 text-white text-base"
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
-                        "content": "We strongly believe that, “every child is born equal but what makes them different is the opportunity they get.” Ghansi Nepal works towards providing an environment for the children where they can learn and grow as human beings. The way we do this is by providing education to the children, as we believe that education is the heart and soul underneath it all. The only way that a person can develop to become better and better is by education, along with other activities of course. ....."
+                        "content": "We strongly believe that, every child is born equal but what makes them different is the opportunity they get. Ghansi Nepal works towards providing an environment for the children where they can learn and grow as human beings. The way we do this is by providing education to the children, as we believe that education is the heart and soul underneath it all. The only way that a person can develop to become better and better is by education, along with other activities of course.\n\n",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com/ghansi-conglo-2.jpeg",
+                        "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                            "color": "grid grid-cols-12 text-left p-5 items-center"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-left"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-6"
+                            "color": "md:col-span-7  order-1 px-6"
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "bg-clr-pl-7 mbr-p-4"
-                        }
-                    }
-                }
-            },
-            "order": 90
-        },
-        {
-            "id": 4487,
-            "component": "TextV2",
-            "component_id": 61,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "mbr-flex mbr-align-item-c container  bg-clr-pl-7 mbr-pt-3",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "",
-                            "fontSize": "12px"
+                            "color": "-mt-32 z-10  relative bg-white"
                         },
-                        "content": "",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "\"Education is the foremost foundation of development\". Ghansi Ideal Society Nepal was officially established as a non-governmental organization as service oriented in 2007. The organization is serving nation to develop through education. We strongly believe that every child is born equal but what makes them different is the opportunity & environment they get. Ghansi Nepal is working towards providing a platform and opportunity for the children where they can learn and grow as human being.",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-size-7 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "KNOW MORE",
-                        "link": "http://ghansinepal.org/",
-                        "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": "https://drive.google.com/uc?id=1KFfr94LSiDi6U24vQExZ6Oqwm-LbxIM-"
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-8 align-left"
-                        }
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "mbr-col-md-4"
+                            "color": "md:col-span-3  order-2 md:col-start-9"
                         }
                     }
                 }
             },
-            "order": 91
+            "order": 4
         }
     ]
 }
