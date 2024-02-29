@@ -1,0 +1,159 @@
+{
+    "data": [
+        {
+            "id": 4468,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover mbr-flex mbr-align-item-c vh-height clr-pl-7",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{ \"backgroundImage\": \"linear-gradient(to bottom right,  rgb(4 1 20), rgb(202 174 174 / 0%)), url(https://drive.google.com/uc?id=124XgIw9MCYEdhJMIe9gFArRGcxbQKf-z)\" , \"margin\": \"-125px 0px -100px\", \"backgroundPosition\": \"center center\", \"min-height\": \"40vh\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 align-left ",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-raleway  font-size-6 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn bnt-lg bd-clr-pl-1 bd-stl-solid fontSize3 bg-clr-pl-22 clr-pl-7"
+                        }
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "font-family-raleway  font-size-4 mbr-m-0 align-center"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "container mbr-flex mbr-jc-c  flex-wrap mbr-align-item-c "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 align-center"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    }
+                },
+                "cat": []
+            },
+            "order": 80
+        },
+        {
+            "id": 4469,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "container mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-oxygen  font-size-6 mbr-pt-1",
+                            "fontSize": "12px"
+                        },
+                        "content": "Sales Head (B2B)",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Job Description :\n\n•Setting goals and developing plans for business and revenue growth.\n•Building, managing and strengthening the network by  maintaining relationship with the industry's key people and developing strong relation with government sector, consultants, engineers, architects, and designers\n• Enhancing the Product & B2B channel strategy;\n• Building and managing the B2B channel;\n• Building the distributor’s B2B organization;\n• Pursuing leads and moving them through sales cycle.\n\nRequirements:\n\n•5+ years of experience in Air Conditioning Sales;\n• Strong knowledge in Central Air Conditioning system design and RAC ;\n• Demonstrated ability to manage multiple projects;\n• Strong accounts management skills;\n• Excellent relationship building skills;\n• Bachelor’s degree in Business Administration or any equivalent field\n\t\t",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "APPLY NOW",
+                        "link": "#applynow",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Nos : 1\nSalary : Negotiable for Deserving Candidates\nStation : Kathmandu",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-6 mbr-pt-1"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-left"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "bg-clr-pl-7 mbr-p-4"
+                        }
+                    }
+                }
+            },
+            "order": 81
+        },
+        {
+            "id": 4681,
+            "component": "ApplyNow",
+            "component_id": 65,
+            "attributes": {
+                "siteMail": "hr@ghansigroup.com",
+                "cta": "Proceed & Apply Now",
+                "emailTitle": "Carrers",
+                "emailType": "default",
+                "containerLayout": {
+                    "css": {
+                        "color": ""
+                    },
+                    "inlineCss": "{\"width\": \"80%\", \"margin\": \"auto\"}"
+                },
+                "enableContactForm": "1",
+                "enableAttachment": "1",
+                "sendResponseContent": "Thankyou for applying, We will reach you out soon !!",
+                "sendResponseHeader": "CARRERS"
+            },
+            "order": 141
+        }
+    ]
+}

@@ -1,0 +1,482 @@
+{
+    "data": [
+        {
+            "id": 6931,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover mbr-flex mbr-align-item-c vh-height clr-pl-7",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{ \"backgroundImage\": \"linear-gradient(to bottom right,  rgb(4 1 20), rgb(202 174 174 / 0%)), url(https://www.daikinindia.com/sites/default/files/Split-Section-Banners_20.jpg)\" , \"margin\": \"-125px 0px -100px\", \"backgroundPosition\": \"center center\", \"min-height\": \"80vh\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 align-left ",
+                            "fontSize": "12px"
+                        },
+                        "content": "FTHT60U",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-raleway  font-size-6 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn bnt-lg bd-clr-pl-1 bd-stl-solid fontSize3 bg-clr-pl-22 clr-pl-7"
+                        }
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "font-family-raleway  font-size-4 mbr-m-0 align-center"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "container mbr-flex mbr-jc-c  flex-wrap mbr-align-item-c "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 align-center"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    }
+                },
+                "cat": []
+            },
+            "order": 3
+        },
+        {
+            "id": 6939,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c container  bg-clr-pl-7 mbr-pt-3",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-oxygen  font-size-5 mbr-pt-1",
+                            "fontSize": "12px"
+                        },
+                        "content": "FTHT60U",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "FTHT60 is an all season air conditioner that provides you with heating and cooling experience, along with smart savings! From hot summers to cold winters, it ensures perfect temperature in your home all year long. Switch on you Daikin AC and enjoy a peaceful air conditioning experience.\n\nStar Rating: 3 Star\nTechnology: Inverter\nCapacity: 6.0 kW (1.8 TR)\nCompressor Warranty: 5 Yrs\nPCB Warranty: 5 Yrs",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-nunito  font-size-7"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "/",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://www.daikinindia.com/sites/default/files/salient-features/ftht35-img-1.jpg"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 align-left"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    }
+                }
+            },
+            "order": 4
+        },
+        {
+            "id": 6943,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "Salient Features",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": ""
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "3"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\",\"padding\":\"0px\", \"border\": \"1px solid #fff\", \"margin\":\"20px 0px\"}"
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-7 mbr-m-0"
+                        },
+                        "inlineCss": "{\"fontWeight\":\"bold\",\"backgroundColor\":\"#f6f6f6\",\"padding\":\"0px\"}"
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 mbr-flex grid-row mbr-col-sm-6"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left font-family-andada font-size-8 "
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container grid-column"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "{\"padding\":\"10px\"}"
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "itemImageWrap": {
+                        "inlineCss": ""
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Stablizer Inside",
+                        "caption": "No need to worry about voltage fluctuation. Daikin's Stabilizer Inside operation regulates voltage across a wide range of fluctuation (130V~285V) and helps ensuring smooth operations during voltage fluctuations.",
+                        "parseHtml": "1",
+                        "image": "https://www.daikinindia.com/sites/default/files/stablizer-inside.jpg"
+                    },
+                    {
+                        "image": "https://www.daikinindia.com/sites/default/files/Tripple-Display.jpg",
+                        "heading": "Triple Display",
+                        "caption": "The Triple Display feature shows 3 key optimum running features on your display panel: the percentage of power consumed at any given time, the set temperature of your room, and error codes, if any. This ensures the well-being of your system.",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://www.daikinindia.com/sites/default/files/10-Years-Warranty.jpg",
+                        "heading": "5 Years Warranty on Compressor",
+                        "caption": "Enjoy long term assurance with 10 Years of peaceful cooling at your house. Daikin provides you tension-free comfort for a decade with a warranty on your air conditioning system's compressor.",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://www.daikinindia.com/sites/default/files/3d-airflow.jpg",
+                        "heading": "3D Airflow",
+                        "caption": "Enjoy uniform cooling at every corner. Daikin’s 3-D ensures steady air circulation to deliver even cooling and unmatched comfort. The flap and louver move in tandem with each other to circulate the air in the entire room.",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://www.daikinindia.com/sites/default/files/5-years-warranty.jpg",
+                        "heading": "1 Years Warranty on PCB",
+                        "caption": "Want additional peace of mind? With Daikin's 5 year warranty on PCB, make your experience more peaceful alongside extra assurance on the maintenance cost and enjoy smooth cooling of your AC in your home.",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://www.daikinindia.com/sites/default/files/airflow-16-meters.jpg",
+                        "heading": "Air Throw 16* Meters (52 Feet)",
+                        "caption": "With the Cross Flow Evaporator Fans, Daikin air conditioners' every product is perfected and re-perfected to ensure they deliver and carry the badge of trust. Air flow upto 16* metres (52 feet) away from the unit ensures uniform and powerful cooling.\n\nAir throw given for 5.28KW (1.5 TR) capacity, may vary model to model",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://www.daikinindia.com/sites/default/files/anti-corrosion.jpg",
+                        "heading": "Anti Corrosion Treatment",
+                        "caption": "Live a worry-free life with Daikin's Anti Corrosion Treatment. Daikin ACs come with a special coating which prevents the rusting of the copper coil, thus, ensuring a long life of your device and eliminating your trouble.",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://www.daikinindia.com/sites/default/files/coanda-airflow.jpg",
+                        "heading": "Coanda Airflow",
+                        "caption": "Make way for effective air circulation and efficient temperature distribution with Daikin’s Coanda airflow, designed to give the best air-conditioning experience. This function ensures cooling even in corners of the room by streaming cool air upwards along the ceiling, avoiding furniture or obstructions.",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://www.daikinindia.com/sites/default/files/Cools-at-52deg-Celsius_0.jpg",
+                        "heading": "Cools upto 54º C",
+                        "caption": "Unlike most regular air conditioners that are designed to deliver cooling at 35ºC, Daikin air conditioners are designed to perform at extreme ambient conditions as high as 54ºC. This makes them the ideal choice for dry and tropical countries.",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://www.daikinindia.com/sites/default/files/dew-clean_0%20%281%29.jpg",
+                        "heading": "Dew Clean Technology#",
+                        "caption": "Daikin’s Dew Clean Technology auto-cleans the indoor heat exchanger unit, getting rid of bacteria, moulds and other unwanted particles. It ensures odour-free, fresh, consistent airflow at all times.\n\n#Dew Clean Technology is available in cooling only mode.",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://www.daikinindia.com/sites/default/files/econo-mode.jpg",
+                        "heading": "Econo Mode",
+                        "caption": "Set the limit for power consumption with Daikin's ECONO mode feature. This function enables efficient operation by limiting the maximum power consumption. Taking one step towards Daikin's future innovation.",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://www.daikinindia.com/sites/default/files/Good-Sleep-OFF-Timer.jpg",
+                        "heading": "Good Sleep Off Timer",
+                        "caption": "Assure comfortable sleep by preventing excessive cooling of the room with a temperature shift value setting. The set temperature increases by 0.5°C at 30-minute intervals, giving you a better experience.",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://www.daikinindia.com/sites/default/files/heating-and-cooling.jpg",
+                        "heading": "Heating & Cooling Function Operation -10°C to 54°C",
+                        "caption": "Keeps the ambient temperature comfortable in both chilled winters and harsh summers. It cools when the temperature is hot outside and warms when the surroundings are uncomfortably chilled for you.",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://www.daikinindia.com/sites/default/files/patented-swing-compressor.jpg",
+                        "heading": "Patented Swing Compressor",
+                        "caption": "Daikin Air conditioners come with a Patented Swing Compressor which decreases friction and vibration. This helps in a smooth rotation of the swing compressor which provides a quiet and efficient operation.",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://www.daikinindia.com/sites/default/files/PM-2-5-Filter.jpg",
+                        "heading": "PM 2.5 Filter",
+                        "caption": "Live life pollutants free with Daikin's highly efficient air conditioner. The PM2.5 air conditioner filter traps fine air particles 2.5 microns in width, giving you a clean and healthy indoor air.",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://www.daikinindia.com/sites/default/files/power-chill.jpg",
+                        "heading": "Power Chill Operation",
+                        "caption": "Cool down your home at a fast rate. Daikin's Power Chill operation cools down 20% faster as compared to the normal mode. It ensures your room temperature drops rapidly for immediate relief from the hot temperature outside.",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://www.daikinindia.com/sites/default/files/dual-air-flaps.jpg",
+                        "heading": "Power-Airflow Dual Flaps",
+                        "caption": "The Power-Airflow Dual Flaps along with the Crossflow Evaporator fans ensure even distribution of cool air in both small and large spaces, making sure you are comfortable at all times.",
+                        "parseHtml": "1"
+                    }
+                ]
+            },
+            "order": 5
+        },
+        {
+            "id": 6935,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c container  bg-clr-pl-7 mbr-pt-3",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-poppins font-size-7",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-poppins font-size-7"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "SPECIFICATION",
+                        "css": {
+                            "color": "font-family-poppins font-size-6"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    }
+                }
+            },
+            "order": 6
+        },
+        {
+            "id": 6932,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "container",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-1 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "VIEWCATALOGUE",
+                        "link": "https://www.daikincatalog.com/daipl_0001/book/#target/page_no=40",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://drive.google.com/uc?id=1hBVQe5LvwNMPgkHZ4z8MtbsdPhbBh_EU"
+                    },
+                    "caption": {
+                        "content": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 7
+        }
+    ]
+}

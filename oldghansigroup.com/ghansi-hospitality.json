@@ -1,0 +1,387 @@
+{
+    "data": [
+        {
+            "id": 4451,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover mbr-flex mbr-align-item-c vh-height clr-pl-7",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{ \"backgroundImage\": \"linear-gradient(to bottom right,  rgb(4 1 20), rgb(202 174 174 / 0%)), url(https://drive.google.com/uc?id=1dDCU9JJ7TJZtiaVu1ybkCQe5yNGks2s3)\" , \"margin\": \"-125px 0px -100px\", \"backgroundPosition\": \"center center\", \"min-height\": \"90vh\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 align-left ",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-raleway  font-size-6 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn bnt-lg bd-clr-pl-1 bd-stl-solid fontSize3 bg-clr-pl-22 clr-pl-7"
+                        }
+                    },
+                    "caption": {
+                        "content": "Ghansi Hospitality",
+                        "css": {
+                            "color": "font-family-raleway  font-size-4 mbr-m-0 align-center"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "container mbr-flex mbr-jc-c  flex-wrap mbr-align-item-c "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 align-center"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container"
+                        }
+                    }
+                },
+                "cat": []
+            },
+            "order": 68
+        },
+        {
+            "id": 4452,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "container mbr-flex mbr-align-item-c ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-oxygen  font-size-5 mbr-pt-1",
+                            "fontSize": "12px"
+                        },
+                        "content": "Ghansi Hospitality",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": " font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Hospitality are Ghansi Group’s most recent business foray. It was started as a vertical to cater to a growing need for Premium hotel in the country. In 2020, the Group started a project for premium boutique hotels, with more projects in the pipeline.\n\n"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-left"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "bg-clr-pl-7 mbr-p-4"
+                        }
+                    }
+                }
+            },
+            "order": 69
+        },
+        {
+            "id": 4454,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c container  bg-clr-pl-7 mbr-pt-3",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "Hotel Anandalaya",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "A perfect blissful place, aligned to meet the modern lifestyle need and wellbeing of surroundings indeed. It is an ultimate destination for a holistic wellbeing, to find your inner light, to feel a deeper sense, to dip self-exploration and a bit more sparkle.\n\n\n",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://drive.google.com/uc?id=1Cr8gp0TXqBbSi9og9pojcdMWmU7PyGb5"
+                    },
+                    "caption": {
+                        "content": "\" Uncover the spirit of Nepal \"",
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-8 align-left"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4"
+                        }
+                    }
+                }
+            },
+            "order": 70
+        },
+        {
+            "id": 4453,
+            "component": "TextV2",
+            "component_id": 61,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": " font-size-7 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                        }
+                    },
+                    "image": {
+                        "content": "https://drive.google.com/uc?id=1rgEFbWZbj8L78NHrDY1y_rl1FPe-t0n9"
+                    },
+                    "caption": {
+                        "content": "Located at Damauli, \"Anandalaya\", A radical new fusion of world class design, stunning ultra-luxurious, authentic, mythical & vibrant villa concept comprises everything under the same itinerary such as restaurants, music, yoga, Ayurveda, Vedanta, spa, and numerous healing programs & retreats. This villa has something for every member of the family to enjoy. A place where you can discover your own self-worth with healing travel & let your soul thrive, holistic lifestyle centering around the wellbeing of body, mind, and soul. Anandalaya, an absolute wellness journey where you can level up your mental, emotional, spiritual, & physical wellbeing. Our healing concierge team will guide you throughout the journey in terms of mindfulness workshop, self-compassion intensive training, meditation, nutrition, embodying self-love, lifestyle challenges, transcendental self-discovery journey, and spiritual releases.\n\nApart from having extraordinary feeling of peace and serenity, Anandalya, has a different piece of entertainment zone as well. An exquisite place for hangout and holidays having elegant room, top notch amenities, round the clock services, private pools, bars, sophisticated dining options, panoramic views & landscape, sanctuary gardens, farms and many more. \n",
+                        "css": {
+                            "color": "font-size-7 mbr-pt-1"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6 align-left  mbr-px-4"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6"
+                        }
+                    }
+                }
+            },
+            "order": 72
+        },
+        {
+            "id": 4455,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row container-fluid",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "itemInfo": {
+                        "rowCounts": "2"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "mbr-col-md-6 mbr-flex grid-row mbr-pt-5"
+                        },
+                        "inlineCss": "{ \"justifyContent\": \"space-evenly\", \"display\": \"flex\" }"
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container-fluild grid-column"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://drive.google.com/uc?id=1Vh16MKo_FB8wKBRbE8qeqnaEm3OEOM3G"
+                    },
+                    {
+                        "image": "https://drive.google.com/uc?id=1wx3j7CpM6EuiamHxRJBD-WmZaCk1fqjt"
+                    },
+                    {
+                        "image": "https://drive.google.com/uc?id=1D9XdfJKd6yyXKQGP3F8a9oI4osH9XDU1"
+                    },
+                    {
+                        "image": "https://drive.google.com/uc?id=1Sy1DOWZKGb8RZDVbxlePXgppFGoN48pK"
+                    },
+                    {
+                        "image": "https://drive.google.com/uc?id=1rgEFbWZbj8L78NHrDY1y_rl1FPe-t0n9"
+                    },
+                    {
+                        "image": "https://drive.google.com/uc?id=1WJvwDID1prIIv3767u_9MDmzPgv2jzIg"
+                    },
+                    {
+                        "image": "https://drive.google.com/uc?id=1K_XKX9mfooXzWvTKNQedDRDWoQKzc8T9"
+                    },
+                    {
+                        "image": "https://drive.google.com/uc?id=1lxSy2kJYjUjzNUNFF50kk61ijgY6p4wZ"
+                    }
+                ]
+            },
+            "order": 74
+        }
+    ]
+}
