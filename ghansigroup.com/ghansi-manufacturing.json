@@ -1,21 +1,21 @@
 {
     "data": [
         {
-            "id": 4532,
+            "id": 7221,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover mbr-flex mbr-align-item-c vh-height clr-pl-7",
+                        "color": "-mt-10 h-80 overflow-hidden",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{ \"backgroundImage\": \"linear-gradient(to bottom right,  rgb(4 1 20), rgb(202 174 174 / 0%)), url(https://drive.google.com/uc?id=124XgIw9MCYEdhJMIe9gFArRGcxbQKf-z)\" , \"margin\": \"-125px 0px -100px\", \"backgroundPosition\": \"center center\", \"min-height\": \"40vh\"}"
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 align-left ",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
                         "content": "",
@@ -25,52 +25,67 @@
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-raleway  font-size-6 mbr-pt-1"
+                            "color": ""
                         }
                     },
                     "button": {
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn bnt-lg bd-clr-pl-1 bd-stl-solid fontSize3 bg-clr-pl-22 clr-pl-7"
-                        }
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
                         "content": "",
                         "css": {
-                            "color": "font-family-raleway  font-size-4 mbr-m-0 align-center"
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com/ghansi-banner.jpeg",
+                        "link": "",
+                        "css": {
+                            "color": "w-full "
                         }
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "container mbr-flex mbr-jc-c  flex-wrap mbr-align-item-c "
+                            "color": ""
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-8 align-center"
+                            "color": ""
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container"
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
                         }
                     }
-                },
-                "cat": []
+                }
             },
-            "order": 100
+            "order": 3
         },
         {
-            "id": 4533,
+            "id": 7222,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "container mbr-flex mbr-align-item-c ",
+                        "color": "container m-auto ",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -78,122 +93,65 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-oxygen  font-size-5 mbr-pt-1",
+                            "color": "text-2xl py-2 text-blue-700",
                             "fontSize": "12px"
                         },
                         "content": "Energy/ Alternative Energy/ Renewable Energy:",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "",
+                        "content": "Dream light energy is a joint venture company from japan,  subsidiary of Ghansi Group, a supplier of electronics and electrical parts associated with solar, PCB, inverter, lighting, switch gears, power distribution & protection, wire & cable, power connection and control. We believe quality comes first and it's a foundation of long-term existence that is the reason we develop products that we believe in. We're not just only a distributor, in fact our motto is to provide customer tailored fanatical services for all their electrical supply needs, setting the standard, fulfilling changing needs of our customer, professional technical and management personnel, and keep improving our core competitiveness. \n",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                            "color": "text-slate-400 font-light py-5"
                         }
                     },
                     "button": {
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": ""
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
-                        "content": "\n"
+                        "content": "Dream Light Energy",
+                        "css": {
+                            "color": "text-2xl  py-4"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com/ghansi-conglo-1.png",
+                        "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                            "color": "grid grid-cols-12 text-left p-5 items-center"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-left"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-6"
+                            "color": "md:col-span-7  order-1 px-6"
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "bg-clr-pl-7 mbr-p-4"
-                        }
-                    }
-                }
-            },
-            "order": 101
-        },
-        {
-            "id": 4534,
-            "component": "TextV2",
-            "component_id": 61,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "mbr-flex mbr-align-item-c container  bg-clr-pl-7 mbr-pt-3",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "font-family-andada font-size-5 mbr-m-0 ",
-                            "fontSize": "12px"
+                            "color": "-mt-32 z-10  relative bg-white"
                         },
-                        "content": "Dream Light Energy",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "Dream light energy is a joint venture company from japan,  subsidiary of Ghansi Group, a supplier of electronics and electrical parts associated with solar, PCB, inverter, lighting, switch gears, power distribution & protection, wire & cable, power connection and control. We believe quality comes first and it’s a foundation of long-term existence that is the reason we develop products that we believe in. We're not just only a distributor, in fact our motto is to provide customer tailored fanatical services for all their electrical supply needs, setting the standard, fulfilling changing needs of our customer, professional technical and management personnel, and keep improving our core competitiveness. \n",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-size-7 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": "https://drive.google.com/uc?id=19AYhEqzQ03C9af7-SoF0No5CaAkkQivR"
-                    },
-                    "caption": {
-                        "content": "",
-                        "css": {
-                            "color": "font-family-andada font-size-6 mbr-m-0 "
-                        }
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-8 align-left"
-                        }
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "mbr-col-md-4"
+                            "color": "md:col-span-3  order-2 md:col-start-9"
                         }
                     }
                 }
             },
-            "order": 102
+            "order": 4
         }
     ]
 }
