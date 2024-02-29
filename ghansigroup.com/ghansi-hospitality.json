@@ -1,76 +1,13 @@
 {
     "data": [
         {
-            "id": 4451,
+            "id": 7228,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover mbr-flex mbr-align-item-c vh-height clr-pl-7",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{ \"backgroundImage\": \"linear-gradient(to bottom right,  rgb(4 1 20), rgb(202 174 174 / 0%)), url(https://drive.google.com/uc?id=1dDCU9JJ7TJZtiaVu1ybkCQe5yNGks2s3)\" , \"margin\": \"-125px 0px -100px\", \"backgroundPosition\": \"center center\", \"min-height\": \"90vh\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 align-left ",
-                            "fontSize": "12px"
-                        },
-                        "content": "",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-raleway  font-size-6 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": "btn bnt-lg bd-clr-pl-1 bd-stl-solid fontSize3 bg-clr-pl-22 clr-pl-7"
-                        }
-                    },
-                    "caption": {
-                        "content": "Ghansi Hospitality",
-                        "css": {
-                            "color": "font-family-raleway  font-size-4 mbr-m-0 align-center"
-                        }
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "container mbr-flex mbr-jc-c  flex-wrap mbr-align-item-c "
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-8 align-center"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container"
-                        }
-                    }
-                },
-                "cat": []
-            },
-            "order": 68
-        },
-        {
-            "id": 4452,
-            "component": "TextV2",
-            "component_id": 61,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "container mbr-flex mbr-align-item-c ",
+                        "color": "-mt-10 h-96 overflow-hidden",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -78,66 +15,77 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-oxygen  font-size-5 mbr-pt-1",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
-                        "content": "Ghansi Hospitality",
+                        "content": "",
                         "inlineCss": ""
                     },
                     "description": {
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": " font-size-3 mbr-pt-1"
+                            "color": ""
                         }
                     },
                     "button": {
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": ""
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Hospitality are Ghansi Group’s most recent business foray. It was started as a vertical to cater to a growing need for Premium hotel in the country. In 2020, the Group started a project for premium boutique hotels, with more projects in the pipeline.\n\n"
+                        "content": "",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-bu-3.jpeg",
+                        "link": "",
+                        "css": {
+                            "color": "w-full "
+                        }
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                            "color": ""
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-left"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-6"
+                            "color": ""
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "bg-clr-pl-7 mbr-p-4"
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
                         }
                     }
                 }
             },
-            "order": 69
+            "order": 3
         },
         {
-            "id": 4454,
+            "id": 7229,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "mbr-flex mbr-align-item-c container  bg-clr-pl-7 mbr-pt-3",
+                        "color": "container m-auto ",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -145,72 +93,157 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "color": "text-2xl py-2 text-blue-700",
+                            "fontSize": "12px"
+                        },
+                        "content": "Ghansi Hospitality",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Hospitality are Ghansi Group's most recent business foray. It was started as a vertical to cater to a growing need for Premium hotel in the country. In 2020, the Group started a project for premium boutique hotels, with more projects in the pipeline.\n",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left p-5 items-center"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-12  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "-mt-12 z-10  relative bg-white"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 4
+        },
+        {
+            "id": 7230,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
                         "content": "Hotel Anandalaya",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "A perfect blissful place, aligned to meet the modern lifestyle need and wellbeing of surroundings indeed. It is an ultimate destination for a holistic wellbeing, to find your inner light, to feel a deeper sense, to dip self-exploration and a bit more sparkle.\n\n\n",
+                        "content": "A perfect blissful place, aligned to meet the modern lifestyle need and wellbeing of surroundings indeed. It is an ultimate destination for a holistic wellbeing, to find your inner light, to feel a deeper sense, to dip self-exploration and a bit more sparkle.",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-size-7 mbr-pt-1"
+                            "color": "text-slate-400 font-light "
                         }
                     },
                     "button": {
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": "https://drive.google.com/uc?id=1Cr8gp0TXqBbSi9og9pojcdMWmU7PyGb5"
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
                         "content": "\" Uncover the spirit of Nepal \"",
                         "css": {
-                            "color": "font-family-andada font-size-6 mbr-m-0 "
-                        }
+                            "color": "text-2xl py-2"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com/ghansi-conglo-3.jpeg",
+                        "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                            "color": "grid grid-cols-12 text-left py-5 px-5 items-center"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-8 align-left"
+                            "color": "md:col-span-8  order-2 px-6"
                         }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "mbr-col-md-4"
+                            "color": "md:col-span-4  order-1"
                         }
                     }
                 }
             },
-            "order": 70
+            "order": 5
         },
         {
-            "id": 4453,
+            "id": 7231,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "mbr-flex mbr-align-item-c",
+                        "color": "bg-cover",
                         "fontSize": "12px"
                     },
-                    "inlineCss": ""
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}"
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 ",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
                         "content": "",
@@ -220,54 +253,64 @@
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": " font-size-7 mbr-pt-1"
+                            "color": ""
                         }
                     },
                     "button": {
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": "https://drive.google.com/uc?id=1rgEFbWZbj8L78NHrDY1y_rl1FPe-t0n9"
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Located at Damauli, \"Anandalaya\", A radical new fusion of world class design, stunning ultra-luxurious, authentic, mythical & vibrant villa concept comprises everything under the same itinerary such as restaurants, music, yoga, Ayurveda, Vedanta, spa, and numerous healing programs & retreats. This villa has something for every member of the family to enjoy. A place where you can discover your own self-worth with healing travel & let your soul thrive, holistic lifestyle centering around the wellbeing of body, mind, and soul. Anandalaya, an absolute wellness journey where you can level up your mental, emotional, spiritual, & physical wellbeing. Our healing concierge team will guide you throughout the journey in terms of mindfulness workshop, self-compassion intensive training, meditation, nutrition, embodying self-love, lifestyle challenges, transcendental self-discovery journey, and spiritual releases.\n\nApart from having extraordinary feeling of peace and serenity, Anandalya, has a different piece of entertainment zone as well. An exquisite place for hangout and holidays having elegant room, top notch amenities, round the clock services, private pools, bars, sophisticated dining options, panoramic views & landscape, sanctuary gardens, farms and many more. \n",
+                        "content": "Located at Damauli, \"Anandalaya\", A radical new fusion of world class design, stunning ultra-luxurious, authentic, mythical & vibrant villa concept comprises everything under the same itinerary such as restaurants, music, yoga, Ayurveda, Vedanta, spa, and numerous healing programs & retreats. This villa has something for every member of the family to enjoy. A place where you can discover your own self-worth with healing travel & let your soul thrive, holistic lifestyle centering around the wellbeing of body, mind, and soul. Anandalaya, an absolute wellness journey where you can level up your mental, emotional, spiritual, & physical wellbeing. Our healing concierge team will guide you throughout the journey in terms of mindfulness workshop, self-compassion intensive training, meditation, nutrition, embodying self-love, lifestyle challenges, transcendental self-discovery journey, and spiritual releases.\n<br/><br/>\nApart from having extraordinary feeling of peace and serenity, Anandalya, has a different piece of entertainment zone as well. An exquisite place for hangout and holidays having elegant room, top notch amenities, round the clock services, private pools, bars, sophisticated dining options, panoramic views & landscape, sanctuary gardens, farms and many more. ",
                         "css": {
-                            "color": "font-size-7 mbr-pt-1"
-                        }
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-hotel-2.jpeg",
+                        "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c"
+                            "color": "grid grid-cols-12 text-left py-20 px-5 items-center"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-6 align-left  mbr-px-4"
+                            "color": "md:col-span-6  order-2 px-6"
                         }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "mbr-col-md-6"
+                            "color": "md:col-span-6  order-1"
                         }
                     }
                 }
             },
-            "order": 72
+            "order": 6
         },
         {
-            "id": 4455,
+            "id": 7232,
             "component": "CardV2",
             "component_id": 62,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row container-fluid",
+                        "color": "",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -298,19 +341,27 @@
                     "image": {
                         "content": ""
                     },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800"
+                        }
+                    },
                     "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
                         "rowCounts": "2"
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c "
+                            "color": "flex flex-col"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-center"
+                            "color": ""
                         }
                     },
                     "imageWrap": {
@@ -325,7 +376,7 @@
                     },
                     "itemSectionWrap": {
                         "css": {
-                            "color": ""
+                            "color": "flex flex-col "
                         },
                         "inlineCss": ""
                     },
@@ -336,7 +387,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
                         }
                     },
                     "itemIconWrap": {
@@ -344,44 +395,59 @@
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "mbr-col-md-6 mbr-flex grid-row mbr-pt-5"
-                        },
-                        "inlineCss": "{ \"justifyContent\": \"space-evenly\", \"display\": \"flex\" }"
+                            "color": "md:col-span-6 col-span-6  md:mx-5 mx-2 md:my-5 my-2"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "container-fluild grid-column"
+                            "color": "container m-auto md:px-20 px-5"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto"
                         }
                     }
                 },
                 "itemList": [
                     {
-                        "image": "https://drive.google.com/uc?id=1Vh16MKo_FB8wKBRbE8qeqnaEm3OEOM3G"
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-hos-1.jpeg"
                     },
                     {
-                        "image": "https://drive.google.com/uc?id=1wx3j7CpM6EuiamHxRJBD-WmZaCk1fqjt"
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com/ghansi-hos-10.jpeg"
                     },
                     {
-                        "image": "https://drive.google.com/uc?id=1D9XdfJKd6yyXKQGP3F8a9oI4osH9XDU1"
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com/ghansi-hos-3.jpeg"
                     },
                     {
-                        "image": "https://drive.google.com/uc?id=1Sy1DOWZKGb8RZDVbxlePXgppFGoN48pK"
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com/ghansi-hos-4.jpeg"
                     },
                     {
-                        "image": "https://drive.google.com/uc?id=1rgEFbWZbj8L78NHrDY1y_rl1FPe-t0n9"
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com/ghansi-hos-8.jpeg"
                     },
                     {
-                        "image": "https://drive.google.com/uc?id=1WJvwDID1prIIv3767u_9MDmzPgv2jzIg"
-                    },
-                    {
-                        "image": "https://drive.google.com/uc?id=1K_XKX9mfooXzWvTKNQedDRDWoQKzc8T9"
-                    },
-                    {
-                        "image": "https://drive.google.com/uc?id=1lxSy2kJYjUjzNUNFF50kk61ijgY6p4wZ"
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com/ghansi-hotel-2.jpeg"
                     }
                 ]
             },
-            "order": 74
+            "order": 7
         }
     ]
 }
