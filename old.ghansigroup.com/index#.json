@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": 4401,
+            "component": "cards",
+            "component_id": 5,
+            "attributes": {
+                "flatCard": "1",
+                "itemSize": "4",
+                "cardMaxWidth": "200px",
+                "imageList": "1",
+                "itemList": [
+                    {
+                        "img": "https://drive.google.com/uc?id=1a-JBGGK94tTOz9MviWvwYc0D0VQ2X1wR"
+                    },
+                    {
+                        "img": "https://drive.google.com/uc?id=1I6Z8R7j2NxgpsPDgN66oDxHrYHbjW10K"
+                    },
+                    {
+                        "img": "https://drive.google.com/uc?id=1KFfr94LSiDi6U24vQExZ6Oqwm-LbxIM-"
+                    },
+                    {
+                        "img": "https://drive.google.com/uc?id=1T8SnjzCQyxe0UQs_6NWQ1kjcXSW7bbib"
+                    },
+                    {
+                        "img": "https://drive.google.com/uc?id=1XdKi5vOc1UtMTS-5w2re4G643b7b-nxb"
+                    }
+                ],
+                "contactInfo": [],
+                "imgAtCenter": "1",
+                "cardContainerWidth": "1000px",
+                "activateSlider": "1"
+            },
+            "order": 39
+        }
+    ]
+}
