@@ -1,165 +1,79 @@
 {
     "data": [
         {
-            "id": 4447,
+            "id": 7205,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover mbr-flex mbr-align-item-c vh-height clr-pl-7",
+                        "color": "bg-cover",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{ \"backgroundImage\": \"linear-gradient(to bottom right,  rgb(4 1 20), rgb(202 174 174 / 0%)), url(https://drive.google.com/uc?id=124XgIw9MCYEdhJMIe9gFArRGcxbQKf-z)\" , \"margin\": \"-125px 0px -100px\", \"backgroundPosition\": \"center center\", \"min-height\": \"40vh\"}"
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}"
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 align-left ",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
-                        "content": "",
+                        "content": "Introducing Ghansi Group",
                         "inlineCss": ""
                     },
                     "description": {
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-raleway  font-size-6 mbr-pt-1"
+                            "color": ""
                         }
                     },
                     "button": {
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn bnt-lg bd-clr-pl-1 bd-stl-solid fontSize3 bg-clr-pl-22 clr-pl-7"
-                        }
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
                         "content": "",
                         "css": {
-                            "color": "font-family-raleway  font-size-4 mbr-m-0 align-center"
-                        }
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi_logo.jpeg",
+                        "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "container mbr-flex mbr-jc-c  flex-wrap mbr-align-item-c "
+                            "color": "grid grid-cols-12 text-left py-20 px-5 items-center"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-8 align-center"
+                            "color": "md:col-span-6  order-2 px-6"
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container"
-                        }
-                    }
-                },
-                "cat": []
-            },
-            "order": 54
-        },
-        {
-            "id": 4436,
-            "component": "CardV2",
-            "component_id": 62,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row container-fluid",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "",
-                            "fontSize": "12px"
+                            "color": "container m-auto"
                         },
-                        "content": "",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "itemInfo": {
-                        "rowCounts": "4"
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c "
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-12 align-center"
-                        }
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
                     "imageWrap": {
                         "css": {
-                            "color": ""
+                            "color": "md:col-span-6  order-1"
                         }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": "mbr-col-md-3 mbr-flex grid-row mbr-pt-5"
-                        },
-                        "inlineCss": ""
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-6 mbr-m-0 "
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": "{\"fontSize\":\"50px\"}"
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "container-fluild grid-column"
-                        },
-                        "inlineCss": "{ \"justifyContent\": \"space-evenly\", \"display\": \"flex\" }"
                     }
-                },
-                "itemList": [
-                    {
-                        "heading": "Introducing Ghansi Group ...",
-                        "image": "https://drive.google.com/uc?id=1EBv8MwLmVWHVeWqcDQQGaE8f4MBztMFd"
-                    }
-                ]
+                }
             },
-            "order": 64
+            "order": 3
         }
     ]
 }
