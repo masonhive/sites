@@ -1,21 +1,21 @@
 {
     "data": [
         {
-            "id": 4737,
+            "id": 7266,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover mbr-flex mbr-align-item-c  clr-pl-7",
+                        "color": "-mt-10 h-80 overflow-hidden",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{ \"backgroundImage\": \"url(https://www.vrvhome.com/sites/all/themes/vrvh/images/product-banner.jpg)\" , \"margin\": \"-30px 0px 0px\", \"backgroundPosition\":\"right\", \"min-height\":\"40vh\"}"
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 align-left ",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
                         "content": "",
@@ -25,60 +25,75 @@
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-raleway  font-size-6 mbr-pt-1"
+                            "color": ""
                         }
                     },
                     "button": {
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn bnt-lg bd-clr-pl-1 bd-stl-solid fontSize3 bg-clr-pl-22 clr-pl-7"
-                        }
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
                         "content": "",
                         "css": {
-                            "color": "font-family-raleway  font-size-4 mbr-m-0 align-center"
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://www.vrvhome.com/sites/all/themes/vrvh/images/product-banner.jpg",
+                        "link": "",
+                        "css": {
+                            "color": "w-full "
                         }
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "container mbr-flex mbr-jc-c  flex-wrap mbr-align-item-c "
+                            "color": ""
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-8 align-center"
+                            "color": ""
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container"
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
                         }
                     }
-                },
-                "cat": []
+                }
             },
-            "order": 132
+            "order": 3
         },
         {
-            "id": 4671,
+            "id": 7267,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "container mbr-flex mbr-align-item-c ",
+                        "color": "bg-cover",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"maxWidth\":\"1080px\"}"
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "clr-pl-16 font-family-andada font-size-1 mbr-m-0 ",
+                            "color": "text-2xl py-2 text-blue-500",
                             "fontSize": "12px"
                         },
                         "content": " TAKING SMART AIR CONDITIONING TO A NEW LEVEL",
@@ -88,60 +103,72 @@
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                            "color": ""
                         }
                     },
                     "button": {
-                        "content": "VIEW CATALOGUE",
-                        "link": "https://drive.google.com/uc?id=1Lsdq34gGtNXtkQFj9eS7c9phzNTzJi7D",
+                        "content": "",
+                        "link": "",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": ""
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Open doors to an incredible air conditioning solution for your home by Dakin – VRV Home, that replaces multiple outdoor units of your house with a single outdoor unit. With its sleek design and the promise of the ‘Daikin advantage,’ the VRV system is highly energy efficient and suits the consumers’ design needs.  From its quiet and efficient Swing Compressor to unmatched Design Flexibility, and best-in-class Comfort, the VRV air conditioning system  lets you experience the style, power and flexibility of the Daikin’s next-gen air conditioning system. Replacing all outdoor units of your home with just a single unit, in the VRV system, the variants of indoor units like duct type and hi-wall can be connected to just one outdoor unit, giving more space to utilize with décor and furniture. This makes the system ideal for modern residential central air conditioning system.\n\nFeaturing mobile control technology to match the needs of the tech-savvy, modern users, the VRV system lets the users adjust temperature settings for each part of the airconditioned space with just a touch of a button on your cell phones. You search for the best central air conditioning system for your home ends here.",
-                        "inlineCss": ""
+                        "content": "Open doors to an incredible air conditioning solution for your home by Dakin â VRV Home, that replaces multiple outdoor units of your house with a single outdoor unit. With its sleek design and the promise of the âDaikin advantage,â the VRV system is highly energy efficient and suits the consumersâ design needs.  From its quiet and efficient Swing Compressor to unmatched Design Flexibility, and best-in-class Comfort, the VRV air conditioning system  lets you experience the style, power and flexibility of the Daikinâs next-gen air conditioning system. Replacing all outdoor units of your home with just a single unit, in the VRV system, the variants of indoor units like duct type and hi-wall can be connected to just one outdoor unit, giving more space to utilize with dÃ©cor and furniture. This makes the system ideal for modern residential central air conditioning system.\n\nFeaturing mobile control technology to match the needs of the tech-savvy, modern users, the VRV system lets the users adjust temperature settings for each part of the airconditioned space with just a touch of a button on your cell phones. You search for the best central air conditioning system for your home ends here.",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-center"
+                            "color": "md:col-span-12 order-1 px-6"
                         }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "mbr-col-md-6"
+                            "color": ""
                         }
                     }
                 }
             },
-            "order": 135
+            "order": 4
         },
         {
-            "id": 4672,
+            "id": 7268,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "mbr-flex mbr-align-item-c ",
+                        "color": "bg-blue-50",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"backgroundColor\":\"#edf5ff\",\"paddingBottom\":\"0px\"}"
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 clr-pl-16 ",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
                         "content": "VRV OUTDOOR UNIT",
@@ -151,64 +178,72 @@
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                            "color": ""
                         }
                     },
                     "button": {
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": ""
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
-                        "content": ""
+                        "content": "VRV Home replaces all the outdoor units of the house with just one outdoor unit where different styles of indoor units like duct type and hi-wall can be connected with a single outdoor unit.\n<br/><br/>\nThe trunk-shaped outdoor unit can be easily be installed on a balcony, realizing complete system installation within each floor. While the compact outdoor unit can be hanged on the wall eliminating need for floor space, which enables more useful utilisation of the space on the building rooftop.",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://www.vrvhome.com/sites/all/themes/vrvh/images/vrv-outdoor-unit.png",
+                        "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                            "color": "grid grid-cols-12 text-left py-5 px-5 items-center"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-center"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-6"
+                            "color": "md:col-span-9  order-2 px-6"
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container"
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-3  order-1"
                         }
                     }
                 }
             },
-            "order": 136
+            "order": 5
         },
         {
-            "id": 4673,
+            "id": 7279,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "  mbr-flex mbr-align-item-c  clr-pl-27",
+                        "color": "bg-blue-50",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"backgroundColor\":\"#edf5ff\",\"paddingTop\":\"0px\"}"
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-raleway font-size-4 clr-pl-22 ",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
                         "content": "",
@@ -218,87 +253,222 @@
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
+                            "color": ""
                         }
                     },
                     "button": {
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-25"
-                        }
-                    },
-                    "image": {
-                        "content": "https://www.vrvhome.com/sites/all/themes/vrvh/images/vrv-outdoor-unit.png"
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
-                        "content": "VRV Home replaces all the outdoor units of the house with just one outdoor unit where different styles of indoor units like duct type and hi-wall can be connected with a single outdoor unit.\n\nThe trunk-shaped outdoor unit can be easily be installed on a balcony, realizing complete system installation within each floor. While the compact outdoor unit can be hanged on the wall eliminating need for floor space, which enables more useful utilisation of the space on the building rooftop.",
+                        "content": "",
                         "css": {
-                            "color": "font-family-nunito  font-size-7"
-                        }
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
                     },
-                    "table": {
-                        "tableStyle": {
-                            "tableColor": "#009acf",
-                            "tableHeadColor": "#e7e7e8",
-                            "color": "#000"
-                        },
-                        "table1": {
-                            "headings": "Heat Pump Series",
-                            "tableContent": "[[\"Capacity Range\",\"4 HP (11.2 kW)\",\"5 HP (14.0 kW)\",\"6 HP (16 kW)\"]]",
-                            "tableHead": "[[\"Modal Name\", \"RXYRQ4ARV16\", \"RXYRQ5ARV16\", \"RXYRQ6ARV16\"]]"
-                        },
-                        "enableRenderTable": "1",
-                        "table2": {
-                            "headings": "Cooling Only Series",
-                            "tableHead": "[[\"Modal Name\", \"RXRQ4ARV16\", \"RXRQ5ARV16\", \"RXRQ6ARV16\"]]",
-                            "tableContent": "[[\"Capacity Range\",\"4 HP (11.2 kW)\",\"5 HP (14.0 kW)\",\"6 HP (16 kW)\"]]"
-                        }
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//Screenshot 2024-02-28 at 11.26.38.png",
+                        "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c"
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-8 align-left"
-                        },
-                        "inlineCss": "{\"padding\":\"10px\", \"width\":\"90%\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-4"
-                        },
-                        "inlineCss": ""
+                            "color": ""
+                        }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container"
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-12  order-2"
                         }
                     }
                 }
             },
-            "order": 137
+            "order": 6
         },
         {
-            "id": 4721,
+            "id": 7269,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "mbr-flex mbr-align-item-c ",
+                        "color": "",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"backgroundColor\":\"#edf5ff\",\"paddingBottom\":\"0px\"}"
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 clr-pl-16 ",
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "HEADER PACK",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Daikin innovated Next Generation of Quality and Efficiency for VRV Installation. It offers differentiated solutions in installation. It ensures quality installation with reduction of site work.\n<br/> <br/>\nAdvantage:<br/>\n- Dot Symbol Installation time saving: Up to 1 /3 of conventional method <br/>\n- Easy to Install: Hanging points available <br/>\n- Safety: Consists of flaring method, no brazing required <br/>\n- Quality Installation: Elimination of difficult process, enhancing quality Installation <br/>",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://www.vrvhome.com/sites/all/themes/vrvh/images/innovative-refrigerant-piping.png",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-20 px-5 items-center"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-1"
+                        }
+                    }
+                }
+            },
+            "order": 7
+        },
+        {
+            "id": 7280,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//Screenshot 2024-02-28 at 11.32.06.png",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-12  order-1"
+                        }
+                    }
+                }
+            },
+            "order": 8
+        },
+        {
+            "id": 7270,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-zinc-100",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
                             "fontSize": "12px"
                         },
                         "content": "VRV INDOOR UNIT",
@@ -315,250 +485,723 @@
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                            "color": ""
                         }
                     },
                     "image": {
                         "content": ""
                     },
                     "caption": {
-                        "content": ""
+                        "content": "",
+                        "css": {
+                            "color": "text-xl py-2 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "3"
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                            "color": "grid-cols-5 grid"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-center"
+                            "color": "md:col-span-3 md:col-start-2 col-span-12"
                         }
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "mbr-col-md-6"
+                            "color": ""
                         }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col "
+                        },
+                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-xl py-3"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 md:mx-10 col-span-12"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto px-20"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-center md:p-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container"
+                            "color": "container py-20 items-center m-auto md:px-0 px-5"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "px-6"
                         }
                     }
-                }
-            },
-            "order": 138
-        },
-        {
-            "id": 4720,
-            "component": "cards",
-            "component_id": 5,
-            "attributes": {
+                },
                 "itemList": [
                     {
-                        "imageWrap": "1",
-                        "cardColor": "#fff",
-                        "img": "https://www.vrvhome.com/sites/all/themes/vrvh/images/feature-1.jpg",
-                        "cat": "SLIM CEILING MOUNTED DUCK TYPE",
-                        "width": "300px",
-                        "titleMargin": "-140px 0 0 0 ",
-                        "cardOverflowMargin": "1",
-                        "titleColor": "#fff",
-                        "btnColor": "#fff",
-                        "btnBgColor": "#0e76bccc",
-                        "link": "/daikin-vrv-home-product-indoor-sim"
+                        "heading": "SLIM CEILING MOUNTED DUCK TYPE",
+                        "parseHtml": "1",
+                        "image": "https://www.vrvhome.com/sites/all/themes/vrvh/images/feature-1.jpg"
                     },
                     {
-                        "imageWrap": "1",
-                        "cardColor": "red",
-                        "cardBgColor": "#0a8355",
-                        "titleColor": "#fff",
-                        "img": "https://www.vrvhome.com/sites/all/themes/vrvh/images/feature-2.jpg",
-                        "cat": "MID STATIC PRESSURE CEILING",
-                        "width": "300px",
-                        "titleMargin": "-140px 0 0 0 ",
-                        "cardOverflowMargin": "1",
-                        "btnColor": "#fff",
-                        "btnBgColor": "#0e76bccc",
-                        "link": "/daikin-vrv-home-product-indoor-mid"
+                        "image": "https://www.vrvhome.com/sites/all/themes/vrvh/images/feature-2.jpg",
+                        "heading": "MID STATIC PRESSURE CEILING",
+                        "parseHtml": "1"
                     },
                     {
-                        "img": "https://www.vrvhome.com/sites/all/themes/vrvh/images/feature-3.jpg",
-                        "cat": "WALL MOUNTED TYPE",
-                        "titleMargin": "-140px 0 0 0 ",
-                        "cardBgColor": "#0a8355",
-                        "titleColor": "#fff",
-                        "imageWrap": "1",
-                        "cardOverflowMargin": "1",
-                        "width": "300px",
-                        "btnColor": "#fff",
-                        "btnBgColor": "#0e76bccc",
-                        "link": "/daikin-vrv-home-product-indoor-wall"
+                        "image": "https://www.vrvhome.com/sites/all/themes/vrvh/images/feature-3.jpg",
+                        "heading": "WALL MOUNTED TYPE",
+                        "parseHtml": "1"
                     }
-                ],
-                "contactInfo": [],
-                "titleColor": "#fff",
-                "imgAuthorPosition": "bottom",
-                "bgColor": "#edf5ff"
+                ]
             },
-            "order": 143
+            "order": 9
         },
         {
-            "id": 4674,
+            "id": 7271,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "mbr-flex mbr-align-item-c ",
+                        "color": "bg-cover bg-blue-100",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"backgroundColor\":\"#edf5ff\",\"paddingTop\":\"100px\",\"paddingBottom\":\"0px\"}"
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 clr-pl-16 ",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
-                        "content": "HEADER PACK",
+                        "content": "SLIM CEILING MOUNTED DUCK TYPE",
                         "inlineCss": ""
                     },
                     "description": {
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                            "color": ""
                         }
                     },
                     "button": {
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": ""
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
-                        "content": ""
+                        "content": "Slim design, quietness and static pressure switching\n<br/> <br/>\nSUITED TO USE IN DROP-CEILINGS\n<br/><br/>\nFXDRQ20PD / FXDRQ25PD / FXDRQ32PD <br/>\nOnly 700 mm in width and 23 kg in weight, this model is suitable for installation in limited spaces like drop-ceilings.\n<br/><br/>\nFXDRQ4OND / FXDRQ5OND / FXDRQ63ND<br/>\nOnly 200 mm in height, this model can be installed in rooms with as little as 240 mm depth between the drop-ceiling and ceiling slab.",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://www.vrvhome.com/sites/all/themes/vrvh/images/ceiling-mounted.jpg",
+                        "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                            "color": "grid grid-cols-12 text-left py-20 px-5 items-center"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-center"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-6"
+                            "color": "md:col-span-8  order-2 px-6"
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container"
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4  order-1"
                         }
                     }
                 }
             },
-            "order": 144
+            "order": 10
         },
         {
-            "id": 4676,
+            "id": 7272,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "   mbr-flex mbr-align-item-c bg-clr-pl-10 mbr-p-5 clr-pl-27",
+                        "color": "bg-cover bg-blue-100",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"backgroundColor\":\"#edf5ff\"}"
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-raleway font-size-7",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
-                        "content": "Daikin innovated Next Generation of Quality and Efficiency for VRV Installation. It offers differentiated solutions in installation. It ensures quality installation with reduction of site work.",
+                        "content": "Slim Ceiling Mounted Duct Type(700 mm width type)",
                         "inlineCss": ""
                     },
                     "description": {
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-oxygen  font-size-7 mbr-pt-1"
+                            "color": ""
                         }
                     },
                     "button": {
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-25"
-                        }
-                    },
-                    "image": {
-                        "content": "https://www.vrvhome.com/sites/all/themes/vrvh/images/innovative-refrigerant-piping.png"
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Advantage:\n• Dot Symbol Installation time saving: Up to 1 /3 of conventional method\n• Easy to Install: Hanging points available\n• Safety: Consists of flaring method, no brazing required\n• Quality Installation: Elimination of difficult process, enhancing quality Installation ",
+                        "content": "",
                         "css": {
-                            "color": "font-family-nunito  font-size-7"
-                        }
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
                     },
-                    "table": {
-                        "tableStyle": {
-                            "tableColor": "#009acf",
-                            "tableHeadColor": "#e7e7e8",
-                            "color": "#000"
-                        },
-                        "table1": {
-                            "headings": "Header Pack Line-UP",
-                            "tableContent": "[[\"BHF6RHP6\",\"4/5/6\",\"5 HP (14.0 kW)\",\"9.5/15.9\"],[\" \",\" \",\" \",\"(6.4/12.7)x3\"]]",
-                            "tableHead": "[[\"Modal Name\", \"HP\", \"Piping connections (Liquid/Gas mm)\", \"\"],[\"\", \"\", \"Outdoor unit side\", \"Indoor unit side\"]]"
-                        },
-                        "enableRenderTable": "1",
-                        "table2": {
-                            "headings": "",
-                            "tableHead": "",
-                            "tableContent": ""
-                        }
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-vrv-slim-700.png",
+                        "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c"
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-8 align-left"
+                            "color": "md:col-span-6  order-1 px-6"
                         }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "mbr-col-md-4"
+                            "color": "md:col-span-12  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 11
+        },
+        {
+            "id": 7273,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover bg-blue-100",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Slim Ceiling Mounted Duct Type\n(900/1,100 mm width type)",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-vrv-2.png",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-12  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-12  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 11
+        },
+        {
+            "id": 7274,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover bg-blue-100",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "<br/>\nDuring actual operation, these values are normally somewhat higher as a result of ambient conditions.\n<br/><br/>\n- Values are based on the following conditions: FXDRQ-PD: external static pressure of 10 Pa; FXDRQ-ND: external static pressure of 15 Pa.<br/>\n- External static pressure is changeable to set by the remote controller. This pressure means \"High static pressure - Standard\" (Factory setting is 10 Pa for FXDRQ-PD models and 15 Pa for FXDRQ-ND models.<br/>\n- The values of operation sound level represent those for rear-suction operation. Sound level values for bottom-suction operation can be obtained by adding 5 dB(A).",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "py-5 text-slate-400 font-light"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Specifications are based on the following conditions:\n<br/><br/>\n- Cooling: Indoor temp.: 27 DB, 19 WB, Outdoor temp.: 35 DB, Equivalent piping length: 7.5 m, Level difference: 0 m. <br/>\n- Capacity of indoor unit is only for reference. Actual capacity of indoor unit is based on the total capacity index. <br/>\n- Heating: Indoor temp.: 20 DB, Outdoor temp.: 7 DB, 6 WB, Equivalent piping length: 7.5 m, Level difference: 0 m. <br/>\n- Sound level: Anechoic chamber conversion value, measured at a point 1.5 m downward from the unit centre.\n",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-12  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 12
+        },
+        {
+            "id": 7275,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "MID STATIC PRESSURE CEILING MOUNTED DUCT TYPE",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "FXMRQ40A / FXMRQ50A / FXMRQ63A FXMRQ80A / FXMRQ100A\n<br/><br/>\nMid static pressure allows for flexible duct design all models are only 300 mm in height, an improvement over the 390 mm height of conventional models. The weight of the FXMRQ40A has been reduced from 44 kg to 28 kg. The drain pan can be detached for easy cleaning. An antibacterial treatment that uses silver ions has been applied to the drain pan, preventing the growth of slime, mould and bacteria that cause blockages and odours. Drain pump is equipped as standard accessory with 700 mm lift.",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://www.vrvhome.com/sites/all/themes/vrvh/images/mid-static-pressure-ceiling.jpg",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-8  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 13
+        },
+        {
+            "id": 7276,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Specifications are based on the following conditions:\n<br/><br/>\n- Cooling: Indoor temp.: 27 DB, 19 WB, Outdoor temp.: 35 DB, Equivalent piping length: 7.5 m, Level difference: 0 m.<br/>\n- Capacity of indoor unit is only for reference. Actual capacity of indoor unit is based on the total capacity index.<br/>\n- Heating: Indoor temp.: 20 DB, Outdoor temp.: 7 DB, 6 WB, Equivalent piping length: 7.5 m, Level difference: 0 m.<br/>\n- Sound level: Anechoic chamber conversion value, measured at a point 1.5 m downward from the unit centre.",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-vrv-cel-1.png",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-12  order-2"
                         },
                         "inlineCss": ""
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container"
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-12  order-1"
                         }
                     }
                 }
             },
-            "order": 160
+            "order": 14
+        },
+        {
+            "id": 7277,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-yellow-50",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "WALL MOUNTED TYPE",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "FXARQ20A / FXARQ25A / FXARQ32P / FXARQ4OP / FXARQ5OP / FXARQ63P\n<br/><br/>\nStylish flat panel design harmonised with your interior decor",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://www.vrvhome.com/sites/all/themes/vrvh/images/wall-mounted-type.jpg",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-8  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 15
+        },
+        {
+            "id": 7278,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-yellow-50",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-vrv-wall-1.png",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-12  "
+                        }
+                    }
+                }
+            },
+            "order": 16
         }
     ]
 }
