@@ -1,329 +1,604 @@
 {
     "data": [
         {
-            "id": 4233,
-            "component": "TextV2",
-            "component_id": 61,
+            "id": 7200,
+            "component": "CardV2",
+            "component_id": 62,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover mbr-flex mbr-align-item-c vh-height clr-pl-7",
+                        "color": "text-white relative -mt-10",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{ \"backgroundImage\": \"linear-gradient(to bottom right,  rgb(4 1 20), rgb(202 174 174 / 0%)), url(https://drive.google.com/uc?id=124XgIw9MCYEdhJMIe9gFArRGcxbQKf-z)\" , \"margin\": \"-125px 0px -100px\", \"backgroundPosition\": \"center center\", \"min-height\": \"90vh\"}"
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 align-left ",
+                            "color": "",
                             "fontSize": "12px"
                         },
                         "content": "",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "\"Build Strategic alliance to Amplify Customer Reach\"",
+                        "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-raleway  font-size-6 mbr-pt-1"
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
                         }
                     },
                     "button": {
-                        "content": "LEARN MORE",
-                        "link": "/about",
+                        "content": "",
+                        "link": "",
                         "css": {
-                            "color": "btn bnt-lg bd-clr-pl-1 bd-stl-solid fontSize3 bg-clr-pl-22 clr-pl-7"
-                        },
-                        "inlineCss": "{\"backgroundColor\":\"#1940FF\"}"
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
                     },
                     "caption": {
-                        "content": "Empowering through Diversity and Inclusion",
+                        "content": "",
                         "css": {
-                            "color": "font-family-raleway  font-size-4 mbr-m-0 align-center"
+                            "color": ""
                         }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "1",
+                        "isBanner": "1"
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "container mbr-flex mbr-jc-c  flex-wrap mbr-align-item-c "
+                            "color": ""
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-8 align-center"
+                            "color": "items-center"
                         }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "sm:hidden"
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "md:absolute z-10 bg-slate-700/60 h-full w-full items-center justify-center flex flex-col bg-sky-200  py-10 top-0"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-3xl py-3 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": ""
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "text-xl pb-10"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-start flex-col  w-3/6 items-center"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container"
+                            "color": ""
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "md:h-4/6 relative hidden lg:block"
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": "bg-indigo-700\trounded-full px-5 py-3 text-white mb-10 w-fit"
                         }
                     }
                 },
-                "cat": []
+                "itemList": [
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-banner.jpeg",
+                        "heading": "Empowering through Diversity and Inclusion",
+                        "caption": "\"Build Strategic alliance to Amplify Customer Reach\"",
+                        "button": "Learn More"
+                    }
+                ]
             },
-            "order": 13
+            "order": 2
         },
         {
-            "id": 4245,
+            "id": 7197,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "mbr-flex mbr-align-item-c bg-clr-pl-7 mbr-pt-3",
+                        "color": "bg-cover bg-zinc-50",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"backgroundColor\":\"#f8f8f8\", \"minHeight\": \"60vh\"}"
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-oxygen  font-size-5 mbr-pt-1",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
                         "content": "Our Story",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "Established in 1988, Ghansi Group began its journey as a trading Company importing textile and electronics products from Hongkong. Today claims its mark in diverse areas of business ranging from  Hospitality, Manufacturing, and Financial institutions to Tourism business,  Philanthropy being the heart of the group.  \n\nSince it's commencement, takes pride in providing leading edge innovation, optimal quality, energy efficient, and sustainable build and design for variety of customer needs and market segments. To meet the customer's objective, budget, quality edge, tailored to avail end to end solutions & services within the reasonable timings, and positive customer experience is our core priority.\n",
+                        "content": "Established in 1988, Ghansi Group began its journey as a trading Company importing textile and electronics products from Hongkong. Today claims its mark in diverse areas of business ranging from  Hospitality, Manufacturing, and Financial institutions to Tourism business,  Philanthropy being the heart of the group.  \n<br/><br/>\nSince it's commencement, takes pride in providing leading edge innovation, optimal quality, energy efficient, and sustainable build and design for variety of customer needs and market segments. To meet the customer's objective, budget, quality edge, tailored to avail end to end solutions & services within the reasonable timings, and positive customer experience is our core priority.",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-nunito  font-size-7"
-                        }
+                            "color": "text-slate-400 font-light pb-12"
+                        },
+                        "parseHtml": "1"
                     },
                     "button": {
-                        "content": "KNOW US BETTER",
+                        "content": "Know Us Better",
                         "link": "/about",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
+                            "color": "bg-yellow-700\trounded-full px-4 py-2 text-white text-base"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://drive.google.com/uc?id=1EBv8MwLmVWHVeWqcDQQGaE8f4MBztMFd"
+                        "content": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi_logo.jpeg",
+                        "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                            "color": "grid grid-cols-12 text-left py-12 px-5"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-8 align-left"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-4"
+                            "color": "md:col-span-6  order-1 px-6  col-span-12"
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container"
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-3  md:col-start-8 order-2 col-span-12 py-5"
                         }
                     }
                 }
             },
-            "order": 16
+            "order": 3
         },
         {
-            "id": 4488,
+            "id": 7198,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "mbr-flex mbr-align-item-c bg-clr-pl-7 mbr-pt-3",
+                        "color": "bg-cover bg-zinc-50",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"backgroundColor\":\"#f8f8f8\", \"minHeight\": \"60vh\"}"
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-oxygen  font-size-5 mbr-pt-1",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
                         "content": "Ghansi Business Network",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "Actively involved in the Diverse business and currently stepping to yet another venture of distribution of air solution services for world most renowned company with over 95 years of legacy “DAIKIN”. \n\n",
+                        "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-nunito  font-size-7"
+                            "color": ""
                         }
                     },
                     "button": {
-                        "content": "KNOW US BETTER",
+                        "content": "Know Us Better",
                         "link": "/ghansi-business-network",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
+                            "color": "bg-yellow-700\trounded-full px-4 py-2 text-white text-base"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Actively involved in the Diverse business and currently stepping to yet another venture of distribution of air solution services for world most renowned company with over 95 years of legacy \"DAIKIN\". \n",
+                        "css": {
+                            "color": "text-slate-400 font-light pb-12"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://drive.google.com/uc?id=1T8SnjzCQyxe0UQs_6NWQ1kjcXSW7bbib"
+                        "content": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-business-logo.png",
+                        "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column"
+                            "color": "grid grid-cols-12 text-left py-20 px-5 items-center"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-8 align-left"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-4"
+                            "color": "md:col-span-6  order-2 px-6 col-span-12"
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container"
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4  order-1 col-span-12"
                         }
                     }
                 }
             },
-            "order": 17
+            "order": 4
         },
         {
-            "id": 4400,
-            "component": "cards",
-            "component_id": 5,
+            "id": 7217,
+            "component": "CardV2",
+            "component_id": 62,
             "attributes": {
-                "flatCard": "1",
-                "itemSize": "5",
-                "cardMaxWidth": "150px",
-                "imageList": "1",
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-slate-100",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "Ghansi Group Conglomerate",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-sm py-2 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "6"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col pb-8"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col bg-white md:h-32 justify-center "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-2 mx-5 col-span-12"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5 py-20"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto px-5"
+                        }
+                    }
+                },
                 "itemList": [
                     {
-                        "img": "https://drive.google.com/uc?id=1T8SnjzCQyxe0UQs_6NWQ1kjcXSW7bbib",
-                        "link": "/ghansi-business-network"
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-business-logo.png"
                     },
                     {
-                        "img": "https://drive.google.com/uc?id=19AYhEqzQ03C9af7-SoF0No5CaAkkQivR",
-                        "link": "/ghansi-manufacturing"
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-conglo-1.png"
                     },
                     {
-                        "img": "https://drive.google.com/uc?id=1KFfr94LSiDi6U24vQExZ6Oqwm-LbxIM-",
-                        "link": "/ghansi-nepal"
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-conglo-2.jpeg"
                     },
                     {
-                        "img": "https://drive.google.com/uc?id=1Tl8u3WRkOOuqlJOLVJvv1Pt62MB0hgNU",
-                        "link": "/ghansi-hospitality"
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-conglo-3.jpeg"
                     },
                     {
-                        "img": "https://drive.google.com/uc?id=1SLMkSWK5U_A4rI80FWUL1U1Is_n2X9l5",
-                        "link": "/ghansi-education"
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-conglo-4.jpeg"
                     },
                     {
-                        "img": "https://drive.google.com/uc?id=1_Fy2jrS8mR27rtJBfzLaNMbPbrDTnYXV",
-                        "link": "/ghansi-financial-institution"
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-conglo-5.jpeg"
                     }
-                ],
-                "contactInfo": [],
-                "imgAtCenter": "1",
-                "cardContainerWidth": "1000px",
-                "activateSlider": "1",
-                "title": "Ghansi Group Conglomerate"
+                ]
             },
-            "order": 52
+            "order": 5
         },
         {
-            "id": 4435,
-            "component": "cards",
-            "component_id": 5,
+            "id": 7218,
+            "component": "CardV2",
+            "component_id": 62,
             "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-4xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "bg-indigo-700\trounded-full px-5 py-3 text-white"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Our Business Group",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "3"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid-cols-5 grid"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-3 md:col-start-2 col-span-12"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col "
+                        },
+                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-xl py-3"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4  col-span-12"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto px-20"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-center md:p-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-20 items-center m-auto md:px-0 px-5"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "px-6"
+                        }
+                    }
+                },
                 "itemList": [
                     {
-                        "imageWrap": "1",
-                        "cardColor": "#fff",
-                        "img": "https://drive.google.com/uc?id=1ZnylDWCO1u6qUtIC46q4CPKr_PTias3y",
-                        "cat": "Ghansi Business Network ",
-                        "width": "500px",
-                        "titleMargin": "-140px 0 0 0 ",
-                        "link": "/ghansi-business-network",
-                        "btnColor": "#fff",
-                        "cardOverflowMargin": "1",
-                        "titleColor": "#fff",
-                        "title": "."
+                        "heading": "Ghansi Business Network",
+                        "parseHtml": "1",
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-bu-1.jpeg"
                     },
                     {
-                        "imageWrap": "1",
-                        "cardColor": "red",
-                        "cardBgColor": "#0a8355",
-                        "titleColor": "#fff",
-                        "img": "https://drive.google.com/uc?id=1VE717uXe-71d8z_cpqSJ4CPBgYIPWkfG",
-                        "cat": "Ghansi Financial Institution",
-                        "width": "500px",
-                        "link": "/ghansi-financial-institution",
-                        "titleMargin": "-140px 0 0 0 ",
-                        "cardOverflowMargin": "1",
-                        "btnColor": "#fff",
-                        "title": "."
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-bu-2.jpeg",
+                        "heading": "Ghansi Financial Institution",
+                        "parseHtml": "1"
                     },
                     {
-                        "img": "https://drive.google.com/uc?id=1dDCU9JJ7TJZtiaVu1ybkCQe5yNGks2s3",
-                        "cat": "Ghansi Hospitality",
-                        "titleMargin": "-140px 0 0 0 ",
-                        "cardBgColor": "#0a8355",
-                        "titleColor": "#fff",
-                        "imageWrap": "1",
-                        "cardOverflowMargin": "1",
-                        "link": "/ghansi-hospitality",
-                        "width": "700px",
-                        "btnColor": "#fff",
-                        "title": "."
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-bu-3.jpeg",
+                        "heading": "Ghansi Hospitality",
+                        "parseHtml": "1"
                     },
                     {
-                        "imageWrap": "1",
-                        "img": "https://drive.google.com/uc?id=1-J0Rn_zpMSUaaTEcH_TfxbGj250TUGOK",
-                        "cat": "Ghansi Manufacturing",
-                        "titleMargin": "-140px 0 0 0 ",
-                        "cardOverflowMargin": "1",
-                        "link": "/ghansi-manufacturing",
-                        "width": "500px",
-                        "btnColor": "#fff",
-                        "titleColor": "#fff",
-                        "title": "."
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-bu-4.png",
+                        "heading": "Ghansi Manufacturing",
+                        "parseHtml": "1"
                     },
                     {
-                        "cat": "Ghansi Education",
-                        "link": "/ghansi-education",
-                        "imageWrap": "1",
-                        "cardOverflowMargin": "1",
-                        "btnColor": "#fff",
-                        "width": "500px",
-                        "img": "https://drive.google.com/uc?id=1T772fDnVsvbrMAV1onoBk_JCME5pcAhq",
-                        "titleColor": "#fff",
-                        "title": "."
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-bu-5.jpeg",
+                        "heading": "Ghansi Education",
+                        "parseHtml": "1"
                     }
-                ],
-                "contactInfo": [],
-                "titleColor": "#000",
-                "imgAuthorPosition": "bottom",
-                "title": "Our Business Group",
-                "cardPadding": "40px",
-                "bgColor": "#f8f8f8"
+                ]
             },
-            "order": 73
-        },
-        {
-            "id": 4404,
-            "component": "base",
-            "component_id": 30,
-            "attributes": {
-                "txt": "this is title",
-                "fontFamily": "Nunito",
-                "secondaryBgColor": "#1940FF"
-            },
-            "order": 92
+            "order": 6
         }
     ]
 }

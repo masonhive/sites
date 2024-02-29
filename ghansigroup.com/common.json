@@ -1,51 +1,31 @@
 {
     "data": [
         {
-            "id": 3974,
-            "component": "header",
-            "component_id": 4,
-            "attributes": {
-                "button": [
-                    {
-                        "link": "#",
-                        "cat": "Make Appointment"
-                    }
-                ],
-                "bgColor": "#a6792c",
-                "cat": [],
-                "common_component": "1",
-                "logo": "https://drive.google.com/uc?id=1EBv8MwLmVWHVeWqcDQQGaE8f4MBztMFd",
-                "logoWidth": "130px",
-                "color": "#fff"
-            },
-            "order": 2
-        },
-        {
-            "id": 4387,
-            "component": "CardV2",
-            "component_id": 62,
+            "id": 7194,
+            "component": "NavV2",
+            "component_id": 67,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row bg-clr-pl-22 clr-pl-7",
+                        "color": " shadow-sm shadow-slate-200",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"backgroundColor\":\"#1940FF\",\"padding\":\"15px 0px 0px 0px\"}"
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-oxygen  font-size-5 ",
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
                             "fontSize": "12px"
                         },
-                        "content": "",
+                        "content": "What our customers say",
                         "inlineCss": ""
                     },
                     "description": {
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                            "color": "font-family-oxygen font-size-3 mbr-pt-1"
                         }
                     },
                     "button": {
@@ -57,20 +37,52 @@
                     },
                     "image": {
                         "content": ""
+                    },
+                    "caption": {
+                        "content": "Here are some customers thought about Vigour Super Speciality Clinic and Diagnostic Centre as it is.\n\n\n"
+                    },
+                    "itemInfo": {
+                        "activateSlider": "",
+                        "rowCounts": ""
+                    },
+                    "logo": {
+                        "content": "",
+                        "logo": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi_logo.jpeg",
+                        "css": {
+                            "color": "md:h-32 z-20 relative"
+                        },
+                        "inlineCss": ""
+                    },
+                    "slogan": {
+                        "content": "",
+                        "css": {
+                            "color": "font-family-andada font-size-7"
+                        }
+                    },
+                    "hamburger": {
+                        "icon": "GiHamburgerMenu",
+                        "css": {
+                            "color": "md:hidden p-4 z-20 relative"
+                        },
+                        "smDeviceOnly": ""
+                    },
+                    "menu": {
+                        "css": {
+                            "color": " px-4 py-2 hover:border-violet-600   border-white border-b-2 ease-in duration-300 text-base flex items-center gap-1 "
+                        },
+                        "inlineCss": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
                             "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
-                        },
-                        "inlineCss": ""
+                        }
                     },
                     "contentWrap": {
                         "css": {
                             "color": "mbr-col-md-12 align-center"
-                        },
-                        "inlineCss": ""
+                        }
                     },
                     "imageWrap": {
                         "css": {
@@ -84,7 +96,7 @@
                     },
                     "itemSectionWrap": {
                         "css": {
-                            "color": ""
+                            "color": "flex align-center"
                         },
                         "inlineCss": ""
                     },
@@ -95,93 +107,274 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "font-family-andada font-size-7 mbr-m-0 "
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
                         }
                     },
                     "itemIconWrap": {
-                        "inlineCss": "{\"fontSize\":\"25px\"}"
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "mbr-col-md-4 mbr-flex grid-row"
-                        },
-                        "inlineCss": "{ \"justifyContent\": \"space-evenly\", \"display\": \"flex\"}"
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container"
-                        },
-                        "inlineCss": ""
-                    },
-                    "itemContainerWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "container grid-column"
+                            "color": "mbr-col-md-4 mbr-flex grid-row "
                         }
                     },
                     "itemCaptionWrap": {
-                        "inlineCss": "{\"padding\":\"0px\"}"
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto grid grid-cols-12 items-center  md:px-10"
+                        }
+                    },
+                    "logoWrap": {
+                        "css": {
+                            "color": "md:col-span-2  col-span-5"
+                        }
+                    },
+                    "menuWrap": {
+                        "css": {
+                            "color": "md:col-span-10 md:flex items-center md:visible text-sm flex-row-reverse "
+                        }
+                    }
+                },
+                "itemList": [],
+                "common_component": "1"
+            },
+            "order": 1
+        },
+        {
+            "id": 7195,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-blue-600 text-white",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Ghansi Group mark in diverse area of business ranging from Hospitality, Manufacturing, Financial institution to Tourism business, Philanthropy being heart of the group.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-sm"
+                        },
+                        "parseHtml": ""
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "rowCounts": "4"
+                    },
+                    "caption": {
+                        "content": "Ghansi Group",
+                        "css": {
+                            "color": "text-2xl text-yellow-400"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:col-span-3 text-left col-span-12"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": " flex flex-col items-center"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-xl text-white"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-2xl text-yellow-400"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "flex md:col-span-3 col-span-12 justify-center m-3 px-10"
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto py-8 px-2 grid grid-cols-12"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "md:col-span-9  col-span-12 text-center"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-col text-sm text-slate-300"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "css": {
+                            "color": ""
+                        }
                     }
                 },
                 "itemList": [
                     {
-                        "icon": "FaEnvelope",
+                        "caption": "info@ghansigroup.com",
+                        "parseHtml": "1",
                         "heading": "Email",
-                        "caption": "info@ghansigroup.com"
+                        "icon": "FaEnvelope"
                     },
                     {
                         "heading": "Phone",
-                        "caption": "+977 01-5902492 / +977 01-5902492\nFor corporate Enquiry : +977 9851334572",
-                        "icon": "FaPhoneVolume"
+                        "caption": "+977 01-5902492 / +977 01-5902492 <br/>\nFor corporate Enquiry : +977 9851334572",
+                        "icon": "FaPhoneAlt",
+                        "parseHtml": "1"
                     },
                     {
                         "heading": "Location",
                         "caption": "BK Bhawan, 3rd Floor, Kupandole, Lalitpur, Nepal",
                         "icon": "FaMapMarkerAlt",
-                        "link": "https://www.google.com/maps/place/27.6869544+85.3098073/@27.6869544,85.3098073,15z"
-                    }
-                ],
-                "common_component": "1"
-            },
-            "order": 207
-        },
-        {
-            "id": 3977,
-            "component": "list",
-            "component_id": 31,
-            "attributes": {
-                "contentList": [
-                    {
-                        "link1": "© All Rights Reserved. Ghansi Group"
+                        "parseHtml": "1"
                     },
                     {
-                        "socialMediaLink": "1",
-                        "fblink": "https://www.facebook.com/DaikinVRVHOME/",
-                        "linkedinlink": "-",
-                        "instagramlink": "-"
+                        "heading": "Quick Links",
+                        "caption": "<a href=\"/daikin-single-split\"> Daikin Single Split AC </a><br/>\n<a href=\"/ftht\"> Daikin Single Split FTHT Series</a><br/>\n<a href=\"/daikin-vrv-home-product\"> Daikin VRV Home </a><br/>\n<a href=\"/daikin-vrv-x\"> Daikin VRV X </a><br/>",
+                        "parseHtml": "1"
                     }
                 ],
-                "cta": [],
-                "color": "#fff",
-                "bgColor": "#1940FF",
-                "titleColor": "#fff",
-                "justifyContent": "center",
                 "common_component": "1"
             },
-            "order": 208
+            "order": 11
         },
         {
-            "id": 4117,
-            "component": "seo",
-            "component_id": 36,
+            "id": 7201,
+            "component": "TextV2",
+            "component_id": 72,
             "attributes": {
-                "txt": "SEO Text",
-                "title": "GHANSI GROUP | Hospitality, Manufacturing, Financial institution to Tourism business",
-                "description": "Ghansi Group began its journey as a trading Company importing textile and electronics product from Hongkong",
-                "keywords": "Ghansi Group ",
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-blue-600 text-white text-center",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-5xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-2xl pt-4 pb-10"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Copyright © 2024 Ghansi Group. Useful Links | Glossary | Terms of Use | Privacy Policy",
+                        "css": {
+                            "color": "text-sm "
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "col-start-3 col-span-7"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-5 items-center m-auto"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                },
                 "common_component": "1"
             },
-            "order": 209
+            "order": 11
         }
     ]
 }

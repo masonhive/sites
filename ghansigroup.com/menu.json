@@ -1,136 +1,88 @@
 {
     "data": [
         {
-            "name": "HOME",
-            "id": 430,
+            "name": "Home",
+            "id": 652,
             "parent_menu_id": null,
-            "link": "/index",
+            "link": "/",
             "child": []
         },
         {
-            "name": "COMPANIES",
-            "id": 431,
+            "name": "Companies",
+            "id": 653,
             "parent_menu_id": null,
             "link": "",
             "child": [
                 {
-                    "name": "Business Network ",
-                    "id": 461,
-                    "parent_menu_id": 431,
+                    "name": "Business Network ( DAIKIN )",
+                    "id": 655,
+                    "parent_menu_id": 653,
                     "link": "/ghansi-business-network",
-                    "child": [
-                        {
-                            "name": "Daikin",
-                            "id": 473,
-                            "parent_menu_id": 461,
-                            "link": "/ghansi-business-network",
-                            "child": []
-                        }
-                    ]
+                    "child": []
                 },
                 {
-                    "name": "Hospitality ",
-                    "id": 462,
-                    "parent_menu_id": 431,
+                    "name": "Hospitality ( Hotel Anandalaya )",
+                    "id": 661,
+                    "parent_menu_id": 653,
                     "link": "/ghansi-hospitality",
-                    "child": [
-                        {
-                            "name": "Hotel Anandalaya",
-                            "id": 469,
-                            "parent_menu_id": 462,
-                            "link": "/ghansi-hospitality",
-                            "child": []
-                        }
-                    ]
+                    "child": []
                 },
                 {
-                    "name": "Education",
-                    "id": 463,
-                    "parent_menu_id": 431,
+                    "name": "Education ( Aisogai International School )",
+                    "id": 662,
+                    "parent_menu_id": 653,
                     "link": "/ghansi-education",
-                    "child": [
-                        {
-                            "name": "Agoishi International School",
-                            "id": 470,
-                            "parent_menu_id": 463,
-                            "link": "/ghansi-education",
-                            "child": []
-                        }
-                    ]
+                    "child": []
                 },
                 {
-                    "name": "Financial Institution",
-                    "id": 464,
-                    "parent_menu_id": 431,
+                    "name": "Financial Institution ( Ghansi Saving & Coooperative )",
+                    "id": 664,
+                    "parent_menu_id": 653,
                     "link": "/ghansi-financial-institution",
-                    "child": [
-                        {
-                            "name": "Ghansi Saving and cooperatives",
-                            "id": 471,
-                            "parent_menu_id": 464,
-                            "link": "/ghansi-financial-institution",
-                            "child": []
-                        }
-                    ]
+                    "child": []
                 },
                 {
-                    "name": "Manufacturing",
-                    "id": 465,
-                    "parent_menu_id": 431,
+                    "name": "Manufacturing (Dream Light Energy )",
+                    "id": 665,
+                    "parent_menu_id": 653,
                     "link": "/ghansi-manufacturing",
-                    "child": [
-                        {
-                            "name": "Dream Light Energy",
-                            "id": 472,
-                            "parent_menu_id": 465,
-                            "link": "/ghansi-manufacturing",
-                            "child": []
-                        }
-                    ]
+                    "child": []
                 },
                 {
-                    "name": "Ghansi Nepal ",
-                    "id": 474,
-                    "parent_menu_id": 431,
+                    "name": "Ghansi Nepal",
+                    "id": 666,
+                    "parent_menu_id": 653,
                     "link": "/ghansi-nepal",
                     "child": []
                 }
             ]
         },
         {
-            "name": "ABOUT US",
-            "id": 433,
+            "name": "About Us",
+            "id": 657,
             "parent_menu_id": null,
             "link": "/about",
             "child": []
         },
         {
-            "name": "CARRERS",
-            "id": 434,
+            "name": "Carrers",
+            "id": 658,
             "parent_menu_id": null,
             "link": "/carriers",
             "child": []
         },
         {
-            "name": "MEDIA",
-            "id": 466,
+            "name": "Media",
+            "id": 659,
             "parent_menu_id": null,
-            "link": "",
-            "child": [
-                {
-                    "name": "News and Events",
-                    "id": 467,
-                    "parent_menu_id": 466,
-                    "link": "/news-and-events",
-                    "child": []
-                }
-            ]
+            "link": "/news-and-events",
+            "child": []
         },
         {
-            "name": "CONTACT US",
-            "id": 468,
+            "name": "Contact Us",
+            "id": 660,
             "parent_menu_id": null,
-            "link": "/contact",
+            "link": "/contact-us",
             "child": []
         }
     ]
