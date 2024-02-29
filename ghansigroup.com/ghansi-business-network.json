@@ -1,76 +1,13 @@
 {
     "data": [
         {
-            "id": 4450,
+            "id": 7234,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover mbr-flex mbr-align-item-c vh-height clr-pl-7",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{ \"backgroundImage\": \"linear-gradient(to bottom right,  rgb(4 1 20), rgb(202 174 174 / 0%)), url(https://drive.google.com/uc?id=1ZnylDWCO1u6qUtIC46q4CPKr_PTias3y)\" , \"margin\": \"-125px 0px -100px\", \"backgroundPosition\": \"center center\", \"min-height\": \"60vh\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 align-left ",
-                            "fontSize": "12px"
-                        },
-                        "content": "",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-raleway  font-size-6 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": "btn bnt-lg bd-clr-pl-1 bd-stl-solid fontSize3 bg-clr-pl-22 clr-pl-7"
-                        }
-                    },
-                    "caption": {
-                        "content": "Ghansi Business Network",
-                        "css": {
-                            "color": "font-family-raleway  font-size-4 mbr-m-0 align-center"
-                        }
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "container mbr-flex mbr-jc-c  flex-wrap mbr-align-item-c "
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-8 align-center"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container"
-                        }
-                    }
-                },
-                "cat": []
-            },
-            "order": 67
-        },
-        {
-            "id": 4459,
-            "component": "TextV2",
-            "component_id": 61,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "container mbr-flex mbr-align-item-c",
+                        "color": "-mt-10 h-80 overflow-hidden",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -78,66 +15,77 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-oxygen font-size-5 mbr-pt-1",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
-                        "content": "Ghansi Business Network",
+                        "content": "",
                         "inlineCss": ""
                     },
                     "description": {
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": " font-size-3 mbr-pt-1"
+                            "color": ""
                         }
                     },
                     "button": {
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btnbtn-smbd-clr-pl-1bd-stl-solidfontSize4bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": ""
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Ghansi Business Network was established in 2019 with a vision to provide world class product and services to end customer.\n\nSince 2020 we have added Daikin Brand AC to our Business Network umbrella. We are looking forward to expand with more multinational company offering exceptional products and services in near future.\n\nLet's expand the possibilities together as one family."
+                        "content": "",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com/ghansi-banner.jpeg",
+                        "link": "",
+                        "css": {
+                            "color": "w-full "
+                        }
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c flex-wrap mbr-align-item-c grid-column-reverse"
+                            "color": ""
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-left"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-6"
+                            "color": ""
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "bg-clr-pl-7 mbr-p-4"
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
                         }
                     }
                 }
             },
-            "order": 75
+            "order": 4
         },
         {
-            "id": 4460,
+            "id": 7235,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "mbr-flex mbr-align-item-c container  bg-clr-pl-7 mbr-pt-3",
+                        "color": "container m-auto ",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -145,58 +93,149 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-oxygen  font-size-5 mbr-pt-1",
+                            "color": "text-2xl py-2 text-blue-700",
+                            "fontSize": "12px"
+                        },
+                        "content": "Ghansi Business Network",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Ghansi Business Network was established in 2019 with a vision to provide world class product and services to end customer.\n\nSince 2020 we have added Daikin Brand AC to our Business Network umbrella. We are looking forward to expand with more multinational company offering exceptional products and services in near future.\n\nLet's expand the possibilities together as one family.",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left p-5 items-center"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-10  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "-mt-32 z-10  relative bg-white"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 5
+        },
+        {
+            "id": 7236,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
                         "content": "Daikin",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "Since its founding in Osaka in 1924, Daikin has expanded business focused primarily on air conditioning to over 160 countries. Aiming to help solve social and community problems and grow business, Daikin strives to meet expectations and maintain trust worldwide as a global company that supports human health and comfort while creating new value for air and the environment.\nThe essence of our existence, is to identify and realize our customers' future needs and dreams, even those that they themselves may not yet be aware of. We can accomplish this goal by paying careful attention to changes in social trends and conducting extensive marketing to win the hearts and minds of customers. It is essential that we offer customers optimum convenience and comfort that are always one step ahead of our competitors by providing customers with the highest quality products, materials, and services for which we, as a manufacturer, will be absolutely responsible. Moreover, we will continue offering products and services that provide customers with fresh excitement and continued enjoyment.\n",
+                        "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "  font-size-7 mbr-pt-1"
+                            "color": ""
                         }
                     },
                     "button": {
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Since its founding in Osaka in 1924, Daikin has expanded business focused primarily on air conditioning to over 160 countries. Aiming to help solve social and community problems and grow business, Daikin strives to meet expectations and maintain trust worldwide as a global company that supports human health and comfort while creating new value for air and the environment. \n<br/><br/>\nThe essence of our existence, is to identify and realize our customers' future needs and dreams, even those that they themselves may not yet be aware of. We can accomplish this goal by paying careful attention to changes in social trends and conducting extensive marketing to win the hearts and minds of customers. It is essential that we offer customers optimum convenience and comfort that are always one step ahead of our competitors by providing customers with the highest quality products, materials, and services for which we, as a manufacturer, will be absolutely responsible. Moreover, we will continue offering products and services that provide customers with fresh excitement and continued enjoyment.",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
                     },
                     "image": {
-                        "content": "https://drive.google.com/uc?id=1vQJr9umIOHNgNj3iKJ5dL_7YZJW0RadK"
+                        "content": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//daikin-1.gif",
+                        "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-6 align-left"
+                            "color": "md:col-span-6  order-1 px-6"
                         }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "mbr-col-md-6"
+                            "color": "md:col-span-6  order-2"
                         }
                     }
                 }
             },
-            "order": 76
+            "order": 6
         },
         {
-            "id": 4474,
+            "id": 7238,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "container mbr-flex mbr-align-item-c ",
+                        "color": "bg-cover",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -204,61 +243,74 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-andada font-size-4 mbr-m-0 ",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
                         "content": "Daikin Single Split",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "Get the best-in-class air conditioner experience with split air conditioners by Daikin. Loaded with amazing features, exceptional heating and cooling performance, and great energy-saving technology, our air conditioners level up the decor of your place wonderfully. Moreover, they come with 5 years warranty on Inverter Compressor which means complete peace of mind. ",
+                        "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-size-7 mbr-pt-1"
+                            "color": ""
                         }
                     },
                     "button": {
-                        "content": "READ MORE",
+                        "content": "View In Detail",
                         "link": "/daikin-single-split",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": "https://www.daikinindia.com/sites/default/files/salient-features/ftht35-img.png"
+                            "color": "bg-yellow-700\trounded-full px-4 py-2 text-white text-base"
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
-                        "content": ""
+                        "content": "Get the best-in-class air conditioner experience with split air conditioners by Daikin. Loaded with amazing features, exceptional heating and cooling performance, and great energy-saving technology, our air conditioners level up the decor of your place wonderfully. Moreover, they come with 5 years warranty on Inverter Compressor which means complete peace of mind. ",
+                        "css": {
+                            "color": "text-slate-400 font-light py-5"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://www.daikinindia.com/sites/default/files/salient-features/ftht35-img.png",
+                        "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-6 align-left"
+                            "color": "md:col-span-6  order-1 px-6"
                         }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "mbr-col-md-6"
+                            "color": "md:col-span-6  order-2"
                         }
                     }
                 }
             },
-            "order": 78
+            "order": 7
         },
         {
-            "id": 4472,
+            "id": 7237,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "mbr-flex mbr-align-item-c",
+                        "color": "bg-cover",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -266,63 +318,74 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 ",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
                         "content": "Daikin VRV Home",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "Daikin VRV HOME  is an air-conditioning solution which packages engineering and luxury together. An ideal solution to make your home a comfortable place according to your needs without covering much space. Unlike any traditional split air conditioning solution, it does not need dedicated outdoor unit with each indoor unit, but a single outdoor unit controls multiple indoor unit instead. It does not only provide energy efficiency but utilizes space efficiently too and gives no hassle during installation, which make it the\n",
+                        "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": " font-size-7 mbr-pt-1"
+                            "color": ""
                         }
                     },
                     "button": {
-                        "content": "READ MORE",
+                        "content": "View In Detail",
                         "link": "/daikin-vrv-home",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
+                            "color": "bg-yellow-700\trounded-full px-4 py-2 text-white text-base"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Daikin VRV HOME  is an air-conditioning solution which packages engineering and luxury together. An ideal solution to make your home a comfortable place according to your needs without covering much space. Unlike any traditional split air conditioning solution, it does not need dedicated outdoor unit with each indoor unit, but a single outdoor unit controls multiple indoor unit instead. It does not only provide energy efficiency but utilizes space efficiently too and gives no hassle during installation, which make it the...",
+                        "css": {
+                            "color": "text-slate-400 font-light py-5"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://www.vrvhome.com/sites/all/themes/vrvh/images/home-3rd-blog.jpg"
+                        "content": "https://www.vrvhome.com/sites/all/themes/vrvh/images/home-3rd-blog.jpg",
+                        "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c"
+                            "color": "grid grid-cols-12 text-left py-20 px-5 items-center"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-6 align-left"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-6"
+                            "color": "md:col-span-8  order-2 px-6"
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container"
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4  order-1"
                         }
                     }
                 }
             },
-            "order": 84
+            "order": 8
         },
         {
-            "id": 6860,
+            "id": 7239,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "container mbr-flex mbr-align-item-c ",
+                        "color": "bg-cover",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -330,63 +393,265 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-oxygen  font-size-5 mbr-pt-1",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
                         "content": "Daikin VRV X",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "The daikin VRV X system has been embraced by the world markets for over three decades. Now, we at daikin introduce the next generation VRV X system to reinforce our industry leadership. The system now offers an enhanced line-up to meet an ever widening variety of needs, while improving energy savings, comfort and ease of installation.\n\nThe VRV X is the most advanced airconditioning system in the world and is ideal for large and small spaces.",
+                        "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-nunito  font-size-7"
+                            "color": ""
                         }
                     },
                     "button": {
-                        "content": "READ MORE",
+                        "content": "View In Detail",
                         "link": "/daikin-vrv-x",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
+                            "color": "bg-yellow-700\trounded-full px-4 py-2 text-white text-base"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "The daikin VRV X system has been embraced by the world markets for over three decades. Now, we at daikin introduce the next generation VRV X system to reinforce our industry leadership. The system now offers an enhanced line-up to meet an ever widening variety of needs, while improving energy savings, comfort and ease of installation.\n\nThe VRV X is the most advanced airconditioning system in the world and is ideal for large and small spaces.",
+                        "css": {
+                            "color": "text-slate-400 font-light py-6"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://www.daikinindia.com/sites/default/files/product%20logo/vrv-product-img_0.png"
+                        "content": "https://www.daikinindia.com/sites/default/files/product%20logo/vrv-product-img_0.png",
+                        "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-8 align-left"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "mbr-col-md-4"
+                            "color": "md:col-span-6  order-1 px-6"
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container"
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
                         }
                     }
                 }
             },
-            "order": 85
+            "order": 9
         },
         {
-            "id": 4462,
-            "component": "TextV2",
-            "component_id": 61,
+            "id": 7241,
+            "component": "CardV2",
+            "component_id": 62,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "",
+                        "color": "text-center",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-5 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "Testimonials",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "bg-indigo-700\trounded-full px-5 py-3 text-white"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Look no further for proof of our exceptional service\n than the following testimonials from satisfied students",
+                        "css": {
+                            "color": "text-lg py-2 text-slate-700"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "3"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col bg-indigo-500 text-stone-100 rounded-lg text-sm md: m-0 my-5 flex items-center pt-4"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-light text-base"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}",
+                        "css": {
+                            "color": "text-yellow-500 pt-4 pl-4 w-full"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 col-span-12 md:mx-5"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left py-3 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-10 py-4"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:p-5 p-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto md:px-5 px-10"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "rounded-full overflow-hidden h-32 w-32"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "I was in dilemma about choosing the AC brands, then my friend recommended to go for Daikin and acknowledged me about the technology and its legacy. I kept 4 numbers indoors and one 4HP outdoor unit Daikin VRV Home at my office which is working so smoothly without any hassle so far. I would definitely recommend everyone to go with Daikin.\n\n",
+                        "icon": "FaQuoteLeft",
+                        "caption": "Mr. Niraj Rai <br/>\nCEO <br/>\nAwarded international Education Pvt Ltd <br/>",
+                        "parseHtml": "1",
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//dikin-t-1.jpeg"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//daikini-t-2.jpeg",
+                        "heading": "I always feel grateful for choosing Daikin AC for my restaurant  located at  Kupandole  I've never experienced any issues and complains about this product. Daikin is always my first choice and I'm satisfied enough with the qualities and services\"",
+                        "caption": "Mr. Jyoti Nakarmi <br/>\nManaging Director <br/>\nJulies Cakes & Pastries <br/>",
+                        "icon": "FaQuoteLeft",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//daikin-t-.jpeg",
+                        "heading": "Installed a very trust worthen world's best AC brand \"Daikin\" at my home, found it very pleasing and promising with the looks and their functions. Meets all expectations. Compressor Noise level is Lower than my former unit. Overall very satisfied.",
+                        "caption": "Mr. Deepeksha Rana <br/>\nGeneral Manager <br/>\nLabim Mall <br/>",
+                        "icon": "FaQuoteLeft",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-dinesh.jpeg",
+                        "heading": "There is one very similar trait between us and Daikin. Both of us believe in offering the best to our customers. And thatâs why we opted for Daikin VRV Home System. It is Flexible, Smart and Optimal Solution with best energy efficiency. \n",
+                        "caption": "Mr. Dinesh Poudyal<br/>\nGeneral Manager<br/>\nAnnapurna Cable Car Pvt Ltd , Pokhara",
+                        "icon": "FaQuoteLeft",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "Very Satisfied with Product Performance of  Daikin Split Air Conditioner, works great. Installation was very much on time and clean.. Highly Recommend. \n",
+                        "caption": "Professor<br/>\n- Dr.(P. ENG) Bharat Raj Pahari <br/>\nChairman   <br/>\nSwiss International Hotel Sarowar, Pokhara",
+                        "icon": "FaQuoteLeft",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "We are delighted to install Daikin VRV home air conditioning system in STR advertisement Pvt Ltd corporate office United world center Tripureswor . \nMore than satisfied with the machines outstanding performance. It has been reliable and easy to use. It runs very quiet and make room pretty cool. ",
+                        "caption": "Mr. Sandip Hirachan<br/>\nChairman<br/>\nSTR Advertisement Pvt Ltd",
+                        "icon": "FaQuoteLeft",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "\nWe chose Daikin VRV Home series for our Cooperative located in Sankata, Kathmandu. The brand embracing more than 95 years of legacy with product excellence and services. Daikin will always remain in our preference and would recommend to go forever with Daikin without any hesitation.\n\n",
+                        "caption": "Mr. Prem Bahadur Ranabhat<br/>\nCEO<br/>\nBhudeo Multipurpose Cooperative Ltd",
+                        "icon": "FaQuoteLeft",
+                        "parseHtml": "1",
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-prem.jpeg"
+                    },
+                    {
+                        "heading": "I Decided to Install Daikin VRV Home Series at my apartment, placed 5 Indoor unit with 6HP outdoor unit and it covered entire flat properly. The best part is energy efficiency , design parts are so plausible, with occupying minimal Area \n",
+                        "caption": "Mr. Suresh Man Shakya<br/>\nGahana Palace<br/>\nNew Road  ",
+                        "icon": "FaQuoteLeft",
+                        "parseHtml": "1"
+                    }
+                ]
+            },
+            "order": 9
+        },
+        {
+            "id": 7242,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -394,7 +659,7 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-andada font-size-1 mbr-m-0 ",
+                            "color": "",
                             "fontSize": "12px"
                         },
                         "content": "",
@@ -411,170 +676,113 @@
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
+                            "color": ""
                         }
                     },
                     "image": {
-                        "content": "https://drive.google.com/uc?id=1NX4k780YWnEpVthjYSOJduu9Vhcv98Ob"
+                        "content": ""
                     },
                     "caption": {
-                        "content": ""
+                        "content": "Our Customers",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "4"
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": ""
+                            "color": "flex flex-col"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-center"
+                            "color": ""
                         }
                     },
                     "imageWrap": {
                         "css": {
                             "color": ""
                         }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-3 col-span-6  md:mx-5 mx-2 md:my-5 my-2"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto"
+                        }
                     }
-                }
-            },
-            "order": 86
-        },
-        {
-            "id": 4480,
-            "component": "cards",
-            "component_id": 5,
-            "attributes": {
-                "title": "Testimonials",
+                },
                 "itemList": [
                     {
-                        "width": "200px",
-                        "imageWrap": "1",
-                        "display": "flex",
-                        "borderRadius": "50%",
-                        "title": "- Dr.(P. ENG) Bharat Raj Pahari ",
-                        "subHeading": "Professor",
-                        "caption": "Very Satisfied with Product Performance of  Daikin Split Air Conditioner, works great. Installation was very much on time and clean.. Highly Recommend. \n\nChairman   \nSwiss International Hotel Sarowar, Pokhara",
-                        "contentWidth": "850px",
-                        "img": "https://drive.google.com/uc?id=1WzzMnppU6TD0IDv6mBgcojRAeLqS6a0T"
+                        "image": "https://www.hotelhimalayanglacier.com/images/preference/izdjw-Logo.png"
                     },
                     {
-                        "title": "Mr. Sandip Hirachan",
-                        "caption": "We are delighted to install Daikin VRV home air conditioning system in STR advertisement Pvt Ltd corporate office United world center Tripureswor . \nMore than satisfied with the machines outstanding performance. It has been reliable and easy to use. It runs very quiet and make room pretty cool. \n\nChairman\nSTR Advertisement Pvt Ltd",
-                        "width": "200px",
-                        "borderRadius": "50%"
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//daikin-c-1.jpeg"
                     },
                     {
-                        "title": "Mr. Prem Bahadur Ranabhat",
-                        "caption": "We chose Daikin VRV Home series for our Cooperative located in Sankata, Kathmandu. The brand embracing more than 95 years of legacy with product excellence and services. Daikin will always remain in our preference and would recommend to go forever with Daikin without any hesitation.\n\nCEO\nBhudeo Multipurpose Cooperative Ltd",
-                        "width": "200px",
-                        "borderRadius": "50%",
-                        "img": "https://drive.google.com/uc?id=1EwnoQe18vwZeo2xEP5kq_eoULckMV_tU"
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//daikin-c-2.png"
                     },
                     {
-                        "title": "Mr. Suresh Man Shakya",
-                        "caption": "I Decided to Install Daikin VRV Home Series at my apartment, placed 5 Indoor unit with 6HP outdoor unit and it covered entire flat properly. The best part is energy efficiency , design parts are so plausible, with occupying minimal Area \n\nGahana Palace\nNew Road  ",
-                        "width": "200px",
-                        "borderRadius": "50%"
-                    },
-                    {
-                        "title": "Mr. Niraj Rai",
-                        "caption": "I was in dilemma about choosing the AC brands, then my friend recommended to go for Daikin and acknowledged me about the technology and its legacy. I kept 4 numbers indoors and one 4HP outdoor unit Daikin VRV Home at my office which is working so smoothly without any hassle so far. I would definitely recommend everyone to go with Daikin.\n\nCEO\nAwarded international Education Pvt Ltd",
-                        "width": "200px",
-                        "borderRadius": "50%",
-                        "img": "https://drive.google.com/uc?id=1f-Ld0pQXLsPTF8_1WV8CQA_l1j4VeJ0n"
-                    },
-                    {
-                        "title": "Mr. Jyoti Nakarmi",
-                        "caption": "\"I always feel grateful for choosing Daikin AC for my restaurant  located at  Kupandole  I've never experienced any issues and complains about this product. Daikin is always my first choice and I'm satisfied enough with the qualities and services\"\n\nManaging Director\nJulies Cakes & Pastries",
-                        "width": "200px",
-                        "borderRadius": "50%",
-                        "img": "https://drive.google.com/uc?id=1ya3A7SX0iW14X-zRQIWKoEpaaxXroFDp"
-                    },
-                    {
-                        "title": "Mr. Deepeksha Rana",
-                        "caption": "Installed a very trust worthen world's best AC brand \"Daikin\" at my home, found it very pleasing and promising with the looks and their functions. Meets all expectations. Compressor Noise level is Lower than my former unit. Overall very satisfied.\n\nGeneral Manager\nLabim Mall",
-                        "width": "200px",
-                        "borderRadius": "50%",
-                        "img": "https://drive.google.com/uc?id=1Voon3evDECmMzwYd_gQ8S9DStQH0bgVf"
-                    },
-                    {
-                        "title": "Mr. Dinesh Poudyal",
-                        "caption": "There is one very similar trait between us and Daikin. Both of us believe in offering the best to our customers. And that’s why we opted for Daikin VRV Home System. It is Flexible, Smart and Optimal Solution with best energy efficiency. \n\nGeneral Manager\nAnnapurna Cable Car Pvt Ltd , Pokhara",
-                        "width": "200px",
-                        "borderRadius": "50%",
-                        "img": "https://drive.google.com/uc?id=1aiqumVPmJDsvK9Mc4DStSzbfQiCG1Rje"
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-t-4.png"
                     }
-                ],
-                "alignImg": "left",
-                "alignContent": "column-left",
-                "ContentMaxWidth": "500px",
-                "justifyContent": "space-evenly",
-                "imageMaxWidth": "400px",
-                "activateSlider": "1",
-                "itemSize": "1",
-                "contactInfo": [],
-                "cardContentAlign": "column-reverse",
-                "display": "flex",
-                "imgAuthorPosition": "bottom",
-                "flatCard": "1",
-                "autoPlay": "1"
+                ]
             },
-            "order": 87
-        },
-        {
-            "id": 4479,
-            "component": "cards",
-            "component_id": 5,
-            "attributes": {
-                "flatCard": "1",
-                "itemSize": "4",
-                "cardMaxWidth": "200px",
-                "imageList": "1",
-                "itemList": [
-                    {
-                        "img": "https://drive.google.com/uc?id=1t15jGFYSzx2yvLyG5sJ-xRkk8rUBh26S"
-                    },
-                    {
-                        "img": "https://drive.google.com/uc?id=1jn9e9jQ3CM4RuqPjjzp8wI8Vf1ahm1Wx"
-                    },
-                    {
-                        "img": "https://drive.google.com/uc?id=1IksU6npSNiv0mH4ZkjHcZBNTl5kF0_ij"
-                    },
-                    {
-                        "img": "http://www.hotelhimalayanglacier.com/images/preference/izdjw-Logo.png"
-                    },
-                    {
-                        "img": "https://drive.google.com/uc?id=1s6JOlVfQwFZ736nWYWAOYkgBJdn1P80l"
-                    },
-                    {
-                        "img": "https://drive.google.com/uc?id=1kIbqcA2kthFkpvlRAvKYu2Dmxz4IqfbP"
-                    },
-                    {
-                        "img": "https://drive.google.com/uc?id=1Ka3hNcyKIX1VFLkIlgBQcn7RK2RrwHBE"
-                    },
-                    {
-                        "img": "https://drive.google.com/uc?id=1Zx2qk2HuYyALTQJc9by8V1_MFNqZt0zj"
-                    },
-                    {
-                        "img": "https://drive.google.com/uc?id=1ohMpL25wOMtkvgJxJ5iEAqrYvynBC6pK"
-                    },
-                    {
-                        "img": "https://drive.google.com/uc?id=1yVxIUO84tYx3K-T7piXFsL6l2bW-AGhZ"
-                    },
-                    {
-                        "img": "https://drive.google.com/uc?id=1JSnbsTzuz17mrXRLxBhv5Hmjwl3QW2we"
-                    }
-                ],
-                "contactInfo": [],
-                "imgAtCenter": "1",
-                "cardContainerWidth": "1000px",
-                "activateSlider": "1",
-                "color": "#000",
-                "title": "Our Customers"
-            },
-            "order": 88
+            "order": 10
         }
     ]
 }
