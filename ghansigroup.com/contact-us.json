@@ -1,0 +1,259 @@
+{
+    "data": [
+        {
+            "id": 7204,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-white relative -mt-10",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+0288d1(85.3098073,27.6869544)/85.3098073,27.6869544,15,0,0/1000x500@2x?access_token=pk.eyJ1IjoiYW1kYWlyaXMiLCJhIjoiY2tsMXhnZzRyMDR0ajJwbW5xcHBtNzlwNiJ9.Rmey9ZADzy2TLF6phscN0Q",
+                        "link": "",
+                        "css": {
+                            "color": "w-full "
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 4
+        },
+        {
+            "id": 7202,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Contact Us",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "For Bussiness Queries <br/><br/>\n  + 977 01 - 5902492 / + 977 01 - 5902493, info@ghansigroup.com\n<br/><br/>\nFor Service Queries\n<br/><br/>\n  +977 9801384936, service@ghansigroup.com",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//ghansi-contact.png",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-1"
+                        }
+                    }
+                }
+            },
+            "order": 5
+        },
+        {
+            "id": 7203,
+            "component": "FunnelV2",
+            "component_id": 73,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "container m-auto py-12 md:px-48",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "textContainerLayout": [
+                        {
+                            "name": "css",
+                            "keys": [
+                                "color"
+                            ]
+                        },
+                        "inlineCss",
+                        "id"
+                    ],
+                    "form": {
+                        "id": "enquiry",
+                        "type": "enquiry",
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}"
+                    },
+                    "formHeading": {
+                        "content": "For Enquires",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "inlineCss": ""
+                    },
+                    "formButton": {
+                        "content": "Send Message",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                },
+                "wrapper": {
+                    "inputWrap": {
+                        "css": {
+                            "color": "text-start"
+                        }
+                    }
+                },
+                "formInputs": [
+                    {
+                        "id": "name",
+                        "label": "Full Name",
+                        "placeholder": "Enter Your Full Name",
+                        "required": "1"
+                    },
+                    {
+                        "id": "email",
+                        "label": "Email Address",
+                        "placeholder": "Enter Your Email"
+                    },
+                    {
+                        "id": "phone",
+                        "label": "Phone Number",
+                        "placeholder": "Phone"
+                    },
+                    {
+                        "id": "subject",
+                        "label": "Subject",
+                        "placeholder": "Subject"
+                    },
+                    {
+                        "id": "message",
+                        "type": "textarea",
+                        "label": "Enter Your Message",
+                        "placeholder": "Enter Your Message"
+                    }
+                ]
+            },
+            "order": 6
+        }
+    ]
+}
