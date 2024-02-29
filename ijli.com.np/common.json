@@ -1,43 +1,157 @@
 {
     "data": [
         {
-            "id": 6291,
-            "component": "list",
-            "component_id": 31,
+            "id": 7163,
+            "component": "CardV2",
+            "component_id": 62,
             "attributes": {
-                "contentList": [
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-blue-700 text-white",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-row items-center md:justify-center justify-start my-2"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-sm"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-xl px-3"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 md:mx-5 col-span-12 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto px-5 md:px-0"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:items-center md:justify-center flex "
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container items-center m-auto "
+                        }
+                    }
+                },
+                "itemList": [
                     {
-                        "link1": "Call : 01- 5425109, 01-5455948, 9851097108, 9841342668\n"
+                        "heading": "Call : 01- 5425109, 01-5455948, 9851097108, 9841342668"
                     },
                     {
-                        "link1": "Kumaripati, Lalitpur /\n\nSpecified Skilled Worker (i) 特定技能者"
+                        "heading": "Kumaripati, Lalitpur / Specified Skilled Worker "
                     },
                     {
-                        "socialMediaLink": "1",
-                        "fblink": "https://www.facebook.com/ijlionly1",
-                        "instagramlink": "https://www.instagram.com",
-                        "tiktoklink": "https://www.tiktok.com",
-                        "linkedinlink": "https://www.linkedin.com"
+                        "heading": "Email: info@ijli.com.np"
                     }
                 ],
-                "cta": [],
-                "bgColor": "#013ebd",
-                "color": "#fff",
                 "common_component": "1"
             },
-            "order": 3
+            "order": 1
         },
         {
-            "id": 6292,
+            "id": 7164,
             "component": "NavV2",
             "component_id": 67,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row",
+                        "color": " shadow-sm shadow-slate-200",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"background\":\"#fff\"}"
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                 },
                 "keyComponents": {
                     "heading": {
@@ -69,36 +183,35 @@
                         "content": "Here are some customers thought about Vigour Super Speciality Clinic and Diagnostic Centre as it is.\n\n\n"
                     },
                     "itemInfo": {
-                        "activateSlider": "1",
-                        "rowCounts": "3"
+                        "activateSlider": "",
+                        "rowCounts": ""
                     },
                     "logo": {
-                        "content": "",
-                        "logo": "https://drive.google.com/uc?id=1cPh1BcKe1WyNxOV8KfoRjzSFc_KO1oeZ",
+                        "content": "Innovative Japanese Language Institute",
+                        "logo": "",
                         "css": {
-                            "color": "font-family-montserrat  font-size-6 mbr-pt-1"
+                            "color": "py-4"
                         },
-                        "inlineCss": "{\"color\":\"#013ebd\", \"fontWeight\":\"600\", \"fontSize\":\"18px\",\"width\":\"80px\"}"
+                        "inlineCss": ""
                     },
                     "slogan": {
-                        "content": "Innovative Japanese Langauge Institute",
+                        "content": "",
                         "css": {
-                            "color": "font-size-6 mbr-pt-1"
-                        },
-                        "inlineCss": "{\"color\":\"#013ebd\", \"fontWeight\":\"600\"}"
+                            "color": "font-family-andada font-size-7"
+                        }
                     },
                     "hamburger": {
-                        "icon": "GiHamburgerMenu",
+                        "icon": "FaBars",
                         "css": {
-                            "color": "font-size-5"
+                            "color": "md:hidden p-4 z-20 relative"
                         },
                         "smDeviceOnly": ""
                     },
                     "menu": {
                         "css": {
-                            "color": "font-size-7"
+                            "color": " px-4 py-2 hover:border-blue-600   border-white border-b-2 ease-in duration-300 text-sm flex items-center gap-1"
                         },
-                        "inlineCss": "{\"fontWeight\":\"500\"}"
+                        "inlineCss": ""
                     }
                 },
                 "wrapper": {
@@ -124,7 +237,7 @@
                     },
                     "itemSectionWrap": {
                         "css": {
-                            "color": "flex align-center mbr-col-md-2"
+                            "color": "flex align-center"
                         },
                         "inlineCss": ""
                     },
@@ -153,53 +266,47 @@
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "flex grid-column"
+                            "color": "md:col-span-2 flex items-center md:col-start-11  col-span-6 md:flex-row-reverse gap-1"
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container"
+                            "color": "container m-auto grid grid-cols-12 items-center pt-3 md:px-10 px-5"
                         }
                     },
                     "logoWrap": {
                         "css": {
-                            "color": "mbr-col-md-4 "
-                        },
-                        "inlineCss": "{\"display\":\"flex\", \"justifyContent\":\"center\", \"alignItems\":\"center\"}"
+                            "color": "md:col-span-3  col-span-5 text-xl text-blue-700"
+                        }
                     },
                     "menuWrap": {
                         "css": {
-                            "color": "mbr-col-md-8"
+                            "color": "md:col-span-7 md:flex items-center md:visible text-sm flex-row-reverse"
                         }
                     }
                 },
-                "itemList": [],
+                "itemList": [
+                    {
+                        "content": "Connect With Us",
+                        "css": "bg-blue-700\trounded-full px-4 py-1 text-white text-base",
+                        "link": "/contact-us"
+                    }
+                ],
                 "common_component": "1"
             },
-            "order": 4
+            "order": 2
         },
         {
-            "id": 6293,
-            "component": "base",
-            "component_id": 30,
-            "attributes": {
-                "fontFamily": "karma",
-                "primaryFontColor": "#013ebd",
-                "common_component": "1"
-            },
-            "order": 104
-        },
-        {
-            "id": 6295,
+            "id": 7171,
             "component": "CardV2",
             "component_id": 62,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "mbr-flex mbr-align-item-c bg-cover grid-row",
+                        "color": "bg-blue-900 text-white",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"background\":\"#053088cf\", \"color\":\"#ececec\"}"
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                 },
                 "keyComponents": {
                     "heading": {
@@ -211,11 +318,12 @@
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "",
+                        "content": "IJLI is one of the best institutes with a higher success rate for student visas to study in Japan. Be confident and move the first step on joining us to achieve your dream to study in Japan.\n",
                         "inlineCss": "",
                         "css": {
                             "color": "font-family-oxygen  font-size-3 mbr-pt-1"
-                        }
+                        },
+                        "parseHtml": "1"
                     },
                     "button": {
                         "content": "",
@@ -228,13 +336,19 @@
                         "content": ""
                     },
                     "itemInfo": {
-                        "rowCounts": "4"
+                        "rowCounts": "3"
+                    },
+                    "caption": {
+                        "content": "Innovative Japanese Language Institute ( IJLI )",
+                        "css": {
+                            "color": "text-xl pb-4"
+                        }
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c "
+                            "color": "md:col-span-2 text-left col-span-12"
                         }
                     },
                     "contentWrap": {
@@ -265,56 +379,135 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "font-family-andada font-size-7 align-left"
+                            "color": "text-xl text-white"
                         },
-                        "inlineCss": "{\"fontWeight\":\"bold\"}"
+                        "inlineCss": ""
                     },
                     "itemIconWrap": {
                         "inlineCss": "{\"fontSize\":\"30px\"}"
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "mbr-col-md-3 mbr-flex grid-row mbr-col-sm-6"
+                            "color": "flex md:col-span-4 col-span-12 md:justify-center m-3 px-10 "
                         },
                         "inlineCss": ""
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container"
+                            "color": "container m-auto py-8 px-2 grid grid-cols-12"
                         }
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "grid-column "
+                            "color": "md:col-span-10  col-span-12"
                         }
                     },
                     "itemCaptionWrap": {
-                        "inlineCss": "{\"textAlign\":\"justify\"}"
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-col text-sm text-slate-300"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "css": {
+                            "color": "text-left"
+                        }
                     }
                 },
                 "itemList": [
                     {
-                        "caption": "IJLI is one of the best institutes with a higher success rate for student visas to study in Japan. Be confident and move the first step on joining us to achieve your dream to study in Japan.",
+                        "caption": "<a href=\"/about-us\">Who We Are </a>\n <a href=\"/contact-us\">Our Timeline</a> \n<a href=\"/contact\">Our Leadership Team</a> \n<a href=\"/\">Partner With Us</a>\n <a href=\"/\">Awards Recognitions</a> \n<a href=\"/\">Careers</a>",
                         "parseHtml": "1",
-                        "heading": "Innovative Japanese Language Institute"
+                        "heading": "About Us"
                     },
                     {
                         "heading": "Quick Links",
-                        "caption": "Home  \n\n Language Classes / Test Preparation\n\n Visa Processing",
+                        "caption": "<a href=\"/about-us\">Basic Japanese Language Course (N5 Level) </a> \n<a href=\"/contact-us\">Basic Japanese Language Course (N4 Level)</a> \n<a href=\"/contact\">JLPT Special Mock Test</a>",
                         "parseHtml": "1"
                     },
                     {
-                        "heading": "Courses",
-                        "caption": "Basic Japanese Language Course (N5 Level)\nBasic Japanese Language Course (N4 Level)\nJFT Basis course\nJLPT Special Mock Test"
-                    },
-                    {
                         "heading": "Mailing Address",
-                        "caption": "Kumaripati, Lalitpur, Nepal\n\nLandline: 01- 5425109, 01-5455948\n\nMobile: +977 - 9851097108 / 9841342668\n\n"
+                        "caption": "Kumaripati, Lalitpur, Nepal\n<br/>\nLandline: 01- 5425109, 01-5455948\n<br/>\nMobile: +977 - 9851097108 / 9841342668",
+                        "parseHtml": "1"
                     }
                 ],
                 "common_component": "1"
             },
-            "order": 108
+            "order": 11
+        },
+        {
+            "id": 7193,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-blue-900 text-white text-center",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-5xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-2xl pt-4 pb-10"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Copyright © 2024 ijli. Useful Links | Glossary | Terms of Use | Privacy Policy",
+                        "css": {
+                            "color": "text-sm "
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "col-start-3 col-span-7"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-5 items-center m-auto"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                },
+                "common_component": "1"
+            },
+            "order": 13
         }
     ]
 }

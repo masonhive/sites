@@ -1,76 +1,13 @@
 {
     "data": [
         {
-            "id": 6304,
+            "id": 7182,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover mbr-flex mbr-align-item-c clr-pl-7",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{ \"backgroundImage\": \"url(https://language-school.cmsmasters.net/wp-content/uploads/2015/12/Depositphotos_58582087_original-580x400.jpg)\" , \"margin\": \"0px 0px -200px\", \"minHeight\":\"60vh\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 align-left ",
-                            "fontSize": "12px"
-                        },
-                        "content": "",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-raleway  font-size-6 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": "btn bnt-lg bd-clr-pl-1 bd-stl-solid fontSize3 bg-clr-pl-22 clr-pl-7"
-                        }
-                    },
-                    "caption": {
-                        "content": "",
-                        "css": {
-                            "color": "font-family-raleway  font-size-4 mbr-m-0 align-center"
-                        }
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "container mbr-flex mbr-jc-c  flex-wrap mbr-align-item-c "
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-8 align-center"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container"
-                        }
-                    }
-                },
-                "cat": []
-            },
-            "order": 5
-        },
-        {
-            "id": 6305,
-            "component": "TextV2",
-            "component_id": 61,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "mbr-flex mbr-align-item-c container  bg-clr-pl-7 mbr-pt-3",
+                        "color": "",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -78,47 +15,134 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
-                        "content": "Our Services",
+                        "content": "",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "<b>Language Classes / Test Preparations </b>\n\nWe offer Japanese language courses. Whether you are studying or working abroad, or simply want to explore different cultures, we provide the best classes and preparation guidelines to succeed in different tests or regular conversations. \n\nLanguage classes and test preparation programs can be a valuable resource for Japanese students who are interested in improving their language skills. These programs offer structured lessons and practice opportunities designed to help students master the basics of the language and develop their reading, writing, speaking, and listening skills. Additionally, many language classes and test preparation programs offer resources and materials specifically tailored to Japanese students, helping them to overcome any unique challenges they may face as non-native speakers. Some programs even include elements of Japanese culture and history, helping students to better understand the context in which the language is used. Whether you are looking to learn the language for personal enrichment, travel, or to advance your career, language classes and test preparation programs can be a great way to achieve your goals and become more confident and proficient in Japanese.\n\nThe Japanese-Language Proficiency Test (JLPT) is a standardized criterion-referenced test to evaluate and certify Japanese language proficiency for non-native speakers, covering language knowledge, reading ability, and listening ability. Our trained Japanese language teachers provide lessons focused on preparing you for the JLPT exam. Our lessons offer both quality and value for money.  Get your knowledge and skill enhanced in terms of the Japanese language. Learn Japanese fluently from certified trainers and become proficient for a better opportunity! At IJLI, N1-N5 level Japanese language classes are available. Apply now to try out one of our JLPT group classes.\n\n<b> Counseling / Visa Assistance </b>\n\nOur counselors do a great deal of hand-holding to make sure students understand the application process because we know it can be overwhelming for them. We provide step-by-step guidance along with documentation and information about the institutions that we represent.\n\nMost students dread visa interviews. The final step of the abroad education process can indeed be stressful for many students. And rightly so, as a rejected visa application could very well put a definite pause in a student’s dream education. Visa counseling sessions become important as it helps students prepare for the most important interview in their education journey.\n\nWe have been helping people for the last 25 years filing their visas. We have delivered successful visas for many countries. We hold the record of having over 95% of the successful visa applications. We possess expertise in documentation processing, application & filing services for those interested in obtaining visa in various categories such as studies, tourism, and business, among many others.\n\nOnce admission letters are received from the university/ college, our counselors call the students or their guardians for the preparation of diﬀerent documents which are required by the embassy of a country to issue a student visa. Our counselors guide students to prepare all the required documents and arrange the visa preparation classes to the students who need to face the visa interview. We will not take any chance at all with your visa. All IIJLI students receive free visa counseling, visa le preparation & mock training for visa interviews from our experienced visa counselors. With our eyes constantly on embassy updates that has led to a stupendous 95% visa success rates, GLOBALEDUCC is a one-stop shop for all your requirements. We have perhaps the best visa success rate in the country at present and our constant Endeavour is to have a 100% success rate\n\n<b> Quality Document Translation </b>\nWe have more than a decade of experience in the Japanese language and have been providing the best translation service for quality documents required for visa processing and work documents. So be confident your documents will be translated with a high level of quality. We are achieving the best success rates on visas due to the quality document translation service we provide.\n\nReaching to a bigger audience avoiding the geographical language barriers, professional document translation services can enable your business to expand into the global market. At Outsourcing Translation, our team offers high-quality document translation services to a wide range of organizations ranging from small-sized and start-ups to large multinational corporations. Our experienced linguists have a native-speaker command over the language pairs they work in and offer subject-matter expertise when required. If you find yourself struggling with the accuracy of your document translations, reach out, and let our professional touch enhance yours.",
+                        "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-size-7 mbr-pt-1"
-                        },
-                        "parseHtml": "1"
+                            "color": ""
+                        }
                     },
                     "button": {
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "btn btn-sm bd-clr-pl-1 bd-stl-solid fontSize4 bg-clr-pl-"
-                        }
-                    },
-                    "image": {
-                        "content": ""
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
                         "content": "",
                         "css": {
-                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://language-school.cmsmasters.net/wp-content/uploads/2016/01/home-bg-3.jpg",
+                        "link": "",
+                        "css": {
+                            "color": "w-full "
                         }
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap  mbr-align-item-c grid-column-reverse"
+                            "color": ""
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-left"
+                            "color": ""
                         }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 4
+        },
+        {
+            "id": 7183,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover container m-auto",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Our Services",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "<b>Language Classes / Test Preparations </b>\n<br/> <br/>\nWe offer Japanese language courses. Whether you are studying or working abroad, or simply want to explore different cultures, we provide the best classes and preparation guidelines to succeed in different tests or regular conversations. \n<br/> <br/>\nLanguage classes and test preparation programs can be a valuable resource for Japanese students who are interested in improving their language skills. These programs offer structured lessons and practice opportunities designed to help students master the basics of the language and develop their reading, writing, speaking, and listening skills. Additionally, many language classes and test preparation programs offer resources and materials specifically tailored to Japanese students, helping them to overcome any unique challenges they may face as non-native speakers. Some programs even include elements of Japanese culture and history, helping students to better understand the context in which the language is used. Whether you are looking to learn the language for personal enrichment, travel, or to advance your career, language classes and test preparation programs can be a great way to achieve your goals and become more confident and proficient in Japanese.\n<br/><br/>\nThe Japanese-Language Proficiency Test (JLPT) is a standardized criterion-referenced test to evaluate and certify Japanese language proficiency for non-native speakers, covering language knowledge, reading ability, and listening ability. Our trained Japanese language teachers provide lessons focused on preparing you for the JLPT exam. Our lessons offer both quality and value for money.  Get your knowledge and skill enhanced in terms of the Japanese language. Learn Japanese fluently from certified trainers and become proficient for a better opportunity! At IJLI, N1-N5 level Japanese language classes are available. Apply now to try out one of our JLPT group classes.\n<br/><br/><br/>\n\n\n <b>Counseling / Visa Assistance </b>\n<br/> <br/>\n\nOur counselors do a great deal of hand-holding to make sure students understand the application process because we know it can be overwhelming for them. We provide step-by-step guidance along with documentation and information about the institutions that we represent.\n<br/> <br/>\nMost students dread visa interviews. The final step of the abroad education process can indeed be stressful for many students. And rightly so, as a rejected visa application could very well put a definite pause in a studentâs dream education. Visa counseling sessions become important as it helps students prepare for the most important interview in their education journey.\n<br/> <br/>\nWe have been helping people for the last 25 years filing their visas. We have delivered successful visas for many countries. We hold the record of having over 95% of the successful visa applications. We possess expertise in documentation processing, application & filing services for those interested in obtaining visa in various categories such as studies, tourism, and business, among many others.\n<br/> <br/>\nOnce admission letters are received from the university/ college, our counselors call the students or their guardians for the preparation of diï¬erent documents which are required by the embassy of a country to issue a student visa. Our counselors guide students to prepare all the required documents and arrange the visa preparation classes to the students who need to face the visa interview. We will not take any chance at all with your visa. All IIJLI students receive free visa counseling, visa le preparation & mock training for visa interviews from our experienced visa counselors. With our eyes constantly on embassy updates that has led to a stupendous 95% visa success rates, GLOBALEDUCC is a one-stop shop for all your requirements. We have perhaps the best visa success rate in the country at present and our constant Endeavour is to have a 100% success rate\n<br/> <br/><br/>\n\n <b>Quality Document Translation </b>\n<br/> <br/>\nWe have more than a decade of experience in the Japanese language and have been providing the best translation service for quality documents required for visa processing and work documents. So be confident your documents will be translated with a high level of quality. We are achieving the best success rates on visas due to the quality document translation service we provide.\n<br/><br/> \nReaching to a bigger audience avoiding the geographical language barriers, professional document translation services can enable your business to expand into the global market. At Outsourcing Translation, our team offers high-quality document translation services to a wide range of organizations ranging from small-sized and start-ups to large multinational corporations. Our experienced linguists have a native-speaker command over the language pairs they work in and offer subject-matter expertise when required. If you find yourself struggling with the accuracy of your document translations, reach out, and let our professional touch enhance yours.\n\n<br/><br/> ",
+                        "css": {
+                            "color": "text-slate-500 text-base font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-12 px-6 col-span-12"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "md:-mt-96 z-10  relative bg-white"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\", \"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}"
                     },
                     "imageWrap": {
                         "css": {

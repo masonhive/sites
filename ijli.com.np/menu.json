@@ -2,64 +2,49 @@
     "data": [
         {
             "name": "HOME",
-            "id": 350,
+            "id": 640,
             "parent_menu_id": null,
-            "link": "/index",
+            "link": "/",
             "child": []
         },
         {
             "name": "ABOUT US",
-            "id": 356,
+            "id": 641,
             "parent_menu_id": null,
-            "link": "/about",
-            "child": [
-                {
-                    "name": "About Us",
-                    "id": 606,
-                    "parent_menu_id": 356,
-                    "link": "/about",
-                    "child": []
-                },
-                {
-                    "name": "Gallery",
-                    "id": 607,
-                    "parent_menu_id": 356,
-                    "link": "/gallery",
-                    "child": []
-                }
-            ]
+            "link": "/about-us",
+            "child": []
         },
         {
             "name": "OUR SERVICES",
-            "id": 357,
+            "id": 642,
             "parent_menu_id": null,
-            "link": "#",
+            "link": "",
             "child": [
                 {
                     "name": "Free Counseling",
-                    "id": 486,
-                    "parent_menu_id": 357,
+                    "id": 646,
+                    "parent_menu_id": 642,
                     "link": "/services",
                     "child": []
                 },
                 {
                     "name": "Language Classes",
-                    "id": 487,
-                    "parent_menu_id": 357,
+                    "id": 647,
+                    "parent_menu_id": 642,
                     "link": "/services",
                     "child": []
                 },
                 {
                     "name": "Document Translation",
-                    "id": 489,
-                    "parent_menu_id": 357,
+                    "id": 648,
+                    "parent_menu_id": 642,
                     "link": "/services",
                     "child": []
                 },
                 {
                     "name": "Visa Assistance",
-                    "id": 490,
-                    "parent_menu_id": 357,
+                    "id": 649,
+                    "parent_menu_id": 642,
                     "link": "/services",
                     "child": []
                 }
@@ -67,21 +52,21 @@
         },
         {
             "name": "COURSES",
-            "id": 358,
+            "id": 643,
             "parent_menu_id": null,
-            "link": "#",
+            "link": "",
             "child": [
                 {
                     "name": "NAT / JLPT Preparation",
-                    "id": 492,
-                    "parent_menu_id": 358,
+                    "id": 650,
+                    "parent_menu_id": 643,
                     "link": "/nat-jlpt-preparation",
                     "child": []
                 },
                 {
-                    "name": "Language Course",
-                    "id": 493,
-                    "parent_menu_id": 358,
+                    "name": "Language Courses",
+                    "id": 651,
+                    "parent_menu_id": 643,
                     "link": "/language-courses",
                     "child": []
                 }
@@ -89,16 +74,16 @@
         },
         {
             "name": "STUDY IN JAPAN",
-            "id": 359,
+            "id": 644,
             "parent_menu_id": null,
             "link": "/study-in-japan",
             "child": []
         },
         {
             "name": "CONTACT US",
-            "id": 361,
+            "id": 645,
             "parent_menu_id": null,
-            "link": "/contact",
+            "link": "/contact-us",
             "child": []
         }
     ]
