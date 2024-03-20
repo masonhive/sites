@@ -410,7 +410,7 @@
                 },
                 "itemList": [
                     {
-                        "caption": "<a href=\"/about-us\">Who We Are </a>\n <a href=\"/contact-us\">Contact Us</a>\n <a href=\"/seeds\">Seeds</a> \n<a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "caption": "<a href=\"/about-us\">Who We Are </a>\n <a href=\"/contact-us\">Contact Us</a> ",
                         "parseHtml": "1",
                         "heading": "About Us"
                     },
