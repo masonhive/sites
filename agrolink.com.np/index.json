@@ -136,17 +136,17 @@
                 },
                 "itemList": [
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.agrolink.com.np/6720.jpg",
-                        "heading": "Sow A Seed Today, Harvest Tomorrow",
-                        "caption": "Before the reward there must be labor. You plant before you harvest. You sow in tears before you reap joy.",
+                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np/P2290360のコピー.JPG",
+                        "heading": " Loaded with vegetables. Packed with taste.",
+                        "caption": "Healthy Seed, Healthy Soil, Healthy Life",
                         "parseHtml": "1",
                         "button": "Get Healthy Seeds",
                         "link": "/seeds"
                     },
                     {
                         "image": "https://mail.ijli.com.np/uploads/admin.agrolink.com.np//farmer-s-hands-over-farm-plants-realistic-image-ultra-hd-high-design-very-detailed-free-photo.jpg",
-                        "heading": " Loaded with vegetables. Packed with taste.",
-                        "caption": "Healthy Seed, Healthy Soil, Healthy Life",
+                        "heading": "Sow A Seed Today, Harvest Tomorrow",
+                        "caption": "Before the reward there must be labor. You plant before you harvest. You sow in tears before you reap joy.",
                         "parseHtml": "1",
                         "button": "Get Healthy Seeds",
                         "link": "/seeds"
@@ -218,7 +218,7 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": ""
+                            "color": "max-w-36"
                         }
                     },
                     "itemheadingWrap": {
@@ -239,7 +239,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "text-xl pb-8"
+                            "color": "text-xl pb-1"
                         }
                     },
                     "itemIconWrap": {
@@ -279,21 +279,26 @@
                         "css": {
                             "color": "container items-center m-auto -mt-20 relative "
                         }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "max-w-36"
+                        }
                     }
                 },
                 "itemList": [
                     {
-                        "heading": "Innovation",
-                        "image": "https://i.ibb.co/ZM6qhYN/1633420454928-save-world-innovation-concept-girl-holding-small-plant-tree-sapling-growing-up-soil-pa.png",
-                        "caption": "We provide are tested and verified seeds imported from Japan"
+                        "heading": "New crops",
+                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//AdobeStock_78242730のコピー2.png",
+                        "caption": "We provide tested and verified new seeds imported from Japan"
                     },
                     {
-                        "image": "https://i.ibb.co/D7nz4zM/1633420809439-percent-natural-logo-design-healty-food-stamp-vector-illustrations-185587750.png",
+                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//AdobeStock_281634485のコピー.png",
                         "heading": "100% Guranteed",
                         "caption": "We provide seeds that are tested and 100% guaranteed for higher yield"
                     },
                     {
-                        "image": "https://i.ibb.co/5F61nNq/1633421071069-grain.png",
+                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np/AdobeStock_281634485のコピー.png",
                         "heading": "No GMO",
                         "caption": "We provide original breed of lab tested seeds without genetic modifications"
                     }
@@ -432,21 +437,21 @@
                 },
                 "itemList": [
                     {
-                        "heading": "Cabbage (Early Light)",
+                        "heading": "Mustard leaf",
                         "parseHtml": "1",
-                        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.store-assets.com%2Fs%2F19962%2Fi%2F822701.jpeg&f=1&nofb=1",
-                        "caption": "Early Light Cabbage, with a sweet and mild taste, is a drought and high heat tolerant breed of Japanese cabbage. This breed requires partial shade with a minimum of 6 hours of sun daily during the winter. A fully mature plant requires a large container and moderate water feeding habits."
+                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np// 2024-03-19 15.47.40.jpg",
+                        "caption": "It is one of the three most famous pickles in Japan.\nIt is the most widely cultivated variety in Japan and has excellent cold and heat resistance, and is difficult to be bolting."
                     },
                     {
-                        "image": "https://www.nakagami.co.jp/lineup/files/2014/08/to-momo-wpcf_620x465.jpg",
-                        "heading": "Tomato(Momotaro York)",
-                        "caption": "Momotaro tomatoes are usually round and oblate in shape and weigh between six and seven ounces (220 grams). They have thick, pink skin with a green stem ring around the stem. Sliced tomatoes have flesh that is relatively the same color as their skin, though a few shades paler. This tomato has a pleasingly sweet flavor with just enough tang to make it satisfyingly full-bodied.  ",
+                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//AdobeStock_220060105.jpeg",
+                        "heading": "Broccoli",
+                        "caption": "Broccoli has become increasingly popular in restaurants in recent years.\nIt is rich in nutrients and more and more farmers are growing it.\nThere are two types of broccoli: early-harvesting and late-harvesting, and each variety has various characteristics such as resistance to heat and cold, stem length, and the amount of leaves around it.",
                         "parseHtml": "1"
                     },
                     {
-                        "image": "https://www.nakagami.co.jp/lineup/files/2014/07/to-aiko-wpcf_620x465.jpg",
-                        "heading": "Plum type mini tomato",
-                        "caption": "The Aiko grape tomato is popular among Japanese gardeners. It has almost no cracking or splitting characteristics. Compared to other breeds of tomato, Aiko is a highly productive variety. These tomatoes are a bit sweet, but sufficient enough.   ",
+                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//AdobeStock_301370588.jpeg",
+                        "heading": "Musk melon",
+                        "caption": "Although it is the most expensive fruit in Japan, it is easy to make in Nepal because of its Indian origin.\nIn Nepal, we are the only company that handles seeds, so we can provide support on where to sell them and how to cultivate them.",
                         "parseHtml": "1"
                     }
                 ]
@@ -475,7 +480,7 @@
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "-  Healthy Seeds <br/> <br/>\n-  100% Imported  <br/> <br/>\n-  100% Organic  <br/> <br/>\n-  Premium Quality <br/> <br/>",
+                        "content": "-  Healthy Seeds <br/> <br/>\n-  100% Tested  <br/> <br/>\n-  Premium Quality <br/> <br/>",
                         "inlineCss": "",
                         "css": {
                             "color": "py-5"
@@ -499,7 +504,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://cdn.britannica.com/17/196817-050-6A15DAC3/vegetables.jpg",
+                        "content": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//DSC_1210.JPG",
                         "link": ""
                     }
                 },
@@ -947,18 +952,18 @@
                 },
                 "itemList": [
                     {
-                        "heading": "Seed Test At Chunikhel",
+                        "heading": "Seed Test At Bhaktapur",
                         "parseHtml": "1",
-                        "image": "https://i.ibb.co/fptnBKP/side-image-box01.jpg"
+                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//DSC_1328.JPG"
                     },
                     {
-                        "image": "https://i.ibb.co/7ywwZVB/side-image-box02.jpg",
-                        "heading": "Seed Test At Bhaktapur",
+                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//DSC_1424.JPG",
+                        "heading": "Seed Test At Nagarjun",
                         "parseHtml": "1"
                     },
                     {
-                        "image": "https://i.ibb.co/GThSLCK/4.jpg",
-                        "heading": "Seed Test At Thimi",
+                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//P3090426.JPG",
+                        "heading": "Seed Test At Khokana",
                         "parseHtml": "1"
                     }
                 ]
