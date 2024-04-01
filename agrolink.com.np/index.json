@@ -282,7 +282,7 @@
                     },
                     "itemImageWrap": {
                         "css": {
-                            "color": "max-w-36"
+                            "color": "md:max-w-36 w-full"
                         }
                     }
                 },
