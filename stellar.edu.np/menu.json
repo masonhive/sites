@@ -21,7 +21,7 @@
                     "child": []
                 },
                 {
-                    "name": "Study In Newzealand",
+                    "name": "Study In New Zealand",
                     "id": 620,
                     "parent_menu_id": 613,
                     "link": "/study-newzealand",
@@ -46,6 +46,13 @@
                     "id": 623,
                     "parent_menu_id": 613,
                     "link": "/study-uk",
+                    "child": []
+                },
+                {
+                    "name": "Study In Japan",
+                    "id": 670,
+                    "parent_menu_id": 613,
+                    "link": "/study-japan",
                     "child": []
                 }
             ]
@@ -94,10 +101,32 @@
             "child": []
         },
         {
-            "name": "Contact Us",
+            "name": "Partnership",
             "id": 617,
             "parent_menu_id": null,
-            "link": "/contact-us",
+            "link": "",
+            "child": [
+                {
+                    "name": "Agency",
+                    "id": 667,
+                    "parent_menu_id": 617,
+                    "link": "/agency",
+                    "child": []
+                },
+                {
+                    "name": "University / College",
+                    "id": 668,
+                    "parent_menu_id": 617,
+                    "link": "/university-college",
+                    "child": []
+                }
+            ]
+        },
+        {
+            "name": "Upcoming Events",
+            "id": 669,
+            "parent_menu_id": null,
+            "link": "/events",
             "child": []
         }
     ]

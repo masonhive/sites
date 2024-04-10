@@ -47,7 +47,7 @@
                     },
                     "logo": {
                         "content": "",
-                        "logo": "https://mail.ijli.com.np/uploads/stellar-logo.png",
+                        "logo": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/logo-stellar-2.png",
                         "css": {
                             "color": "md:h-16 h-12"
                         },
@@ -56,7 +56,7 @@
                     "slogan": {
                         "content": "",
                         "css": {
-                            "color": "font-family-andada font-size-7"
+                            "color": "text-sm"
                         }
                     },
                     "hamburger": {
@@ -147,7 +147,7 @@
                 "itemList": [
                     {
                         "content": "Connect With Us",
-                        "css": "bg-indigo-700\trounded-full px-4 py-1 text-white text-base",
+                        "css": "bg-indigo-950 rounded-full px-4 py-1 text-white text-base",
                         "link": "/contact-us"
                     }
                 ],
@@ -177,7 +177,7 @@
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "Adwait Marg, Bagbazar-31, Kathmandu Nepal <br/>\n+977-01-5353002, +977-9823-005613",
+                        "content": "Adwait Marg, Bagbazar-28, Kathmandu Nepal <br/>\n+977-01-5353002, +977-9823-005613",
                         "inlineCss": "",
                         "css": {
                             "color": "pt-2"
@@ -198,7 +198,8 @@
                         "rowCounts": "3"
                     },
                     "caption": {
-                        "content": "Stellar International Education is one of the leading consultancy for abroad study. "
+                        "content": "शिक्षा मन्त्रालयबाट स्वीकृति प्राप्त ",
+                        "parseHtml": "1"
                     }
                 },
                 "wrapper": {
@@ -272,13 +273,13 @@
                 },
                 "itemList": [
                     {
-                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/team\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "caption": "<a href=\"/about-us\">Who We Are </a>  <a href=\"/\">Partner With Us</a> <a href=\"/awards\">Awards Recognitions</a> <a href=\"/careers\">Careers</a>",
                         "parseHtml": "1",
                         "heading": "About Us"
                     },
                     {
                         "heading": "Study Destinations",
-                        "caption": "<a href=\"/about-us\">Study in Australia </a> \n<a href=\"/contact-us\">Study in New Zealand</a> \n<a href=\"/contact\">Study in USA</a> \n<a href=\"/\">Study in UK</a>\n <a href=\"/\">Study in Canada </a> ",
+                        "caption": "<a href=\"/study-australia\">Study in Australia </a> \n<a href=\"/study-newzealand\">Study in New Zealand</a> \n<a href=\"/study-usa\">Study in USA</a> \n<a href=\"/study-uk\">Study in UK</a>\n <a href=\"/study-canada\">Study in Canada </a> \n <a href=\"/study-japan\">Study in Japan </a> ",
                         "parseHtml": "1"
                     },
                     {
@@ -289,7 +290,7 @@
                 ],
                 "common_component": "1"
             },
-            "order": 45
+            "order": 46
         },
         {
             "id": 7081,
@@ -363,7 +364,7 @@
                 },
                 "common_component": "1"
             },
-            "order": 46
+            "order": 47
         }
     ]
 }
