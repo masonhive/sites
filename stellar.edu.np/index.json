@@ -644,7 +644,7 @@
                         "content": "View More",
                         "link": "",
                         "css": {
-                            "color": "bg-indigo-700\trounded-full px-5 py-3 text-white"
+                            "color": "bg-indigo-950\trounded-full px-5 py-3 text-white"
                         }
                     },
                     "image": {
@@ -685,7 +685,7 @@
                     },
                     "itemSectionWrap": {
                         "css": {
-                            "color": "flex flex-col bg-indigo-500 text-stone-100 rounded-lg text-sm md: m-0 my-5"
+                            "color": "flex flex-col bg-indigo-950 text-stone-100 rounded-lg text-sm md: m-0 my-5"
                         },
                         "inlineCss": ""
                     },

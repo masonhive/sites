@@ -162,7 +162,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-indigo-800 text-white",
+                        "color": "bg-indigo-950 text-white",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -299,7 +299,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-indigo-800 text-white text-center",
+                        "color": "bg-indigo-950 text-white text-center",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
