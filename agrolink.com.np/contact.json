@@ -28,12 +28,13 @@
                     },
                     "form": {
                         "id": "enquiry",
-                        "type": "enquiry",
+                        "type": "general",
                         "css": {
                             "color": "col-span-6",
                             "fontSize": "12px"
                         },
-                        "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}"
+                        "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}",
+                        "receiver_email": "bikesh.s.banda@gmail.com"
                     },
                     "formHeading": {
                         "content": "",
@@ -93,7 +94,7 @@
                 },
                 "formInputs": [
                     {
-                        "id": "full_name",
+                        "id": "name",
                         "label": "Full Name",
                         "placeholder": "Enter Your Full Name",
                         "required": "1"
