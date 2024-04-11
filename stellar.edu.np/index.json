@@ -807,7 +807,8 @@
                     "itemInfo": {
                         "reverseDisplayOrder": "",
                         "activateSlider": "",
-                        "rowCounts": "6"
+                        "rowCounts": "12",
+                        "autoPlay": ""
                     }
                 },
                 "wrapper": {
@@ -890,40 +891,58 @@
                 },
                 "itemList": [
                     {
-                        "image": "https://www.idp.com/medias/1.-The-Australian-National-University.jpg?context=bWFzdGVyfGltYWdlc3w0NTIwMHxpbWFnZS9qcGVnfGFEa3pMMmd4T0M4eE1EVXdOVGM1TXpreU9USTBOaTh4TGlCVWFHVWdRWFZ6ZEhKaGJHbGhiaUJPWVhScGIyNWhiQ0JWYm1sMlpYSnphWFI1TG1wd1p3fGU3NzYxYWY0M2EwOWViNWUwYzAzMTBmNjZiYmMxYTZkZGIyMjkwMjJmZjcxMmRiYjFmNjU4NmMzYTAxMjkxYzA"
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/AIBI-Higher-Education-Primary-Logo.png"
                     },
                     {
-                        "image": "https://www.idp.com/medias/Exceslia.jpg?context=bWFzdGVyfHJvb3R8MzAyMTd8aW1hZ2UvanBlZ3xhRFV6TDJnM1ppODVPVEEzT1RBNE1ERTRNakEyTG1wd1p3fDJkNDU0ODVhMDQxZGJmZTM1YTk1MzZjNTZhOGM4ZGQ3ODZkYjhjNmVlZTA5NzBiYjIzMjMyNjMyMjIwZDZkOWQ"
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/Canada_Trinity_logo.png"
                     },
                     {
-                        "image": "https://www.idp.com/medias/Tafe.jpg?context=bWFzdGVyfGltYWdlc3wyMTQ0MXxpbWFnZS9qcGVnfGFHUXlMMmd4Tnk4eE1EVXdOVGM1TXprNU5EYzRNaTlVWVdabExtcHdad3xmYjI2NTYzMWM1YTVkZTQ4YzZlNDRhOWRmOGU3ZTYxMGQzOWIwM2FiMDFkMzIwMmM5YWJlODM4YWUzYjk3MWEy"
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/NZ AGI LOGO.webp"
                     },
                     {
-                        "image": "https://www.idp.com/medias/Waterloo.jpg?context=bWFzdGVyfGltYWdlc3wyMzQzN3xpbWFnZS9qcGVnfGFHVmhMMmd6TWk4eE1EVXdOVGM1TkRBMk1ETXhPQzlYWVhSbGNteHZieTVxY0djfDcxYjYwMmNmZjAyYzM5YzUwNWZkYTNjNzUyM2Y0NTU5NzMzZjkzMDRkY2ZhMjk3YWJkZWI2NDkxODM1ZmY0ZjU"
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/NZ Acts wide.webp"
                     },
                     {
-                        "image": "https://www.idp.com/medias/La-Trobe-University.jpg?context=bWFzdGVyfGltYWdlc3wxNTQ4MHxpbWFnZS9qcGVnfGFEa3lMMmd4WWk4eE1EVXdOVGM1TXpnMk16Y3hNQzlNWVMxVWNtOWlaUzFWYm1sMlpYSnphWFI1TG1wd1p3fDJjZDllZTE2MGIwMjI3Y2FmOWViYmM3ZTNkNWJjOTMyODQwMTIxZDU5Y2M4YTNlMzYyODQxNWNiYmUzNzQ2ZjU"
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/NZ Kauri Logo.webp"
                     },
                     {
-                        "image": "https://www.uniagents.com/globalreach/website/global_reach_images/colleges/202105291622297325png"
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/NZ _ATMC.png"
                     },
                     {
-                        "image": "https://www.uniagents.com/globalreach/website/global_reach_images/colleges/115_202004171587117208.jpg"
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/NZ _NZSE logo (2).png"
                     },
                     {
-                        "image": "https://www.uniagents.com/globalreach/website/global_reach_images/colleges/202106101623312977png"
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/NZ _aei.webp"
                     },
                     {
-                        "image": "https://www.uniagents.com/globalreach/website/global_reach_images/colleges/202204061649243165png"
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/NZ north tec logo.png"
                     },
                     {
-                        "image": "https://www.uniagents.com/globalreach/website/global_reach_images/colleges/246_202004171587117413.jpg"
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/NorthTec-Te-Pukenga-Dual-logo_NorthTec-TePukenga-V-01.png"
                     },
                     {
-                        "image": "https://www.uniagents.com/globalreach/website/global_reach_images/colleges/202105311622438850jpg"
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/UK_glyndwr-logo-1.png"
                     },
                     {
-                        "image": "https://www.uniagents.com/globalreach/website/global_reach_images/colleges/202204081649426267jpg"
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/USA _Atlantis University.png"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/USA_Avila_University_.png"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/USA_MiddleGeorgia_.png"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/USA_WEBSTER-UNIVERSITY (2).png"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/USA_concordia-university-chicago.png"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/WUST usa.png"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/university of bradford - logo.png"
                     }
                 ]
             },
