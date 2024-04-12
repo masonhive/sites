@@ -77,7 +77,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://img.freepik.com/free-vector/student-campus-flat-composition-with-university-building-background-vector-illustration_1284-81556.jpg"
+                        "content": "https://img.freepik.com/free-photo/group-colleagues-with-diploma_23-2148522297.jpg?w=1800&t=st=1712893351~exp=1712893951~hmac=d99db577d8fad59722a17fb2425be8edb744fb5208ee5e3972455fd059ced3a4"
                     }
                 },
                 "wrapper": {
@@ -134,7 +134,7 @@
                     }
                 ]
             },
-            "order": 1
+            "order": 3
         }
     ]
 }
