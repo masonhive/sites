@@ -10,7 +10,7 @@
                         "color": "",
                         "fontSize": "12px"
                     },
-                    "inlineCss": ""
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                 },
                 "keyComponents": {
                     "textContainerLayout": {
@@ -33,7 +33,7 @@
                             "color": "px-20",
                             "fontSize": "12px"
                         },
-                        "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}"
+                        "inlineCss": ""
                     },
                     "formHeading": {
                         "content": "Enrollment Form",
