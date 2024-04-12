@@ -33,7 +33,9 @@
                             "color": "px-20",
                             "fontSize": "12px"
                         },
-                        "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}"
+                        "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}",
+                        "receiver_email": "sudip@stellar.edu.np",
+                        "subject": "University Partnership Form"
                     },
                     "formHeading": {
                         "content": "Enrollment Form",
