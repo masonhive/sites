@@ -162,7 +162,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-indigo-950 text-white",
+                        "color": "bg-indigo-950 text-white bg-left-top bg-no-repeat bg-contain ",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -180,7 +180,7 @@
                         "content": "Adwait Marg, Bagbazar-28, Kathmandu Nepal <br/>\n+977-01-5353002, +977-9823-005613",
                         "inlineCss": "",
                         "css": {
-                            "color": "pt-2"
+                            "color": "pt-2 text-sm"
                         },
                         "parseHtml": "1"
                     },
@@ -199,7 +199,10 @@
                     },
                     "caption": {
                         "content": "शिक्षा मन्त्रालयबाट स्वीकृति प्राप्त ",
-                        "parseHtml": "1"
+                        "parseHtml": "1",
+                        "css": {
+                            "color": "pb-5"
+                        }
                     }
                 },
                 "wrapper": {
@@ -236,7 +239,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "text-xl text-white"
+                            "color": "text-white pb-5 text-lg"
                         },
                         "inlineCss": ""
                     },
@@ -262,7 +265,7 @@
                     "itemCaptionWrap": {
                         "inlineCss": "",
                         "css": {
-                            "color": "flex flex-col text-sm text-slate-300"
+                            "color": "flex flex-col text-sm text-slate-300 leading-10"
                         }
                     },
                     "itemContentWrap": {
@@ -273,7 +276,7 @@
                 },
                 "itemList": [
                     {
-                        "caption": "<a href=\"/about-us\">Who We Are </a>  <a href=\"/agency\">Partner With Us</a> <a href=\"/awards\">Awards Recognitions</a> <a href=\"/careers\">Careers</a>",
+                        "caption": "<a href=\"/about-us\">Who We Are </a>\n  <a href=\"/agency\">Partner With Us</a>\n<a href=\"/awards\">Awards Recognitions</a> <a href=\"/careers\">Careers</a>",
                         "parseHtml": "1",
                         "heading": "About Us"
                     },
