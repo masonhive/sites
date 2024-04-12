@@ -1,0 +1,140 @@
+{
+    "data": [
+        {
+            "id": 7340,
+            "component": "FunnelV2",
+            "component_id": 73,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "textContainerLayout": {
+                        "0": {
+                            "name": "css",
+                            "keys": [
+                                "color"
+                            ]
+                        },
+                        "1": "inlineCss",
+                        "2": "id",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "form": {
+                        "id": "enquiry",
+                        "type": "enquiry",
+                        "css": {
+                            "color": "px-20",
+                            "fontSize": "12px"
+                        },
+                        "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}"
+                    },
+                    "formHeading": {
+                        "content": "Enrollment Form",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "inlineCss": ""
+                    },
+                    "formButton": {
+                        "content": "Submit Form",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "heading": {
+                        "css": {
+                            "color": "text-4xl py-4 text-indigo-950",
+                            "fontSize": "12px"
+                        },
+                        "content": "\"University Enrollment Invitation: Collaborate with Our Study Abroad Consultancy\"",
+                        "inlineCss": ""
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "caption": {
+                        "content": "\nWe invite your university to enroll with our Study Abroad Consultancy, offering tailored marketing strategies, global reach, and streamlined student support. Our expertise ensures a seamless enrollment process, amplifying your's visibility, attracting diverse talent, and upholding its reputation for excellence and cultural exchange.",
+                        "css": {
+                            "color": ""
+                        },
+                        "parseHtml": "1"
+                    },
+                    "description": {
+                        "content": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://img.freepik.com/free-vector/student-campus-flat-composition-with-university-building-background-vector-illustration_1284-81556.jpg"
+                    }
+                },
+                "wrapper": {
+                    "inputWrap": {
+                        "css": {
+                            "color": "text-start"
+                        }
+                    },
+                    "formWrap": {
+                        "css": {
+                            "color": "container py-10 px-60 items-center m-auto text-white"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto py-10"
+                        }
+                    },
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left items-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4  order-2"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6 md:col-start-2  order-1 px-6"
+                        }
+                    }
+                },
+                "formInputs": [
+                    {
+                        "id": "name",
+                        "label": "Name",
+                        "placeholder": "Enter Your Name",
+                        "required": "1"
+                    },
+                    {
+                        "id": "email",
+                        "label": "Email Address",
+                        "placeholder": "Enter Your Email"
+                    },
+                    {
+                        "id": "preferred_destination",
+                        "label": "Preferred Study Destination",
+                        "type": "select",
+                        "placeholder": "Choose a Destination",
+                        "data": "[\"USA\",\"Australia\",\"Canada\"]",
+                        "required": "1"
+                    }
+                ]
+            },
+            "order": 1
+        }
+    ]
+}
