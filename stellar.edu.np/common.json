@@ -162,7 +162,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-indigo-950 text-white bg-left-top bg-no-repeat bg-contain ",
+                        "color": "bg-indigo-950 text-white bg-left bg-no-repeat bg-auto",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -201,7 +201,7 @@
                         "content": "शिक्षा मन्त्रालयबाट स्वीकृति प्राप्त ",
                         "parseHtml": "1",
                         "css": {
-                            "color": "pb-5"
+                            "color": "pb-5 text-amber-600"
                         }
                     }
                 },
@@ -239,7 +239,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "text-white pb-5 text-lg"
+                            "color": " pb-5 text-lg text-amber-600"
                         },
                         "inlineCss": ""
                     },
