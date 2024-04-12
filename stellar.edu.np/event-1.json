@@ -33,7 +33,9 @@
                             "color": "px-20",
                             "fontSize": "12px"
                         },
-                        "inlineCss": ""
+                        "inlineCss": "",
+                        "receiver_email": "sudip@stellar.edu.np",
+                        "subject": "Event Enrollment Form"
                     },
                     "formHeading": {
                         "content": "Enrollment Form",
