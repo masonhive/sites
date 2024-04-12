@@ -1045,18 +1045,18 @@
                     },
                     "itemCaptionWrap": {
                         "css": {
-                            "color": "align-left"
+                            "color": "align-left py-5"
                         }
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "container m-auto md:px-20 px-5"
+                            "color": "container m-auto md:px-20 px-5 "
                         }
                     },
                     "itemContentWrap": {
                         "inlineCss": "",
                         "css": {
-                            "color": ""
+                            "color": "text-left py-5 px-5"
                         }
                     },
                     "itemTitleWrap": {
@@ -1074,14 +1074,18 @@
                         "css": {
                             "color": "bg-white flex items-center p-4  min-h-30"
                         }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": "bg-indigo-950\trounded-full px-5 py-3 text-white text-center"
+                        }
                     }
                 },
                 "itemList": [
                     {
                         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/MTSU_Wordmark.png/440px-MTSU_Wordmark.png",
-                        "title": "Middle Tennessee State University, USA ",
-                        "heading": "April 4, 2024",
-                        "caption": "Venue: Stellar Primises <br/>\nTime: 10:30 am <br/>",
+                        "heading": "Meet University Representative from Middle Tennessee University | 4th April 2024 | Kathmandu",
+                        "caption": "Date : 4th April, 2024 <br/><br/>\nTime: 10:30 am <br/><br/>\nVenue: Stellar Primises <br/>\n",
                         "parseHtml": "1",
                         "button": "Register",
                         "link": "/event-1"
