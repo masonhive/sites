@@ -72,13 +72,6 @@
             "parent_menu_id": null,
             "link": "/test",
             "child": []
-        },
-        {
-            "name": "",
-            "id": 632,
-            "parent_menu_id": null,
-            "link": null,
-            "child": []
         }
     ]
 }
