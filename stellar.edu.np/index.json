@@ -806,8 +806,9 @@
                     },
                     "itemInfo": {
                         "reverseDisplayOrder": "",
-                        "activateSlider": "",
-                        "rowCounts": "6"
+                        "activateSlider": "1",
+                        "rowCounts": "6",
+                        "autoPlay": "1"
                     }
                 },
                 "wrapper": {
@@ -1168,81 +1169,6 @@
                 }
             },
             "order": 19
-        },
-        {
-            "id": 7347,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-cover",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2",
-                            "fontSize": "12px"
-                        },
-                        "content": "SIE Stellar International Education",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "Stellar Education is a team of professionals and experts who have vast knowledge and experience in the field of abroad education and documentation. It provides professional counselling and assistance to all stages of abroad study plans. In a short span of time, It has earned enviable reputation for its services.\n\nStellar Education is not just any other institution who would monotonously take up your dreams and leave it to luck. Stellar Education Foundation believes that chance always favors the prepared mind which is why Stellar Education Foundation believes in being prepared first and then guiding you towards your dreams. If you are reading this, then in all probability you are also one among those who has dared to dream with your eyes open and we gladly extol your courage. That is what Stellar Education Foundation look for in a student and that is where we take it up from.",
-                        "css": {
-                            "color": "text-slate-400 font-light"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "https://www.globalreach.in/images/about-gr-img.jpg",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "grid grid-cols-12 text-left py-20 px-5"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-span-6  order-1 px-6"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "md:col-span-6  order-2"
-                        }
-                    }
-                }
-            },
-            "order": 20
         }
     ]
 }
