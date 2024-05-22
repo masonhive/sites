@@ -161,7 +161,7 @@
                     }
                 ]
             },
-            "order": 5
+            "order": 2
         },
         {
             "id": 7074,
@@ -304,7 +304,7 @@
                     }
                 ]
             },
-            "order": 6
+            "order": 5
         },
         {
             "id": 7075,
@@ -452,7 +452,7 @@
                     }
                 ]
             },
-            "order": 11
+            "order": 6
         },
         {
             "id": 7076,
@@ -610,7 +610,7 @@
                     }
                 ]
             },
-            "order": 12
+            "order": 6
         },
         {
             "id": 7077,
@@ -758,7 +758,7 @@
                     }
                 ]
             },
-            "order": 15
+            "order": 12
         },
         {
             "id": 7078,
@@ -943,7 +943,7 @@
                     }
                 ]
             },
-            "order": 16
+            "order": 15
         },
         {
             "id": 7320,
@@ -1087,10 +1087,18 @@
                         "parseHtml": "1",
                         "button": "Register",
                         "link": "/event-1"
+                    },
+                    {
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/MTSU_Wordmark.png/440px-MTSU_Wordmark.png",
+                        "heading": "Meet University Representative from Middle Tennessee University | 4th April 2024 | Kathmandu",
+                        "caption": "Date : 4th April, 2024 <br/><br/>\nTime: 10:30 am <br/><br/>\nVenue: Stellar Primises <br/>\n",
+                        "link": "/event-1",
+                        "parseHtml": "1",
+                        "button": "Register"
                     }
                 ]
             },
-            "order": 17
+            "order": 16
         },
         {
             "id": 7144,
@@ -1165,7 +1173,7 @@
                     }
                 }
             },
-            "order": 19
+            "order": 17
         }
     ]
 }
