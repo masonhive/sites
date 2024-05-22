@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "id": 7135,
+            "id": 7362,
             "component": "CardV2",
             "component_id": 62,
             "attributes": {
@@ -18,7 +18,7 @@
                             "color": "text-2xl py-5 text-slate-800",
                             "fontSize": "12px"
                         },
-                        "content": "Discover Nepal's leading education consultancy, unrivaled in excellence and commitment to your academic success!",
+                        "content": "Testimonials",
                         "inlineCss": ""
                     },
                     "description": {
@@ -32,7 +32,7 @@
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": ""
+                            "color": "bg-indigo-700\trounded-full px-5 py-3 text-white"
                         }
                     },
                     "image": {
@@ -73,7 +73,7 @@
                     },
                     "itemSectionWrap": {
                         "css": {
-                            "color": "flex flex-col bg-indigo-500 text-stone-100 rounded-lg text-sm md: m-0 my-5"
+                            "color": "flex flex-col bg-indigo-500 text-stone-100 rounded-lg text-sm md: m-0 my-5 flex items-center pt-4"
                         },
                         "inlineCss": ""
                     },
@@ -91,12 +91,12 @@
                     "itemIconWrap": {
                         "inlineCss": "{\"fontSize\":\"50px\"}",
                         "css": {
-                            "color": "text-yellow-500 pt-4 pl-4"
+                            "color": "text-yellow-500 pt-4 pl-4 w-full"
                         }
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "md:col-span-4 col-span-12 md:mx-5 "
+                            "color": "md:col-span-4 col-span-12 md:mx-5"
                         }
                     },
                     "itemCaptionWrap": {
@@ -126,22 +126,24 @@
                         "css": {
                             "color": "container py-10 items-center m-auto md:px-5 px-10"
                         }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "rounded-full overflow-hidden h-32 w-32"
+                        }
                     }
                 },
                 "itemList": [
                     {
-                        "heading": "My decision to study in New Zealand was one of the best I've ever made, and SIE played a crucial role in making it happen. Their team provided exceptional support throughout the entire process, from helping me choose the right university to guiding me through the visa application process. Thanks to their expertise and personalized assistance, I am now thriving in my studies in New Zealand, surrounded by a welcoming community and breathtaking landscapes. I am immensely grateful to SIE for making my dream of studying abroad a reality.",
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//WhatsApp Image 2024-05-22 at 13.54.54_43f200f3.jpg",
+                        "heading": "Stellar Education made my dream of studying in Australia a reality with their exceptional guidance and support. Their professional counselors provided personalized assistance, expertly handling the application and visa process. Their dedication and valuable pre-departure advice ensured I felt well-prepared and confident. I highly recommend Stellar Education for anyone pursuing international studies. Thank you for making my dream come true!",
+                        "caption": "Kabita Tamang <br/>\nAustralia Visa Granted",
                         "icon": "FaQuoteLeft",
-                        "caption": "Sadhiskya Sahi"
-                    },
-                    {
-                        "heading": "Getting into a University in USA is much easier to dream than reality, I was baffled for a couple of month with the information on \"How to get into Top Ranked Institutes\" over the internet. The whole thing went smoothly from Admissions to Visa at Stellar Education.",
-                        "caption": "Krishna Amatya",
-                        "icon": "FaQuoteLeft"
+                        "parseHtml": "1"
                     }
                 ]
             },
-            "order": 2
+            "order": 14
         }
     ]
 }
