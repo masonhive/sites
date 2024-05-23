@@ -18,7 +18,7 @@
                             "color": "text-2xl py-5 text-slate-800",
                             "fontSize": "12px"
                         },
-                        "content": "Testimonials",
+                        "content": "Discover Nepal's leading education consultancy, unrivaled in excellence and commitment to your academic success!",
                         "inlineCss": ""
                     },
                     "description": {
@@ -137,14 +137,14 @@
                     {
                         "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//WhatsApp Image 2024-05-22 at 13.54.54_43f200f3.jpg",
                         "heading": "Stellar Education made my dream of studying in Australia a reality with their exceptional guidance and support. Their professional counselors provided personalized assistance, expertly handling the application and visa process. Their dedication and valuable pre-departure advice ensured I felt well-prepared and confident. I highly recommend Stellar Education for anyone pursuing international studies. Thank you for making my dream come true!",
-                        "caption": "Kabita Tamang <br/>\nAustralia Visa Granted",
+                        "caption": "Kabita Tamang \nAustralia Visa Granted",
                         "icon": "FaQuoteLeft",
                         "parseHtml": "1"
                     },
                     {
                         "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//WhatsApp Image 2024-05-22 at 13.55.55_1c75b815.jpg",
                         "heading": "Stellar Education provided exceptional guidance and support, helping me secure a visa to study in Japan. Their professional counselors understood my academic and personal needs, handled the application and visa procedures meticulously, and offered valuable pre-departure advice. Their dedication made the entire process smooth and stress-free. I now feel well-prepared and confident for my studies in Japan. I highly recommend Stellar Education for anyone looking to study abroad. Thank you, Stellar Education, for making my dream come true!",
-                        "caption": "Kusal Tamang <br/>\nJapan Visa Granted",
+                        "caption": "Kusal Tamang \nJapan Visa Granted",
                         "icon": "FaQuoteLeft",
                         "parseHtml": "1"
                     }
