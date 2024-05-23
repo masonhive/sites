@@ -1,0 +1,322 @@
+{
+    "data": [
+        {
+            "id": 7361,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-5 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "Testimonials",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "bg-indigo-700\trounded-full px-5 py-3 text-white"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Look no further for proof of our exceptional service\n than the following testimonials from satisfied students",
+                        "css": {
+                            "color": "text-lg py-2 text-slate-700"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col bg-indigo-500 text-stone-100 rounded-lg text-sm md: m-0 my-5 flex items-center pt-4"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-light text-base"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}",
+                        "css": {
+                            "color": "text-yellow-500 pt-4 pl-4 w-full"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 col-span-12 md:mx-5"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left py-3 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-10 py-4"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:p-5 p-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto md:px-5 px-10"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "rounded-full overflow-hidden h-32 w-32"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "I was in dilemma about choosing the AC brands, then my friend recommended to go for Daikin and acknowledged me about the technology and its legacy. I kept 4 numbers indoors and one 4HP outdoor unit Daikin VRV Home at my office which is working so smoothly without any hassle so far. I would definitely recommend everyone to go with Daikin.\n\n",
+                        "icon": "FaQuoteLeft",
+                        "caption": "Mr. Niraj Rai <br/>\nCEO <br/>\nAwarded international Education Pvt Ltd <br/>",
+                        "parseHtml": "1",
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//WhatsApp Image 2024-05-22 at 13.38.12_ce9cda28.jpg"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//daikini-t-2.jpeg",
+                        "heading": "I always feel grateful for choosing Daikin AC for my restaurant  located at  Kupandole  I've never experienced any issues and complains about this product. Daikin is always my first choice and I'm satisfied enough with the qualities and services\"",
+                        "caption": "Mr. Jyoti Nakarmi <br/>\nManaging Director <br/>\nJulies Cakes & Pastries <br/>",
+                        "icon": "FaQuoteLeft",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//daikin-t-.jpeg",
+                        "heading": "Installed a very trust worthen world's best AC brand \"Daikin\" at my home, found it very pleasing and promising with the looks and their functions. Meets all expectations. Compressor Noise level is Lower than my former unit. Overall very satisfied.",
+                        "caption": "Mr. Deepeksha Rana <br/>\nGeneral Manager <br/>\nLabim Mall <br/>",
+                        "icon": "FaQuoteLeft",
+                        "parseHtml": "1"
+                    }
+                ]
+            },
+            "order": 3
+        },
+        {
+            "id": 7360,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-5 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "Testimonials",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "bg-indigo-700\trounded-full px-5 py-3 text-white"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Look no further for proof of our exceptional service\n than the following testimonials from satisfied students",
+                        "css": {
+                            "color": "text-lg py-2 text-slate-700"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col bg-indigo-500 text-stone-100 rounded-lg text-sm md: m-0 my-5 flex items-center pt-4"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-light text-base"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}",
+                        "css": {
+                            "color": "text-yellow-500 pt-4 pl-4 w-full"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 col-span-12 md:mx-5"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left py-3 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-10 py-4"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:p-5 p-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto md:px-5 px-10"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "rounded-full overflow-hidden h-32 w-32"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "I was in dilemma about choosing the AC brands, then my friend recommended to go for Daikin and acknowledged me about the technology and its legacy. I kept 4 numbers indoors and one 4HP outdoor unit Daikin VRV Home at my office which is working so smoothly without any hassle so far. I would definitely recommend everyone to go with Daikin.\n\n",
+                        "icon": "FaQuoteLeft",
+                        "caption": "Mr. Niraj Rai <br/>\nCEO <br/>\nAwarded international Education Pvt Ltd <br/>",
+                        "parseHtml": "1",
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//dikin-t-1.jpeg"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//daikini-t-2.jpeg",
+                        "heading": "I always feel grateful for choosing Daikin AC for my restaurant  located at  Kupandole  I've never experienced any issues and complains about this product. Daikin is always my first choice and I'm satisfied enough with the qualities and services\"",
+                        "caption": "Mr. Jyoti Nakarmi <br/>\nManaging Director <br/>\nJulies Cakes & Pastries <br/>",
+                        "icon": "FaQuoteLeft",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/editor.ghansigroup.com//daikin-t-.jpeg",
+                        "heading": "Installed a very trust worthen world's best AC brand \"Daikin\" at my home, found it very pleasing and promising with the looks and their functions. Meets all expectations. Compressor Noise level is Lower than my former unit. Overall very satisfied.",
+                        "caption": "Mr. Deepeksha Rana <br/>\nGeneral Manager <br/>\nLabim Mall <br/>",
+                        "icon": "FaQuoteLeft",
+                        "parseHtml": "1"
+                    }
+                ]
+            },
+            "order": 4
+        }
+    ]
+}
