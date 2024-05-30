@@ -896,17 +896,9 @@
                 },
                 "itemList": [
                     {
-                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/MTSU_Wordmark.png/440px-MTSU_Wordmark.png",
-                        "heading": "Meet University Representative from Middle Tennessee University | 4th April 2024 | Kathmandu",
-                        "caption": "Date : 4th April, 2024 <br/><br/>\nTime: 10:30 am <br/><br/>\nVenue: Stellar Primises <br/>\n",
-                        "parseHtml": "1",
-                        "button": "Register",
-                        "link": "/event-1"
-                    },
-                    {
-                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/MTSU_Wordmark.png/440px-MTSU_Wordmark.png",
-                        "heading": "Meet University Representative from Middle Tennessee University | 4th April 2024 | Kathmandu",
-                        "caption": "Date : 4th April, 2024 <br/><br/>\nTime: 10:30 am <br/><br/>\nVenue: Stellar Primises <br/>\n",
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//unnamed.png",
+                        "heading": "Meet University Representative from Trinity Western University | 4th April 2024 | Kathmandu",
+                        "caption": "Date : 9th June, 2024 <br/><br/>\nTime: 12:00 PM <br/><br/>\nVenue: Stellar Primises <br/>\n",
                         "link": "/event-1",
                         "parseHtml": "1",
                         "button": "Register"
