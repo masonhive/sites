@@ -79,7 +79,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/MTSU_Wordmark.png/440px-MTSU_Wordmark.png"
+                        "content": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/unnamed.png"
                     }
                 },
                 "wrapper": {
@@ -122,17 +122,14 @@
                         "required": "1"
                     },
                     {
+                        "id": "phone",
+                        "label": "Phone Number",
+                        "placeholder": "Enter Your Phone No."
+                    },
+                    {
                         "id": "email",
                         "label": "Email Address",
                         "placeholder": "Enter Your Email"
-                    },
-                    {
-                        "id": "preferred_destination",
-                        "label": "Preferred Study Destination",
-                        "type": "select",
-                        "placeholder": "Choose a Destination",
-                        "data": "[\"USA\",\"Australia\",\"Canada\"]",
-                        "required": "1"
                     }
                 ]
             },
