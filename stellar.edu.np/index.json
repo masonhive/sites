@@ -898,7 +898,15 @@
                     {
                         "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//unnamed.png",
                         "heading": "Meet University Representative from Trinity Western University | 4th April 2024 | Kathmandu",
-                        "caption": "Date : 9th June, 2024 <br/><br/>\nTime: 12:00 PM <br/><br/>\nVenue: Stellar Primises <br/>\n",
+                        "caption": "Date : 9th June, 2024 \nTime: 12:00 PM \nVenue: Stellar Primises \n",
+                        "link": "/event-1",
+                        "parseHtml": "1",
+                        "button": "Register"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/university of bradford - logo.png",
+                        "heading": "Meet University Representative from University of Bradford - UK | 28th June 2024 | Kathmandu",
+                        "caption": "Date : 9th June, 2024 \nTime: 01:30 PM - 02:30 \nVenue: Stellar Primises \n",
                         "link": "/event-1",
                         "parseHtml": "1",
                         "button": "Register"
