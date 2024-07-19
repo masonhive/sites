@@ -73,7 +73,7 @@
                     }
                 }
             },
-            "order": 6
+            "order": 7
         },
         {
             "id": 7503,
@@ -100,7 +100,7 @@
                         "content": "We empower business growth with simplified technology solutions designed to meet your unique needs. Whether you need <span class=\"underline font-bold\"> a new website, a mobile app, a comprehensive system, or a robust web portal,</span> we have the expertise to deliver. Our approach focuses on providing the best and most streamlined technology, ensuring that your business can thrive and reach new heights in the digital landscape. Explore our solutions today and see how we can transform your business with cutting-edge technology.",
                         "inlineCss": "",
                         "css": {
-                            "color": "py-2 text-slate-800  text-lg  font-light"
+                            "color": "py-2 text-slate-800  text-lg  font-light leading-8"
                         },
                         "parseHtml": "1"
                     },
@@ -149,7 +149,7 @@
                     }
                 }
             },
-            "order": 7
+            "order": 8
         },
         {
             "id": 7502,
@@ -306,7 +306,7 @@
                     }
                 ]
             },
-            "order": 8
+            "order": 9
         },
         {
             "id": 7504,
@@ -452,13 +452,13 @@
                     },
                     {
                         "image": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//corporate-meeting-employees-cartoon-characters-discussing-business-strategy-planning-further-actions-brainstorming-formal-communication-seminar-concept-illustration_335657-2035.avif",
-                        "title": "Website Design & Development",
+                        "title": "Data Processing",
                         "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
                         "link": "/web-design"
                     }
                 ]
             },
-            "order": 9
+            "order": 10
         },
         {
             "id": 7498,
@@ -475,10 +475,10 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-2xl py-2 text-center",
+                            "color": "text-2xl py-2 text-center font-light",
                             "fontSize": "12px"
                         },
-                        "content": "Empowering Business Growth with Digital Transformation",
+                        "content": "Empowering Business Growth with Digital Transformation And Automation",
                         "inlineCss": ""
                     },
                     "description": {
@@ -536,7 +536,7 @@
                     }
                 }
             },
-            "order": 14
+            "order": 15
         },
         {
             "id": 7496,
@@ -554,7 +554,7 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-2xl py-2 text-green-900",
+                            "color": "text-2xl py-2 text-slate-900 font-light underline",
                             "fontSize": "12px"
                         },
                         "content": "One-Stop-Digital-Solution ",
@@ -578,7 +578,7 @@
                     "caption": {
                         "content": "We provide comprehensive digital services under one roof to help your organization thrive in the digital age. From consulting to execution, maintenance, and innovation, we have you covered. Partner with us and let us help you build on your core values and accelerate your success.",
                         "css": {
-                            "color": "text-slate-400 font-light"
+                            "color": "text-slate-500 font-light"
                         },
                         "inlineCss": "",
                         "parseHtml": ""
@@ -612,7 +612,7 @@
                     }
                 }
             },
-            "order": 19
+            "order": 20
         },
         {
             "id": 7497,
@@ -630,10 +630,10 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-2xl py-2 text-green-900",
+                            "color": "text-2xl py-2 text-slate-900 font-light underline",
                             "fontSize": "12px"
                         },
-                        "content": "Comprehensive Offering With Out of Box Mindset",
+                        "content": "Creative All-in-One Solution",
                         "inlineCss": ""
                     },
                     "description": {
@@ -654,7 +654,7 @@
                     "caption": {
                         "content": "Gaousik offers comprehensive solutions for digital transformation including web design, mobile app development, digital marketing, platform and SaaS offerings, and managed services with seamless integration. Our goal is to provide out-of-the-box solutions and create value for our partners and clients by delivering an end-to-end process that results in win-win situations",
                         "css": {
-                            "color": "text-slate-400 font-light"
+                            "color": "text-slate-500 font-light"
                         },
                         "inlineCss": "",
                         "parseHtml": ""
@@ -688,7 +688,7 @@
                     }
                 }
             },
-            "order": 20
+            "order": 21
         },
         {
             "id": 7493,
@@ -705,7 +705,7 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-2xl py-2 text-green-900",
+                            "color": "text-2xl py-2 text-slate-900 font-light underline",
                             "fontSize": "12px"
                         },
                         "content": "Seamless Integrations",
@@ -729,7 +729,7 @@
                     "caption": {
                         "content": "Seamless integration is crucial for the success of any business. Attracting potential customers through multiple channels and converting them into loyal ones is crucial for business sustainability. These tasks are often handled by different services, tools, and channels, but effective integration is important for efficiency. We focus on delivering value as we help with seamless integration",
                         "css": {
-                            "color": "text-slate-400 font-light"
+                            "color": "text-slate-500 font-light"
                         },
                         "inlineCss": "",
                         "parseHtml": ""
@@ -763,7 +763,7 @@
                     }
                 }
             },
-            "order": 21
+            "order": 22
         },
         {
             "id": 7495,
@@ -781,7 +781,7 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-2xl py-2 text-green-900",
+                            "color": "text-2xl py-2 text-slate-900 font-light underline",
                             "fontSize": "12px"
                         },
                         "content": "Adding Massive Value to Your Business",
@@ -805,7 +805,7 @@
                     "caption": {
                         "content": "At Gaousik, our focus is to maximize value for all stakeholders, including end-users. We understand the importance of time and energy, and strive to use them wisely in our work. By partnering with us, you not only get your tasks completed but also receive valuable insights and support to enhance your business. Our expertise and knowledge base will help identify opportunities for increased efficiency and growth. Working with Gaousik is a sure way to add value to your business or workflow",
                         "css": {
-                            "color": "text-slate-400 font-light"
+                            "color": "text-slate-500 font-light"
                         },
                         "inlineCss": "",
                         "parseHtml": ""
@@ -839,7 +839,7 @@
                     }
                 }
             },
-            "order": 21
+            "order": 22
         }
     ]
 }
