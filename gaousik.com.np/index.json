@@ -158,7 +158,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "text-center text-white bg-[url('https://mail.ijli.com.np/uploads/admin.gaousik.com.np/business-strategy-analytics.avif')] bg-cover",
+                        "color": "text-center text-white bg-cover",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -225,7 +225,7 @@
                     },
                     "itemSectionWrap": {
                         "css": {
-                            "color": "flex flex-col py-5 bg-white rounded-lg mt-10 shadow-lg border-4 border-pink-500 "
+                            "color": "flex flex-col py-5  rounded-lg mt-10 shadow-lg bg-pink-500 "
                         },
                         "inlineCss": ""
                     },
@@ -236,7 +236,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "text-xl  text-green-700 pb-4 text-center"
+                            "color": "text-xl  text-slate-50 pb-4 text-center underline"
                         }
                     },
                     "itemIconWrap": {
@@ -244,12 +244,12 @@
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "md:col-span-4 md:mx-10 col-span-12 flex items-end pb-10"
+                            "color": "md:col-span-4 md:mx-10 col-span-12 flex items-end pb-10 text-white"
                         }
                     },
                     "itemCaptionWrap": {
                         "css": {
-                            "color": "align-left text-indigo-700 "
+                            "color": "align-left text-white font-light"
                         }
                     },
                     "itemContainerWrap": {
@@ -265,7 +265,7 @@
                     },
                     "itemTitleWrap": {
                         "css": {
-                            "color": " text-black"
+                            "color": ""
                         },
                         "inlineCss": ""
                     },
@@ -525,7 +525,7 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container m-auto"
+                            "color": "container m-auto pt-10"
                         },
                         "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
@@ -536,7 +536,7 @@
                     }
                 }
             },
-            "order": 17
+            "order": 14
         },
         {
             "id": 7496,
