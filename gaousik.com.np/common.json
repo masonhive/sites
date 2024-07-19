@@ -322,7 +322,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-green-900 text-white text-center",
+                        "color": " text-black text-center",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
