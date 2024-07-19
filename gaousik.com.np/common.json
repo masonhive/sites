@@ -18,7 +18,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": " shadow-sm shadow-slate-200",
+                        "color": "shadow-slate-200 shadow-lg ",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -79,7 +79,7 @@
                     },
                     "menu": {
                         "css": {
-                            "color": " px-4 py-2 hover:border-violet-600   border-white border-b-2 ease-in duration-300 text-sm flex items-center gap-1"
+                            "color": " px-4 py-2 hover:border-green-700   border-white border-b-2 ease-in duration-300 text-base flex items-center gap-1"
                         },
                         "inlineCss": ""
                     }
@@ -141,7 +141,7 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container m-auto grid grid-cols-12 items-center pt-3 md:px-10"
+                            "color": "container m-auto grid grid-cols-12 items-center pt-3 md:px-10  "
                         }
                     },
                     "logoWrap": {
@@ -151,14 +151,14 @@
                     },
                     "menuWrap": {
                         "css": {
-                            "color": "md:col-span-8 md:flex items-center md:visible flex-row-reverse text-lg"
+                            "color": "md:col-span-8 md:flex items-center md:visible flex-row-reverse"
                         }
                     }
                 },
                 "itemList": [
                     {
-                        "content": "Contact Us",
-                        "css": "bg-green-700\trounded-full px-4 py-1 text-white text-base",
+                        "content": "Special Offers !!!",
+                        "css": "bg-green-700\trounded-full px-4 py-2 text-white text-base",
                         "link": "/meet-us"
                     }
                 ],

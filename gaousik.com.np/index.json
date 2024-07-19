@@ -15,7 +15,7 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-4xl py-2 font-light",
+                            "color": "text-4xl py-2 font-light ",
                             "fontSize": "12px"
                         },
                         "content": "Empowering Business Growth with Digital Transformation",
@@ -354,9 +354,9 @@
                     },
                     "itemInfo": {
                         "reverseDisplayOrder": "",
-                        "activateSlider": "1",
+                        "activateSlider": "",
                         "rowCounts": "3",
-                        "autoPlay": "1"
+                        "autoPlay": ""
                     }
                 },
                 "wrapper": {
@@ -422,9 +422,9 @@
                     },
                     "itemTitleWrap": {
                         "css": {
-                            "color": ""
+                            "color": "text"
                         },
-                        "inlineCss": "{\"padding\":\"5px\"}"
+                        "inlineCss": ""
                     },
                     "mainWrap": {
                         "css": {
@@ -439,20 +439,38 @@
                 },
                 "itemList": [
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//corporate-meeting-employees-cartoon-characters-discussing-business-strategy-planning-further-actions-brainstorming-formal-communication-seminar-concept-illustration_335657-2035.avif",
+                        "image": "https://img.freepik.com/free-vector/setup-concept-illustration_114360-5023.jpg?t=st=1721388897~exp=1721392497~hmac=0a43ca5ccbf8ba2c32b064e7871f5f09c271f935feb7fa75afc40b71cc488a37&w=1800",
                         "title": "Website Design & Development",
                         "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
                         "link": "/web-design"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//corporate-meeting-employees-cartoon-characters-discussing-business-strategy-planning-further-actions-brainstorming-formal-communication-seminar-concept-illustration_335657-2035.avif",
+                        "image": "https://img.freepik.com/premium-vector/computer-monitor-sits-collection-different-electronic-devices-modern-workspace-install-concept-software-simple-minimalist-flat-vector-illustration_538213-51919.jpg?w=1800",
                         "title": "Information Management System",
                         "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
                         "link": "/web-design"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//corporate-meeting-employees-cartoon-characters-discussing-business-strategy-planning-further-actions-brainstorming-formal-communication-seminar-concept-illustration_335657-2035.avif",
-                        "title": "Data Processing",
+                        "image": "https://img.freepik.com/premium-vector/ecommerce-transaction-flat-illustration_681626-30.jpg?w=1480",
+                        "title": "Mobile App Design & Development",
+                        "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://img.freepik.com/free-vector/marketing-promo-clipart-illustrated_52683-74351.jpg?t=st=1721389058~exp=1721392658~hmac=1451ccaab62a03ed22a5572bf5f6ffd7248935b648da624852acced65a12af00&w=1060",
+                        "title": "Digital Marketing",
+                        "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://img.freepik.com/free-vector/brand-concept-marketing-strategy-unique-design-company-product-brand-recognition-identity-building-isolated-flat-vector-illustration_613284-1082.jpg?t=st=1721389114~exp=1721392714~hmac=1cf0568a563f54d1705d21a63582804e3e84c955a82f55ab6064b958128bd733&w=1800",
+                        "title": "Branding and Graphic Designs",
+                        "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://img.freepik.com/premium-vector/girl-doing-online-shopping-by-smartphone_701961-2321.jpg?w=1800",
+                        "title": "E-commerce And Accounting Software",
                         "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
                         "link": "/web-design"
                     }
