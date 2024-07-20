@@ -1,17 +1,10 @@
 {
     "data": [
         {
-            "name": "Products",
+            "name": "Home",
             "id": 496,
             "parent_menu_id": null,
             "link": "/index",
-            "child": []
-        },
-        {
-            "name": "Solutions",
-            "id": 499,
-            "parent_menu_id": null,
-            "link": "/solutions",
             "child": []
         },
         {
