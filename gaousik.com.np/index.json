@@ -29,10 +29,10 @@
                         }
                     },
                     "button": {
-                        "content": "",
-                        "link": "",
+                        "content": "Know More About Us",
+                        "link": "/about",
                         "css": {
-                            "color": ""
+                            "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
                         },
                         "inlineCss": ""
                     },
@@ -52,7 +52,7 @@
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "grid grid-cols-12 text-left items-center pt-20 pb-6"
+                            "color": "grid grid-cols-12 text-left items-center pt-20 pb-10"
                         }
                     },
                     "contentWrap": {
@@ -100,15 +100,15 @@
                         "content": "We empower business growth with simplified technology solutions designed to meet your unique needs. Whether you need <span class=\"underline font-bold\"> a new website, a mobile app, a comprehensive system, or a robust web portal,</span> we have the expertise to deliver. Our approach focuses on providing the best and most streamlined technology, ensuring that your business can thrive and reach new heights in the digital landscape. Explore our solutions today and see how we can transform your business with cutting-edge technology.",
                         "inlineCss": "",
                         "css": {
-                            "color": "py-2 text-slate-800  text-lg  font-light leading-8"
+                            "color": "py-4 text-slate-800  text-lg  font-light leading-8 pb-10"
                         },
                         "parseHtml": "1"
                     },
                     "button": {
-                        "content": "",
-                        "link": "",
+                        "content": "Let's Begin the Journey",
+                        "link": "/contact",
                         "css": {
-                            "color": ""
+                            "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100 text-lg"
                         },
                         "inlineCss": ""
                     },
@@ -138,7 +138,7 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container py-6 items-center m-auto md:px-0 px-5"
+                            "color": "container py-6 pb-10 items-center m-auto md:px-0 px-5"
                         },
                         "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
@@ -158,7 +158,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "text-center text-white bg-cover bg-[url(\"https://img.freepik.com/free-vector/starting-career-concept-illustration_114360-16994.jpg?t=st=1721389453~exp=1721393053~hmac=575c16c4f375cd0508a3613a3a452fbf8f0340d59ea6c953e72e58ff5d14fd6a&w=1800\")]",
+                        "color": "text-center text-white bg-cover bg-[url(\"https://img.freepik.com/free-vector/starting-career-concept-illustration_114360-16994.jpg?t=st=1721389453~exp=1721393053~hmac=575c16c4f375cd0508a3613a3a452fbf8f0340d59ea6c953e72e58ff5d14fd6a&w=1800\")] bg-blend-multiply\t",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -271,7 +271,7 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container py-20 items-center m-auto md:px-0 "
+                            "color": "py-20 items-center m-auto md:px-0 bg-slate-100/80"
                         }
                     },
                     "itemImageWrap": {
@@ -497,7 +497,7 @@
                             "fontSize": "12px"
                         },
                         "content": "Empowering Business Growth with Digital Transformation And Automation",
-                        "inlineCss": ""
+                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}"
                     },
                     "description": {
                         "content": "",
