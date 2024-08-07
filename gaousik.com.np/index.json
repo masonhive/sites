@@ -401,7 +401,7 @@
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "md:col-span-4 col-span-6  md:mx-2 mx-2 md:my-2 my-2"
+                            "color": " bg-white md:col-span-4 col-span-6  md:mx-2 mx-2 md:my-2 my-2 rounded-lg"
                         }
                     },
                     "itemCaptionWrap": {
@@ -422,7 +422,7 @@
                     },
                     "itemTitleWrap": {
                         "css": {
-                            "color": "text"
+                            "color": "text-base"
                         },
                         "inlineCss": ""
                     },

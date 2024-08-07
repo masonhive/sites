@@ -195,10 +195,10 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "",
+                            "color": "text-lg pb-4 py-2 font-semibold font-light",
                             "fontSize": "12px"
                         },
-                        "content": "",
+                        "content": "Gaousik Tech Solution ",
                         "inlineCss": ""
                     },
                     "description": {
@@ -217,7 +217,7 @@
                         }
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//gts.png",
+                        "content": "",
                         "css": {
                             "color": ""
                         }
@@ -264,7 +264,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "text-xl text-white"
+                            "color": "text-xl text-white pb-2"
                         },
                         "inlineCss": ""
                     },
