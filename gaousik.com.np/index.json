@@ -260,7 +260,7 @@
                     "itemContentWrap": {
                         "inlineCss": "",
                         "css": {
-                            "color": "text-center md:p-5  text-justify px-4 md:px-0"
+                            "color": "text-center md:p-5  text-justify px-4 "
                         }
                     },
                     "itemTitleWrap": {
