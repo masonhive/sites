@@ -57,7 +57,7 @@
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-span-5 md:col-start-2  order-1 px-6"
+                            "color": "md:col-span-5 md:col-start-2  md:order-1 px-6 col-span-12 order-2"
                         }
                     },
                     "mainWrap": {
@@ -68,7 +68,7 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-span-4  order-2"
+                            "color": "md:col-span-4  md:order-2 col-span-12 order-1"
                         }
                     }
                 }
@@ -133,7 +133,7 @@
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-span-8 md:col-start-3  order-1 px-6"
+                            "color": "md:col-span-8 md:col-start-3  md:order-1 px-6 col-span-12"
                         }
                     },
                     "mainWrap": {
@@ -244,7 +244,7 @@
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "md:col-span-4 md:mx-10 col-span-12 flex items-end pb-10 text-white"
+                            "color": "md:col-span-4 md:mx-10 col-span-12 flex items-end pb-10 text-white "
                         }
                     },
                     "itemCaptionWrap": {
@@ -260,7 +260,7 @@
                     "itemContentWrap": {
                         "inlineCss": "",
                         "css": {
-                            "color": "text-center md:p-5  text-justify"
+                            "color": "text-center md:p-5  text-justify px-4 md:px-0"
                         }
                     },
                     "itemTitleWrap": {
@@ -538,7 +538,7 @@
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-span-12  order-2 px-6"
+                            "color": "md:col-span-12  order-2 px-6 col-span-12"
                         }
                     },
                     "mainWrap": {
@@ -549,7 +549,7 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-span-12 order-1 flex justify-center items-center"
+                            "color": "md:col-span-12 order-1 flex justify-center items-center col-span-12"
                         }
                     }
                 }
@@ -701,7 +701,7 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-start-7 md:col-end-10  order-2"
+                            "color": "md:col-start-7 md:col-end-10  md:order-2"
                         }
                     }
                 }
@@ -760,12 +760,12 @@
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "grid grid-cols-12 text-left py-4 px-10 items-center"
+                            "color": "grid grid-cols-12 text-left py-4 md:px-10 items-center px-5"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-start-7 md:col-span-4 order-2 px-6 text-justify"
+                            "color": "md:col-start-7 md:col-span-4 order-2 px-6 text-justify col-span-12"
                         }
                     },
                     "mainWrap": {
@@ -776,7 +776,7 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-start-3 md:col-end-7  order-1 "
+                            "color": "md:col-start-3 md:col-end-7 order-1 col-span-12 "
                         }
                     }
                 }
@@ -836,12 +836,12 @@
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "md:grid md:grid-cols-12 text-left py-4 px-10 flex flex-col items-center"
+                            "color": "md:grid md:grid-cols-12 text-left py-4 md:px-10 flex flex-col items-center px-5"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-start-3 md:col-end-7  order-1 px-6 text-justify"
+                            "color": "md:col-start-3 md:col-end-7  md:order-1 px-6 text-justify  order-2"
                         }
                     },
                     "mainWrap": {
@@ -852,7 +852,7 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-start-7 md:col-end-11  order-2 "
+                            "color": "md:col-start-7 md:col-end-11  md:order-2  col-span-12 order-1"
                         }
                     }
                 }

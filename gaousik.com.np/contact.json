@@ -42,7 +42,7 @@
                         "1": "inlineCss",
                         "2": "id",
                         "css": {
-                            "color": "col-span-6"
+                            "color": "md:col-span-6 col-span-12"
                         }
                     },
                     "form": {
@@ -85,7 +85,11 @@
                         }
                     },
                     "image": {
-                        "content": "https://img.freepik.com/premium-vector/operator-girl-with-computer-headphones-microphone-outsource-consulting-job-online-remove-job-call-center_186332-194.jpg"
+                        "content": "https://img.freepik.com/premium-vector/operator-girl-with-computer-headphones-microphone-outsource-consulting-job-online-remove-job-call-center_186332-194.jpg",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
                     }
                 },
                 "wrapper": {
@@ -96,12 +100,17 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "md:col-span-6"
+                            "color": "md:col-span-6 col-span-12"
                         }
                     },
                     "formWrap": {
                         "css": {
-                            "color": "md:col-span-5"
+                            "color": "md:col-span-5 col-span-12 px-5"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
                         }
                     }
                 },

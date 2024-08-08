@@ -233,7 +233,7 @@
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "md:col-span-2 text-left col-span-12"
+                            "color": "md:col-span-2 text-left col-span-12 px-10"
                         }
                     },
                     "contentWrap": {
