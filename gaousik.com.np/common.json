@@ -60,7 +60,7 @@
                         "content": "",
                         "logo": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//gts.png",
                         "css": {
-                            "color": "md:h-24 h-12"
+                            "color": "md:h-24 h-16"
                         },
                         "inlineCss": ""
                     },
