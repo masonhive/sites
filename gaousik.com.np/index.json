@@ -15,7 +15,7 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-4xl py-2 font-light ",
+                            "color": "md:text-4xl py-2 font-light text-2xl",
                             "fontSize": "12px"
                         },
                         "content": "Empowering Business Growth with Digital Transformation",
