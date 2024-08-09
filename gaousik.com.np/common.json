@@ -157,7 +157,7 @@
                 },
                 "itemList": [
                     {
-                        "content": "Special Offers !!!",
+                        "content": "Special Offers",
                         "css": "bg-green-700\trounded-full px-4 py-2 text-white md:text-base text-sm",
                         "link": "/meet-us"
                     }
