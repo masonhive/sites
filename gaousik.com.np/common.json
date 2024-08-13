@@ -181,6 +181,40 @@
             "order": 17
         },
         {
+            "id": 7526,
+            "component": "metatag",
+            "component_id": 75,
+            "attributes": {
+                "common_component": "1",
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": ""
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "metadata": {
+                        "favicon": "/favicon.ico",
+                        "title": "Gaousik Tech Solution",
+                        "ogTitle": "Gaousik Tech Solution",
+                        "ogImage": "",
+                        "twitterCard": "Gaousik Tech Solution",
+                        "description": "Empowering Business Growth with Digital Transformation"
+                    }
+                },
+                "wrapper": {
+                    "mainWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    }
+                }
+            },
+            "order": 23
+        },
+        {
             "id": 7490,
             "component": "CardV2",
             "component_id": 62,
