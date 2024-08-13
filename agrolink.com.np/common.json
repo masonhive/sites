@@ -291,6 +291,40 @@
             "order": 118
         },
         {
+            "id": 7527,
+            "component": "metatag",
+            "component_id": 75,
+            "attributes": {
+                "common_component": "1",
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": ""
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "metadata": {
+                        "favicon": "https://i.ibb.co/cDp0mK3/argo.jpg",
+                        "title": "AgroLink | Healthy Seed, Healthy Soil, Healthy Life",
+                        "ogTitle": "",
+                        "ogImage": "",
+                        "twitterCard": "",
+                        "description": "Healthy Seed, Healthy Soil, Healthy Life"
+                    }
+                },
+                "wrapper": {
+                    "mainWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    }
+                }
+            },
+            "order": 127
+        },
+        {
             "id": 7105,
             "component": "CardV2",
             "component_id": 62,
