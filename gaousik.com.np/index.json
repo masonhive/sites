@@ -97,7 +97,7 @@
                         "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}"
                     },
                     "description": {
-                        "content": "We empower business growth with simplified technology solutions designed to meet your unique needs. Whether you need <span class=\"underline font-bold\"> a new website, a mobile app, a comprehensive system, or a robust web portal,</span> we have the expertise to deliver. Our approach focuses on providing the best and most streamlined technology, ensuring that your business can thrive and reach new heights in the digital landscape. Explore our solutions today and see how we can transform your business with cutting-edge technology.",
+                        "content": "We empower business growth with simplified technology solutions designed to meet your unique needs. Whether you need  a new website, a mobile app, a comprehensive system, or a robust web portal, we have the expertise to deliver. Our approach focuses on providing the best and most streamlined technology, ensuring that your business can thrive and reach new heights in the digital landscape. Explore our solutions today and see how we can transform your business with cutting-edge technology.",
                         "inlineCss": "",
                         "css": {
                             "color": "py-4 text-slate-800  text-lg  font-light leading-8 pb-10"
@@ -169,7 +169,7 @@
                             "color": "text-3xl py-2 text-slate-900",
                             "fontSize": "12px"
                         },
-                        "content": "You are just simple 3 steps away from Digital Empowerment",
+                        "content": "You Are Just Simple 3 Steps Away...",
                         "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}"
                     },
                     "description": {
@@ -287,20 +287,20 @@
                 },
                 "itemList": [
                     {
-                        "heading": "Contact for Consultation ",
+                        "heading": "Contact for Consultation",
                         "parseHtml": "1",
-                        "caption": "React to one of our expert consultants and schedule a meet.",
+                        "caption": "React to one of our expert consultants and schedule a meet. We would like to know your vision better.",
                         "title": "Step 1."
                     },
                     {
-                        "heading": "Meet Your Advisor",
-                        "caption": "Explore your ideas and needs and vision and missions, we will design and develop what is required.\n\nExplore your ideas and needs and vision and missions, we will design and develop what is required.",
+                        "heading": "Frame your Vision",
+                        "caption": "Explore your ideas, needs, vision and mission, we will design what is required. We will validate with your expectations and provide you better ideas and process which will add massive value to your business. ",
                         "parseHtml": "1",
                         "title": "Step 2."
                     },
                     {
-                        "heading": "Receive Personalized Guidance",
-                        "caption": "After the consultation, we will continue to provide ongoing support and guidance throughout the study abroad process from selecting suitable universities and programs to navigating the application process, securing scholarships, and preparing for departure.\n\nfrom selecting suitable universities and programs to navigating the application process, securing scholarships, and preparing for departure.",
+                        "heading": "Implement with Ease",
+                        "caption": "Implementation is much more easier than you expect. We will help you to align with the product.Faster adaptation to the technology always benefits for productivity. We will make implementation a easy and fun procedure. And you are ready for mulitiple times of GROWTH.",
                         "parseHtml": "1",
                         "title": "Step 3."
                     }
