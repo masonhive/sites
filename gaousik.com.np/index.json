@@ -37,12 +37,12 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "We, Gaousik Tech Solution Pvt. Ltd , believe in harnessing the power of technology to make your visions a tangible reality. As a tech startup, we specialize in bringing digital transformation to businesses of all sizes. Our team of experts leverages the latest Artificial Intelligence (AI) technology to streamline business processes, making them more efficient and effective. From website creation to core business services, we're dedicated to helping businesses grow and succeed. With our focus on innovation and customer satisfaction, we're poised to lead the way in digital transformation.",
+                        "content": "We, Gaousik Tech Solution Pvt. Ltd , believe in harnessing the power of technology to make your visions a tangible reality. As a tech startup, we specialize in bringing digital transformation to businesses of all sizes. Our team of experts leverages the latest Artificial Intelligence (AI) technology to streamline business processes, making them more efficient and effective. From website creation to core business services, we're dedicated to helping businesses grow and succeed. With our focus on innovation and customer satisfaction, we're  poised to lead the way in digital transformation...",
                         "css": {
                             "color": "text-slate-400 py-6 text-justify font-light text-slate-800"
                         },
                         "inlineCss": "",
-                        "parseHtml": ""
+                        "parseHtml": "1"
                     },
                     "image": {
                         "content": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//business-strategy-analytics.avif",
@@ -97,7 +97,7 @@
                         "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}"
                     },
                     "description": {
-                        "content": "We empower business growth with simplified technology solutions designed to meet your unique needs. Whether you need  a new website, a mobile app, a comprehensive system, or a robust web portal, we have the expertise to deliver. Our approach focuses on providing the best and most streamlined technology, ensuring that your business can thrive and reach new heights in the digital landscape. Explore our solutions today and see how we can transform your business with cutting-edge technology.",
+                        "content": "We empower business growth with simplified technology solutions designed to meet your unique needs. Whether you need <b>a new website, a mobile app, a comprehensive system, or a robust web portal,</b> we have the expertise to deliver. Our approach focuses on providing the best and most streamlined technology, ensuring that your business can thrive and reach new heights in the digital landscape. Explore our solutions today and see how we can transform your business with cutting-edge technology.",
                         "inlineCss": "",
                         "css": {
                             "color": "py-4 text-slate-800  text-lg  font-light leading-8 pb-10"

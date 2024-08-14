@@ -136,7 +136,7 @@
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "md:col-span-2 flex items-center md:col-start-11  col-span-6 md:flex-row-reverse gap-1"
+                            "color": "md:col-span-2 flex items-center md:col-start-11  col-span-6 md:flex-row-reverse gap-1 justify-end"
                         }
                     },
                     "mainWrap": {
@@ -198,7 +198,7 @@
                             "color": "text-lg pb-4 py-2 font-semibold font-light",
                             "fontSize": "12px"
                         },
-                        "content": "Gaousik Tech Solution ",
+                        "content": "Gaousik Tech Solution Pvt. Ltd",
                         "inlineCss": ""
                     },
                     "description": {
@@ -226,14 +226,14 @@
                         "rowCounts": "3"
                     },
                     "caption": {
-                        "content": "Lalitpur - 22, Chunikhel, Bungmati Nepal  <br/> Mobile: +977 - 9813364597 <br/> Email : mailforgaousik@gmail.com",
+                        "content": "Lalitpur - 22, Chunikhel, Bungmati Nepal  <br/>  Mobile: +977 - 9813364597 <br/> Email : mailforgaousik@gmail.com",
                         "parseHtml": "1"
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "md:col-span-2 text-left col-span-12 px-10"
+                            "color": "md:col-span-4 text-left col-span-12 px-10"
                         }
                     },
                     "contentWrap": {
@@ -284,7 +284,7 @@
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "md:col-span-10  col-span-12"
+                            "color": "md:col-span-8  col-span-12"
                         }
                     },
                     "itemCaptionWrap": {
@@ -301,18 +301,18 @@
                 },
                 "itemList": [
                     {
-                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "caption": "Who We Are  Our Timeline Our Leadership Team Partner With Us Awards Recognitions Careers",
                         "parseHtml": "1",
                         "heading": "About Us"
                     },
                     {
                         "heading": "Quick Links",
-                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "caption": "Who We Are  Our Timeline Our Leadership Team Partner With Us Awards Recognitions Careers",
                         "parseHtml": "1"
                     },
                     {
                         "heading": "Courses Abroad",
-                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "caption": "Who We Are  Our Timeline Our Leadership Team Partner With Us Awards Recognitions Careers",
                         "parseHtml": "1"
                     }
                 ],
