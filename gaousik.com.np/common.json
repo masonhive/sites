@@ -141,7 +141,7 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container m-auto grid grid-cols-12 items-center pt-3 md:px-10  "
+                            "color": "container m-auto grid grid-cols-12 items-center pt-3 md:px-10  px-5"
                         }
                     },
                     "logoWrap": {
