@@ -45,7 +45,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://language-school.cmsmasters.net/wp-content/uploads/2016/01/home-bg-3.jpg",
+                        "content": "https://mail.ijli.com.np/uploads/editor.ijli.com.np//home-bg-3.jpg",
                         "link": "",
                         "css": {
                             "color": "w-full"
@@ -140,7 +140,7 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "-mt-96 z-10  relative bg-white"
+                            "color": "md:-mt-96 z-10  relative bg-white"
                         },
                         "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
