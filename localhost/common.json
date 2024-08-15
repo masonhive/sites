@@ -378,7 +378,7 @@
                 },
                 "common_component": "1"
             },
-            "order": 18
+            "order": 19
         },
         {
             "id": 7345,
@@ -565,6 +565,40 @@
                 "common_component": "1"
             },
             "order": 45
+        },
+        {
+            "id": 7525,
+            "component": "metatag",
+            "component_id": 75,
+            "attributes": {
+                "common_component": "1",
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": ""
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "metadata": {
+                        "favicon": "/favicon.ico",
+                        "title": "Meta Title",
+                        "ogTitle": "og Titlle",
+                        "ogImage": "/favicon.ico",
+                        "twitterCard": "/favicon.ico",
+                        "description": "description"
+                    }
+                },
+                "wrapper": {
+                    "mainWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    }
+                }
+            },
+            "order": 46
         }
     ]
 }
