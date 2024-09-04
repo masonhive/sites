@@ -41,6 +41,13 @@
             "parent_menu_id": null,
             "link": "/test",
             "child": []
+        },
+        {
+            "name": "About Us",
+            "id": 639,
+            "parent_menu_id": null,
+            "link": "/about-us",
+            "child": []
         }
     ]
 }
