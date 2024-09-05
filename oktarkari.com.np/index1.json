@@ -1,0 +1,89 @@
+{
+    "data": [
+        {
+            "id": 7545,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-white bg-slate-900 relative ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Ready to Ignite Your Business Using StoryBrand?",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Multiply your sales using our proven marketing framework",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-2xl pt-4 pb-12"
+                        }
+                    },
+                    "button": {
+                        "content": "Become a StoryBrand Certified Guide",
+                        "link": "/about",
+                        "css": {
+                            "color": "md:text-xl text-md p-4 bg-emerald-600 text-slate-200 rounded-lg hover:bg-sky-700 hover:text-slate-100 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Launch a StoryBrand Sales Funnel",
+                        "css": {
+                            "color": "text-6xl py-5 font-bold"
+                        },
+                        "inlineCss": "{\"fontFamily\": \"Outline\"}",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "absolute h-[70vh] md:h-[80vh]  w-full overflow-hidden"
+                        }
+                    },
+                    "video": {
+                        "link": "https://www.youtube.com/embed/sVPYIRF9RCQ",
+                        "imageLink": "",
+                        "banner": "1",
+                        "css": {
+                            "color": "absolute md:h-[56.25vw] h-[70vh]  md:w-[100vw]  w-[177.78vh] top-[50%] left-[50%] translate-x-2/4 translate-y-2/4"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "col-span-12 m-auto  h-[70vh] md:h-[80vh] flex align-center justify-center flex-col"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto relative"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 5
+        }
+    ]
+}
