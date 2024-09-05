@@ -1,86 +1,79 @@
 {
     "data": [
         {
-            "id": 6462,
+            "id": 7159,
             "component": "TextV2",
-            "component_id": 61,
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "relative h-[90vh] relative",
+                        "color": "bg-cover text-center",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "",
-                    "id": "home"
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-4xl py-4 text-bold uppercase",
+                            "color": "text-base text-slate-400 font-light",
                             "fontSize": "12px"
                         },
-                        "content": "We are on a mission",
+                        "content": "Solving the Toughest Problem",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "to grow the best plants possible for the betterment of humanity.",
+                        "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "pb-5"
+                            "color": ""
                         }
                     },
                     "button": {
-                        "content": "Explore Our Mission",
-                        "link": "/index#contact-us",
+                        "content": "",
+                        "link": "",
                         "css": {
-                            "color": "text-2xl bg-green-800 rounded-[20px] px-4 py-2 "
+                            "color": ""
                         },
                         "inlineCss": ""
                     },
-                    "image": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "absolute"
-                        }
-                    },
                     "caption": {
-                        "content": "",
+                        "content": "Fresh & Safe Agro Produce In Nepal",
                         "css": {
-                            "color": "text-2xl font-bold"
+                            "color": "text-3xl  py-2 font-light"
                         },
+                        "inlineCss": "",
                         "parseHtml": ""
                     },
-                    "video": {
-                        "link": "https://www.youtube.com/embed/kxRhVRHvcZk",
-                        "banner": "1"
+                    "image": {
+                        "content": "",
+                        "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": " h-[60vh] flex  items-center  container m-auto"
+                            "color": " text-center items-center"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "px-20"
+                            "color": "md:col-span-10 "
                         }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto pt-12"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
                     "imageWrap": {
                         "css": {
                             "color": ""
                         }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container relative w-full"
-                        },
-                        "inlineCss": ""
                     }
                 }
             },
-            "order": 3
+            "order": 5
         },
         {
             "id": 7157,
@@ -228,82 +221,7 @@
                     }
                 ]
             },
-            "order": 4
-        },
-        {
-            "id": 7159,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-cover text-center",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-base text-slate-400 font-light",
-                            "fontSize": "12px"
-                        },
-                        "content": "Solving the Toughest Problem",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "Fresh & Safe Agro Produce In Nepal",
-                        "css": {
-                            "color": "text-3xl  py-2 font-light"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": " text-center items-center"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-span-10 "
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto pt-12"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    }
-                }
-            },
-            "order": 5
+            "order": 6
         },
         {
             "id": 7156,
@@ -452,7 +370,7 @@
                     }
                 ]
             },
-            "order": 916
+            "order": 918
         },
         {
             "id": 1305,
@@ -464,7 +382,7 @@
                 "title": "Top 10 Healthy food for your diet | Oktarkari \n",
                 "description": "The following fruits and vegetables are nutritious, but these picks have the highest levels of good-for-you nutrients that fight disease, improve cognition, and prevent heart disease.\n\n"
             },
-            "order": 925
+            "order": 927
         },
         {
             "id": 1308,
@@ -478,7 +396,7 @@
                 "trackingId": "UA-193509029-2",
                 "fontFamily": "Raleway"
             },
-            "order": 928
+            "order": 930
         },
         {
             "id": 6477,
@@ -627,7 +545,7 @@
                     }
                 ]
             },
-            "order": 929
+            "order": 931
         },
         {
             "id": 6468,
@@ -692,7 +610,7 @@
                     }
                 }
             },
-            "order": 932
+            "order": 934
         },
         {
             "id": 6472,
@@ -814,7 +732,7 @@
                     }
                 ]
             },
-            "order": 932
+            "order": 934
         },
         {
             "id": 6469,
@@ -879,7 +797,7 @@
                     }
                 }
             },
-            "order": 933
+            "order": 935
         },
         {
             "id": 6471,
@@ -1012,7 +930,7 @@
                     }
                 ]
             },
-            "order": 935
+            "order": 937
         },
         {
             "id": 6476,
@@ -1077,7 +995,7 @@
                     }
                 }
             },
-            "order": 936
+            "order": 938
         },
         {
             "id": 6463,
@@ -1147,7 +1065,7 @@
                     }
                 }
             },
-            "order": 937
+            "order": 939
         },
         {
             "id": 6464,
@@ -1216,7 +1134,7 @@
                     }
                 }
             },
-            "order": 939
+            "order": 941
         },
         {
             "id": 6465,
@@ -1282,7 +1200,7 @@
                     }
                 }
             },
-            "order": 940
+            "order": 942
         },
         {
             "id": 6473,
@@ -1423,7 +1341,7 @@
                     }
                 ]
             },
-            "order": 941
+            "order": 943
         },
         {
             "id": 6474,
@@ -1556,7 +1474,7 @@
                     }
                 ]
             },
-            "order": 943
+            "order": 945
         }
     ]
 }
