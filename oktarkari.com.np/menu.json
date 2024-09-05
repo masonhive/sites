@@ -1,49 +1,49 @@
 {
     "data": [
         {
-            "name": "Learn",
+            "name": "About",
             "id": 131,
             "parent_menu_id": null,
             "link": "/food-and-health",
             "child": []
         },
         {
-            "name": "Impact",
+            "name": "News",
             "id": 132,
             "parent_menu_id": null,
             "link": "/recepies-and-produce",
             "child": []
         },
         {
-            "name": "Partners",
+            "name": "Purpose",
             "id": 133,
             "parent_menu_id": null,
             "link": "/guidelines",
             "child": []
         },
         {
-            "name": "Taste",
+            "name": "Suppliers",
             "id": 134,
             "parent_menu_id": null,
             "link": "/offers",
             "child": []
         },
         {
-            "name": "Connect",
+            "name": "Investors",
             "id": 559,
             "parent_menu_id": null,
             "link": "/test",
             "child": []
         },
         {
-            "name": "Food & Health",
+            "name": "Careers",
             "id": 560,
             "parent_menu_id": null,
             "link": "/test",
             "child": []
         },
         {
-            "name": "About Us",
+            "name": "Ask OKtarkari",
             "id": 639,
             "parent_menu_id": null,
             "link": "/about-us",
