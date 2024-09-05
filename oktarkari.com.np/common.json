@@ -147,7 +147,8 @@
                 "itemList": [
                     {
                         "content": "Get Our Produces",
-                        "link": "/meet-us"
+                        "link": "/meet-us",
+                        "css": "bg-green-700\trounded-full px-4 py-1 text-white text-base"
                     }
                 ],
                 "common_component": "1"

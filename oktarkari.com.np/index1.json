@@ -85,6 +85,169 @@
                 }
             },
             "order": 5
+        },
+        {
+            "id": 7546,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Khula\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-lg py-2 text-slate-500"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "bg-indigo-700\trounded-full px-5 py-3 text-white"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Discover more",
+                        "css": {
+                            "color": "text-3xl py-2 pb-14 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "4"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid-cols-5 grid"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-3 md:col-start-2 col-span-12"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col border-t-4 border-green-800"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-2xl pb-8 pt-4"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-3 md:mx-10 col-span-12"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "text-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto px-20"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "py-5 text-left"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-20 items-center m-auto md:px-0 px-5"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "px-6"
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": "mt-10 border rounded-full text-center py-1"
+                        },
+                        "inlineCss": ""
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Working at Walmart",
+                        "parseHtml": "1",
+                        "caption": "Our unique combination of pathways, perks and pay mean you can build just about any career you want here.",
+                        "button": "Learn More"
+                    },
+                    {
+                        "heading": "Sustainability",
+                        "caption": "We’re working to become a regenerative company that aims to make a positive difference for people and the planet.",
+                        "parseHtml": "1",
+                        "button": "Learn More"
+                    },
+                    {
+                        "heading": "Locations",
+                        "caption": "We operate approximately 10,500 stores and clubs in 19 countries and numerous eCommerce websites.",
+                        "parseHtml": "1",
+                        "button": "Learn More"
+                    },
+                    {
+                        "heading": "Ask Walmart",
+                        "caption": "Have questions for Walmart? Find answers here.",
+                        "parseHtml": "1",
+                        "button": "Learn More"
+                    }
+                ]
+            },
+            "order": 6
         }
     ]
 }
