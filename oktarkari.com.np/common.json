@@ -10,7 +10,7 @@
                         "color": " shadow-sm shadow-slate-200",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    "inlineCss": "{\"fontFamily\":\"Poppins\"}"
                 },
                 "keyComponents": {
                     "heading": {
@@ -147,7 +147,6 @@
                 "itemList": [
                     {
                         "content": "Get Our Produces",
-                        "css": "bg-green-700\trounded-full px-4 py-1 text-white text-base",
                         "link": "/meet-us"
                     }
                 ],
