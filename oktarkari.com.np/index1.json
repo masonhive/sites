@@ -57,7 +57,8 @@
                         "banner": "1",
                         "css": {
                             "color": "absolute md:h-[56.25vw] h-[70vh]  md:w-[100vw]  w-[177.78vh] top-[50%] left-[50%] translate-x-2/4 translate-y-2/4"
-                        }
+                        },
+                        "inlineCss": "{\"transform\": \"translate(-50%, -50%)\"}"
                     }
                 },
                 "wrapper": {
