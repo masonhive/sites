@@ -150,15 +150,28 @@
                     },
                     {
                         "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//Untitled-1.jpg",
-                        "heading": "My name is Sachin Kushwaha, and I recently secured a UK visa for my studies with the invaluable support of Stellar Education. They expertly assisted me with everything from documentation to interview preparation, providing clear guidance and personalized assistance. Their dedication and professionalism made the entire process smooth and efficient, boosting my confidence and ensuring my success. I highly recommend Stellar Education to anyone aspiring to study abroad. Thank you, Stellar Education, for making my dream come true!",
-                        "caption": "Sachin Kushwaha\nUK Visa Granted",
+                        "heading": "My name is Sachin Kushwaha, and I recently secured a UK visa at Ravensbourne University  for Master of Project Management with the invaluable support of Stellar Education. They expertly assisted me with everything from documentation to interview preparation, providing clear guidance and personalized assistance. Their dedication and professionalism made the entire process smooth and efficient, boosting my confidence and ensuring my success. I highly recommend Stellar Education to anyone aspiring to study abroad. Thank you, Stellar Education, for making my dream come true!",
+                        "caption": "Sachin Kushwaha-\nRavensbourne University UK",
                         "icon": "FaQuoteLeft",
                         "parseHtml": "1"
                     },
                     {
                         "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//USA.jpg",
                         "heading": "My name is Jamuna Khatiwada, and I recently secured a USA visa for my further studies with the incredible support from Stellar Education. They expertly assisted me with everything from documentation to interview preparation, making the entire process smooth and efficient. Their dedication and professionalism boosted my confidence and ensured my success. I am extremely grateful for their help and highly recommend Stellar Education to anyone looking to study in the USA. Thank you, Stellar Education, for making my dream come true!",
-                        "caption": "Jamuna Khatiwada\nUK Visa Granted",
+                        "caption": "Jamuna Khatiwada\nUSA Visa Granted",
+                        "icon": "FaQuoteLeft",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//Ashok Gautam- NZ Waikato.jpg",
+                        "heading": "My name is Ashok Gautam, and I recently secured a New Zealand  visa to Study Master of Engineering at University of Waikato with the incredible support from Stellar Education. They expertly assisted me with everything from documentation to interview preparation, making the entire process smooth and efficient. Their dedication and professionalism boosted my confidence and ensured my success. I am extremely grateful for their help and highly recommend Stellar Education to anyone looking to study in the USA. Thank you, Stellar Education, for making my dream come true!",
+                        "caption": "Ashok Gautam-\nUniversity of Waikato",
+                        "icon": "FaQuoteLeft",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "My name is Amrit Karki, and I recently secured a New Zealand  visa to Study Master of Engineering at Auckland University of Technology (AUT) with the incredible support from Stellar Education. They expertly assisted me with everything from documentation to interview preparation, making the entire process smooth and efficient. Their dedication and professionalism boosted my confidence and ensured my success. I am extremely grateful for their help and highly recommend Stellar Education to anyone looking to study in the USA. Thank you, Stellar Education, for making my dream come true!",
+                        "caption": "Amrit Karki-\n Auckland University of Technology (AUT)",
                         "icon": "FaQuoteLeft",
                         "parseHtml": "1"
                     }
