@@ -54,6 +54,13 @@
                     "parent_menu_id": 613,
                     "link": "/study-japan",
                     "child": []
+                },
+                {
+                    "name": "Study In Dubai",
+                    "id": 689,
+                    "parent_menu_id": 613,
+                    "link": "/study-dubai",
+                    "child": []
                 }
             ]
         },
