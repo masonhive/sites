@@ -156,6 +156,80 @@
             "order": 1
         },
         {
+            "id": 7081,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-indigo-950 text-white text-center",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-5xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-2xl pt-4 pb-10"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Copyright © 2024 SIE ( Stellar International Education ). Useful Links | Glossary | Terms of Use | Privacy Policy",
+                        "css": {
+                            "color": "text-sm "
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-5 items-center m-auto"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                },
+                "common_component": "1"
+            },
+            "order": 17
+        },
+        {
             "id": 7080,
             "component": "CardV2",
             "component_id": 62,
@@ -291,80 +365,6 @@
                         "parseHtml": "1"
                     }
                 ],
-                "common_component": "1"
-            },
-            "order": 18
-        },
-        {
-            "id": 7081,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-indigo-950 text-white text-center",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-5xl py-2 text-slate-800",
-                            "fontSize": "12px"
-                        },
-                        "content": "",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-2xl pt-4 pb-10"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "Copyright © 2024 SIE ( Stellar International Education ). Useful Links | Glossary | Terms of Use | Privacy Policy",
-                        "css": {
-                            "color": "text-sm "
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container py-5 items-center m-auto"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    }
-                },
                 "common_component": "1"
             },
             "order": 47
