@@ -90,6 +90,13 @@
                     "parent_menu_id": 614,
                     "link": "/test-preparation-pte",
                     "child": []
+                },
+                {
+                    "name": "Duolingo English Test",
+                    "id": 690,
+                    "parent_menu_id": 614,
+                    "link": "/test-preparation",
+                    "child": []
                 }
             ]
         },
