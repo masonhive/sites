@@ -356,12 +356,12 @@
                     },
                     {
                         "heading": "Study Destinations",
-                        "caption": "<a href=\"/study-australia\">Study in Australia </a> \n<a href=\"/study-newzealand\">Study in New Zealand</a> \n<a href=\"/study-usa\">Study in USA</a> \n<a href=\"/study-uk\">Study in UK</a>\n <a href=\"/study-canada\">Study in Canada </a> \n <a href=\"/study-japan\">Study in Japan </a> ",
+                        "caption": "<a href=\"/study-australia\">Study in Australia </a> \n<a href=\"/study-newzealand\">Study in New Zealand</a> \n<a href=\"/study-usa\">Study in USA</a> \n<a href=\"/study-uk\">Study in UK</a>\n <a href=\"/study-canada\">Study in Canada </a> \n<a href=\"/study-Europe\">Study in Europe </a> \n <a href=\"/study-japan\">Study in Japan </a> \n<a href=\"/study-Asia\">Study in Asia </a> \n\n",
                         "parseHtml": "1"
                     },
                     {
                         "heading": "Our Services",
-                        "caption": "<a href=\"/about-us\">Admission Counselling</a> \n<a href=\"/contact-us\">Health Coverage</a> \n<a href=\"/contact-us\">Accomodations</a> ",
+                        "caption": "<a href=\"/about-us\">Admission Counselling</a> \n<a href=\"/contact-us\">Country & University Selection</a> \n<a href=\"/contact-us\">Health Coverage (OSHC)</a> \n<a href=\"/contact-us\">Accommodations</a> \n<a href=\"/contact-us\">Scholarship's</a> \n<a href=\"/contact-us\">Test Preparation</a> \n<a href=\"/contact-us\">Visa Guidance</a> ",
                         "parseHtml": "1"
                     }
                 ],
