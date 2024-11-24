@@ -142,6 +142,14 @@
                         "parseHtml": "1",
                         "button": "Register",
                         "link": "/event-1"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//BGSU logo.png",
+                        "heading": "Meet University Representative from Middle Tennessee University | 4th Dec 2024 | Kathmandu\n\n\n\n",
+                        "caption": "\n\n\nDate : 4th Dec, 2024 <br/><br/>\nDay: Wednesday,\n\nTime: 2:00 pm <br/><br/>\nVenue: Stellar Premises <br/>\n\n\n\n",
+                        "link": "/event-bgsu",
+                        "parseHtml": "1",
+                        "button": "Register"
                     }
                 ]
             },
