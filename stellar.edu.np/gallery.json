@@ -155,7 +155,7 @@
                             "color": "text-2xl py-2 text-slate-800",
                             "fontSize": "12px"
                         },
-                        "content": "Some Clicks !",
+                        "content": "",
                         "inlineCss": ""
                     },
                     "description": {
@@ -262,19 +262,7 @@
                 },
                 "itemList": [
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/427822432_710450671287811_1950214796241000179_n.jpg"
-                    },
-                    {
                         "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//427756186_710450661287812_432628805408215285_n.jpg"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//426387297_710450604621151_7595048190798967771_n.jpg"
-                    },
-                    {
-                        "image": "https://scontent.fktm8-1.fna.fbcdn.net/v/t39.30808-6/426447631_710450584621153_2022357047446700053_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHe5lxrARfWQo4ciIbF3t5UHUgGN25HwQUdSAY3bkfBBVtUpyHn0KMwmshDRGdoAoyce_Cq-7UAgFypaSH5CyHu&_nc_ohc=QBe4JhVM9LIQ7kNvgH5xPI5&_nc_ht=scontent.fktm8-1.fna&oh=00_AYB-wH_U_usaKEg8uN0BofDRtDK4eq1sYS7ThX13FoN6OA&oe=6653824A"
-                    },
-                    {
-                        "image": "https://scontent.fktm8-1.fna.fbcdn.net/v/t39.30808-6/427740845_710450601287818_6144503878090040153_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH4AKmi2tSyW6S2pnWDC_1Ig5Ypp5hSnQ2DlimnmFKdDekaLvYGxckaAFOWW7ifqMNTVSNsEfSJvZ2xMIgl7GuK&_nc_ohc=sBhw3kSF6sYQ7kNvgFs9jJL&_nc_ht=scontent.fktm8-1.fna&oh=00_AYDjL2rOAhWPbI-q45fW6Isjp6uKhuCojr6X-OxDmfcBLw&oe=66539191"
                     }
                 ]
             },
