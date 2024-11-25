@@ -28,13 +28,15 @@
                     },
                     "form": {
                         "id": "enquiry",
-                        "type": "enquiry",
+                        "type": "general",
                         "css": {
                             "color": "p-4",
                             "fontSize": "12px"
                         },
                         "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}",
-                        "receiver_email": "sudip@stellar.edu.np"
+                        "receiver_email": "sudip@stellar.edu.np",
+                        "subject": "Contact ",
+                        "title": "Contact"
                     },
                     "formHeading": {
                         "content": "Contact Us",
