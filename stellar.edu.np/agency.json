@@ -28,7 +28,7 @@
                     },
                     "form": {
                         "id": "enquiry",
-                        "type": "enquiry",
+                        "type": "general",
                         "css": {
                             "color": "px-20",
                             "fontSize": "12px"
