@@ -131,7 +131,7 @@
                         "label": "Preferred Study Destination",
                         "type": "select",
                         "placeholder": "Choose a Destination",
-                        "data": "[\"USA\",\"Australia\",\"Canada\"]",
+                        "data": "[\"USA\",\"Australia\",\"Canada\",\"Japan\"]",
                         "required": "1"
                     }
                 ]
