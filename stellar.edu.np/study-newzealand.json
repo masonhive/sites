@@ -213,10 +213,6 @@
                     {
                         "caption": "Courses & Universities",
                         "link": "/study-australia#courses"
-                    },
-                    {
-                        "caption": "Requirements",
-                        "link": "/study-australia#requirements"
                     }
                 ]
             },
@@ -241,11 +237,11 @@
                             "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
-                        "content": "Study in New Zealand from Nepal",
+                        "content": "Study in New Zealand ",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "",
+                        "content": "1. Research Institutions and Programs\n2. Check Eligibility Requirements\n3. Financial Requirements\n4. Apply to Institutions\n5. Apply for a Student Visa\n6. Prepare for Departure",
                         "inlineCss": "",
                         "css": {
                             "color": ""
@@ -260,7 +256,7 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Australia is a contemporary, democratic nation with excellent healthcare, top-notch educational institutions, and a unique geography. Studying in Australia is particularly a terrific option for students to advance their education and professional opportunities, whether it's because of the exciting way of life, welcoming culture, or excellent educational resources.",
+                        "content": "Studying in New Zealand  is an excellent choice, as New Zealand offers world-class education, a safe environment, and post-study work opportunities. Here's a step-by-step guide for students:\n",
                         "css": {
                             "color": "text-slate-400 font-light"
                         },
@@ -268,7 +264,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://www.aeccglobal.com.np/images/2023/08/14/canada-4.webp",
+                        "content": "",
                         "link": ""
                     }
                 },
@@ -317,7 +313,7 @@
                             "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
-                        "content": "Benefits of Studying in New Zealand for Nepalese Students",
+                        "content": "Benefits of Studying in New Zealand for International Students",
                         "inlineCss": ""
                     },
                     "description": {
@@ -336,7 +332,7 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "In recent years, the number of students from around the world pursuing their studies in the Land Down Under has increased tremendously. This influx of foreign students into Australian higher education can be attributed to a variety of factors. Here is a list of benefits of Studying in Australia as a Nepali student: \n\nWorld-class education system: Australian institutions are renowned for their world-class standards of education, robust educational standards which equip students with the knowledge and skills sought by employers worldwide. Studying in this country can therefore provide both personal enrichment and the opportunity for a successful career path.\n\nEasy to adapt culture for Nepalese students: For Nepali students, Australia is a great option to consider when deciding on a study destination. With its safe and secure atmosphere, the country provides peace of mind for those who are interested in studying abroad. Furthermore, it has modern infrastructure and top-notch healthcare services that guarantee a high standard of living. The friendly culture in Australia also means that Nepali students can easily integrate into their new environment with greater ease compared to many other countries.\n\nBest courses to study in Australia: When it comes to choosing a course in Australia, there are plenty of options. Engineering, business administration, information technology, healthcare (such as nursing and medical sciences), environmental studies, and hospitality management are among some of Australia's most popular courses. These outstanding fields of study offer excellent career prospects within thriving industries while also providing students with ample opportunity for personal and professional growth.\n\nA lifetime of experience: The breathtaking scenery and remarkable geography of the Land Down Under offer a lifetime of experience for Nepali students. From the awe-inspiring Great Barrier Reef to the iconic Sydney Opera House, as well as the magnificent outback, there are numerous wonders that make studying in Australia an unforgettable experience. With its vibrant culture and diverse lifestyle, Australia successfully complements a student's academic journey.",
+                        "content": "Studying in New Zealand offers a range of benefits that make it a popular destination for international students. Here's a breakdown of the advantages:\n\n1. World-Class Education System\nGlobally Recognized Qualifications: New Zealand's universities are ranked among the top in the world, ensuring you earn degrees recognized internationally.\nQuality Assurance: The New Zealand Qualifications Authority (NZQA) ensures high standards across institutions.\n2. Affordable Education and Living Costs\nTuition fees and living expenses in New Zealand are generally lower compared to countries like the US, UK, and Australia.\nScholarships are widely available for international students.\n3. Post-Study Work Opportunities\nNew Zealand offers generous post-study work visas, allowing students to work in the country for up to three years after completing their studies.\nPathways to permanent residency are available for skilled graduates.\n4. Diverse Range of Courses\nUniversities and institutions offer courses across various fields, from engineering and IT to arts and hospitality, ensuring a match for almost every career aspiration.\n5. Cultural Diversity and Inclusiveness\nNew Zealand is known for its welcoming and multicultural environment.\nThe Māori culture adds a unique dimension to the student experience.\n6. High Quality of Life\nNew Zealand ranks high in global quality-of-life indexes, offering a safe, clean, and stable environment.\nExcellent healthcare and infrastructure contribute to a comfortable living experience.\n7. Stunning Natural Environment\nThe country is famous for its breathtaking landscapes, including mountains, beaches, and forests, offering endless opportunities for outdoor activities.\nThis environment promotes a balanced lifestyle.\n8. Innovative Learning\nEmphasis on practical, research-based learning and critical thinking prepares students for real-world challenges.\nOpportunities to participate in groundbreaking research, particularly in fields like agriculture, environmental science, and technology.\n9. Support for International Students\nInstitutions have dedicated support systems for international students, including orientation programs, academic counseling, and career services.\n10. Safe and Peaceful Environment\nNew Zealand is considered one of the safest countries in the world with low crime rates and a politically stable environment.\nIf you're considering studying in New Zealand, it's an investment not just in education but also in personal and professional growth!",
                         "css": {
                             "color": "text-slate-400 font-light"
                         },
@@ -393,11 +389,11 @@
                             "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
-                        "content": "Courses & Universities",
+                        "content": " Universities & Colleges",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "",
+                        "content": "Institutes of Technology and Polytechnics (ITPs)\nNow unified under Te Pūkenga – New Zealand Institute of Skills and Technology, which includes:\n\nUnitec Institute of Technology (Auckland)\nManukau Institute of Technology (MIT) (Auckland)\nWelTec (Wellington)\nWhitireia Polytechnic (Wellington)\nSouthern Institute of Technology (SIT) (Invercargill)\nEastern Institute of Technology (EIT) (Hawke's Bay)\nAra Institute of Canterbury (Christchurch)\nNorthTec (Whangarei)\nToi Ohomai Institute of Technology",
                         "inlineCss": "",
                         "css": {
                             "color": ""
@@ -412,7 +408,7 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Courses & Universities's content In recent years, the number of students from around the world pursuing their studies in the Land Down Under has increased tremendously. This influx of foreign students into Australian higher education can be attributed to a variety of factors. Here is a list of benefits of Studying in Australia as a Nepali student: \n\nWorld-class education system: Australian institutions are renowned for their world-class standards of education, robust educational standards which equip students with the knowledge and skills sought by employers worldwide. Studying in this country can therefore provide both personal enrichment and the opportunity for a successful career path.\n\nEasy to adapt culture for Nepalese students: For Nepali students, Australia is a great option to consider when deciding on a study destination. With its safe and secure atmosphere, the country provides peace of mind for those who are interested in studying abroad. Furthermore, it has modern infrastructure and top-notch healthcare services that guarantee a high standard of living. The friendly culture in Australia also means that Nepali students can easily integrate into their new environment with greater ease compared to many other countries.\n\nBest courses to study in Australia: When it comes to choosing a course in Australia, there are plenty of options. Engineering, business administration, information technology, healthcare (such as nursing and medical sciences), environmental studies, and hospitality management are among some of Australia's most popular courses. These outstanding fields of study offer excellent career prospects within thriving industries while also providing students with ample opportunity for personal and professional growth.\n\nA lifetime of experience: The breathtaking scenery and remarkable geography of the Land Down Under offer a lifetime of experience for Nepali students. From the awe-inspiring Great Barrier Reef to the iconic Sydney Opera House, as well as the magnificent outback, there are numerous wonders that make studying in Australia an unforgettable experience. With its vibrant culture and diverse lifestyle, Australia successfully complements a student's academic journey.",
+                        "content": "Universities\n\n1.\tUniversity of Auckland\nLocation: Auckland\n\n2.\tUniversity of Otago\nLocation: Dunedin\n\n3.\tVictoria University of Wellington\nLocation: Wellington\n\n4.\tUniversity of Canterbury\nLocation: Christchurch\n\n5.\tMassey University\nLocations: Palmerston North, Auckland, and Wellington\n\n6.\tLincoln University\nLocation: Christchurch (near Lincoln)\n\n7.\tUniversity of Waikato\nLocation: Hamilton\n\n8.\tAuckland University of Technology (AUT)\nLocation: Auckland\n",
                         "css": {
                             "color": "text-slate-400 font-light"
                         },
@@ -449,82 +445,6 @@
                 }
             },
             "order": 7
-        },
-        {
-            "id": 7303,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-cover",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}",
-                    "id": "requirements"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2",
-                            "fontSize": "12px"
-                        },
-                        "content": "Requirement",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "Requirement's content content In recent years, the number of students from around the world pursuing their studies in the Land Down Under has increased tremendously. This influx of foreign students into Australian higher education can be attributed to a variety of factors. Here is a list of benefits of Studying in Australia as a Nepali student: \n\nWorld-class education system: Australian institutions are renowned for their world-class standards of education, robust educational standards which equip students with the knowledge and skills sought by employers worldwide. Studying in this country can therefore provide both personal enrichment and the opportunity for a successful career path.\n\nEasy to adapt culture for Nepalese students: For Nepali students, Australia is a great option to consider when deciding on a study destination. With its safe and secure atmosphere, the country provides peace of mind for those who are interested in studying abroad. Furthermore, it has modern infrastructure and top-notch healthcare services that guarantee a high standard of living. The friendly culture in Australia also means that Nepali students can easily integrate into their new environment with greater ease compared to many other countries.\n\nBest courses to study in Australia: When it comes to choosing a course in Australia, there are plenty of options. Engineering, business administration, information technology, healthcare (such as nursing and medical sciences), environmental studies, and hospitality management are among some of Australia's most popular courses. These outstanding fields of study offer excellent career prospects within thriving industries while also providing students with ample opportunity for personal and professional growth.\n\nA lifetime of experience: The breathtaking scenery and remarkable geography of the Land Down Under offer a lifetime of experience for Nepali students. From the awe-inspiring Great Barrier Reef to the iconic Sydney Opera House, as well as the magnificent outback, there are numerous wonders that make studying in Australia an unforgettable experience. With its vibrant culture and diverse lifestyle, Australia successfully complements a student's academic journey.",
-                        "css": {
-                            "color": "text-slate-400 font-light"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "md:grid md:grid-cols-12 text-left py-20 px-5 flex flex-col"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-span-8  order-1 px-6"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "md:col-span-6  order-2"
-                        }
-                    }
-                }
-            },
-            "order": 8
         }
     ]
 }
