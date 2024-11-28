@@ -249,10 +249,10 @@
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "",
+                        "content": "1. Identify Your Study Goals\n2. Research Universities and Programs\n3. Submit Applications\n4. Receive Admission and I-20\n5. Apply for an F-1 Visa\n6. Arrange Finances and Accommodation\n7. Prepare for Travel",
                         "inlineCss": "",
                         "css": {
-                            "color": ""
+                            "color": "text-black font-light"
                         }
                     },
                     "button": {
@@ -264,9 +264,9 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Australia is a contemporary, democratic nation with excellent healthcare, top-notch educational institutions, and a unique geography. Studying in Australia is particularly a terrific option for students to advance their education and professional opportunities, whether it's because of the exciting way of life, welcoming culture, or excellent educational resources.",
+                        "content": "Choosing to study in the USA is a fantastic decision, as it offers top-tier education, a welcoming environment, and valuable post-study work prospects. Here's a simple step-by-step guide for students:\n",
                         "css": {
-                            "color": "text-slate-400 font-light"
+                            "color": "text-black font-light"
                         },
                         "inlineCss": "",
                         "parseHtml": ""
@@ -328,7 +328,7 @@
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": ""
+                            "color": "text-black font-light"
                         }
                     },
                     "button": {
@@ -340,9 +340,9 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "In recent years, the number of students from around the world pursuing their studies in the Land Down Under has increased tremendously. This influx of foreign students into Australian higher education can be attributed to a variety of factors. Here is a list of benefits of Studying in Australia as a Nepali student: \n\nWorld-class education system: Australian institutions are renowned for their world-class standards of education, robust educational standards which equip students with the knowledge and skills sought by employers worldwide. Studying in this country can therefore provide both personal enrichment and the opportunity for a successful career path.\n\nEasy to adapt culture for Nepalese students: For Nepali students, Australia is a great option to consider when deciding on a study destination. With its safe and secure atmosphere, the country provides peace of mind for those who are interested in studying abroad. Furthermore, it has modern infrastructure and top-notch healthcare services that guarantee a high standard of living. The friendly culture in Australia also means that Nepali students can easily integrate into their new environment with greater ease compared to many other countries.\n\nBest courses to study in Australia: When it comes to choosing a course in Australia, there are plenty of options. Engineering, business administration, information technology, healthcare (such as nursing and medical sciences), environmental studies, and hospitality management are among some of Australia's most popular courses. These outstanding fields of study offer excellent career prospects within thriving industries while also providing students with ample opportunity for personal and professional growth.\n\nA lifetime of experience: The breathtaking scenery and remarkable geography of the Land Down Under offer a lifetime of experience for Nepali students. From the awe-inspiring Great Barrier Reef to the iconic Sydney Opera House, as well as the magnificent outback, there are numerous wonders that make studying in Australia an unforgettable experience. With its vibrant culture and diverse lifestyle, Australia successfully complements a student's academic journey.",
+                        "content": " The United States is an exceptional destination for Nepalese students, offering countless advantages that make it a top choice for international education. Renowned for its world-class education, the USA is home to prestigious universities that provide high-quality learning experiences, access to advanced technology, and globally recognized degrees. Students benefit from diverse program offerings, allowing them to pursue specializations tailored to their career goals, whether in engineering, business, IT, arts, or other fields.  \n\nA significant advantage of studying in the USA is the opportunity to gain practical work experience through programs like Optional Practical Training (OPT). These initiatives allow graduates to apply their knowledge in real-world settings and even transition to long-term employment within the country. Furthermore, American universities emphasize flexibility in education, enabling students to customize their learning experience with a blend of theoretical and practical approaches.  \n\nThe multicultural environment in the USA enriches Nepalese students' experiences, fostering cultural awareness and broadening global networks. With a focus on research and innovation, the USA offers unparalleled opportunities to participate in groundbreaking projects, particularly in cutting-edge fields like technology, medicine, and engineering.  \n\nSupport for international students is another hallmark of studying in the USA. Institutions provide comprehensive services, including academic advising, career counseling, and language assistance, ensuring a smooth adjustment and fostering academic success. Beyond academics, a degree from an American institution enhances career prospects, carrying global prestige and opening doors to exceptional opportunities both in Nepal and worldwide.  \n\nOverall, studying in the USA is not just about earning a degree; it is an investment in a transformative experience that combines education, personal growth, and a promising future.",
                         "css": {
-                            "color": "text-slate-400 font-light"
+                            "color": "text-black font-light"
                         },
                         "inlineCss": "",
                         "parseHtml": ""
@@ -397,7 +397,7 @@
                             "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
-                        "content": "Requirements",
+                        "content": "Universities & Colleges",
                         "inlineCss": ""
                     },
                     "description": {
@@ -416,9 +416,9 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "requirements content In recent years, the number of students from around the world pursuing their studies in the Land Down Under has increased tremendously. This influx of foreign students into Australian higher education can be attributed to a variety of factors. Here is a list of benefits of Studying in Australia as a Nepali student: \n\nWorld-class education system: Australian institutions are renowned for their world-class standards of education, robust educational standards which equip students with the knowledge and skills sought by employers worldwide. Studying in this country can therefore provide both personal enrichment and the opportunity for a successful career path.\n\nEasy to adapt culture for Nepalese students: For Nepali students, Australia is a great option to consider when deciding on a study destination. With its safe and secure atmosphere, the country provides peace of mind for those who are interested in studying abroad. Furthermore, it has modern infrastructure and top-notch healthcare services that guarantee a high standard of living. The friendly culture in Australia also means that Nepali students can easily integrate into their new environment with greater ease compared to many other countries.\n\nBest courses to study in Australia: When it comes to choosing a course in Australia, there are plenty of options. Engineering, business administration, information technology, healthcare (such as nursing and medical sciences), environmental studies, and hospitality management are among some of Australia's most popular courses. These outstanding fields of study offer excellent career prospects within thriving industries while also providing students with ample opportunity for personal and professional growth.\n\nA lifetime of experience: The breathtaking scenery and remarkable geography of the Land Down Under offer a lifetime of experience for Nepali students. From the awe-inspiring Great Barrier Reef to the iconic Sydney Opera House, as well as the magnificent outback, there are numerous wonders that make studying in Australia an unforgettable experience. With its vibrant culture and diverse lifestyle, Australia successfully complements a student's academic journey.",
+                        "content": "Ashland University, Arizona State University, Atlantis University, Arkansas State University, The University of Akron, Colorado State University, The University of Arizona, The University of Toledo, University of North Texas, Missouri Southern State University, Bowling Green State University, Herzing University, Washington University of Science and Technology, Westcliff University, Webster University, Wright State University, Mercy University, Avila University, San Francisco State University, University of New Haven, Texas State University, University of South Alabama, University of Oregon, Concordia University Chicago, Saint Peter's University, Temple University, Middle Georgia State University, Middle Tennessee State University, Wichita State University, Wilkes University",
                         "css": {
-                            "color": "text-slate-400 font-light"
+                            "color": "text-black font-light"
                         },
                         "inlineCss": "",
                         "parseHtml": ""
@@ -453,82 +453,6 @@
                 }
             },
             "order": 7
-        },
-        {
-            "id": 7305,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-cover",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}",
-                    "id": "requirements"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2",
-                            "fontSize": "12px"
-                        },
-                        "content": "Requirements",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "requirements content In recent years, the number of students from around the world pursuing their studies in the Land Down Under has increased tremendously. This influx of foreign students into Australian higher education can be attributed to a variety of factors. Here is a list of benefits of Studying in Australia as a Nepali student: \n\nWorld-class education system: Australian institutions are renowned for their world-class standards of education, robust educational standards which equip students with the knowledge and skills sought by employers worldwide. Studying in this country can therefore provide both personal enrichment and the opportunity for a successful career path.\n\nEasy to adapt culture for Nepalese students: For Nepali students, Australia is a great option to consider when deciding on a study destination. With its safe and secure atmosphere, the country provides peace of mind for those who are interested in studying abroad. Furthermore, it has modern infrastructure and top-notch healthcare services that guarantee a high standard of living. The friendly culture in Australia also means that Nepali students can easily integrate into their new environment with greater ease compared to many other countries.\n\nBest courses to study in Australia: When it comes to choosing a course in Australia, there are plenty of options. Engineering, business administration, information technology, healthcare (such as nursing and medical sciences), environmental studies, and hospitality management are among some of Australia's most popular courses. These outstanding fields of study offer excellent career prospects within thriving industries while also providing students with ample opportunity for personal and professional growth.\n\nA lifetime of experience: The breathtaking scenery and remarkable geography of the Land Down Under offer a lifetime of experience for Nepali students. From the awe-inspiring Great Barrier Reef to the iconic Sydney Opera House, as well as the magnificent outback, there are numerous wonders that make studying in Australia an unforgettable experience. With its vibrant culture and diverse lifestyle, Australia successfully complements a student's academic journey.",
-                        "css": {
-                            "color": "text-slate-400 font-light"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "md:grid md:grid-cols-12 text-left py-20 px-5 flex flex-col"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-span-8  order-1 px-6"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "md:col-span-6  order-2"
-                        }
-                    }
-                }
-            },
-            "order": 8
         }
     ]
 }
