@@ -249,11 +249,12 @@
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "1. Identify Your Study Goals\n2. Research Universities and Programs\n3. Submit Applications\n4. Receive Admission and I-20\n5. Apply for an F-1 Visa\n6. Arrange Finances and Accommodation\n7. Prepare for Travel",
+                        "content": "<br/> <br/>\n1. Identify Your Study Goals\n<br/> <br/>\n2. Research Universities and Programs\n<br/> <br/>\n3. Submit Application\n<br/> <br/>\n4. Receive Admission and I-20\n<br/> <br/>\n5. Apply for an F-1 Visa\n<br/> <br/>\n6. Arrange Finances and Accommodation\n<br/> <br/>\n7. Prepare for Travel",
                         "inlineCss": "",
                         "css": {
                             "color": "text-black font-light"
-                        }
+                        },
+                        "parseHtml": "1"
                     },
                     "button": {
                         "content": "",
