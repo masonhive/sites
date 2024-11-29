@@ -37,7 +37,7 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Learn everything you need to know about studyingin Australia and get end to end expert guidance from us.",
+                        "content": "Learn everything you need to know about studying in UK and get end-to-end expert guidance from us.",
                         "css": {
                             "color": "text-slate-400 font-light"
                         },
@@ -266,7 +266,7 @@
                     "caption": {
                         "content": "UK is a contemporary, democratic nation with excellent healthcare, top-notch educational institutions, and a unique geography. Studying in UK is particularly a terrific option for students to advance their education and professional opportunities, whether it's because of the exciting way of life, welcoming culture, or excellent educational resources.",
                         "css": {
-                            "color": "text-slate-400 font-light"
+                            "color": "text-black font-light"
                         },
                         "inlineCss": "",
                         "parseHtml": ""
@@ -340,9 +340,9 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "In recent years, the number of students from around the world pursuing their studies in the Land Down Under has increased tremendously. This influx of foreign students into Australian higher education can be attributed to a variety of factors. Here is a list of benefits of Studying in Australia as a Nepali student: \n\nWorld-class education system: Australian institutions are renowned for their world-class standards of education, robust educational standards which equip students with the knowledge and skills sought by employers worldwide. Studying in this country can therefore provide both personal enrichment and the opportunity for a successful career path.\n\nEasy to adapt culture for Nepalese students: For Nepali students, Australia is a great option to consider when deciding on a study destination. With its safe and secure atmosphere, the country provides peace of mind for those who are interested in studying abroad. Furthermore, it has modern infrastructure and top-notch healthcare services that guarantee a high standard of living. The friendly culture in Australia also means that Nepali students can easily integrate into their new environment with greater ease compared to many other countries.\n\nBest courses to study in Australia: When it comes to choosing a course in Australia, there are plenty of options. Engineering, business administration, information technology, healthcare (such as nursing and medical sciences), environmental studies, and hospitality management are among some of Australia's most popular courses. These outstanding fields of study offer excellent career prospects within thriving industries while also providing students with ample opportunity for personal and professional growth.\n\nA lifetime of experience: The breathtaking scenery and remarkable geography of the Land Down Under offer a lifetime of experience for Nepali students. From the awe-inspiring Great Barrier Reef to the iconic Sydney Opera House, as well as the magnificent outback, there are numerous wonders that make studying in Australia an unforgettable experience. With its vibrant culture and diverse lifestyle, Australia successfully complements a student's academic journey.",
+                        "content": "In recent years, more Nepali students have chosen the UK as their destination for higher education, drawn by the numerous benefits it offers. The UK is home to some of the world’s most prestigious universities, known for their high academic standards and globally recognized degrees. Studying in the UK ensures that students receive a quality education that equips them with the skills and knowledge sought by employers around the world, opening doors to excellent career opportunities both in the UK and internationally.\n\nFor Nepali students, adapting to life in the UK is relatively easy, thanks to its welcoming and multicultural environment. The country offers a safe and secure atmosphere, complemented by modern infrastructure, excellent healthcare, and a high standard of living. This creates a comfortable and enriching experience for international students, allowing them to focus on their studies while feeling at home. \n\nThe UK also offers a wide variety of courses, making it an ideal place for students to pursue their academic interests. From business and engineering to law, medicine, and the arts, Nepali students can find programs that align with their career goals. With a strong emphasis on research, innovation, and practical learning, the UK provides an academic environment that fosters both personal and professional growth. \n\nMoreover, studying in the UK offers a unique cultural experience. The country’s rich history, vibrant cities, and iconic landmarks, combined with the opportunity to interact with peers from around the world, provide a well-rounded experience that extends beyond academics. This exposure to diverse cultures and perspectives enriches the educational journey.\n\nAdditionally, the UK’s strong connections with leading industries offer ample opportunities for internships, networking, and career development. Many universities provide dedicated career services to help students secure work placements, which enhances their employability upon graduation. \n\nIn conclusion, studying in the UK offers Nepali students an exceptional education, a welcoming environment, and valuable career prospects, making it an ideal choice for those seeking academic and personal growth.",
                         "css": {
-                            "color": "text-slate-400 font-light"
+                            "color": "text-black font-light"
                         },
                         "inlineCss": "",
                         "parseHtml": ""
@@ -401,11 +401,12 @@
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "",
+                        "content": "The universities and colleges we are promoting are:\n<br/> <br/> \n1. Ravensbourne University London\n<br/> <br/>\n2. University of Roehampton London\n<br/> <br/>\n3. University of Bradford\n<br/> <br/>\n4. De Montfort University\n<br/> <br/>\n5. BPP University\n<br/> <br/>\n6. University of Kent\n<br/> <br/>\n7. University of Greenwich\n<br/> <br/>\n8. University of Dundee\n<br/> <br/>\n9. Edinburgh Napier University\n<br/> <br/>\n10. Bangor University\n<br/> <br/>\n11. Bishop Grosseteste University\n<br/> <br/>\n12. Coventry University London\n<br/> <br/>\n13. University College Birmingham\n<br/> <br/>\n14. Wrexham Glyndwr University\n<br/> <br/>\n15. Richmond American University London\n<br/> <br/>\n16. Solent University\n<br/> <br/>\n17. University of East London\n<br/> <br/>\n18. University of Bedfordshire\n<br/> <br/>\n19. University of Sunderland\n<br/> <br/>\n20. University of Chichester\n<br/> <br/>\n21. Regent College London.\n",
                         "inlineCss": "",
                         "css": {
-                            "color": ""
-                        }
+                            "color": "text-black font-light"
+                        },
+                        "parseHtml": "1"
                     },
                     "button": {
                         "content": "",
@@ -416,12 +417,12 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Courses & Universities contentIn recent years, the number of students from around the world pursuing their studies in the Land Down Under has increased tremendously. This influx of foreign students into Australian higher education can be attributed to a variety of factors. Here is a list of benefits of Studying in Australia as a Nepali student: \n\nWorld-class education system: Australian institutions are renowned for their world-class standards of education, robust educational standards which equip students with the knowledge and skills sought by employers worldwide. Studying in this country can therefore provide both personal enrichment and the opportunity for a successful career path. ",
+                        "content": "Nepalese students can pursue a variety of popular courses in the UK, including Business and Management, with degrees in Finance, Marketing, and Business Administration. Engineering programs, such as Mechanical, Civil, and Computer Engineering, are also highly sought-after, as well as IT and Computer Science courses, including Cybersecurity and Data Science. Healthcare and Medical Sciences, including Medicine and Nursing, attract many students, while Law degrees are globally recognized. Arts and Humanities, such as History and Literature, Social Sciences like Psychology and Sociology, and creative fields like Design, Fashion, and Hospitality Management are also popular choices. Additionally, Education and Teaching programs offer great opportunities for those interested in academia.\n<br/> <br/>",
                         "css": {
-                            "color": "text-slate-400 font-light"
+                            "color": "text-black font-light"
                         },
                         "inlineCss": "",
-                        "parseHtml": ""
+                        "parseHtml": "1"
                     },
                     "image": {
                         "content": "",
@@ -492,9 +493,9 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Requirements content Courses & Universities contentIn recent years, the number of students from around the world pursuing their studies in the Land Down Under has increased tremendously. This influx of foreign students into Australian higher education can be attributed to a variety of factors. Here is a list of benefits of Studying in Australia as a Nepali student: \n\nWorld-class education system: Australian institutions are renowned for their world-class standards of education, robust educational standards which equip students with the knowledge and skills sought by employers worldwide. Studying in this country can therefore provide both personal enrichment and the opportunity for a successful career path. ",
+                        "content": "For Nepalese students aspiring to study in the UK, there are several key requirements to consider. To begin with, students must meet the academic criteria, such as completing higher secondary education (Grade 12) for undergraduate courses or holding a bachelor’s degree for postgraduate programs. Proficiency in English is a must, and students are typically required to submit results from recognized language tests like IELTS or TOEFL. Financial readiness is another important factor, as students must demonstrate their ability to cover tuition fees and living expenses through bank statements or affidavits. To study in the UK, obtaining a Tier 4 (General) Student Visa is necessary, which involves securing a Confirmation of Acceptance for Studies (CAS) from a UK institution, along with evidence of financial support and English proficiency. Medical checks may also be required, depending on the student’s country of residence. Students will need to arrange accommodation, either through university-provided housing or private options. Scholarships may be available for eligible students to help with costs. The application process typically involves applying directly through university portals or UCAS, submitting academic transcripts, personal statements, and recommendation letters. By ensuring all these requirements are met, Nepalese students can successfully apply for a student visa and begin their educational journey in the UK. ",
                         "css": {
-                            "color": "text-slate-400 font-light"
+                            "color": "text-black font-light"
                         },
                         "inlineCss": "",
                         "parseHtml": ""
