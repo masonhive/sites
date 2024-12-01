@@ -416,18 +416,18 @@
                 },
                 "itemList": [
                     {
-                        "caption": "<a href=\"/about-us\">Who We Are </a>\n <a href=\"/contact-us\">Our Timeline</a> \n<a href=\"/contact\">Our Leadership Team</a> \n<a href=\"/\">Partner With Us</a>\n <a href=\"/\">Awards Recognitions</a> \n<a href=\"/\">Careers</a>",
+                        "caption": "Who We Are \n Our Timeline \nOur Leadership Team \nPartner With Us\n Awards Recognitions \nCareers",
                         "parseHtml": "1",
                         "heading": "About Us"
                     },
                     {
                         "heading": "Quick Links",
-                        "caption": "<a href=\"/about-us\">Basic Japanese Language Course (N5 Level) </a> \n<a href=\"/contact-us\">Basic Japanese Language Course (N4 Level)</a> \n<a href=\"/contact\">JLPT Special Mock Test</a>",
+                        "caption": "Basic Japanese Language Course (N5 Level)  \nBasic Japanese Language Course (N4 Level) \nJLPT Special Mock Test",
                         "parseHtml": "1"
                     },
                     {
                         "heading": "Mailing Address",
-                        "caption": "Kumaripati, Lalitpur, Nepal\n<br/>\nLandline: 01- 5425109, 01-5455948\n<br/>\nMobile: +977 - 9851097108 / 9841342668",
+                        "caption": "Kumaripati, Lalitpur, Nepal\n\nLandline: 01- 5425109, 01-5455948\n\nMobile: +977 - 9851097108",
                         "parseHtml": "1"
                     }
                 ],
