@@ -32,7 +32,7 @@
                         "content": "Let's Talk",
                         "link": "/about",
                         "css": {
-                            "color": "md:text-xl text-md py-2 bg-emerald-600 text-slate-200  hover:bg-orange-400 hover:text-slate-100 rounded-full px-8"
+                            "color": "md:text-xl text-md py-3 bg-green-700 text-slate-200  hover:bg-orange-400 hover:text-slate-100 rounded-full px-10"
                         },
                         "inlineCss": ""
                     },
