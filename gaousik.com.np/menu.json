@@ -15,8 +15,22 @@
             "child": []
         },
         {
-            "name": "Contact Us",
+            "name": "Products ",
             "id": 558,
+            "parent_menu_id": null,
+            "link": "/products",
+            "child": []
+        },
+        {
+            "name": "Services",
+            "id": 691,
+            "parent_menu_id": null,
+            "link": "/services",
+            "child": []
+        },
+        {
+            "name": "Contact Us",
+            "id": 692,
             "parent_menu_id": null,
             "link": "/contact",
             "child": []
