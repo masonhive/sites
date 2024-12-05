@@ -35,10 +35,10 @@
                         },
                         "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}",
                         "receiver_email": "sudip@stellar.edu.np",
-                        "subject": "Agency Partnership Form"
+                        "subject": "Express of Interest - Partnership Form"
                     },
                     "formHeading": {
-                        "content": "Agency Partnership Form",
+                        "content": "Express of Interest- Partnership Form",
                         "css": {
                             "color": "text-2xl py-2 text-slate-800",
                             "fontSize": "12px"
@@ -57,7 +57,7 @@
                             "color": "text-4xl py-4 text-indigo-950",
                             "fontSize": "12px"
                         },
-                        "content": "\"Join Our Partnership Program: Unlock Your Potential Today!\"",
+                        "content": "\"Join Our Partnership: Unlock Your Potential Today!\"",
                         "inlineCss": ""
                     },
                     "button": {
@@ -122,16 +122,14 @@
                         "required": "1"
                     },
                     {
-                        "id": "email",
-                        "label": "Email Address",
-                        "placeholder": "Enter Your Email"
+                        "id": "Contact Number",
+                        "label": "Contact Number",
+                        "placeholder": "Contact Number"
                     },
                     {
-                        "id": "preferred_destination",
-                        "label": "Preferred Study Destination",
-                        "type": "select",
-                        "placeholder": "Choose a Destination",
-                        "data": "[\"USA\",\"Australia\",\"Canada\",\"Japan\"]",
+                        "id": "Email",
+                        "label": "Email",
+                        "placeholder": "Email",
                         "required": "1"
                     }
                 ]
