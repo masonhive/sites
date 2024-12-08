@@ -1,0 +1,530 @@
+{
+    "data": [
+        {
+            "id": 7549,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover bg-indigo-800 text-white",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-4xl py-2 font-light",
+                            "fontSize": "12px"
+                        },
+                        "content": "Your dream of studying in DUBAI is closer than you think!",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Learn everything you need to know about studying in Dubai and get end-to-end expert guidance from us.",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//Dubai.png",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left items-center flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6 md:col-start-2  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 3
+        },
+        {
+            "id": 7569,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-2xl py-2 "
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "12"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col items-center"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}",
+                        "css": {
+                            "color": "text-yellow-400"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-2 col-span-12"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left  hover:bg-indigo-700 hover:text-white px-3 py-2 hover:rounded-lg"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5 "
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-3 items-center m-auto text-center "
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "caption": "Study in Dubai",
+                        "link": "/study-australia#why-study-in-australia"
+                    },
+                    {
+                        "caption": "Benefits",
+                        "link": "/study-australia#benifits"
+                    },
+                    {
+                        "caption": "Courses & Institutions"
+                    },
+                    {
+                        "caption": "Requirements",
+                        "link": "/study-australia#requirements"
+                    }
+                ]
+            },
+            "order": 4
+        },
+        {
+            "id": 7566,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}",
+                    "id": "benifits"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Study in Dubai",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Studying abroad is an attractive option for Nepalese students looking to broaden their academic and professional horizons. Dubai, with its rapidly growing educational sector, has emerged as a popular destination for international students. Known for its modern infrastructure, diverse culture, and booming economy, Dubai offers access to world-class universities and a wide range of programs. The city’s strategic location at the crossroads of Europe, Asia, and Africa adds to its global appeal. Whether you're pursuing an undergraduate degree, postgraduate studies, or research, Dubai offers a unique opportunity to learn in an international environment while gaining exposure to a wide array of industries and career opportunities.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-black font-light"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-black font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": "",
+                        "inlineCss": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left py-20 px-5 flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-8  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 5
+        },
+        {
+            "id": 7551,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}",
+                    "id": "benifits"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Benefits of Studying in Dubai for Nepalese Students",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Dubai is an outstanding destination for Nepalese students aspiring to achieve quality education, global exposure, and promising career opportunities. The city boasts a range of internationally accredited universities and branch campuses of globally recognized institutions, allowing students to earn prestigious degrees without venturing far from home. With a vibrant multicultural environment comprising residents from over 200 nationalities, Dubai offers a unique platform for Nepalese students to broaden their horizons, develop a global perspective, and build a diverse professional network. Its geographical proximity to Nepal ensures convenient travel for students wishing to visit their families, while the relatively affordable tuition fees and living costs, combined with a variety of scholarships, make it an accessible and cost-effective option.  \n<br/> <br/>\nBeyond academics, Dubai provides an exceptional quality of life, characterized by its state-of-the-art infrastructure, safety, and cultural richness, blending traditional Arab values with modern lifestyles. The city’s thriving economy and dynamic job market, particularly in sectors like business, IT, engineering, and hospitality, offer abundant opportunities for internships and employment. Many universities focus on career-oriented education, ensuring that students are well-prepared to excel in competitive industries. The streamlined visa process and extensive support from educational institutions further simplify the transition for international students.  \n<br/> <br/>\nStudying in Dubai equips Nepalese students with the skills, experiences, and qualifications needed to thrive in a globalized world. It also serves as a gateway to international career opportunities, as degrees obtained in Dubai are highly regarded across global markets. Combining academic excellence with a vibrant lifestyle, Dubai is a destination where Nepalese students can dream big and achieve their aspirations.",
+                        "css": {
+                            "color": "text-black font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left py-20 px-5 flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-8  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 7
+        },
+        {
+            "id": 7565,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}",
+                    "id": "benifits"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Courses and Institutions",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Dubai offers a diverse range of academic opportunities, and Nepalese students often opt for courses that align with global career prospects. Among the top choices are Business and Management programs, including MBAs, which open doors to international leadership roles. Information Technology (IT) courses, such as Computer Science, Cybersecurity, and Data Analytics, are also highly popular due to the growing demand for tech professionals worldwide. Engineering fields like Civil, Mechanical, and Electrical Engineering attract students seeking expertise in innovative industries. With Dubai's thriving tourism industry, Hospitality and Tourism Management programs are another favorite, offering practical exposure and rewarding careers. The healthcare sector also draws many students to Nursing and Healthcare Management courses, which are known for their stability and growth. For creative individuals, Architecture and Interior Design and Media and Communication programs, including Digital Media and Film Production, are excellent choices. Lastly, Finance and Accounting courses, such as Chartered Accountancy and Financial Management, remain top picks for those aiming to excel in the corporate world. These programs offer quality education and equip students with skills and opportunities to succeed globally. List of Institutions that we are promoting:\n<br/> <br/>\n1. Britts Imperial College\n<br/> <br/>\n2. BITS Pilami\n<br/> <br/>\n3. CUCA City University College\n<br/> <br/>\n4. Curtin University Dubai\n<br/> <br/>\n5. GBS Dubai\n<br/> <br/>\n6. Hult International Business School\n<br/> <br/> \n7. HTMi Hotel & Tourism Management Institute\n<br/> <br/>\n8. Middlesex University Dubai\n<br/> <br/>\n9. NAME Dubai\n<br/> <br/>\n10. UK College of Business and Computing\n<br/> <br/>\n11. University of Europe for Applied Science\n",
+                        "css": {
+                            "color": "text-black font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left py-20 px-5 flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-8  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 9
+        },
+        {
+            "id": 7564,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}",
+                    "id": "benifits"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Requirements for Nepalese Students",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "To pursue educational goals in Dubai, Nepalese students must meet specific requirements to ensure a smooth application and enrollment process. Here are the basic requirements:\n<br/> <br/>\n1. Academic Qualifications\n<br/> <br/>\nCompletion of the required level of education for the chosen program (e.g., high school for undergraduate courses or a bachelor’s degree for postgraduate courses). Minimum grade requirements or equivalent GPA, depending on the institution and course.\n<br/> <br/>\n2. Application Documents\n<br/> <br/>\nCompleted application form from the chosen university.\nAcademic transcripts and certificates from previous institutions. Passport copy (valid for at least six months). A personal statement or statement of purpose (SOP). Letters of recommendation (if required). CV/Resume for postgraduate programs.\n<br/> <br/>\n3. Financial Requirements\n<br/> <br/>\nProof of sufficient funds to cover tuition fees and living expenses. Bank statements or financial sponsorship letters may be required.\n<br/> <br/>\n4. Student Visa Requirements\nAcceptance letter from a Dubai-based university or college, Valid passport, Recent passport-sized photographs, Proof of accommodation in Dubai.\nMedical fitness certificate (required by UAE immigration), Payment for visa application fees.\n<br/> <br/>\n5. Health Insurance : Enrollment in a health insurance plan approved in the UAE, as it is mandatory for all international students.\n<br/> <br/>\n6. Additional Requirements\nSome programs, especially in fields like healthcare or engineering, may require specific entrance exams or prior work experience. Depending on the institution, an interview or portfolio (for creative courses) might be needed.\n<br/> <br/>\nMeeting these requirements ensures a hassle-free process for Nepalese students to embark on their educational journey in Dubai. It is advisable to work closely with educational consultants to streamline the application and visa process.",
+                        "css": {
+                            "color": "text-black font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left py-20 px-5 flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-8  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 10
+        }
+    ]
+}
