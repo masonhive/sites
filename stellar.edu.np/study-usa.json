@@ -45,7 +45,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://www.aeccglobal.com.np/images/2024/02/02/banner-img.webp",
+                        "content": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//Statue of Liberty.png",
                         "link": ""
                     }
                 },
@@ -207,7 +207,7 @@
                         "link": "/study-australia#why-study-in-usa"
                     },
                     {
-                        "caption": "Benifits",
+                        "caption": "Benefits",
                         "link": "/study-australia#benifits"
                     },
                     {
@@ -273,7 +273,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://www.aeccglobal.com.np/images/2023/08/14/canada-4.webp",
+                        "content": "",
                         "link": ""
                     }
                 },
@@ -398,7 +398,7 @@
                             "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
-                        "content": "Universities & Colleges",
+                        "content": "Courses & Universities",
                         "inlineCss": ""
                     },
                     "description": {
@@ -417,12 +417,12 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Ashland University, Arizona State University, Atlantis University, Arkansas State University, The University of Akron, Colorado State University, The University of Arizona, The University of Toledo, University of North Texas, Missouri Southern State University, Bowling Green State University, Herzing University, Washington University of Science and Technology, Westcliff University, Webster University, Wright State University, Mercy University, Avila University, San Francisco State University, University of New Haven, Texas State University, University of South Alabama, University of Oregon, Concordia University Chicago, Saint Peter's University, Temple University, Middle Georgia State University, Middle Tennessee State University, Wichita State University, Wilkes University",
+                        "content": "The USA offers a diverse range of courses tailored to Nepali students’ academic and career goals. Popular programs include Engineering(Civil, Mechanical, Computer, Electrical) and Computer Science with specializations in AI, Cybersecurity, and Data Science. Nepali students also pursue Business Administration, Healthcare (Nursing, Public Health), and Biological Sciences like Biotechnology and Environmental Science.  \n<br/> <br/>\nFor creative and societal interests, the USA provides courses in Hospitality and Tourism Management, Social Sciences (Psychology, Sociology, Political Science), Law, and Fine Arts and Design (Graphic Design, Animation). Additionally, Educational programs such as TESOL and special education are in demand. With globally recognized institutions and cutting-edge resources, the USA is an ideal destination for Nepali students seeking top-notch education.\n<br/> <br/>\nList of Institutions that we are promoting:\n<br/> <br/>\nAshland University, Arizona State University, Atlantis University, Arkansas State University, The University of Akron, Colorado State University, The University of Arizona, The University of Toledo, University of North Texas, Missouri Southern State University, Bowling Green State University, Herzing University, Washington University of Science and Technology, Westcliff University, Webster University, Wright State University, Mercy University, Avila University, San Francisco State University, University of New Haven, Texas State University, University of South Alabama, University of Oregon, Concordia University Chicago, Saint Peter's University, Temple University, Middle Georgia State University, Middle Tennessee State University, Wichita State University, Wilkes University",
                         "css": {
                             "color": "text-black font-light"
                         },
                         "inlineCss": "",
-                        "parseHtml": ""
+                        "parseHtml": "1"
                     },
                     "image": {
                         "content": "",
