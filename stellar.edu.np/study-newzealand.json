@@ -45,7 +45,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://www.aeccglobal.com.np/images/2024/02/02/banner-img.webp",
+                        "content": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//Newzealand.png",
                         "link": ""
                     }
                 },
@@ -211,7 +211,7 @@
                         "link": "/study-australia#benifits"
                     },
                     {
-                        "caption": "Courses & Universities",
+                        "caption": "Universities & Colleges",
                         "link": "/study-australia#courses"
                     }
                 ]
@@ -241,11 +241,12 @@
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "1. Research Institutions and Programs\n2. Check Eligibility Requirements\n3. Financial Requirements\n4. Apply to Institutions\n5. Apply for a Student Visa\n6. Prepare for Departure",
+                        "content": "1. Research Institutions and Programs\n<br/> <br/>\n2. Check Eligibility Requirements\n<br/> <br/>\n3. Financial Requirements\n<br/> <br/>\n4. Apply to Institutions\n<br/> <br/>\n5. Apply for a Student Visa\n<br/> <br/>\n6. Prepare for Departure",
                         "inlineCss": "",
                         "css": {
-                            "color": ""
-                        }
+                            "color": "text-black font-light"
+                        },
+                        "parseHtml": "1"
                     },
                     "button": {
                         "content": "",
@@ -256,12 +257,12 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Studying in New Zealand  is an excellent choice, as New Zealand offers world-class education, a safe environment, and post-study work opportunities. Here's a step-by-step guide for students:\n",
+                        "content": "Studying in New Zealand is an excellent choice, as New Zealand offers a world-class education, a safe environment, and post-study work opportunities. Here's a step-by-step guide for students:\n<br/> <br/>",
                         "css": {
-                            "color": "text-slate-400 font-light"
+                            "color": "text-black font-light"
                         },
                         "inlineCss": "",
-                        "parseHtml": ""
+                        "parseHtml": "1"
                     },
                     "image": {
                         "content": "",
@@ -332,12 +333,12 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Studying in New Zealand offers a range of benefits that make it a popular destination for international students. Here's a breakdown of the advantages:\n\n1. World-Class Education System\nGlobally Recognized Qualifications: New Zealand's universities are ranked among the top in the world, ensuring you earn degrees recognized internationally.\nQuality Assurance: The New Zealand Qualifications Authority (NZQA) ensures high standards across institutions.\n2. Affordable Education and Living Costs\nTuition fees and living expenses in New Zealand are generally lower compared to countries like the US, UK, and Australia.\nScholarships are widely available for international students.\n3. Post-Study Work Opportunities\nNew Zealand offers generous post-study work visas, allowing students to work in the country for up to three years after completing their studies.\nPathways to permanent residency are available for skilled graduates.\n4. Diverse Range of Courses\nUniversities and institutions offer courses across various fields, from engineering and IT to arts and hospitality, ensuring a match for almost every career aspiration.\n5. Cultural Diversity and Inclusiveness\nNew Zealand is known for its welcoming and multicultural environment.\nThe Māori culture adds a unique dimension to the student experience.\n6. High Quality of Life\nNew Zealand ranks high in global quality-of-life indexes, offering a safe, clean, and stable environment.\nExcellent healthcare and infrastructure contribute to a comfortable living experience.\n7. Stunning Natural Environment\nThe country is famous for its breathtaking landscapes, including mountains, beaches, and forests, offering endless opportunities for outdoor activities.\nThis environment promotes a balanced lifestyle.\n8. Innovative Learning\nEmphasis on practical, research-based learning and critical thinking prepares students for real-world challenges.\nOpportunities to participate in groundbreaking research, particularly in fields like agriculture, environmental science, and technology.\n9. Support for International Students\nInstitutions have dedicated support systems for international students, including orientation programs, academic counseling, and career services.\n10. Safe and Peaceful Environment\nNew Zealand is considered one of the safest countries in the world with low crime rates and a politically stable environment.\nIf you're considering studying in New Zealand, it's an investment not just in education but also in personal and professional growth!",
+                        "content": "Studying in New Zealand offers a range of benefits that make it a popular destination for international students. Here's a breakdown of the advantages:\n\n1. World-Class Education System\nGlobally Recognized Qualifications: New Zealand's universities are ranked among the top in the world, ensuring you earn degrees recognized internationally.\nQuality Assurance: The New Zealand Qualifications Authority (NZQA) ensures high standards across institutions.\n<br/> <br/>\n2. Affordable Education and Living Costs\nTuition fees and living expenses in New Zealand are generally lower compared to countries like the US, UK, and Australia.\nScholarships are widely available for international students.\n<br/> <br/>\n3. Post-Study Work Opportunities\nNew Zealand offers generous post-study work visas, allowing students to work in the country for up to three years after completing their studies.\nPathways to permanent residency are available for skilled graduates.\n<br/> <br/>\n4. Diverse Range of Courses\nUniversities and institutions offer courses across various fields, from engineering and IT to arts and hospitality, ensuring a match for almost every career aspiration.\n<br/> <br/>\n5. Cultural Diversity and Inclusiveness\nNew Zealand is known for its welcoming and multicultural environment.\nThe Māori culture adds a unique dimension to the student experience.\n<br/> <br/>\n6. High Quality of Life\nNew Zealand ranks high in global quality-of-life indexes, offering a safe, clean, and stable environment.\nExcellent healthcare and infrastructure contribute to a comfortable living experience.\n<br/> <br/>\n7. Stunning Natural Environment\nThe country is famous for its breathtaking landscapes, including mountains, beaches, and forests, offering endless opportunities for outdoor activities.\nThis environment promotes a balanced lifestyle.\n<br/> <br/>\n8. Innovative Learning\nEmphasis on practical, research-based learning and critical thinking prepares students for real-world challenges.\nOpportunities to participate in groundbreaking research, particularly in fields like agriculture, environmental science, and technology.\n<br/> <br/>\n9. Support for International Students\nInstitutions have dedicated support systems for international students, including orientation programs, academic counseling, and career services.\n<br/> <br/>\n10. Safe and Peaceful Environment\nNew Zealand is considered one of the safest countries in the world with low crime rates and a politically stable environment.\nIf you're considering studying in New Zealand, it's an investment not just in education but also in personal and professional growth!",
                         "css": {
-                            "color": "text-slate-400 font-light"
+                            "color": "text-black font-light"
                         },
                         "inlineCss": "",
-                        "parseHtml": ""
+                        "parseHtml": "1"
                     },
                     "image": {
                         "content": "",
@@ -393,11 +394,12 @@
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "Institutes of Technology and Polytechnics (ITPs)\nNow unified under Te Pūkenga – New Zealand Institute of Skills and Technology, which includes:\n\nUnitec Institute of Technology (Auckland)\nManukau Institute of Technology (MIT) (Auckland)\nWelTec (Wellington)\nWhitireia Polytechnic (Wellington)\nSouthern Institute of Technology (SIT) (Invercargill)\nEastern Institute of Technology (EIT) (Hawke's Bay)\nAra Institute of Canterbury (Christchurch)\nNorthTec (Whangarei)\nToi Ohomai Institute of Technology",
+                        "content": "Institutes of Technology and Polytechnics (ITPs)\nNow unified under Te Pūkenga – New Zealand Institute of Skills and Technology, which includes:\n<br/> <br/>\n1. Unitec Institute of Technology (Auckland)\n<br/> <br/>\n2. Manukau Institute of Technology (MIT) (Auckland)\n<br/> <br/>\n3. WelTec (Wellington)\n<br/> <br/>\n4. Whitireia Polytechnic (Wellington)\n<br/> <br/>\n5. Southern Institute of Technology (SIT) (Invercargill)\n<br/> <br/>\n6. Eastern Institute of Technology (EIT) (Hawke's Bay)\n<br/> <br/>\n7. Ara Institute of Canterbury (Christchurch)\n<br/> <br/>\n8. NorthTec (Whangarei)\n<br/> <br/>\n9. Toi Ohomai Institute of Technology\n<br/> <br/>\nColleges:\n<br/> <br/>\n1. ATMC New Zealand\n<br/> <br/>\n2. New Zealand Skills & Education Group (NZSEG)\n<br/> <br/>\n3. Future Skills Academy\n<br/> <br/>\n4. AKA Education Group\n<br/> <br/>\n5. Whitecliffe College\n<br/> <br/>\n6. New Zealand Tertiary College\n<br/> <br/>\n7. New Zealand Management Academy (NZMA)\n<br/> <br/>\n8. Yoobee Colleges\n<br/> <br/>\n9. ICL Graduate Business School\n<br/> <br/>\n10. Pacific International Hotel Management School (PIHMS)\n<br/> <br/>\n11. Auckland Institute of Studies\n<br/> <br/>\n12. Median Design School\n<br/> <br/>\n13. Le Cordon Bleu\n<br/> <br/>\n14. UP Education\n",
                         "inlineCss": "",
                         "css": {
-                            "color": ""
-                        }
+                            "color": "text-black font-light"
+                        },
+                        "parseHtml": "1"
                     },
                     "button": {
                         "content": "",
@@ -408,12 +410,12 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Universities\n\n1.\tUniversity of Auckland\nLocation: Auckland\n\n2.\tUniversity of Otago\nLocation: Dunedin\n\n3.\tVictoria University of Wellington\nLocation: Wellington\n\n4.\tUniversity of Canterbury\nLocation: Christchurch\n\n5.\tMassey University\nLocations: Palmerston North, Auckland, and Wellington\n\n6.\tLincoln University\nLocation: Christchurch (near Lincoln)\n\n7.\tUniversity of Waikato\nLocation: Hamilton\n\n8.\tAuckland University of Technology (AUT)\nLocation: Auckland\n",
+                        "content": "Universities\n<br/> <br/>\n1.\tUniversity of Auckland\nLocation: Auckland\n<br/> <br/>\n2.\tUniversity of Otago\nLocation: Dunedin\n<br/> <br/>\n3.\tVictoria University of Wellington\nLocation: Wellington\n<br/> <br/>\n4.\tUniversity of Canterbury\nLocation: Christchurch\n<br/> <br/>\n5.\tMassey University\nLocations: Palmerston North, Auckland, and Wellington\n<br/> <br/>\n6.\tLincoln University\nLocation: Christchurch (near Lincoln)\n<br/> <br/>\n7.\tUniversity of Waikato\nLocation: Hamilton\n<br/> <br/>\n8.\tAuckland University of Technology (AUT)\nLocation: Auckland\n<br/> <br/>\n",
                         "css": {
-                            "color": "text-slate-400 font-light"
+                            "color": "text-black font-light"
                         },
                         "inlineCss": "",
-                        "parseHtml": ""
+                        "parseHtml": "1"
                     },
                     "image": {
                         "content": "",
