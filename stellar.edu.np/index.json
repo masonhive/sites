@@ -604,7 +604,7 @@
                         "link": "/study-canada"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//Japan.png",
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//Japan.jpg",
                         "heading": "Study In JAPAN",
                         "link": "/study-japan"
                     }
@@ -1147,7 +1147,7 @@
                     "caption": {
                         "content": "Ever since Stellar Education was founded in 2011, I have observed its advancement as a \nsuperlative counseling organization in Nepal. It serves the swiftly and spectacularly \nchanging needs of innovative students from the region. We rest on the principled \nfoundation as laid out in our mission while fashioning a new future with our students and \nour constituents. \nSo as we move towards the third decade, let's work together to aim strategies for the \nchallenges. Let's find new ways to reach students aiming at liberal and accessible higher \neducation that leads to career opportunities worldwide. It has been an honor to serve as \nManaging Director over 10 years, associating with so many talented team members in this \norganization, as well as various professionals amongst education providers and embassies. \nIt has also been a thrill to meet and work with many wonderful students, parents, and \nfriends now at University around the globe. The passion we all hold for our work at this \nspecial place is acknowledged by our stakeholders. I wish to thank all who have made \nStellar Education, a leader amongst Overseas Education Consultancy Organizations in \nNepal. Stellar Education welcomes clients from different social, educational, and \nbackgrounds regardless of race, color and religion. \nI look forward to the challenges and openings of the future! ",
                         "css": {
-                            "color": "text-slate-400 font-light"
+                            "color": "text-slate-800 font-light"
                         },
                         "inlineCss": "",
                         "parseHtml": ""
