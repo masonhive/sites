@@ -1,0 +1,447 @@
+{
+    "data": [
+        {
+            "id": 7562,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover bg-indigo-800 text-white",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-4xl py-2 font-light",
+                            "fontSize": "12px"
+                        },
+                        "content": "Duolingo - \"Learn a language for free. Forever.\"",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://www.aeccglobal.com.np/images/2024/02/02/banner-img.webp",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left items-center flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6 md:col-start-2  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 2
+        },
+        {
+            "id": 7563,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-2xl py-2 "
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "12"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col items-center"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}",
+                        "css": {
+                            "color": "text-yellow-400"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-2 col-span-12"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left  hover:bg-indigo-700 hover:text-white px-3 py-2 hover:rounded-lg"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5 "
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-3 items-center m-auto text-center "
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "caption": "What is Duolingo?"
+                    },
+                    {
+                        "caption": "Why choose Duolingo?"
+                    },
+                    {
+                        "caption": "Test format of Duolingo"
+                    }
+                ]
+            },
+            "order": 3
+        },
+        {
+            "id": 7561,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}",
+                    "id": "why-study-in-australia"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "What is Duolingo?",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "The Duolingo English Test is a recognized English proficiency test designed to assess the language skills of non-native speakers. Accepted by over 4,000 universities, colleges, and organizations worldwide, it evaluates your ability to use and understand English in academic and professional contexts. The test measures four essential language skills: reading, listening, speaking, and writing, providing a thorough assessment of your English proficiency. With its innovative online format, the Duolingo English Test offers a convenient, flexible, and accessible way to demonstrate your English abilities from the comfort of your home.",
+                        "css": {
+                            "color": "text-slate-800 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left py-20 px-5 flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 4
+        },
+        {
+            "id": 7560,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}",
+                    "id": "benifits"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Why choose Duolingo?",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "The Duolingo English Test is an excellent choice for Nepalese students seeking to study in the USA, as it serves as a gateway to numerous universities and institutions across the country. Recognized by a growing number of U.S. colleges, Duolingo provides a reliable and affordable alternative for proving English proficiency. Its budget-friendly fee makes it accessible to students, while its online format allows for unparalleled convenience students can take the test from anywhere, at any time, without the need to visit a test center. Results are delivered within 48 hours, ensuring students can meet application deadlines with ease. The test evaluates all key language skills reading, writing, speaking, and listening through an adaptive format that adjusts to individual ability levels, providing a comprehensive and efficient assessment. For Nepalese students aiming to pursue their education in the USA, Duolingo offers a modern, cost-effective, and widely accepted pathway to achieving their academic dreams.",
+                        "css": {
+                            "color": "text-slate-800 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left py-20 px-5 flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-8  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 5
+        },
+        {
+            "id": 7582,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}",
+                    "id": "benifits"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Test Format of Duolingo",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "The Duolingo English Test is an online English proficiency test that evaluates your language skills through a streamlined and adaptive format. Here’s an overview:\n<br/> <br/>\nTest Format\n<br/> <br/>\n1. Adaptive Section\n<br/> <br/>\n-Duration: 45 minutes.\n<br/> <br/>\n-Content:\nIncludes a variety of question types such as:\nListening to words and typing them,\nFilling in missing letters in a text,\n Describing an image,\n Speaking a given phrase &\n Writing short responses or extended answers (50-100 words).\n<br/> <br/>\n-Purpose: Adapts to your skill level by adjusting the difficulty of questions as you progress.\n<br/> <br/>\n2. Writing and Speaking Prompts\n<br/> <br/>\n-Duration: 10 minutes.\n<br/> <br/>\n-Content:\nTwo open-ended tasks:\n A written response to a question or topic (50-200 words) &\n A spoken response to a prompt, is recorded via your microphone.\n<br/> <br/>\n-Purpose: Assesses expressive language abilities, creativity, and coherence.\n<br/> <br/>\n(Key Features)\n<br/> <br/>\n-Total Test Duration: About 1 hour.\n<br/> <br/>\n-Scoring: Scored on a scale of 10–160, with subscores for Literacy, Comprehension, Conversation, and Production.\n<br/> <br/>\n-Test Environment: Completed online at home with AI-based monitoring to ensure security and fairness.\n<br/> <br/>\nThe Duolingo English Test offers a quick and flexible way to demonstrate English proficiency, with results typically available within 48 hours.",
+                        "css": {
+                            "color": "text-slate-800 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left py-20 px-5 flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-8  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 6
+        }
+    ]
+}
