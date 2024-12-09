@@ -22,7 +22,7 @@
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "Want to study abroad? If English isn't your first language, you'll likely need to prove your proficiency in English. To avoid any confusion about which test to choose, consider the most renowned and globally accepted option: IELTS! Discover why IELTS is the ideal choice for you.",
+                        "content": "Want to study abroad? If English isn't your first language, you'll likely need to prove your proficiency in English. To avoid any confusion about which test to choose, consider the most renowned and globally accepted option: IELTS! Discover why IELTS is the ideal choice for you. ",
                         "inlineCss": "",
                         "css": {
                             "color": "text-slate-400 font-light"
@@ -39,7 +39,7 @@
                     "caption": {
                         "content": "Join our million community of test-takers!",
                         "css": {
-                            "color": "text-slate-800 text-white text-xl py-4"
+                            "color": "text-slate-300 text-white text-xl py-4"
                         },
                         "inlineCss": "",
                         "parseHtml": ""
@@ -207,7 +207,7 @@
                         "link": "/study-australia#why-study-in-australia"
                     },
                     {
-                        "caption": "Why should you choose IELTS?",
+                        "caption": "Why choose IELTS?",
                         "link": "/study-australia#benifits"
                     },
                     {
@@ -215,8 +215,7 @@
                         "link": "/study-australia#courses"
                     },
                     {
-                        "caption": "IELTS Test Format ",
-                        "link": "/study-australia#requirements"
+                        "caption": "Test format of IELTS"
                     }
                 ]
             },
@@ -262,13 +261,13 @@
                     "caption": {
                         "content": "The International English Language Testing System (IELTS) stands as the leading high-stakes English language proficiency assessment globally. Its primary purpose is to evaluate the English language skills of individuals who aim to pursue education or career opportunities in environments where English serves as the primary medium of communication.IELTS is accepted by more than 11,500 organisations in over 140 countries. This includes a broad range of universities and employers, particularly in countries such as Australia, Canada, New Zealand, the UK, and the US, among others.",
                         "css": {
-                            "color": "text-slate-400 font-light"
+                            "color": "text-slate-800 font-light"
                         },
                         "inlineCss": "",
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://www.aeccglobal.com.np/images/2023/08/14/canada-4.webp",
+                        "content": "",
                         "link": ""
                     }
                 },
@@ -338,7 +337,7 @@
                     "caption": {
                         "content": "IELTS, or the International English Language Testing System, is a popular choice for several reasons:Global recognition: IELTS is recognised by over 11,500 organisations worldwide, including universities, employers, professional bodies, immigration authorities, and other government agencies.Academic and general training options: IELTS offers two test versions – Academic and General Training. The Academic version is for those who want to study at a tertiary level in an English-speaking country, while the General Training version is for those migrating to an English-speaking country or pursuing training programs or secondary education.Widely accessible: The test is available at numerous locations worldwide, making it accessible to candidates in various countries.Fairness and accuracy: IELTS is known for its fairness and high standards in testing English language proficiency. The Speaking part of the test is a face-to-face interview, which is seen as more effective in assessing communication skills.Practical and relevant: The test assesses abilities in Listening, Reading, Writing, and Speaking in English. The content of the test reflects everyday situations, making it practical and relevant.Regular test dates: IELTS is conducted frequently, offering flexibility in choosing test dates.Useful for all levels: The test is designed to assess English language skills at all levels, which means it is not limited to only advanced speakers.Comprehensive score system: The scoring system, ranging from 0 to 9, helps candidates and institutions clearly understand the proficiency level.",
                         "css": {
-                            "color": "text-slate-400 font-light"
+                            "color": "text-slate-800 font-light"
                         },
                         "inlineCss": "",
                         "parseHtml": ""
@@ -373,6 +372,158 @@
                 }
             },
             "order": 6
+        },
+        {
+            "id": 7571,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}",
+                    "id": "benifits"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Types of IELTS",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "1. IELTS Academic\n<br/> <br/>\nPurpose: For individuals planning to study at a university or college where English is the medium of instruction, especially for higher education (undergraduate, postgraduate, or professional courses).\n<br/> <br/>\nWho Should Take It?\n<br/> <br/>\na. Students applying for university programs (bachelor's, master's, or PhD).\n<br/> <br/>\nb. Professionals seeking registration in fields like medicine, nursing, engineering, or accounting.\n<br/> <br/>\nTest Content:\nFocuses on academic English, including tasks like describing charts, graphs, or diagrams and understanding complex texts.\n<br/> <br/>\n2. IELTS General Training\n<br/> <br/>\nPurpose: For those looking to work, immigrate, or undertake non-academic training programs in an English-speaking country.\n<br/> <br/>\nWho Should Take It?\n<br/> <br/>\nIndividuals applying for immigration to countries like Canada, Australia, New Zealand, or the UK.\nWorkers seeking employment in an English-speaking environment.\n<br/> <br/>\nTest Content:\nFocuses on everyday English skills, such as reading workplace notices, writing letters, and understanding social contexts.\n<br/> <br/>\n3. IELTS for UKVI (UK Visas and Immigration)\n<br/> <br/>\nPurpose: A specific version of IELTS is required for UK visa applications.\n<br/> <br/>\nTest Options: Both Academic and General Training versions are available for UKVI.\n<br/> <br/>\nWho Should Take It?\n<br/> <br/>\nStudents or workers applying for a visa to study or work in the UK.\n<br/> <br/>\nKey Difference: It follows slightly different administrative procedures to meet UK visa requirements.\n<br/> <br/>\nIELTS Life Skills\n<br/> <br/>\nPurpose: For individuals needing to demonstrate their English speaking and listening skills for specific visa categories in the UK.\n<br/> <br/>\nLevels:\n<br/> <br/>\nA1: For family visa applications.\n<br/> <br/>\nB1: For indefinite leave to remain or citizenship \napplications.\n<br/> <br/>\nTest Content: Focuses only on speaking and listening.\n",
+                        "css": {
+                            "color": "text-slate-800 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left py-20 px-5 flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-8  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 7
+        },
+        {
+            "id": 7580,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}",
+                    "id": "benifits"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Test format of IELTS",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "The IELTS test evaluates your English proficiency in four key skills: Listening, Reading, Writing, and Speaking. Here's a brief overview of the test format:\n<br/> <br/>\n1. Listening\n<br/> <br/>\n-Duration: 30 minutes + 10 minutes to transfer answers.\n<br/> <br/>\n-Content: Four audio recordings (conversations and monologues).\n<br/> <br/>\n-Purpose: Tests understanding of main ideas, details, and speaker attitudes.\n<br/> <br/>\n2. Reading\n<br/> <br/>\n-Duration: 60 minutes.\n<br/> <br/>\n-Content:\n<br/> <br/>\n👉Academic Module: Three passages from books, journals, or newspapers.\n<br/> <br/>\n👉General Training Module: Texts from everyday materials like advertisements and notices.\n<br/> <br/>\n-Purpose: Assesses comprehension of main ideas, details, and arguments.\n<br/> <br/>\n3. Writing\n<br/> <br/>\n-Duration: 60 minutes.\n<br/> <br/>\n-Tasks:\n<br/> <br/>\n👉Academic: Describe visual data and write an essay.\nGeneral Training: Write a letter and an essay.\n<br/> <br/>\n👉Purpose: Tests clarity, organization, and vocabulary.\n<br/> <br/>\n4. Speaking\n<br/> <br/>\n-Duration: 11–14 minutes.\n<br/> <br/>\n-Content: Introduction, a short speech on a given topic, and a discussion.\n<br/> <br/>\n-Purpose: Evaluate fluency, coherence, vocabulary, and pronunciation.\n<br/> <br/>\nTest Duration: Approximately 2 hours and 45 minutes.\nOrder: Listening, Reading, and Writing are completed on the same day. Speaking may be on the same day or within a week.\n<br/> <br/>\nThis concise format ensures a comprehensive assessment of your English skills.",
+                        "css": {
+                            "color": "text-slate-800 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left py-20 px-5 flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-8  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 8
         }
     ]
 }
