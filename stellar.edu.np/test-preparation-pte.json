@@ -18,7 +18,7 @@
                             "color": "text-4xl py-2 font-light",
                             "fontSize": "12px"
                         },
-                        "content": "Your dream of studying inAustralia is closer than you think!",
+                        "content": "PTE – Your pathway to worldwide success",
                         "inlineCss": ""
                     },
                     "description": {
@@ -37,15 +37,15 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Learn everything you need to know about studyingin Australia and get end to end expert guidance from us.",
+                        "content": "Be part of the worldwide network of PTE achievers!",
                         "css": {
-                            "color": "text-slate-400 font-light"
+                            "color": "text-slate-200 font-light"
                         },
                         "inlineCss": "",
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://www.aeccglobal.com.np/images/2024/02/02/banner-img.webp",
+                        "content": "https://indexaeco.com.np/wp-content/uploads/2024/07/PTE-1024x576.jpg",
                         "link": ""
                     }
                 },
@@ -203,107 +203,20 @@
                 },
                 "itemList": [
                     {
-                        "caption": "Why Study in Australia",
-                        "link": "/study-australia#why-study-in-australia"
+                        "caption": "What is PTE?"
                     },
                     {
-                        "caption": "Benifits",
-                        "link": "/study-australia#benifits"
+                        "caption": "Why choose PTE?"
                     },
                     {
-                        "caption": "Courses & Universities",
-                        "link": "/study-australia#courses"
-                    },
-                    {
-                        "caption": "Requirements",
-                        "link": "/study-australia#requirements"
-                    },
-                    {
-                        "caption": "Book an Appointment",
-                        "link": "/contact-us"
+                        "caption": "Test format of PTE"
                     }
                 ]
             },
             "order": 4
         },
         {
-            "id": 7315,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-cover",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}",
-                    "id": "why-study-in-australia"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2",
-                            "fontSize": "12px"
-                        },
-                        "content": "Study in Australia from Nepal",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "Australia is a contemporary, democratic nation with excellent healthcare, top-notch educational institutions, and a unique geography. Studying in Australia is particularly a terrific option for students to advance their education and professional opportunities, whether it's because of the exciting way of life, welcoming culture, or excellent educational resources.",
-                        "css": {
-                            "color": "text-slate-400 font-light"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "https://www.aeccglobal.com.np/images/2023/08/14/canada-4.webp",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "md:grid md:grid-cols-12 text-left py-20 px-5 flex flex-col"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-span-6  order-1 px-6"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "md:col-span-6  order-2"
-                        }
-                    }
-                }
-            },
-            "order": 5
-        },
-        {
-            "id": 7316,
+            "id": 7579,
             "component": "TextV2",
             "component_id": 72,
             "attributes": {
@@ -321,7 +234,7 @@
                             "color": "text-2xl py-2",
                             "fontSize": "12px"
                         },
-                        "content": "Benefits of Studying in Australia for Nepalese Students",
+                        "content": "What is PTE?",
                         "inlineCss": ""
                     },
                     "description": {
@@ -340,9 +253,9 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "In recent years, the number of students from around the world pursuing their studies in the Land Down Under has increased tremendously. This influx of foreign students into Australian higher education can be attributed to a variety of factors. Here is a list of benefits of Studying in Australia as a Nepali student: \n\nWorld-class education system: Australian institutions are renowned for their world-class standards of education, robust educational standards which equip students with the knowledge and skills sought by employers worldwide. Studying in this country can therefore provide both personal enrichment and the opportunity for a successful career path.\n\nEasy to adapt culture for Nepalese students: For Nepali students, Australia is a great option to consider when deciding on a study destination. With its safe and secure atmosphere, the country provides peace of mind for those who are interested in studying abroad. Furthermore, it has modern infrastructure and top-notch healthcare services that guarantee a high standard of living. The friendly culture in Australia also means that Nepali students can easily integrate into their new environment with greater ease compared to many other countries.\n\nBest courses to study in Australia: When it comes to choosing a course in Australia, there are plenty of options. Engineering, business administration, information technology, healthcare (such as nursing and medical sciences), environmental studies, and hospitality management are among some of Australia's most popular courses. These outstanding fields of study offer excellent career prospects within thriving industries while also providing students with ample opportunity for personal and professional growth.\n\nA lifetime of experience: The breathtaking scenery and remarkable geography of the Land Down Under offer a lifetime of experience for Nepali students. From the awe-inspiring Great Barrier Reef to the iconic Sydney Opera House, as well as the magnificent outback, there are numerous wonders that make studying in Australia an unforgettable experience. With its vibrant culture and diverse lifestyle, Australia successfully complements a student's academic journey.",
+                        "content": "The Pearson Test of English (PTE) is a globally recognized English proficiency test designed to evaluate the language skills of non-native speakers. Accepted by thousands of universities, colleges, and institutions worldwide, PTE assesses your ability to use and understand English in academic and professional environments. The test measures four key language skills: reading, listening, speaking, and writing, providing a complete overview of your English proficiency.",
                         "css": {
-                            "color": "text-slate-400 font-light"
+                            "color": "text-slate-800 font-light"
                         },
                         "inlineCss": "",
                         "parseHtml": ""
@@ -377,6 +290,158 @@
                 }
             },
             "order": 6
+        },
+        {
+            "id": 7316,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}",
+                    "id": "benifits"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Why choose PTE?",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "The Pearson Test of English (PTE) is a globally recognized English proficiency test, accepted by over 6,000 institutions, universities, employers, and government agencies worldwide. PTE offers two main formats: PTE Academic, ideal for those aiming to pursue higher education in English-speaking countries, and PTE General, which focuses on practical language skills for work or migration. With test centers available globally, PTE is accessible to candidates around the world. Known for its accuracy and fairness, PTE uses a fully automated scoring system to ensure consistency and reliability. The test evaluates key language skills Listening, Reading, Speaking, and Writing using real-world content, making it relevant and practical for academic and professional settings. PTE offers flexibility with frequent test dates, allowing you to choose a schedule that suits you. Designed for all proficiency levels, PTE assesses English from beginner to advanced, ensuring it meets the needs of a wide range of candidates. The clear and easy-to-understand scoring system, ranging from 10 to 90, helps both candidates and institutions clearly assess language proficiency. Whether you're preparing for higher education, seeking professional opportunities, or planning to migrate, PTE is a comprehensive and trusted option to demonstrate your English skills. Let us help you navigate the PTE journey with expert guidance and support!",
+                        "css": {
+                            "color": "text-slate-800 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left py-20 px-5 flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-8  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 7
+        },
+        {
+            "id": 7578,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}",
+                    "id": "benifits"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Test format of PTE",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "The Pearson Test of English (PTE) evaluates English language proficiency in a structured format. It is widely accepted for study, work, and migration purposes. The test consists of three main sections:\n<br/> <br/>\n1. Speaking and Writing (54–67 minutes)\n<br/> <br/>\nThis section assesses your ability to speak and write in English effectively.\n<br/> <br/>\n👉Tasks:\n<br/> <br/>\n-Personal Introduction\n<br/> <br/>\n-Read Aloud\n<br/> <br/>\n-Repeat Sentence\n<br/> <br/>\n-Describe Image\n<br/> <br/>\n-Re-tell Lecture\n<br/> <br/>\n-Answer Short Questions\n<br/> <br/>\n-Summarize Written Text (1-2 sentences)\n<br/> <br/>\n-Essay Writing (200-300 words)\n<br/> <br/>\n2. Reading (29–30 minutes)\n<br/> <br/>\nFocuses on assessing reading skills through various question types.\n<br/> <br/>\n👉Tasks:\n<br/> <br/>\n-Multiple-choice (Single and Multiple Answers)\n<br/> <br/>\n-Reorder Paragraphs\n<br/> <br/>\n-Fill in the Blanks (with dropdown options or drag-and-drop)\n<br/> <br/>\n3. Listening (30–43 minutes)\n<br/> <br/>\nTests your ability to understand spoken English in different scenarios.\n<br/> <br/>\n👉Tasks:\n<br/> <br/>\n-Summarize Spoken Text\n<br/> <br/>\n-Multiple-Choice (Single and Multiple Answers)\n<br/> <br/>\n-Fill in the Blanks (based on audio)\n<br/> <br/>\n-Highlight Correct Summary\n<br/> <br/>\n-Select Missing Word\n<br/> <br/>\n-Highlight Incorrect Words\n<br/> <br/>\n-Write from Dictation\n<br/> <br/>\nKey Features of the PTE Test:\n<br/> <br/>\n-Duration: Approximately 2 hours.\n<br/> <br/>\n-Scoring: Automated and unbiased.\n<br/> <br/>\n-Format: Computer-based with integrated tasks (skills are tested together, e.g., listening and writing).\n<br/> <br/>\n-Result Turnaround: Results are typically available within 48 hours.\n<br/> <br/>\nThis format ensures a comprehensive evaluation of your English proficiency, making it an ideal choice for international education and migration.",
+                        "css": {
+                            "color": "text-slate-800 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left py-20 px-5 flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-8  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 8
         }
     ]
 }
