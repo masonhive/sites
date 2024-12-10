@@ -303,7 +303,7 @@
             "order": 5
         },
         {
-            "id": 7298,
+            "id": 7603,
             "component": "TextV2",
             "component_id": 72,
             "attributes": {
@@ -313,12 +313,12 @@
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}",
-                    "id": "benifits"
+                    "id": "why-study-in-australia"
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-2xl py-2",
+                            "color": "text-2xl py-2t",
                             "fontSize": "12px"
                         },
                         "content": "Benefits of Studying in UK for Nepalese Students",
@@ -340,15 +340,15 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "In recent years, more Nepali students have chosen the UK as their destination for higher education, drawn by the numerous benefits it offers. The UK is home to some of the world’s most prestigious universities, known for their high academic standards and globally recognized degrees. Studying in the UK ensures that students receive a quality education that equips them with the skills and knowledge sought by employers around the world, opening doors to excellent career opportunities both in the UK and internationally.\n\nFor Nepali students, adapting to life in the UK is relatively easy, thanks to its welcoming and multicultural environment. The country offers a safe and secure atmosphere, complemented by modern infrastructure, excellent healthcare, and a high standard of living. This creates a comfortable and enriching experience for international students, allowing them to focus on their studies while feeling at home. \n\nThe UK also offers a wide variety of courses, making it an ideal place for students to pursue their academic interests. From business and engineering to law, medicine, and the arts, Nepali students can find programs that align with their career goals. With a strong emphasis on research, innovation, and practical learning, the UK provides an academic environment that fosters both personal and professional growth. \n\nMoreover, studying in the UK offers a unique cultural experience. The country’s rich history, vibrant cities, and iconic landmarks, combined with the opportunity to interact with peers from around the world, provide a well-rounded experience that extends beyond academics. This exposure to diverse cultures and perspectives enriches the educational journey.\n\nAdditionally, the UK’s strong connections with leading industries offer ample opportunities for internships, networking, and career development. Many universities provide dedicated career services to help students secure work placements, which enhances their employability upon graduation. \n\nIn conclusion, studying in the UK offers Nepali students an exceptional education, a welcoming environment, and valuable career prospects, making it an ideal choice for those seeking academic and personal growth.",
+                        "content": "In recent years, more Nepali students have chosen the UK as their destination for higher education, drawn by the numerous benefits it offers. The UK is home to some of the world’s most prestigious universities, known for their high academic standards and globally recognized degrees. Studying in the UK ensures that students receive a quality education that equips them with the skills and knowledge sought by employers around the world, opening doors to excellent career opportunities both in the UK and internationally.\n<br/> <br/>\nFor Nepali students, adapting to life in the UK is relatively easy, thanks to its welcoming and multicultural environment. The country offers a safe and secure atmosphere, complemented by modern infrastructure, excellent healthcare, and a high standard of living. This creates a comfortable and enriching experience for international students, allowing them to focus on their studies while feeling at home. \n<br/> <br/>\nThe UK also offers a wide variety of courses, making it an ideal place for students to pursue their academic interests. From business and engineering to law, medicine, and the arts, Nepali students can find programs that align with their career goals. With a strong emphasis on research, innovation, and practical learning, the UK provides an academic environment that fosters both personal and professional growth. \n<br/> <br/>\nMoreover, studying in the UK offers a unique cultural experience. The country’s rich history, vibrant cities, and iconic landmarks, combined with the opportunity to interact with peers from around the world, provide a well-rounded experience that extends beyond academics. This exposure to diverse cultures and perspectives enriches the educational journey.\n<br/> <br/>\nAdditionally, the UK’s strong connections with leading industries offer ample opportunities for internships, networking, and career development. Many universities provide dedicated career services to help students secure work placements, which enhances their employability upon graduation. \n<br/> <br/>\nIn conclusion, studying in the UK offers Nepali students an exceptional education, a welcoming environment, and valuable career prospects, making it an ideal choice for those seeking academic and personal growth.",
                         "css": {
                             "color": "text-black font-light"
                         },
                         "inlineCss": "",
-                        "parseHtml": ""
+                        "parseHtml": "1"
                     },
                     "image": {
-                        "content": "",
+                        "content": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//London.png",
                         "link": ""
                     }
                 },
@@ -360,7 +360,7 @@
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-span-8  order-1 px-6"
+                            "color": "md:col-span-6  order-1 px-6"
                         }
                     },
                     "mainWrap": {
@@ -453,7 +453,7 @@
                     }
                 }
             },
-            "order": 7
+            "order": 8
         },
         {
             "id": 7317,
@@ -529,7 +529,7 @@
                     }
                 }
             },
-            "order": 8
+            "order": 9
         }
     ]
 }
