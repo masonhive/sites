@@ -45,7 +45,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://www.aeccglobal.com.np/images/2024/02/02/banner-img.webp",
+                        "content": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/pngegg.png",
                         "link": ""
                     }
                 },
@@ -203,7 +203,7 @@
                 },
                 "itemList": [
                     {
-                        "caption": "Why Study in Australia",
+                        "caption": "Study in Australia",
                         "link": "/study-australia#why-study-in-australia"
                     },
                     {
@@ -211,15 +211,11 @@
                         "link": "/study-australia#benifits"
                     },
                     {
-                        "caption": "Courses & Universities",
-                        "link": "/study-australia#courses"
-                    },
-                    {
                         "caption": "Requirements",
                         "link": "/study-australia#requirements"
                     },
                     {
-                        "caption": "Book an Appointment",
+                        "caption": "VISA process",
                         "link": "/contact-us"
                     }
                 ]
@@ -272,7 +268,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://www.aeccglobal.com.np/images/2023/08/14/canada-4.webp",
+                        "content": "",
                         "link": ""
                     }
                 },
@@ -340,12 +336,12 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "In recent years, the number of students from around the world pursuing their studies in the Land Down Under has increased tremendously. This influx of foreign students into Australian higher education can be attributed to a variety of factors. Here is a list of benefits of Studying in Australia as a Nepali student: \n\nWorld-class education system: Australian institutions are renowned for their world-class standards of education, robust educational standards which equip students with the knowledge and skills sought by employers worldwide. Studying in this country can therefore provide both personal enrichment and the opportunity for a successful career path.\n\nEasy to adapt culture for Nepalese students: For Nepali students, Australia is a great option to consider when deciding on a study destination. With its safe and secure atmosphere, the country provides peace of mind for those who are interested in studying abroad. Furthermore, it has modern infrastructure and top-notch healthcare services that guarantee a high standard of living. The friendly culture in Australia also means that Nepali students can easily integrate into their new environment with greater ease compared to many other countries.\n\nBest courses to study in Australia: When it comes to choosing a course in Australia, there are plenty of options. Engineering, business administration, information technology, healthcare (such as nursing and medical sciences), environmental studies, and hospitality management are among some of Australia's most popular courses. These outstanding fields of study offer excellent career prospects within thriving industries while also providing students with ample opportunity for personal and professional growth.\n\nA lifetime of experience: The breathtaking scenery and remarkable geography of the Land Down Under offer a lifetime of experience for Nepali students. From the awe-inspiring Great Barrier Reef to the iconic Sydney Opera House, as well as the magnificent outback, there are numerous wonders that make studying in Australia an unforgettable experience. With its vibrant culture and diverse lifestyle, Australia successfully complements a student's academic journey.",
+                        "content": "In recent years, the number of students from around the world pursuing their studies in the Land Down Under has increased tremendously. This influx of foreign students into Australian higher education can be attributed to a variety of factors. Here is a list of benefits of Studying in Australia as a Nepali student: \n<br/> <br/>\nWorld-class education system: Australian institutions are renowned for their world-class standards of education, robust educational standards which equip students with the knowledge and skills sought by employers worldwide. Studying in this country can therefore provide both personal enrichment and the opportunity for a successful career path.\n<br/> <br/>\nEasy to adapt culture for Nepalese students: For Nepali students, Australia is a great option to consider when deciding on a study destination. With its safe and secure atmosphere, the country provides peace of mind for those who are interested in studying abroad. Furthermore, it has modern infrastructure and top-notch healthcare services that guarantee a high standard of living. The friendly culture in Australia also means that Nepali students can easily integrate into their new environment with greater ease compared to many other countries.\n<br/> <br/>\nBest courses to study in Australia: When it comes to choosing a course in Australia, there are plenty of options. Engineering, business administration, information technology, healthcare (such as nursing and medical sciences), environmental studies, and hospitality management are among some of Australia's most popular courses. These outstanding fields of study offer excellent career prospects within thriving industries while also providing students with ample opportunity for personal and professional growth.\n<br/> <br/>\nA lifetime of experience: The breathtaking scenery and remarkable geography of the Land Down Under offer a lifetime of experience for Nepali students. From the awe-inspiring Great Barrier Reef to the iconic Sydney Opera House, as well as the magnificent outback, there are numerous wonders that make studying in Australia an unforgettable experience. With its vibrant culture and diverse lifestyle, Australia successfully complements a student's academic journey.",
                         "css": {
                             "color": "text-black font-light"
                         },
                         "inlineCss": "",
-                        "parseHtml": ""
+                        "parseHtml": "1"
                     },
                     "image": {
                         "content": "",
@@ -377,6 +373,158 @@
                 }
             },
             "order": 6
+        },
+        {
+            "id": 7583,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}",
+                    "id": "benifits"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "Academic and English Language Requirements",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Minimum Requirements for Undergraduate Programs in Australia:\n<br/> <br/>\n1. GPA: Most universities require a GPA of 2.5 to 3.0 on a 4.0 scale, equivalent to average academic performance.\n<br/> <br/>\n2. Percentage: A minimum of 60–70% in high school (Year 12) is generally required, though competitive programs or top universities may expect 75% or higher.\n<br/> <br/>\n3. IELTS requirement: Overall 6.0,  Each band 5.5\n<br/> <br/>\n4. 5. PTE requirement: Overall 50, Each band 43\n<br/> <br/>\nMinimum Requirements for Postgraduate Programs in Australia:\n<br/> <br/>\n1. GPA: A minimum GPA of 2.6 to 3.0 on a 4.0 scale is typically required, with competitive programs demanding higher GPAs (3.5+).\n<br/> <br/>\n2. Percentage: Universities generally expect 50–60% marks, while top-ranked institutions or competitive programs may require 65–75%.\n<br/> <br/>\n3. Successful completion of 4 years of Bachelor's degree\n(Some universities may also accept 3 years bachelor's degree)\n<br/> <br/>\n4. IELTS requirement: Overall 6.5,  Each band 6\n<br/> <br/>\n5. PTE requirement: Overall 58, Each band 50",
+                        "css": {
+                            "color": "text-black font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left py-20 px-5 flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-8  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 7
+        },
+        {
+            "id": 7599,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\"}",
+                    "id": "benifits"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "VISA process for Australia",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Steps to Apply for an Australian Student Visa for Nepalese Students:\n<br/> <br/>\nStep 1: Explore Your Options\n<br/> <br/>\nReach out to us to discuss available courses, cities, and institutions in Australia. Our expert counselors will help you choose the program and location that best matches your goals.\n<br/> <br/>\nStep 2: Prepare Your Documents\n<br/> <br/>  \nOnce you've decided on your course and city, we’ll assist you with the application process and coordinate with the institution on your behalf. During this stage, we’ll keep you updated about your application progress. Documents required for application include: \n<br/> <br/> \n- A valid passport copy and all academic records (marksheets and completion certificates).  \n<br/> <br/>\n- Proof of English proficiency (IELTS/PTE/TOEFL).\n<br/> <br/>  \n- Statement of Purpose (SOP).\n<br/> <br/>  \n- Reference letters (if required).\n<br/> <br/>  \n- Work experience certificates (if applicable).\n<br/> <br/>  \n<br/> <br/>\nStep 3: Submit Your Application\n<br/> <br/>\nAfter selecting your preferred institution, we’ll help you submit the application. Upon receiving a conditional or unconditional offer, you’ll need to proceed with the payment process. If your offer is unconditional, our team will guide you with a financial checklist to meet the Genuine Student (GS) and Genuine Temporary Entrant (GTE) requirements set by the Australian education provider.\n<br/> <br/>\n<br/> <br/>\nStep 4: Complete Your Medical Examination\n<br/> <br/>  \nUndergoing a medical assessment is mandatory for an Australian student visa. This process can take a few weeks, so completing it before filing your visa application can help reduce delays.\n<br/> <br/>\nStep 5: Pay Tuition Fees and Receive COE\n<br/> <br/>  \nTo confirm your place at an Australian institution, you need to pay the tuition fees—usually for the first semester. Payment can be made through Telegraphic Transfer (TT) or Direct Debit (DD). Once the payment is processed, the institution will issue your Electronic Confirmation of Enrolment (COE). After receiving this, we’ll guide you in meeting the remaining visa requirements.\n<br/> <br/>\n<br/> <br/>\nStep 6: Apply for Your Student Visa\n<br/> <br/> \nWe’ll help you prepare and submit your student visa application online. You’ll need to provide all documents outlined in Step 3. Our team will monitor the progress and keep you informed.\n<br/> <br/>\nStep 7: Visa Outcome and Travel Preparation\n<br/> <br/>  \nOnce the visa decision is made, we’ll notify you immediately. In most cases, the outcome is positive, allowing you to begin planning your travel to Australia and start your academic journey.  \n<br/> <br/>\nWe’re here to assist you at every step of the way, ensuring a smooth and successful application process!",
+                        "css": {
+                            "color": "text-black font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left py-20 px-5 flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-8  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 8
         }
     ]
 }
