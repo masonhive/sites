@@ -223,7 +223,7 @@
                         "content": ""
                     },
                     "caption": {
-                        "content": "Study at Oxford Universities",
+                        "content": "Study at Top UK Universities",
                         "css": {
                             "color": "text-2xl py-2 text-slate-800"
                         }
@@ -326,9 +326,6 @@
                         "image": "https://oxfordinternational.b-cdn.net/wp-content/uploads/2021/10/University-of-Dundee-logo.png"
                     },
                     {
-                        "image": "https://oxfordinternational.b-cdn.net/wp-content/uploads/2022/10/MERCY_4.png"
-                    },
-                    {
                         "image": "https://oxfordinternational.b-cdn.net/wp-content/uploads/2022/08/Asset-11-2048x923.png"
                     },
                     {
@@ -344,16 +341,16 @@
                         "image": "https://oxfordinternational.b-cdn.net/wp-content/uploads/2022/07/Ravensbourne_Logo_Primary-2048x550.png"
                     },
                     {
-                        "image": "https://oxfordinternational.b-cdn.net/wp-content/uploads/2021/10/SFState_H_rgb-2.jpg"
-                    },
-                    {
-                        "image": "https://oxfordinternational.b-cdn.net/wp-content/uploads/2023/11/UNDA-Logo.png"
-                    },
-                    {
                         "image": "https://oxfordinternational.b-cdn.net/wp-content/uploads/2023/10/Asset-1.svg"
                     },
                     {
                         "image": "https://oxfordinternational.b-cdn.net/wp-content/uploads/2021/09/UoG-Logo-Full-Colour.png"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//BGU uk.png"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/UK_glyndwr-logo-1.png"
                     }
                 ]
             },
