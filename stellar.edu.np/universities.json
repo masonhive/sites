@@ -409,7 +409,7 @@
                         }
                     },
                     "button": {
-                        "content": "",
+                        "content": "View More Universities",
                         "link": "",
                         "css": {
                             "color": ""
