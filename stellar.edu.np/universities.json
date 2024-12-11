@@ -409,7 +409,7 @@
                         }
                     },
                     "button": {
-                        "content": "View More Universities",
+                        "content": "",
                         "link": "",
                         "css": {
                             "color": ""
@@ -544,6 +544,51 @@
                     },
                     {
                         "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//wilkes-w-stacked-logo.png"
+                    },
+                    {
+                        "image": "https://www.thecollegetour.com/wp-content/uploads/2022/07/MSSU_ComboWordmark-Stacked-SIDELion-GreenText.png"
+                    },
+                    {
+                        "image": "https://www.summit4success.com/rax/images/business-directory/Kent%20State.png"
+                    },
+                    {
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Avila_University_logo.svg/300px-Avila_University_logo.svg.png?20170529003141"
+                    },
+                    {
+                        "image": "https://www.mckendree.edu/news/images/athletic-logo.png"
+                    },
+                    {
+                        "image": "https://www.millersville.edu/universitycollege/img/uc_logos/8610_aa_0722_sa_subbrand_unicollege_horiz_logo.png"
+                    },
+                    {
+                        "image": "https://www.hpu.edu/_global/images/header-logo.png"
+                    },
+                    {
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/East_Tennessee_State_University_logo.svg/246px-East_Tennessee_State_University_logo.svg.png"
+                    },
+                    {
+                        "image": "https://www.healthcare-management-degree.net/wp-content/uploads/2019/10/herzing-university-300x89.jpg"
+                    },
+                    {
+                        "image": "https://www.thecollegetour.com/wp-content/uploads/2022/08/middle-georgia-state-university.png"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/USA_WEBSTER-UNIVERSITY.png"
+                    },
+                    {
+                        "image": "https://www.ashland.edu/sites/default/files/styles/news_featured/public/2023-09/wordmark-purple-text.png.webp?itok=5FCeWl6n"
+                    },
+                    {
+                        "image": "https://www.mercy.edu/themes/custom/mercy/assets/img/logo--header.svg"
+                    },
+                    {
+                        "image": "https://cdn.prod.website-files.com/60d7944dd7fb4d64d2d57133/649f056b8eb853875aa7f082_University%20of%20Akron-p-500.webp"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//Concordia University.png"
+                    },
+                    {
+                        "image": "https://keystoneacademic-res.cloudinary.com/image/upload/f_auto/q_auto/g_auto/w_250/dpr_2.0/element/12/122606_BAU_DC_logo2.png"
                     }
                 ]
             },
