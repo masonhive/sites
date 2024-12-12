@@ -20,6 +20,13 @@
             "parent_menu_id": null,
             "link": "/services",
             "child": []
+        },
+        {
+            "name": "Products",
+            "id": 696,
+            "parent_menu_id": null,
+            "link": "/products",
+            "child": []
         }
     ]
 }
