@@ -11,7 +11,7 @@
             "name": "Study Abroad",
             "id": 613,
             "parent_menu_id": null,
-            "link": "/study-abroad",
+            "link": "",
             "child": [
                 {
                     "name": "Study In Australia",
@@ -68,7 +68,7 @@
             "name": "Test Preparation",
             "id": 614,
             "parent_menu_id": null,
-            "link": "/test-preparation",
+            "link": "",
             "child": [
                 {
                     "name": "IELTS",
