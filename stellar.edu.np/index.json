@@ -157,7 +157,39 @@
                         "caption": "Empower your global ambitions with personalized guidance on your study abroad journey",
                         "parseHtml": "1",
                         "button": "Get Started For Free",
-                        "link": "/study-new-zealand"
+                        "link": "/study-newzealand"
+                    },
+                    {
+                        "image": "https://www.globalreach.in/images/banner/slider.jpg",
+                        "heading": "Your dream of studying in USA is closer than you think!",
+                        "caption": "Empower your global ambitions with personalized guidance on your study abroad journey",
+                        "link": "/study-usa",
+                        "parseHtml": "1",
+                        "button": "Get Started Now"
+                    },
+                    {
+                        "image": "https://www.globalreach.in/images/banner/slider.jpg",
+                        "heading": "Your dream of studying in New Zealand is closer than you think!",
+                        "caption": "Empower your global ambitions with personalized guidance on your study abroad journey",
+                        "link": "/study-new-zealand",
+                        "parseHtml": "1",
+                        "button": "Get Started For Free"
+                    },
+                    {
+                        "image": "https://www.globalreach.in/images/banner/slider.jpg",
+                        "heading": "Your dream of studying in New Zealand is closer than you think!",
+                        "caption": "Empower your global ambitions with personalized guidance on your study abroad journey",
+                        "link": "/study-new-zealand",
+                        "parseHtml": "1",
+                        "button": "Get Started For Free"
+                    },
+                    {
+                        "image": "https://www.globalreach.in/images/banner/slider.jpg",
+                        "heading": "Your dream of studying in New Zealand is closer than you think!",
+                        "caption": "Empower your global ambitions with personalized guidance on your study abroad journey",
+                        "link": "/study-new-zealand",
+                        "parseHtml": "1",
+                        "button": "Get Started For Free"
                     }
                 ]
             },
