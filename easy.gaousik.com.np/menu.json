@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "name": "हाम्रा सेवाहरू",
+            "id": 697,
+            "parent_menu_id": null,
+            "link": "",
+            "child": []
+        },
+        {
+            "name": "हाम्रो बारेमा",
+            "id": 698,
+            "parent_menu_id": null,
+            "link": "",
+            "child": []
+        },
+        {
+            "name": "सम्पर्क",
+            "id": 699,
+            "parent_menu_id": null,
+            "link": "",
+            "child": []
+        }
+    ]
+}
