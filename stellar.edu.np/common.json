@@ -153,7 +153,9 @@
                 ],
                 "common_component": "1"
             },
-            "order": 1
+            "order": 1,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7080,
@@ -293,7 +295,9 @@
                 ],
                 "common_component": "1"
             },
-            "order": 17
+            "order": 17,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7081,
@@ -367,7 +371,9 @@
                 },
                 "common_component": "1"
             },
-            "order": 47
+            "order": 47,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }

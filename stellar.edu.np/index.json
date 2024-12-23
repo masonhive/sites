@@ -48,7 +48,8 @@
                         "reverseDisplayOrder": "",
                         "activateSlider": "1",
                         "rowCounts": "1",
-                        "isBanner": "1"
+                        "isBanner": "1",
+                        "autoPlay": "1"
                     }
                 },
                 "wrapper": {
@@ -193,7 +194,9 @@
                     }
                 ]
             },
-            "order": 2
+            "order": 2,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7074,
@@ -336,7 +339,9 @@
                     }
                 ]
             },
-            "order": 2
+            "order": 2,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7075,
@@ -484,7 +489,9 @@
                     }
                 ]
             },
-            "order": 6
+            "order": 6,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7076,
@@ -642,7 +649,9 @@
                     }
                 ]
             },
-            "order": 6
+            "order": 6,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7077,
@@ -790,7 +799,9 @@
                     }
                 ]
             },
-            "order": 12
+            "order": 12,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7078,
@@ -975,7 +986,9 @@
                     }
                 ]
             },
-            "order": 15
+            "order": 15,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7320,
@@ -1138,7 +1151,9 @@
                     }
                 ]
             },
-            "order": 15
+            "order": 15,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7144,
@@ -1213,7 +1228,9 @@
                     }
                 }
             },
-            "order": 16
+            "order": 16,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }
