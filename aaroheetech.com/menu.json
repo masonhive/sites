@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "name": "Home",
+            "id": 693,
+            "parent_menu_id": null,
+            "link": "/index",
+            "lang": "en",
+            "linked_menu_id": null,
+            "child": []
+        },
+        {
+            "name": "About Us",
+            "id": 694,
+            "parent_menu_id": null,
+            "link": "/about-us",
+            "lang": "en",
+            "linked_menu_id": null,
+            "child": []
+        },
+        {
+            "name": "Services",
+            "id": 695,
+            "parent_menu_id": null,
+            "link": "/services",
+            "lang": "en",
+            "linked_menu_id": null,
+            "child": []
+        },
+        {
+            "name": "Products",
+            "id": 696,
+            "parent_menu_id": null,
+            "link": "/products",
+            "lang": "en",
+            "linked_menu_id": null,
+            "child": []
+        }
+    ]
+}

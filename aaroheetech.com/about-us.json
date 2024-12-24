@@ -1,0 +1,393 @@
+{
+    "data": [
+        {
+            "id": 7626,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": " text-white  pt-40 pb-20 bg-[url('https://itsulu-react.netlify.app/img/photo/1.jpg')]  bg-slate-800/50 bg-blend-color -mt-28",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "uppercase font-semibold leading-normal tracking-wide text-4xl",
+                            "fontSize": "12px"
+                        },
+                        "content": "About Us",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left items-center flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6 md:col-start-2  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 5,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7609,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\", \"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-2xl py-2  text-amber-500",
+                            "fontSize": "12px"
+                        },
+                        "content": "We Specialize in\nTransforming Your Idea or Business in The Current\nDigital Era.",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "\n",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "py-4"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "<p>Dear Team,</p><p>As we continue to grow and innovate as a company, I want to take a moment to address the vibrant and talented young people who are shaping our future.</p><p>Your energy, creativity, and fresh perspectives are invaluable to us. In today’s fast-paced world, your willingness to learn, adapt, and challenge the status quo is not only appreciated, it’s essential for our success. We recognize that the future is in your hands, and we are committed to providing you with the tools, support, and opportunities to thrive.</p><p>As you continue to evolve both personally and professionally, I encourage you to embrace every challenge, learn from those around you, and contribute to a culture of collaboration and innovation. Don’t be afraid to speak up, ask questions, and propose new ideas. Remember, every big breakthrough starts with a small spark of curiosity.</p><p>At our company, you have a platform to make an impact, and we’re excited to see how you will continue to grow and contribute. Your success is our success, and together, we’ll achieve great things.</p><p>Thank you for being part of our journey.</p><p>Sincerely,<br>Suraj Rupacha Sunuwar<br>CEO, Aarohee Technologies Pvt Ltd</p>\n",
+                        "css": {
+                            "color": "text-slate-500 font-light py-4 text-base"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://itsulu-react.netlify.app/img/faces/t3.png",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-7  order-2 px-10 col-span-12"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-5  order-1 col-span-12 h-[400px] overflow-hidden"
+                        }
+                    }
+                }
+            },
+            "order": 6,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7611,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-2xl py-2  text-amber-500",
+                            "fontSize": "12px"
+                        },
+                        "content": "Our Vision",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "\n",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "py-4"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Ever since Aarohee Technologies Pvt Ltd was founded in 2024, I have observed its advancement as a \nsuperlative counseling organization in Nepal. It serves the swiftly and spectacularly \nchanging needs of innovative students from the region. We rest on the principled \nfoundation as laid out in our mission while fashioning a new future with our students and \nour constituents. \nSo as we move towards the third decade, let's work together to aim strategies for the \nchallenges. Let's find new ways to reach students aiming at liberal and accessible higher \neducation that leads to career opportunities worldwide. It has been \nfriends now at University around the globe.\nI look forward to the challenges and openings of the future! ",
+                        "css": {
+                            "color": "text-slate-500 font-light py-4 text-base"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/admin.aaroheetech.com/WhatsApp_Image_2024-12-13_at_16.webp",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-7  order-1 px-10 col-span-12"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-5  order-2 col-span-12 h-[400px] overflow-hidden"
+                        }
+                    }
+                }
+            },
+            "order": 7,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7610,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover bg-slate-200",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-2xl py-2  text-amber-500",
+                            "fontSize": "12px"
+                        },
+                        "content": "Our Mission",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-slate-500 font-light py-4 text-base"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Our mission is to empower individuals and businesses through innovative technology solutions that drive efficiency, spark creativity, and improve lives. By fostering a culture of collaboration, continuous learning, and ethical responsibility, we aim to create products that push the boundaries of what's possible, solve real-world challenges, and build a more connected and sustainable future.",
+                        "css": {
+                            "color": "text-slate-500 font-light py-4 text-base"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/admin.aaroheetech.com/WhatsApp_Image_2024-12-13_at_16.webp",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-7  order-2 px-10 col-span-12"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-5  order-1 col-span-12 h-[400px] overflow-hidden"
+                        }
+                    }
+                }
+            },
+            "order": 8,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7608,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\", \"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-2xl py-2  text-amber-500",
+                            "fontSize": "12px"
+                        },
+                        "content": "Message From Managing Director",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Suraj Rupacha \nManaging Director \nAaroohee Technology Pvt. Ltd.\n",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "py-4"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Ever since Aarohee technologies was founded in 2024, I have observed its advancement as a \nsuperlative counseling organization in Nepal. It serves the swiftly and spectacularly \nchanging needs of innovative students from the region. We rest on the principled \nfoundation as laid out in our mission while fashioning a new future with our students and \nour constituents. \nSo as we move towards the third decade, let's work together to aim strategies for the \nchallenges. Let's find new ways to reach students aiming at liberal and accessible higher \neducation that leads to career opportunities worldwide. It has been \nfriends now at University around the globe.\nI look forward to the challenges and openings of the future! ",
+                        "css": {
+                            "color": "text-slate-500 font-light py-4 text-base"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/admin.aaroheetech.com/WhatsApp_Image_2024-12-13_at_16.webp",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-7  order-2 px-10 col-span-12"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-5  order-1 col-span-12 h-[400px] overflow-hidden"
+                        }
+                    }
+                }
+            },
+            "order": 9,
+            "lang": "en",
+            "linked_domain_page_id": null
+        }
+    ]
+}
