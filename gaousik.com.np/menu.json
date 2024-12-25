@@ -5,6 +5,9 @@
             "id": 496,
             "parent_menu_id": null,
             "link": "/index",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": null,
             "child": []
         },
         {
@@ -12,6 +15,9 @@
             "id": 501,
             "parent_menu_id": null,
             "link": "/about",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": null,
             "child": []
         },
         {
@@ -19,6 +25,9 @@
             "id": 558,
             "parent_menu_id": null,
             "link": "/products",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": null,
             "child": []
         },
         {
@@ -26,6 +35,9 @@
             "id": 691,
             "parent_menu_id": null,
             "link": "/services",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": null,
             "child": []
         },
         {
@@ -33,6 +45,9 @@
             "id": 692,
             "parent_menu_id": null,
             "link": "/contact",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": null,
             "child": []
         }
     ]

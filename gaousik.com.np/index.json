@@ -37,7 +37,7 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "We, Gaousik Tech Solution Pvt. Ltd , believe in harnessing the power of technology to make your visions a tangible reality. As a tech startup, we specialize in bringing digital transformation to businesses of all sizes. Our team of experts leverages the latest Artificial Intelligence (AI) technology to streamline business processes, making them more efficient and effective. From website creation to core business services, we're dedicated to helping businesses grow and succeed. With our focus on innovation and customer satisfaction, we're  poised to lead the way in digital transformation...",
+                        "content": "We, Gaousik Tech Solution Pvt. Ltd , believe in harnessing the power of technology to make your visions a tangible reality. As a tech startup, we specialize in bringing digital transformation to businesses of all sizes. Our team of experts leverages the latest Artificial Intelligence (AI) technology to streamline business processes, making them more efficient and effective. From website creation to core business services, we're dedicated to helping businesses grow and succeed. With our focus on innovation and customer satisfaction, we're  poised to lead the way in digital transformation.",
                         "css": {
                             "color": "text-slate-400 py-6 text-justify font-light text-slate-800"
                         },
@@ -73,7 +73,9 @@
                     }
                 }
             },
-            "order": 7
+            "order": 7,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7503,
@@ -149,7 +151,9 @@
                     }
                 }
             },
-            "order": 8
+            "order": 9,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7502,
@@ -306,7 +310,9 @@
                     }
                 ]
             },
-            "order": 9
+            "order": 10,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7504,
@@ -476,7 +482,9 @@
                     }
                 ]
             },
-            "order": 10
+            "order": 11,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7498,
@@ -554,7 +562,9 @@
                     }
                 }
             },
-            "order": 15
+            "order": 16,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7496,
@@ -630,7 +640,9 @@
                     }
                 }
             },
-            "order": 20
+            "order": 21,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7497,
@@ -706,7 +718,9 @@
                     }
                 }
             },
-            "order": 21
+            "order": 22,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7493,
@@ -781,7 +795,9 @@
                     }
                 }
             },
-            "order": 22
+            "order": 23,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7495,
@@ -821,7 +837,7 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "At Gaousik, our focus is to maximize value for all stakeholders, including end-users. We understand the importance of time and energy, and strive to use them wisely in our work. By partnering with us, you not only get your tasks completed but also receive valuable insights and support to enhance your business. Our expertise and knowledge base will help identify opportunities for increased efficiency and growth. Working with Gaousik is a sure way to add value to your business or workflow",
+                        "content": "At Gaousik, our focus is to maximize value for all stakeholders, including end-users. We understand the importance of time and energy, and strive to use them wisely in our work. By partnering with us, you not only get your tasks completed but also receive valuable insights and support to enhance your business. Our expertise and knowledge base will help identify opportunities for increased efficiency and growth. Working with Gaousik is a sure way to add value to your business or workflow.",
                         "css": {
                             "color": "text-slate-500 font-light"
                         },
@@ -857,7 +873,9 @@
                     }
                 }
             },
-            "order": 22
+            "order": 23,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7526,
@@ -890,7 +908,9 @@
                     }
                 }
             },
-            "order": 23
+            "order": 24,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }
