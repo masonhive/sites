@@ -1,126 +1,14 @@
 {
     "data": [
         {
-            "name": "Upcoming Events",
-            "id": 669,
-            "parent_menu_id": null,
-            "link": "/events",
-            "lang": "en",
-            "linked_menu_id": null,
-            "order": null,
-            "child": []
-        },
-        {
             "name": "About Us",
             "id": 611,
             "parent_menu_id": null,
             "link": "/about-us",
             "lang": "en",
             "linked_menu_id": null,
-            "order": null,
+            "order": 1,
             "child": []
-        },
-        {
-            "name": "Partnership",
-            "id": 617,
-            "parent_menu_id": null,
-            "link": "",
-            "lang": "en",
-            "linked_menu_id": null,
-            "order": null,
-            "child": [
-                {
-                    "name": "University / College",
-                    "id": 668,
-                    "parent_menu_id": 617,
-                    "link": "/university-college",
-                    "lang": "en",
-                    "linked_menu_id": null,
-                    "order": null,
-                    "child": []
-                },
-                {
-                    "name": "Agency",
-                    "id": 667,
-                    "parent_menu_id": 617,
-                    "link": "/agency",
-                    "lang": "en",
-                    "linked_menu_id": null,
-                    "order": null,
-                    "child": []
-                }
-            ]
-        },
-        {
-            "name": "Gallery",
-            "id": 616,
-            "parent_menu_id": null,
-            "link": "/gallery",
-            "lang": "en",
-            "linked_menu_id": null,
-            "order": null,
-            "child": []
-        },
-        {
-            "name": "Success Stories",
-            "id": 615,
-            "parent_menu_id": null,
-            "link": "/success-stories",
-            "lang": "en",
-            "linked_menu_id": null,
-            "order": null,
-            "child": []
-        },
-        {
-            "name": "Test Preparation",
-            "id": 614,
-            "parent_menu_id": null,
-            "link": "",
-            "lang": "en",
-            "linked_menu_id": null,
-            "order": null,
-            "child": [
-                {
-                    "name": "Duolingo English Test",
-                    "id": 690,
-                    "parent_menu_id": 614,
-                    "link": "/test-preparation",
-                    "lang": "en",
-                    "linked_menu_id": null,
-                    "order": null,
-                    "child": []
-                },
-                {
-                    "name": "PTE",
-                    "id": 630,
-                    "parent_menu_id": 614,
-                    "link": "/test-preparation-pte",
-                    "lang": "en",
-                    "linked_menu_id": null,
-                    "order": null,
-                    "child": []
-                },
-                {
-                    "name": "TOEFL",
-                    "id": 629,
-                    "parent_menu_id": 614,
-                    "link": "/test-preparation-tofel",
-                    "lang": "en",
-                    "linked_menu_id": null,
-                    "order": null,
-                    "child": []
-                },
-                {
-                    "name": "IELTS",
-                    "id": 628,
-                    "parent_menu_id": 614,
-                    "link": "/test-preparation-ielts",
-                    "lang": "en",
-                    "linked_menu_id": null,
-                    "order": null,
-                    "child": []
-                }
-            ]
         },
         {
             "name": "Study Abroad",
@@ -129,7 +17,7 @@
             "link": "",
             "lang": "en",
             "linked_menu_id": null,
-            "order": null,
+            "order": 2,
             "child": [
                 {
                     "name": "Study In Dubai",
@@ -202,6 +90,118 @@
                     "child": []
                 }
             ]
+        },
+        {
+            "name": "Test Preparation",
+            "id": 614,
+            "parent_menu_id": null,
+            "link": "",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": 3,
+            "child": [
+                {
+                    "name": "Duolingo English Test",
+                    "id": 690,
+                    "parent_menu_id": 614,
+                    "link": "/test-preparation",
+                    "lang": "en",
+                    "linked_menu_id": null,
+                    "order": null,
+                    "child": []
+                },
+                {
+                    "name": "PTE",
+                    "id": 630,
+                    "parent_menu_id": 614,
+                    "link": "/test-preparation-pte",
+                    "lang": "en",
+                    "linked_menu_id": null,
+                    "order": null,
+                    "child": []
+                },
+                {
+                    "name": "TOEFL",
+                    "id": 629,
+                    "parent_menu_id": 614,
+                    "link": "/test-preparation-tofel",
+                    "lang": "en",
+                    "linked_menu_id": null,
+                    "order": null,
+                    "child": []
+                },
+                {
+                    "name": "IELTS",
+                    "id": 628,
+                    "parent_menu_id": 614,
+                    "link": "/test-preparation-ielts",
+                    "lang": "en",
+                    "linked_menu_id": null,
+                    "order": null,
+                    "child": []
+                }
+            ]
+        },
+        {
+            "name": "Success Stories",
+            "id": 615,
+            "parent_menu_id": null,
+            "link": "/success-stories",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": 4,
+            "child": []
+        },
+        {
+            "name": "Partnership",
+            "id": 617,
+            "parent_menu_id": null,
+            "link": "",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": 5,
+            "child": [
+                {
+                    "name": "University / College",
+                    "id": 668,
+                    "parent_menu_id": 617,
+                    "link": "/university-college",
+                    "lang": "en",
+                    "linked_menu_id": null,
+                    "order": null,
+                    "child": []
+                },
+                {
+                    "name": "Agency",
+                    "id": 667,
+                    "parent_menu_id": 617,
+                    "link": "/agency",
+                    "lang": "en",
+                    "linked_menu_id": null,
+                    "order": null,
+                    "child": []
+                }
+            ]
+        },
+        {
+            "name": "Gallery",
+            "id": 616,
+            "parent_menu_id": null,
+            "link": "/gallery",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": 6,
+            "child": []
+        },
+        {
+            "name": "Upcoming Events",
+            "id": 669,
+            "parent_menu_id": null,
+            "link": "/events",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": 7,
+            "child": []
         }
     ]
 }
