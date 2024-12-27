@@ -17,7 +17,9 @@
                 "link": "#",
                 "siteMail": "mailforgaousik@gmail.com"
             },
-            "order": 6
+            "order": 6,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7511,
@@ -146,7 +148,9 @@
                     }
                 ]
             },
-            "order": 8
+            "order": 8,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }
