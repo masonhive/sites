@@ -122,12 +122,14 @@
                         "type": "select",
                         "label": "Preferred Study Destination",
                         "placeholder": "Choose a Destination",
-                        "data": "[\"USA\",\"Australia\",\"Canada\"]",
+                        "data": "[\"USA\",\"Australia\",\"Canada\",\"Dubai\",\"Japan\",\"New Zealand\",\"UK\",\"Europe\"]",
                         "required": "1"
                     }
                 ]
             },
-            "order": 3
+            "order": 3,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }
