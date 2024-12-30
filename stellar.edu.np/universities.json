@@ -182,7 +182,9 @@
                     }
                 ]
             },
-            "order": 3
+            "order": 3,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7336,
@@ -371,14 +373,13 @@
                         "image": "https://studentconnect.org/uploads/institutions/6524626db8356.png"
                     },
                     {
-                        "image": "https://www.sbcs.edu.tt/wp-content/uploads/2016/04/UoS-Logo.png"
-                    },
-                    {
                         "image": "https://cathedralsgroup.ac.uk/media/Institutional%20logos/University%20of%20Chichester%20logo%20(1).jpg"
                     }
                 ]
             },
-            "order": 4
+            "order": 4,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7602,
@@ -513,9 +514,6 @@
                         "image": "https://logos-world.net/wp-content/uploads/2021/08/ASU-Logo-700x394.png"
                     },
                     {
-                        "image": "https://logos-world.net/wp-content/uploads/2023/08/University-of-Arkansas-Logo-500x281.png"
-                    },
-                    {
                         "image": "https://stanton.edu/wp-content/uploads/SU_logo-website-header-2.png"
                     },
                     {
@@ -534,9 +532,6 @@
                         "image": "https://www.utoledo.edu/images/utoledo-logo-horizontal-full-color.svg"
                     },
                     {
-                        "image": "https://www.wust.edu/uploads/logo/16817125791971.png"
-                    },
-                    {
                         "image": "https://knightnewhousedata.org/sites/default/files/institutions/156125.png"
                     },
                     {
@@ -547,9 +542,6 @@
                     },
                     {
                         "image": "https://www.thecollegetour.com/wp-content/uploads/2022/07/MSSU_ComboWordmark-Stacked-SIDELion-GreenText.png"
-                    },
-                    {
-                        "image": "https://www.summit4success.com/rax/images/business-directory/Kent%20State.png"
                     },
                     {
                         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Avila_University_logo.svg/300px-Avila_University_logo.svg.png?20170529003141"
@@ -592,7 +584,9 @@
                     }
                 ]
             },
-            "order": 5
+            "order": 5,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }
