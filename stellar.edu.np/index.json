@@ -1192,9 +1192,9 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "<a class=\"py-1\" href=\"https://www.youtube.com/@stellareducation2728\" target=\"_blank\">\n<div class=\"flex items-center\"><img class=\"w-8\" src=\"https://cdn-icons-png.flaticon.com/512/1384/1384060.png\"></div>\n</a>\n\n<a class=\"py-1\" href=\"https://www.facebook.com/stellarinternationaleducation/\" target=\"_blank\">\n<div class=\"flex items-center\"><img class=\"w-8\" src=\"https://cdn-icons-png.flaticon.com/512/889/889102.png\"></div>\n</a>\n\n<a class=\"py-1\" href=\"https://www.linkedin.com/company/stellar-education/\" target=\"_blank\">\n<div class=\"flex items-center\"><img class=\"w-8\" src=\"https://cdn-icons-png.flaticon.com/512/4138/4138130.png\"></div>\n</a>",
+                        "content": "<a class=\"py-2\" href=\"https://www.youtube.com/@stellareducation2728\" target=\"_blank\">\n<div class=\"flex items-center\"><img class=\"w-8\" src=\"https://cdn-icons-png.flaticon.com/512/1384/1384060.png\"></div>\n</a>\n\n<a class=\"py-2\" href=\"https://www.facebook.com/stellarinternationaleducation/\" target=\"_blank\">\n<div class=\"flex items-center\"><img class=\"w-8\" src=\"https://cdn-icons-png.flaticon.com/512/889/889102.png\"></div>\n</a>\n\n<a class=\"py-2\" href=\"https://www.linkedin.com/company/stellar-education/\" target=\"_blank\">\n<div class=\"flex items-center\"><img class=\"w-8\" src=\"https://cdn-icons-png.flaticon.com/512/4138/4138130.png\"></div>\n</a>",
                         "css": {
-                            "color": "text-slate-400 font-light"
+                            "color": "flex flex-col"
                         },
                         "inlineCss": "",
                         "parseHtml": "1"
