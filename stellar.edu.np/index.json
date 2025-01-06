@@ -1162,7 +1162,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "top-[50vh] right-0 bg-white z-10 rounded-[10px] border-grey-500  shadow-lg shadow-cyan-500/50 fixed",
+                        "color": "top-[50vh] right-0 bg-white z-10 rounded-[10px] border-grey-500  shadow-lg shadow-cyan-500/50 fixed px-4 py-2",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -1210,19 +1210,19 @@
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "grid grid-cols-12  justify-center items-center"
+                            "color": " justify-center items-center"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-span-12  order-2 px-2"
+                            "color": ""
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container m-auto"
+                            "color": ""
                         },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                        "inlineCss": ""
                     },
                     "imageWrap": {
                         "css": {
