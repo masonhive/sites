@@ -137,8 +137,8 @@
                 },
                 "itemList": [
                     {
-                        "image": "https://www.globalreach.in/images/banner/benefits-inner-banner.jpg",
-                        "heading": "Your dream of studying in UK is closer than you think!",
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/dubai.jpg",
+                        "heading": "Your dream of studying in Dubai is closer than you think!",
                         "caption": "Empower your global ambitions with personalized guidance on your study abroad journey",
                         "parseHtml": "1",
                         "button": "Get Started For Free",
@@ -1156,6 +1156,86 @@
             "linked_domain_page_id": null
         },
         {
+            "id": 7759,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": " absolute top-[50vh] right-0 bg-white z-10 rounded-[10px] border-grey-500  shadow-lg shadow-cyan-500/50",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-center font-light",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "<a class=\"py-1\" href=\"https://www.youtube.com/@stellareducation2728\" target=\"_blank\">\n<div class=\"flex items-center\"><img class=\"w-8\" src=\"https://cdn-icons-png.flaticon.com/512/1384/1384060.png\"></div>\n</a>\n\n<a class=\"py-1\" href=\"https://www.facebook.com/stellarinternationaleducation/\" target=\"_blank\">\n<div class=\"flex items-center\"><img class=\"w-8\" src=\"https://cdn-icons-png.flaticon.com/512/889/889102.png\"></div>\n</a>\n\n<a class=\"py-1\" href=\"https://www.linkedin.com/company/stellar-education/\" target=\"_blank\">\n<div class=\"flex items-center\"><img class=\"w-8\" src=\"https://cdn-icons-png.flaticon.com/512/4138/4138130.png\"></div>\n</a>",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "w-40 center "
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12  justify-center items-center"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-12  order-2 px-2"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-12 order-1 flex justify-center items-center"
+                        }
+                    }
+                }
+            },
+            "order": 16,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
             "id": 7144,
             "component": "TextV2",
             "component_id": 72,
@@ -1228,7 +1308,7 @@
                     }
                 }
             },
-            "order": 16,
+            "order": 17,
             "lang": "en",
             "linked_domain_page_id": null
         }
