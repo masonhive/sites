@@ -1162,7 +1162,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": " absolute top-[50vh] right-0 bg-white z-10 rounded-[10px] border-grey-500  shadow-lg shadow-cyan-500/50",
+                        "color": "top-[50vh] right-0 bg-white z-10 rounded-[10px] border-grey-500  shadow-lg shadow-cyan-500/50 fixed",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
