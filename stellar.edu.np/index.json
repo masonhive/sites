@@ -1162,7 +1162,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "top-[50vh] right-0 bg-white z-10 rounded-[10px] border-grey-500  shadow-lg shadow-cyan-500/50 fixed px-4 py-2",
+                        "color": "top-[50vh] right-0  z-10   px-4 py-2 fixed",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -1192,7 +1192,7 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "<a class=\"py-2\" href=\"https://www.youtube.com/@stellareducation2728\" target=\"_blank\">\n<div class=\"flex items-center\"><img class=\"w-8\" src=\"https://cdn-icons-png.flaticon.com/512/1384/1384060.png\"></div>\n</a>\n\n<a class=\"py-2\" href=\"https://www.facebook.com/stellarinternationaleducation/\" target=\"_blank\">\n<div class=\"flex items-center\"><img class=\"w-8\" src=\"https://cdn-icons-png.flaticon.com/512/889/889102.png\"></div>\n</a>\n\n<a class=\"py-2\" href=\"https://www.linkedin.com/company/stellar-education/\" target=\"_blank\">\n<div class=\"flex items-center\"><img class=\"w-8\" src=\"https://cdn-icons-png.flaticon.com/512/4138/4138130.png\"></div>\n</a>",
+                        "content": "<a class=\" text-white text-2xl  py-1\" href=\"https://www.youtube.com/@stellareducation2728\" target=\"_blank\">\n <div class=\"bg-red-600 rounded-full p-3 w-10 h-10 flex items-center justify-center\"><i class=\"fa-brands fa-youtube\"></i> </div>\n</a>\n\n<a class=\" text-white text-2xl py-1\" href=\"https://www.facebook.com/stellarinternationaleducation\" target=\"_blank\">\n <div class=\"bg-blue-800 rounded-full p-3 w-10 h-10 flex items-center justify-center\"><i class=\"fa-brands fa-facebook-f\"></i> </div>\n</a>\n\n<a class=\" text-white text-2xl py-1\" href=\"https://www.linkedin.com/company/stellar-education\" target=\"_blank\">\n <div class=\"bg-blue-400 rounded-full p-3 w-10 h-10 flex items-center justify-center\"><i class=\"fa-brands fa-linkedin-in\"></i> </div>\n</a>\n\n<a class=\" text-white text-2xl py-1\" href=\"https://www.tiktok.com/@stellareducation?lang=en\" target=\"_blank\">\n <div class=\"bg-slate-800 rounded-full p-3 w-10 h-10 flex items-center justify-center\"><i class=\"fa-brands fa-tiktok\"></i> </div>\n</a>\n\n<a class=\" text-white text-2xl py-1\" href=\"https://www.instagram.com/stellar.nepal/?hl=en\" target=\"_blank\">\n <div class=\"bg-pink-500 rounded-full p-3 w-10 h-10 flex items-center justify-center\"><i class=\"fa-brands fa-instagram\"></i> </div>\n</a>\n",
                         "css": {
                             "color": "flex flex-col"
                         },
