@@ -371,6 +371,42 @@
                 },
                 "common_component": "1"
             },
+            "order": 18,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7768,
+            "component": "metatag",
+            "component_id": 75,
+            "attributes": {
+                "common_component": "1",
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": ""
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "metadata": {
+                        "favicon": "/favicon.ico",
+                        "title": "SIE : Nepal's leading study abroad consultant",
+                        "ogTitle": "SIE : Nepal's leading study abroad consultant",
+                        "ogImage": "",
+                        "twitterCard": "",
+                        "description": "SIE offer a comprehensive roadmap tailored to each student's needs and goals. This plan includes assistance with university selection, application support, visa guidance, scholarship and financial aid resources, and pre-departure orientation to prepare students for their new academic and cultural experiences."
+                    }
+                },
+                "wrapper": {
+                    "mainWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    }
+                }
+            },
             "order": 47,
             "lang": "en",
             "linked_domain_page_id": null
