@@ -7,7 +7,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "font-light text-white ",
+                        "color": "font-light text-white md:h-[50vh] overflow-hidden h-[30vh]",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
