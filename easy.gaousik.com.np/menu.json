@@ -1,56 +1,6 @@
 {
     "data": [
         {
-            "name": "हाम्रो बारेमा ",
-            "id": 699,
-            "parent_menu_id": null,
-            "link": "",
-            "lang": "en",
-            "linked_menu_id": null,
-            "order": null,
-            "child": []
-        },
-        {
-            "name": "सम्पर्क ",
-            "id": 700,
-            "parent_menu_id": null,
-            "link": "",
-            "lang": "en",
-            "linked_menu_id": null,
-            "order": null,
-            "child": []
-        },
-        {
-            "name": "सम्पर्क ",
-            "id": 701,
-            "parent_menu_id": null,
-            "link": "",
-            "lang": "en",
-            "linked_menu_id": null,
-            "order": null,
-            "child": []
-        },
-        {
-            "name": "सम्पर्क ",
-            "id": 702,
-            "parent_menu_id": null,
-            "link": "",
-            "lang": "en",
-            "linked_menu_id": null,
-            "order": null,
-            "child": []
-        },
-        {
-            "name": "सम्पर्क ",
-            "id": 703,
-            "parent_menu_id": null,
-            "link": "",
-            "lang": "en",
-            "linked_menu_id": null,
-            "order": null,
-            "child": []
-        },
-        {
             "name": "गृहपृष्ठ",
             "id": 697,
             "parent_menu_id": null,
@@ -68,6 +18,16 @@
             "lang": "en",
             "linked_menu_id": null,
             "order": 2,
+            "child": []
+        },
+        {
+            "name": "हाम्रो बारेमा ",
+            "id": 699,
+            "parent_menu_id": null,
+            "link": "",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": 3,
             "child": []
         }
     ]
