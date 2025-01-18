@@ -7,7 +7,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "font-light text-white ",
+                        "color": "font-light text-white md:h-auto h-[30vh]",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -60,12 +60,12 @@
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "items-center"
+                            "color": ""
                         }
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "sm:hidden"
+                            "color": ""
                         }
                     },
                     "itemheadingWrap": {
@@ -75,7 +75,7 @@
                     },
                     "itemSectionWrap": {
                         "css": {
-                            "color": "md:absolute z-10  h-full w-full justify-center flex flex-col   py-10 top-0 md:px-32"
+                            "color": ""
                         },
                         "inlineCss": ""
                     },
@@ -126,7 +126,7 @@
                     },
                     "itemImageWrap": {
                         "css": {
-                            "color": " relative hidden lg:flex "
+                            "color": " relative flex md:h-auto h-[30vh]"
                         }
                     },
                     "itemButtonWrap": {
@@ -149,13 +149,91 @@
             "linked_domain_page_id": null
         },
         {
+            "id": 7781,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-[#F2F8FD] pt-10 pb-0 px-5",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "",
+                    "id": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-red-600 font-semibold text-lg pb-4",
+                            "fontSize": "12px"
+                        },
+                        "content": "हाम्रो बारेमा",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "ईजी सोलुसन नै किन ?",
+                        "css": {
+                            "color": "text-blue-800 text-2xl font-semibold pb-5"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left  flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-12  order-1 px-6 text-center"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 5,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
             "id": 7779,
             "component": "CardV2",
             "component_id": 62,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "text-center bg-[#F2F8FD]  px-20 pb-10",
+                        "color": "text-center bg-[#F2F8FD]  md:px-20 pb-10 px-5 ",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -180,7 +258,7 @@
                         "content": "हाम्रो बारेमा थप जान्नुहोस्",
                         "link": "",
                         "css": {
-                            "color": "px-10 py-2 rounded-full bg-blue-800 text-white absolute bottom-0 left-[45%]"
+                            "color": "px-10 py-2 rounded-full bg-blue-800 text-white absolute bottom-0 md:left-[45%] w-full md:w-auto  left-0"
                         }
                     },
                     "image": {
@@ -203,7 +281,7 @@
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "col-span-6"
+                            "color": "md:col-span-6 col-span-12"
                         }
                     },
                     "contentWrap": {
@@ -252,7 +330,7 @@
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "col-span-6"
+                            "color": "md:col-span-6 col-span-12"
                         }
                     },
                     "itemContentWrap": {
@@ -274,7 +352,7 @@
                     },
                     "itemImageWrap": {
                         "css": {
-                            "color": "bg-red-600  p-2 rounded-2xl mx-10"
+                            "color": "bg-red-600  p-2 rounded-2xl md:mx-10"
                         }
                     }
                 },
@@ -287,7 +365,7 @@
                     }
                 ]
             },
-            "order": 6,
+            "order": 7,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -298,7 +376,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-[#EEECEC] text-center",
+                        "color": "bg-[#EEECEC] text-center px-5",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -482,7 +560,7 @@
                     }
                 ]
             },
-            "order": 12,
+            "order": 13,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -606,7 +684,7 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "col-start-5 col-span-12 bg-blue-800 px-20 py-10"
+                            "color": "md:col-start-5 col-span-12 bg-blue-800 md:px-20 py-10 px-5"
                         }
                     },
                     "itemImageWrap": {
@@ -628,7 +706,7 @@
                     }
                 ]
             },
-            "order": 13,
+            "order": 14,
             "lang": "en",
             "linked_domain_page_id": null
         }

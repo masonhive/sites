@@ -207,7 +207,7 @@
                     "hamburger": {
                         "icon": "FaBars",
                         "css": {
-                            "color": "md:hidden p-4 z-20 relative text-black"
+                            "color": "md:hidden p-4 z-20 relative text-white bg-blue-800 mr-3"
                         },
                         "smDeviceOnly": "1"
                     },
