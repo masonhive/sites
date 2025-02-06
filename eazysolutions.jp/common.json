@@ -818,7 +818,7 @@
                     "multiLanguage": {
                         "languages": "{\"en\":\"English\",\"np\": \"Nepali\",\"jp\":\"Japanese\"}",
                         "css": {
-                            "color": "py-3 text-base text-blue \ntext-base  text-blue-800"
+                            "color": "py-3 text-base  text-blue-800"
                         }
                     }
                 },
