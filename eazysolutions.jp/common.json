@@ -599,7 +599,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-white py-2  shadow-lg shadow-slate-600 hidden lg:block",
+                        "color": " bg-white py-2  shadow-lg shadow-slate-600 hidden lg:block text-sm",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
