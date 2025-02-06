@@ -1,151 +1,6 @@
 {
     "data": [
         {
-            "id": 7769,
-            "component": "CardV2",
-            "component_id": 62,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-blue-800 text-white  py-2 hidden lg:block text-sm",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2 text-slate-800",
-                            "fontSize": "12px"
-                        },
-                        "content": "",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "caption": {
-                        "content": "",
-                        "css": {
-                            "color": "text-2xl py-2 text-slate-800"
-                        }
-                    },
-                    "itemInfo": {
-                        "reverseDisplayOrder": "",
-                        "activateSlider": "",
-                        "rowCounts": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "flex flex-col "
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": "flex flex-row w-full"
-                        },
-                        "inlineCss": ""
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "text-sm"
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-xl px-3"
-                        }
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "flex md:col-span-4 col-span-12 items-center"
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "css": {
-                            "color": "align-left"
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": "container m-auto px-5 md:px-0"
-                        }
-                    },
-                    "itemContentWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "w-full"
-                        }
-                    },
-                    "itemTitleWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container items-center m-auto "
-                        }
-                    }
-                },
-                "itemList": [
-                    {
-                        "heading": "Easy solutions - All Services in One Place"
-                    },
-                    {
-                        "parseHtml": "1",
-                        "caption": "<div class=\"flex justify-center items-center\">\n<div class=\" flex justify-center items-center \">\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa fa-phone\"> </i>\n</div>\n <div class=\"flex m-2\">080-4165-4795 </div> \n</div>\n\n<div class=\" flex justify-center items-center \">\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa fa-envelope\"> </i>\n</div>\n <div class=\"flex m-2\">eazysolutionsjp@gmail.com</div> \n</div>\n\n</div>"
-                    },
-                    {
-                        "caption": "<div class=\"flex gap-1 justify-end items-center\"> \n<div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa-brands fa-youtube\"> </i>\n</div>\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa-brands fa-facebook-f\"> </i>\n</div>\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa-brands fa-linkedin-in\"> </i>\n</div>\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa-brands fa-tiktok\"> </i>\n</div>\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa-brands fa-instagram\"> </i>\n</div>\n</div>",
-                        "parseHtml": "1"
-                    }
-                ],
-                "common_component": "1"
-            },
-            "order": 1,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
             "id": 7827,
             "component": "CardV2",
             "component_id": 62,
@@ -291,13 +146,13 @@
             "linked_domain_page_id": 7769
         },
         {
-            "id": 7760,
-            "component": "NavV2",
-            "component_id": 67,
+            "id": 7769,
+            "component": "CardV2",
+            "component_id": 62,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": " shadow-sm shadow-slate-200 border-b-4 border-red-600",
+                        "color": "bg-blue-800 text-white  py-2 hidden lg:block text-sm",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -305,17 +160,17 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "color": "text-2xl py-2 text-slate-800",
                             "fontSize": "12px"
                         },
-                        "content": "What our customers say",
+                        "content": "",
                         "inlineCss": ""
                     },
                     "description": {
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-oxygen font-size-3 mbr-pt-1"
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
                         }
                     },
                     "button": {
@@ -329,49 +184,26 @@
                         "content": ""
                     },
                     "caption": {
-                        "content": "Here are some customers thought about Vigour Super Speciality Clinic and Diagnostic Centre as it is.\n\n\n"
-                    },
-                    "itemInfo": {
-                        "activateSlider": "",
-                        "rowCounts": ""
-                    },
-                    "logo": {
-                        "content": "",
-                        "logo": "https://eazysolution.jp/wp-content/uploads/2023/01/cropped-EaZy-Solution-01.png",
-                        "css": {
-                            "color": "md:h-16 h-12"
-                        },
-                        "inlineCss": ""
-                    },
-                    "slogan": {
                         "content": "",
                         "css": {
-                            "color": "font-family-andada font-size-7"
+                            "color": "text-2xl py-2 text-slate-800"
                         }
                     },
-                    "hamburger": {
-                        "icon": "FaBars",
-                        "css": {
-                            "color": "md:hidden p-4 z-20 relative text-white bg-blue-800 mr-3"
-                        },
-                        "smDeviceOnly": "1"
-                    },
-                    "menu": {
-                        "css": {
-                            "color": "px-8 py-4 \nhover:bg-red-600\nhover:text-white rounded-t-lg\n ease-in duration-300 \ntext-base flex items-center gap-1 text-blue-800"
-                        },
-                        "inlineCss": ""
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
+                            "color": "flex flex-col "
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-center"
+                            "color": ""
                         }
                     },
                     "imageWrap": {
@@ -386,7 +218,7 @@
                     },
                     "itemSectionWrap": {
                         "css": {
-                            "color": "flex align-center"
+                            "color": "flex flex-row w-full"
                         },
                         "inlineCss": ""
                     },
@@ -397,15 +229,18 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                            "color": "text-sm"
                         }
                     },
                     "itemIconWrap": {
-                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-xl px-3"
+                        }
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "mbr-col-md-4 mbr-flex grid-row "
+                            "color": "flex md:col-span-4 col-span-12 items-center"
                         }
                     },
                     "itemCaptionWrap": {
@@ -415,31 +250,190 @@
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "md:col-span-2 flex items-center md:col-start-11  col-span-6 md:flex-row-reverse gap-1 md:justify-center justify-end"
+                            "color": "container m-auto px-5 md:px-0"
                         }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "w-full"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container m-auto grid grid-cols-12 md:items-end pt-3 md:px-10 items-center"
-                        }
-                    },
-                    "logoWrap": {
-                        "css": {
-                            "color": "md:col-span-2  col-span-5 py-1"
-                        }
-                    },
-                    "menuWrap": {
-                        "css": {
-                            "color": "md:col-span-10 md:flex items-end md:visible text-sm flex-row-reverse"
+                            "color": "container items-center m-auto "
                         }
                     }
                 },
-                "itemList": [],
+                "itemList": [
+                    {
+                        "heading": "Easy solutions - All Services in One Place"
+                    },
+                    {
+                        "parseHtml": "1",
+                        "caption": "<div class=\"flex justify-center items-center\">\n<div class=\" flex justify-center items-center \">\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa fa-phone\"> </i>\n</div>\n <div class=\"flex m-2\">080-4165-4795 </div> \n</div>\n\n<div class=\" flex justify-center items-center \">\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa fa-envelope\"> </i>\n</div>\n <div class=\"flex m-2\">eazysolutionsjp@gmail.com</div> \n</div>\n\n</div>"
+                    },
+                    {
+                        "caption": "<div class=\"flex gap-1 justify-end items-center\"> \n<div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa-brands fa-youtube\"> </i>\n</div>\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa-brands fa-facebook-f\"> </i>\n</div>\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa-brands fa-linkedin-in\"> </i>\n</div>\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa-brands fa-tiktok\"> </i>\n</div>\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa-brands fa-instagram\"> </i>\n</div>\n</div>",
+                        "parseHtml": "1"
+                    }
+                ],
                 "common_component": "1"
             },
-            "order": 2,
+            "order": 1,
             "lang": "en",
             "linked_domain_page_id": null
+        },
+        {
+            "id": 7831,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-blue-800 text-white  py-2 hidden lg:block text-sm",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-row w-full"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-sm"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-xl px-3"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "flex md:col-span-4 col-span-12 items-center"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto px-5 md:px-0"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "w-full"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container items-center m-auto "
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Easy solutions - All Services in One Place"
+                    },
+                    {
+                        "parseHtml": "1",
+                        "caption": "<div class=\"flex justify-center items-center\">\n<div class=\" flex justify-center items-center \">\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa fa-phone\"> </i>\n</div>\n <div class=\"flex m-2\">080-4165-4795 </div> \n</div>\n\n<div class=\" flex justify-center items-center \">\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa fa-envelope\"> </i>\n</div>\n <div class=\"flex m-2\">eazysolutionsjp@gmail.com</div> \n</div>\n\n</div>"
+                    },
+                    {
+                        "caption": "<div class=\"flex gap-1 justify-end items-center\"> \n<div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa-brands fa-youtube\"> </i>\n</div>\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa-brands fa-facebook-f\"> </i>\n</div>\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa-brands fa-linkedin-in\"> </i>\n</div>\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa-brands fa-tiktok\"> </i>\n</div>\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa-brands fa-instagram\"> </i>\n</div>\n</div>",
+                        "parseHtml": "1"
+                    }
+                ],
+                "common_component": "1"
+            },
+            "order": 1,
+            "lang": null,
+            "linked_domain_page_id": 7769
         },
         {
             "id": 7815,
@@ -512,6 +506,9 @@
                             "color": "px-8 py-4 \nhover:bg-red-600\nhover:text-white rounded-t-lg\n ease-in duration-300 \ntext-base flex items-center gap-1 text-blue-800"
                         },
                         "inlineCss": ""
+                    },
+                    "multiLanguage": {
+                        "languages": "en,jp,np"
                     }
                 },
                 "wrapper": {
@@ -593,13 +590,13 @@
             "linked_domain_page_id": 7760
         },
         {
-            "id": 7770,
-            "component": "CardV2",
-            "component_id": 62,
+            "id": 7830,
+            "component": "NavV2",
+            "component_id": 67,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": " bg-white py-2  shadow-lg shadow-slate-600 hidden lg:block text-sm",
+                        "color": " shadow-sm shadow-slate-200 border-b-4 border-red-600",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -607,17 +604,17 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-2xl py-2 text-slate-800",
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
                             "fontSize": "12px"
                         },
-                        "content": "",
+                        "content": "What our customers say",
                         "inlineCss": ""
                     },
                     "description": {
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                            "color": "font-family-oxygen font-size-3 mbr-pt-1"
                         }
                     },
                     "button": {
@@ -631,26 +628,52 @@
                         "content": ""
                     },
                     "caption": {
-                        "content": "",
-                        "css": {
-                            "color": "text-2xl py-2 text-slate-800"
-                        }
+                        "content": "Here are some customers thought about Vigour Super Speciality Clinic and Diagnostic Centre as it is.\n\n\n"
                     },
                     "itemInfo": {
-                        "reverseDisplayOrder": "",
                         "activateSlider": "",
                         "rowCounts": ""
+                    },
+                    "logo": {
+                        "content": "",
+                        "logo": "https://eazysolution.jp/wp-content/uploads/2023/01/cropped-EaZy-Solution-01.png",
+                        "css": {
+                            "color": "md:h-16 h-12"
+                        },
+                        "inlineCss": ""
+                    },
+                    "slogan": {
+                        "content": "",
+                        "css": {
+                            "color": "font-family-andada font-size-7"
+                        }
+                    },
+                    "hamburger": {
+                        "icon": "FaBars",
+                        "css": {
+                            "color": "md:hidden p-4 z-20 relative text-white bg-blue-800 mr-3"
+                        },
+                        "smDeviceOnly": "1"
+                    },
+                    "menu": {
+                        "css": {
+                            "color": "px-8 py-4 \nhover:bg-red-600\nhover:text-white rounded-t-lg\n ease-in duration-300 \ntext-base flex items-center gap-1 text-blue-800"
+                        },
+                        "inlineCss": ""
+                    },
+                    "multiLanguage": {
+                        "languages": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "flex flex-col "
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": ""
+                            "color": "mbr-col-md-12 align-center"
                         }
                     },
                     "imageWrap": {
@@ -665,7 +688,7 @@
                     },
                     "itemSectionWrap": {
                         "css": {
-                            "color": "flex flex-row items-center md:justify-center justify-start my-2"
+                            "color": "flex align-center"
                         },
                         "inlineCss": ""
                     },
@@ -676,18 +699,15 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "text-sm"
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
                         }
                     },
                     "itemIconWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-xl px-3"
-                        }
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "md:col-span-4 md:mx-5 col-span-12 "
+                            "color": "mbr-col-md-4 mbr-flex grid-row "
                         }
                     },
                     "itemCaptionWrap": {
@@ -697,44 +717,183 @@
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "container m-auto px-5 md:px-0"
+                            "color": "md:col-span-2 flex items-center md:col-start-11  col-span-6 md:flex-row-reverse gap-1 md:justify-center justify-end"
                         }
-                    },
-                    "itemContentWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-left md:items-center md:justify-center flex "
-                        }
-                    },
-                    "itemTitleWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container items-center m-auto "
+                            "color": "container m-auto grid grid-cols-12 md:items-end pt-3 md:px-10 items-center"
+                        }
+                    },
+                    "logoWrap": {
+                        "css": {
+                            "color": "md:col-span-2  col-span-5 py-1"
+                        }
+                    },
+                    "menuWrap": {
+                        "css": {
+                            "color": "md:col-span-10 md:flex items-end md:visible text-sm flex-row-reverse"
                         }
                     }
                 },
-                "itemList": [
-                    {
-                        "caption": "<div class=\"text-red-600\">The Easy Solution is really easy. All services in one place.</div>",
-                        "parseHtml": "1"
-                    },
-                    {
-                        "caption": "<div class=\"text-blue-800\"> इजी सोल्युसन साँच्चै नै सजिलो छ। सबै सेवा एकै ठाउँमा।</div>",
-                        "parseHtml": "1"
-                    },
-                    {
-                        "caption": "<div class=\"text-red-600\"> इजी सोल्युसन साँच्चै नै सजिलो छ। सबै सेवा एकै ठाउँमा।</div>",
-                        "parseHtml": "1"
-                    }
-                ],
+                "itemList": [],
                 "common_component": "1"
             },
-            "order": 3,
+            "order": 2,
+            "lang": null,
+            "linked_domain_page_id": 7760
+        },
+        {
+            "id": 7760,
+            "component": "NavV2",
+            "component_id": 67,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": " shadow-sm shadow-slate-200 border-b-4 border-red-600",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "font-family-andada font-size-5 mbr-m-0 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "What our customers say",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Here are some customers thought about Vigour Super Speciality Clinic and Diagnostic Centre as it is.\n\n\n"
+                    },
+                    "itemInfo": {
+                        "activateSlider": "",
+                        "rowCounts": ""
+                    },
+                    "logo": {
+                        "content": "",
+                        "logo": "https://eazysolution.jp/wp-content/uploads/2023/01/cropped-EaZy-Solution-01.png",
+                        "css": {
+                            "color": "md:h-16 h-12"
+                        },
+                        "inlineCss": ""
+                    },
+                    "slogan": {
+                        "content": "",
+                        "css": {
+                            "color": "font-family-andada font-size-7"
+                        }
+                    },
+                    "hamburger": {
+                        "icon": "FaBars",
+                        "css": {
+                            "color": "md:hidden p-4 z-20 relative text-white bg-blue-800 mr-3"
+                        },
+                        "smDeviceOnly": "1"
+                    },
+                    "menu": {
+                        "css": {
+                            "color": "px-8 py-4 \nhover:bg-red-600\nhover:text-white rounded-t-lg\n ease-in duration-300 \ntext-base flex items-center gap-1 text-blue-800"
+                        },
+                        "inlineCss": ""
+                    },
+                    "multiLanguage": {
+                        "languages": "en,np"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "mbr-flex mbr-jc-c  flex-wrap grid-column mbr-align-item-c container"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex align-center"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "mbr-col-md-4 mbr-flex grid-row "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "md:col-span-2 flex items-center md:col-start-11  col-span-6 md:flex-row-reverse gap-1 md:justify-center justify-end"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto grid grid-cols-12 md:items-end pt-3 md:px-10 items-center"
+                        }
+                    },
+                    "logoWrap": {
+                        "css": {
+                            "color": "md:col-span-2  col-span-5 py-1"
+                        }
+                    },
+                    "menuWrap": {
+                        "css": {
+                            "color": "md:col-span-10 md:flex items-end md:visible text-sm flex-row-reverse"
+                        }
+                    }
+                },
+                "itemList": [],
+                "common_component": "1"
+            },
+            "order": 2,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -883,6 +1042,298 @@
             "order": 3,
             "lang": "np",
             "linked_domain_page_id": 7770
+        },
+        {
+            "id": 7832,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": " bg-white py-2  shadow-lg shadow-slate-600 hidden lg:block text-sm",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-row items-center md:justify-center justify-start my-2"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-sm"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-xl px-3"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 md:mx-5 col-span-12 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto px-5 md:px-0"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:items-center md:justify-center flex "
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container items-center m-auto "
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "caption": "<div class=\"text-red-600\">The Easy Solution is really easy. All services in one place.</div>",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "caption": "<div class=\"text-blue-800\"> इजी सोल्युसन साँच्चै नै सजिलो छ। सबै सेवा एकै ठाउँमा।</div>",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "caption": "<div class=\"text-red-600\"> इजी सोल्युसन साँच्चै नै सजिलो छ। सबै सेवा एकै ठाउँमा।</div>",
+                        "parseHtml": "1"
+                    }
+                ],
+                "common_component": "1"
+            },
+            "order": 3,
+            "lang": null,
+            "linked_domain_page_id": 7770
+        },
+        {
+            "id": 7770,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": " bg-white py-2  shadow-lg shadow-slate-600 hidden lg:block text-sm",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-row items-center md:justify-center justify-start my-2"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-sm"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-xl px-3"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 md:mx-5 col-span-12 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto px-5 md:px-0"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:items-center md:justify-center flex "
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container items-center m-auto "
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "caption": "<div class=\"text-red-600\">The Easy Solution is really easy. All services in one place.</div>",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "caption": "<div class=\"text-blue-800\"> इजी सोल्युसन साँच्चै नै सजिलो छ। सबै सेवा एकै ठाउँमा।</div>",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "caption": "<div class=\"text-red-600\"> इजी सोल्युसन साँच्चै नै सजिलो छ। सबै सेवा एकै ठाउँमा।</div>",
+                        "parseHtml": "1"
+                    }
+                ],
+                "common_component": "1"
+            },
+            "order": 3,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7782,
@@ -1040,6 +1491,85 @@
             },
             "order": 15,
             "lang": "np",
+            "linked_domain_page_id": 7782
+        },
+        {
+            "id": 7840,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-[#F2F8FD] pt-10 pb-0 px-5",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "",
+                    "id": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-red-600 font-semibold text-lg pb-4",
+                            "fontSize": "12px"
+                        },
+                        "content": "हाम्रा सेवाहरू",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "नि:शुल्क परामर्शको लागि अनुरोध",
+                        "css": {
+                            "color": "text-blue-800 text-2xl font-semibold pb-5"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left  flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-12  order-1 px-6 text-center"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                },
+                "common_component": "1"
+            },
+            "order": 15,
+            "lang": null,
             "linked_domain_page_id": 7782
         },
         {
@@ -1323,7 +1853,147 @@
             "linked_domain_page_id": 7775
         },
         {
-            "id": 7778,
+            "id": 7836,
+            "component": "FunnelV2",
+            "component_id": 73,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "py-0 text-center bg-[#F2F8FD] md:pb-32  pb-5",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "textContainerLayout": {
+                        "0": {
+                            "name": "css",
+                            "keys": [
+                                "color"
+                            ]
+                        },
+                        "1": "inlineCss",
+                        "2": "id",
+                        "css": {
+                            "color": "col-span-5"
+                        }
+                    },
+                    "form": {
+                        "id": "enquiry",
+                        "type": "enquiry",
+                        "css": {
+                            "color": "bg-red-700",
+                            "fontSize": "12px"
+                        },
+                        "inlineCss": ""
+                    },
+                    "formHeading": {
+                        "content": "नि:शुल्क परामर्शको लागि अनुरोध",
+                        "css": {
+                            "color": "text-lg py-3 text-white bg-blue-800 text-left px-10  rounded-t-3xl mb-6",
+                            "fontSize": "12px"
+                        },
+                        "inlineCss": ""
+                    },
+                    "formButton": {
+                        "content": "सन्देश पठाउनुहोस्",
+                        "link": "",
+                        "css": {
+                            "color": "bg-blue-800 rounded-full px-4 py-2 text-white"
+                        }
+                    },
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "<div class=\"flex flex-col gap-12 py-8\">\n<div class=\"flex gap-2 px-6\">\n\n <div class=\" flex justify-center items-center bg-red-600 rounded-full w-10 h-10 text-white text-2xl px-4\">\n<i class=\"fa-solid fa-location-dot\"> </i> \n\n </div>\n\n<div class=\"text-left px-4 text-white\"> \n<div class=\"text-xl font-semibold\"> ठेगाना </div>\n <div class=\"text-sm\">\n〒169-0073 Tokyo to Shinjuku ku Hyakunin cho</div> \n</div>\n\n</div>\n\n\n<div class=\"flex gap-2 px-6\">\n\n <div class=\" flex justify-center items-center bg-red-600 rounded-full w-10 h-10 text-white text-2xl px-4\">\n<i class=\"fa fa-phone\"></i>\n\n </div>\n\n<div class=\"text-left px-4 text-white\"> \n<div class=\"text-xl font-semibold\"> कल गर्नुहोस् </div>\n <div class=\"text-sm\">\n080-4165-4795\n03-6205-6803\n</div> \n</div>\n\n</div>\n\n<div class=\"flex gap-2 px-6\">\n\n <div class=\" flex justify-center items-center bg-red-600 rounded-full w-10 h-10 text-white text-2xl px-4\">\n<i class=\"fa fa-envelope\"></i>\n </div>\n\n<div class=\"text-left px-4 text-white\"> \n<div class=\"text-xl font-semibold\"> मेल गर्नुहोस् </div>\n <div class=\"text-sm\">\neazysolutionsjp@gmail.com\ninfo@eazysolutions.jp</div> \n</div>\n\n</div>\n</div>",
+                        "parseHtml": "1"
+                    }
+                },
+                "wrapper": {
+                    "inputWrap": {
+                        "css": {
+                            "color": "text-start px-10"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "md:col-span-4 md:px-20 col-span-12 "
+                        }
+                    },
+                    "formWrap": {
+                        "css": {
+                            "color": "md:col-span-7 bg-white rounded-3xl  col-span-12 my-10 md:py-0 mx-6 md:px-0"
+                        }
+                    },
+                    "sectionWrap": {
+                        "css": {
+                            "color": "bg-blue-800 rounded-3xl py-5"
+                        }
+                    },
+                    "formButtonWrap": {
+                        "css": {
+                            "color": "text-left pb-10 px-10 pt-4"
+                        }
+                    },
+                    "contentSectionWrap": {
+                        "css": {
+                            "color": "px-6 md:col-span-5 col-span-12"
+                        }
+                    },
+                    "containerWrap": {
+                        "css": {
+                            "color": "md:container grid grid-cols-12 items-center"
+                        }
+                    }
+                },
+                "formInputs": [
+                    {
+                        "id": "name",
+                        "label": "Full Name",
+                        "placeholder": "Enter Your Full Name",
+                        "required": "1"
+                    },
+                    {
+                        "id": "email",
+                        "label": "Email Address",
+                        "placeholder": "Enter Your Email"
+                    },
+                    {
+                        "id": "mobile",
+                        "label": "Mobile Number",
+                        "placeholder": "Enter Your Mobile Number"
+                    },
+                    {
+                        "id": "msg",
+                        "type": "textarea",
+                        "label": "Message",
+                        "placeholder": "Enter Your Email"
+                    }
+                ],
+                "common_component": "1"
+            },
+            "order": 27,
+            "lang": null,
+            "linked_domain_page_id": 7775
+        },
+        {
+            "id": 7837,
             "component": "FunnelV2",
             "component_id": 73,
             "attributes": {
@@ -1450,8 +2120,8 @@
                 "common_component": "1"
             },
             "order": 28,
-            "lang": "en",
-            "linked_domain_page_id": null
+            "lang": null,
+            "linked_domain_page_id": 7778
         },
         {
             "id": 7824,
@@ -1585,7 +2255,138 @@
             "linked_domain_page_id": 7778
         },
         {
-            "id": 7732,
+            "id": 7778,
+            "component": "FunnelV2",
+            "component_id": 73,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-red-600 md:mx-52 rounded-3xl md:-mt-20",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "textContainerLayout": {
+                        "0": {
+                            "name": "css",
+                            "keys": [
+                                "color"
+                            ]
+                        },
+                        "1": "inlineCss",
+                        "2": "id",
+                        "css": {
+                            "color": "md:col-span-5 col-span-12"
+                        }
+                    },
+                    "form": {
+                        "id": "enquiry",
+                        "type": "enquiry",
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "inlineCss": ""
+                    },
+                    "formHeading": {
+                        "content": "हाम्रा नयाँ संग्रहहरूको अपडेटहरू प्राप्त गर्न हाम्रो समाचारपत्रहरू सदस्यता लिनुहोस्",
+                        "css": {
+                            "color": "text-base text-white text-left px-10  ",
+                            "fontSize": "12px"
+                        },
+                        "inlineCss": ""
+                    },
+                    "formButton": {
+                        "content": "सन्देश पठाउनुहोस्",
+                        "link": "",
+                        "css": {
+                            "color": "bg-blue-800 rounded-full px-4 py-2 text-white text-sm"
+                        }
+                    },
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": "https://mykyodai.jp/storage/photos/1/AIR%20TICKET.jpg",
+                        "css": {
+                            "color": "rounded-2xl"
+                        }
+                    },
+                    "caption": {
+                        "content": "",
+                        "parseHtml": "1"
+                    }
+                },
+                "wrapper": {
+                    "inputWrap": {
+                        "css": {
+                            "color": "text-start px-10 rounded-full"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "formWrap": {
+                        "css": {
+                            "color": "md:col-span-10 rounded-3xl relative col-span-12"
+                        }
+                    },
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "formButtonWrap": {
+                        "css": {
+                            "color": "text-left absolute bottom-[12px] right-[45px] "
+                        }
+                    },
+                    "contentSectionWrap": {
+                        "css": {
+                            "color": "md:col-span-2 md:p-5 col-span-12"
+                        }
+                    },
+                    "containerWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 items-center  text-white m-auto"
+                        }
+                    },
+                    "input": {
+                        "css": {
+                            "color": "block w-full py-3 mb-2 text-sm rounded-[20px] text-slate-600 px-5"
+                        }
+                    }
+                },
+                "formInputs": [
+                    {
+                        "id": "name",
+                        "placeholder": "Enter Your Email",
+                        "required": "1"
+                    }
+                ],
+                "common_component": "1"
+            },
+            "order": 28,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7828,
             "component": "CardV2",
             "component_id": 62,
             "attributes": {
@@ -1722,8 +2523,8 @@
                 "common_component": "1"
             },
             "order": 30,
-            "lang": "en",
-            "linked_domain_page_id": null
+            "lang": null,
+            "linked_domain_page_id": 7732
         },
         {
             "id": 7825,
@@ -1867,7 +2668,148 @@
             "linked_domain_page_id": 7732
         },
         {
-            "id": 7734,
+            "id": 7732,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": " shadow-sm shadow-slate-200 text-slate-500",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": "https://eazysolution.jp/wp-content/uploads/2023/01/cropped-EaZy-Solution-01.png"
+                    },
+                    "itemInfo": {
+                        "rowCounts": "3"
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-slate-700 text-base py-4 text-center"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:col-span-2 text-left col-span-12"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-xl text-red-600 font-bold border-b-2 border-blue-800"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"30px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "flex md:col-span-4 col-span-12 md:justify-center m-3 px-10 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto py-8 px-2 grid grid-cols-12"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "md:col-span-10  col-span-12"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-col py-4 text-blue-800 font-light text-lg"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "css": {
+                            "color": "text-left text-blue-100"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "caption": "कम्पनी लिमिटेड जापानमा बसोबास गर्ने विदेशीहरूलाई जागिर परिवर्तन र प्रशासनिक प्रक्रियाहरूलाई सहयोग गर्ने उद्देश्यले स्थापना भएको हो",
+                        "parseHtml": "1",
+                        "heading": "हाम्रो बारेमा"
+                    },
+                    {
+                        "heading": "हाम्रा सेवाहरू ",
+                        "caption": "<div>भिषा सम्बन्धि सेवा </div>\n<div>राहदानी सम्बन्धी सेवाहरू </div>\n<div>काम खोज्न वा काम परिवर्तन गर्न </div>\n<div>कागजात अनुवाद </div>\n<div>जापानमा कोठा खोज्न </div>\n<div>वेब साइट वा अप्लिकेसन बनाउन सेवा </div>\n<div>सारंश</div>\n<div> हवाई टिकट</div>",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "सम्पर्क जानकारी",
+                        "caption": "<div class=\"gap-2 justify-center items-center\">\n\n<div class=\"flex justify-start \">  \n<div class=\"text-red-600 text-2xl pr-4\">\n<i class=\"fa-solid fa-location-dot\"> </i> \n</div> \n<div> 〒169-0073 Tokyo to Shinjuku ku Hyakunin cho 1-７-3-2F9-  </div>\n</div>\n\n<div class=\"flex justify-start \">  \n<div class=\"text-red-600 text-2xl pr-4\">\n<i class=\"fa fa-phone\"> </i> \n</div> \n<div>080-4165-4795  </div>\n</div>\n\n<div class=\"flex justify-start \">  \n<div class=\"text-red-600 text-2xl pr-4\">\n<i class=\"fa fa-envelope\"> </i> \n</div> \n<div> eazysolutionsjp@gmail.com\ninfo@eazysolutions.jp</div>\n</div>\n\n\n<div>\n\n<div class=\"flex gap-1 justify-end items-center text-white\"> \n<div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa-brands fa-youtube\"> </i>\n</div>\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa-brands fa-facebook-f\"> </i>\n</div>\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa-brands fa-linkedin-in\"> </i>\n</div>\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa-brands fa-tiktok\"> </i>\n</div>\n <div class=\" flex justify-center items-center bg-red-600 p-1 rounded-full w-8 h-8\">\n<i class=\"fa-brands fa-instagram\"> </i>\n</div>\n</div></div></div>",
+                        "parseHtml": "1"
+                    }
+                ],
+                "common_component": "1"
+            },
+            "order": 30,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7829,
             "component": "TextV2",
             "component_id": 72,
             "attributes": {
@@ -1939,8 +2881,8 @@
                 "common_component": "1"
             },
             "order": 32,
-            "lang": "en",
-            "linked_domain_page_id": null
+            "lang": null,
+            "linked_domain_page_id": 7734
         },
         {
             "id": 7826,
@@ -2017,6 +2959,82 @@
             "order": 32,
             "lang": "np",
             "linked_domain_page_id": 7734
+        },
+        {
+            "id": 7734,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-blue-800 text-white text-center",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-5xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-2xl pt-4 pb-10"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Copyright © All Rights Reserved by Eazy Solutions",
+                        "css": {
+                            "color": "text-sm "
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "col-start-3 col-span-7"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-5 items-center m-auto"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                },
+                "common_component": "1"
+            },
+            "order": 32,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }
