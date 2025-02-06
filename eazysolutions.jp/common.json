@@ -297,7 +297,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-blue-800 text-white  py-2 hidden lg:block",
+                        "color": "bg-blue-800 text-white  py-2 hidden lg:block text-sm",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
