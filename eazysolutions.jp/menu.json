@@ -21,6 +21,16 @@
             "child": []
         },
         {
+            "name": "Home",
+            "id": 732,
+            "parent_menu_id": null,
+            "link": "/home",
+            "lang": "jp",
+            "linked_menu_id": null,
+            "order": 1,
+            "child": []
+        },
+        {
             "name": "Our Services",
             "id": 698,
             "parent_menu_id": null,
@@ -41,6 +51,16 @@
             "child": []
         },
         {
+            "name": "Services",
+            "id": 733,
+            "parent_menu_id": null,
+            "link": "/services",
+            "lang": "jp",
+            "linked_menu_id": null,
+            "order": 2,
+            "child": []
+        },
+        {
             "name": "About Us",
             "id": 699,
             "parent_menu_id": null,
@@ -56,6 +76,16 @@
             "parent_menu_id": null,
             "link": "/about-us",
             "lang": "np",
+            "linked_menu_id": null,
+            "order": 3,
+            "child": []
+        },
+        {
+            "name": "About Us",
+            "id": 734,
+            "parent_menu_id": null,
+            "link": "/about-us",
+            "lang": "jp",
             "linked_menu_id": null,
             "order": 3,
             "child": []
