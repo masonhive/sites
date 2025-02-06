@@ -508,7 +508,7 @@
                         "inlineCss": ""
                     },
                     "multiLanguage": {
-                        "languages": "en,jp,np"
+                        "languages": "{\"en\":\"English\",\"np\": \"Nepali\",\"jp\":\"Japanese\"}"
                     }
                 },
                 "wrapper": {
@@ -811,12 +811,15 @@
                     },
                     "menu": {
                         "css": {
-                            "color": "px-8 py-4 \nhover:bg-red-600\nhover:text-white rounded-t-lg\n ease-in duration-300 \ntext-base flex items-center gap-1 text-blue-800"
+                            "color": "px-8 py-3 \nhover:bg-red-600\nhover:text-white rounded-t-lg\n ease-in duration-300 \ntext-base flex items-center gap-1 text-blue-800"
                         },
                         "inlineCss": ""
                     },
                     "multiLanguage": {
-                        "languages": "en,np"
+                        "languages": "{\"en\":\"English\",\"np\": \"Nepali\",\"jp\":\"Japanese\"}",
+                        "css": {
+                            "color": "py-4 text-base text-blue hover:bg-red-600\nhover:text-white rounded-t-lg\n ease-in duration-300 \ntext-base flex items-center gap-1 text-blue-800"
+                        }
                     }
                 },
                 "wrapper": {
