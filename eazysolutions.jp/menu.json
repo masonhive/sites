@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "name": "गृहपृष्ठ",
+            "id": 697,
+            "parent_menu_id": null,
+            "link": "/home",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": 1,
+            "child": []
+        },
+        {
+            "name": "हाम्रा सेवाहरू ",
+            "id": 698,
+            "parent_menu_id": null,
+            "link": "/document-translation",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": 2,
+            "child": []
+        },
+        {
+            "name": "हाम्रो बारेमा ",
+            "id": 699,
+            "parent_menu_id": null,
+            "link": "",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": 3,
+            "child": []
+        }
+    ]
+}
