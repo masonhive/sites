@@ -818,7 +818,7 @@
                     "multiLanguage": {
                         "languages": "{\"en\":\"English\",\"np\": \"Nepali\",\"jp\":\"Japanese\"}",
                         "css": {
-                            "color": "py-4 text-base text-blue hover:bg-red-600\nhover:text-white rounded-t-lg\n ease-in duration-300 \ntext-base flex items-center gap-1 text-blue-800"
+                            "color": "py-3 text-base text-blue \ntext-base  text-blue-800"
                         }
                     }
                 },
