@@ -31,11 +31,31 @@
             "child": []
         },
         {
+            "name": "हाम्रा सेवाहरू",
+            "id": 730,
+            "parent_menu_id": null,
+            "link": "",
+            "lang": "np",
+            "linked_menu_id": null,
+            "order": 2,
+            "child": []
+        },
+        {
             "name": "About Us",
             "id": 699,
             "parent_menu_id": null,
             "link": "",
             "lang": "en",
+            "linked_menu_id": null,
+            "order": 3,
+            "child": []
+        },
+        {
+            "name": "हाम्रो बारेमा ",
+            "id": 731,
+            "parent_menu_id": null,
+            "link": "",
+            "lang": "np",
             "linked_menu_id": null,
             "order": 3,
             "child": []
