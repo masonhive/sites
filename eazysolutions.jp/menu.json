@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "name": "गृहपृष्ठ",
+            "name": "Home",
             "id": 697,
             "parent_menu_id": null,
             "link": "/home",
@@ -11,7 +11,17 @@
             "child": []
         },
         {
-            "name": "हाम्रा सेवाहरू ",
+            "name": "गृहपृष्ठ",
+            "id": 729,
+            "parent_menu_id": null,
+            "link": "/home",
+            "lang": "np",
+            "linked_menu_id": null,
+            "order": 1,
+            "child": []
+        },
+        {
+            "name": "Our Services",
             "id": 698,
             "parent_menu_id": null,
             "link": "/document-translation",
@@ -21,7 +31,7 @@
             "child": []
         },
         {
-            "name": "हाम्रो बारेमा ",
+            "name": "About Us",
             "id": 699,
             "parent_menu_id": null,
             "link": "",
