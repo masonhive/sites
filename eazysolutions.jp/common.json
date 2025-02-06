@@ -508,7 +508,7 @@
                         "inlineCss": ""
                     },
                     "multiLanguage": {
-                        "languages": "{\"en\":\"English\",\"np\": \"Nepali\"}",
+                        "languages": "{\"en\":\"English\",\"np\": \"नेपाली\"}",
                         "css": {
                             "color": "py-3 text-base  text-blue-800"
                         }
