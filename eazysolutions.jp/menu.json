@@ -24,7 +24,7 @@
             "name": "Home",
             "id": 732,
             "parent_menu_id": null,
-            "link": "/home",
+            "link": "/index",
             "lang": "jp",
             "linked_menu_id": null,
             "order": 1,
