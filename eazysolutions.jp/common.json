@@ -1181,11 +1181,11 @@
                         "parseHtml": "1"
                     },
                     {
-                        "caption": "<div class=\"text-blue-800\"> इजी सोल्युसन साँच्चै नै सजिलो छ। सबै सेवा एकै ठाउँमा।</div>",
+                        "caption": "<div class=\"text-blue-800\">The Easy Solution is really easy. All services in one place.</div>",
                         "parseHtml": "1"
                     },
                     {
-                        "caption": "<div class=\"text-red-600\"> इजी सोल्युसन साँच्चै नै सजिलो छ। सबै सेवा एकै ठाउँमा।</div>",
+                        "caption": "<div class=\"text-red-600\"> The Easy Solution is really easy. All services in one place.</div>",
                         "parseHtml": "1"
                     }
                 ],

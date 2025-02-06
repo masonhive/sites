@@ -469,7 +469,7 @@
                             "color": "text-red-600 font-semibold text-lg pb-4",
                             "fontSize": "12px"
                         },
-                        "content": "हाम्रो बारेमा",
+                        "content": " About Us",
                         "inlineCss": ""
                     },
                     "description": {
@@ -488,7 +488,7 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "ईजी सोलुसन नै किन ?",
+                        "content": "Why Eazy Solutions ?",
                         "css": {
                             "color": "text-blue-800 text-2xl font-semibold pb-5"
                         },
