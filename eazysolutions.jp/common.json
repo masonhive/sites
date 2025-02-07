@@ -1179,7 +1179,7 @@
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "md:col-span-2 flex items-center md:col-start-11  col-span-6 md:flex-row-reverse gap-1 md:justify-center justify-end"
+                            "color": "md:col-span-2 flex items-center md:col-start-11  col-span-5 md:flex-row-reverse gap-1 md:justify-center justify-end"
                         }
                     },
                     "mainWrap": {
@@ -1194,7 +1194,7 @@
                     },
                     "menuWrap": {
                         "css": {
-                            "color": "md:col-span-10 md:flex items-end md:visible text-sm flex-row-reverse"
+                            "color": "md:col-span-9 md:flex items-end md:visible text-sm flex-row-reverse"
                         }
                     }
                 },
