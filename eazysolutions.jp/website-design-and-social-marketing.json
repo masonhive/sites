@@ -146,6 +146,296 @@
             "linked_domain_page_id": null
         },
         {
+            "id": 7878,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "font-light text-white md:h-[50vh] overflow-hidden h-[30vh]",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "1",
+                        "isBanner": "1",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "items-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "sm:hidden"
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "md:absolute z-10  h-full w-full justify-center flex flex-col   py-10 top-0 md:px-32"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-5xl py-3  text-left  uppercase font-semibold leading-normal tracking-wide "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": ""
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "text-xl pb-10  text-slate-300"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-start flex-col text-left md:w-4/6 md:text-white text-black px-10 md:px-0"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": " relative "
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": "border-2 border-amber-500\trounded-full px-12 py-4 text-white mb-10 w-fit text-xl hover:bg-amber-500"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://mykyodai.jp/storage/photos/1/Translation.jpg"
+                    }
+                ]
+            },
+            "order": 4,
+            "lang": "np",
+            "linked_domain_page_id": 7862
+        },
+        {
+            "id": 7923,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "font-light text-white md:h-[50vh] overflow-hidden h-[30vh]",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "1",
+                        "isBanner": "1",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "items-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "sm:hidden"
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "md:absolute z-10  h-full w-full justify-center flex flex-col   py-10 top-0 md:px-32"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-5xl py-3  text-left  uppercase font-semibold leading-normal tracking-wide "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": ""
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "text-xl pb-10  text-slate-300"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-start flex-col text-left md:w-4/6 md:text-white text-black px-10 md:px-0"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": " relative "
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": "border-2 border-amber-500\trounded-full px-12 py-4 text-white mb-10 w-fit text-xl hover:bg-amber-500"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://mykyodai.jp/storage/photos/1/Translation.jpg"
+                    }
+                ]
+            },
+            "order": 4,
+            "lang": "jp",
+            "linked_domain_page_id": null
+        },
+        {
             "id": 7863,
             "component": "CardV2",
             "component_id": 62,
@@ -283,6 +573,286 @@
             },
             "order": 5,
             "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7879,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-[#fff]  md:px-20 pt-10 px-5 ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "absolute top-0 text-blue-800 text-4xl font-semibold pb-5",
+                            "fontSize": "12px"
+                        },
+                        "content": "वेब डिजाईन तथा सोसियल मार्केटिंग",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "जापानमा तपाईको व्यापार व्यवसाय बृद्धिका लागि आकर्षक डिजाईनमा कुनै पनि विज्ञापन सामाग्री, रेष्टुरेण्टका आकर्षक मेन्यूहरु, चिरासी, विवाह कार्ड, खान्बान, कम्पनीको लोगो डिजाईन लगायत अन्य जुनसुकै डिजाईन र प्रिण्टिङ सम्वन्धि सेवा हामीसंग उपलब्ध छ \n<br> <br>\nजापानमा तपाईको व्यापार व्यवसाय बृद्धिका लागि आकर्षक डिजाईनमा कुनै पनि विज्ञापन सामाग्री, रेष्टुरेण्टका आकर्षक मेन्यूहरु, चिरासी, विवाह कार्ड, खान्बान, कम्पनीको लोगो डिजाईन लगायत अन्य जुनसुकै डिजाईन र प्रिण्टिङ सम्वन्धि सेवा हामीसंग उपलब्ध छ \n<br> <br>\nजापानमा तपाईको व्यापार व्यवसाय बृद्धिका लागि आकर्षक डिजाईनमा कुनै पनि विज्ञापन सामाग्री, रेष्टुरेण्टका आकर्षक मेन्यूहरु, चिरासी, विवाह कार्ड, खान्बान, कम्पनीको लोगो डिजाईन लगायत अन्य जुनसुकै डिजाईन र प्रिण्टिङ सम्वन्धि सेवा हामीसंग उपलब्ध छ ",
+                        "css": {
+                            "color": "md:pt-8 pt-10  text-slate-600 text-left text-base pr-5 leading-loose py-2"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "1",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:col-span-6 col-span-12"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "rounded-lg"
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-12 col-span-12 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "md:col-span-6 col-span-12"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": "text-base"
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container pb-20 items-center m-auto grid grid-cols-12 relative py-5"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "bg-red-600  p-2 rounded-2xl md:mx-10"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://mykyodai.jp/storage/photos/1/Translation.jpg"
+                    }
+                ]
+            },
+            "order": 5,
+            "lang": "np",
+            "linked_domain_page_id": 7863
+        },
+        {
+            "id": 7924,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-[#fff]  md:px-20 pt-10 px-5 ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "absolute top-0 text-blue-800 text-4xl font-semibold pb-5",
+                            "fontSize": "12px"
+                        },
+                        "content": "वेब डिजाईन तथा सोसियल मार्केटिंग",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "जापानमा तपाईको व्यापार व्यवसाय बृद्धिका लागि आकर्षक डिजाईनमा कुनै पनि विज्ञापन सामाग्री, रेष्टुरेण्टका आकर्षक मेन्यूहरु, चिरासी, विवाह कार्ड, खान्बान, कम्पनीको लोगो डिजाईन लगायत अन्य जुनसुकै डिजाईन र प्रिण्टिङ सम्वन्धि सेवा हामीसंग उपलब्ध छ \n<br> <br>\nजापानमा तपाईको व्यापार व्यवसाय बृद्धिका लागि आकर्षक डिजाईनमा कुनै पनि विज्ञापन सामाग्री, रेष्टुरेण्टका आकर्षक मेन्यूहरु, चिरासी, विवाह कार्ड, खान्बान, कम्पनीको लोगो डिजाईन लगायत अन्य जुनसुकै डिजाईन र प्रिण्टिङ सम्वन्धि सेवा हामीसंग उपलब्ध छ \n<br> <br>\nजापानमा तपाईको व्यापार व्यवसाय बृद्धिका लागि आकर्षक डिजाईनमा कुनै पनि विज्ञापन सामाग्री, रेष्टुरेण्टका आकर्षक मेन्यूहरु, चिरासी, विवाह कार्ड, खान्बान, कम्पनीको लोगो डिजाईन लगायत अन्य जुनसुकै डिजाईन र प्रिण्टिङ सम्वन्धि सेवा हामीसंग उपलब्ध छ ",
+                        "css": {
+                            "color": "md:pt-8 pt-10  text-slate-600 text-left text-base pr-5 leading-loose py-2"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "1",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:col-span-6 col-span-12"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "rounded-lg"
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-12 col-span-12 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "md:col-span-6 col-span-12"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": "text-base"
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container pb-20 items-center m-auto grid grid-cols-12 relative py-5"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "bg-red-600  p-2 rounded-2xl md:mx-10"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://mykyodai.jp/storage/photos/1/Translation.jpg"
+                    }
+                ]
+            },
+            "order": 5,
+            "lang": "jp",
             "linked_domain_page_id": null
         }
     ]
