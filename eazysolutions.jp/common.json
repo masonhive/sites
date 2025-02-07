@@ -2823,7 +2823,7 @@
                         }
                     },
                     "form": {
-                        "id": "enquiry",
+                        "id": "newsletter",
                         "type": "enquiry",
                         "css": {
                             "color": "",
