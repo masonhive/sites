@@ -2832,7 +2832,9 @@
                             "color": "",
                             "fontSize": "12px"
                         },
-                        "inlineCss": ""
+                        "inlineCss": "",
+                        "receiver_email": "bikesh.s.banda@gmail.com",
+                        "subject": "Newsletter Subscription"
                     },
                     "formHeading": {
                         "content": "हाम्रा नयाँ संग्रहहरूको अपडेटहरू प्राप्त गर्न हाम्रो समाचारपत्रहरू सदस्यता लिनुहोस्",
