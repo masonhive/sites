@@ -1179,7 +1179,7 @@
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "md:col-span-2 flex items-center md:col-start-11  col-span-4 md:flex-row-reverse gap-1 md:justify-center justify-end"
+                            "color": "md:col-span-2 flex items-center md:col-start-11 col-span-4 md:flex-row-reverse gap-1 md:justify-center justify-end"
                         }
                     },
                     "mainWrap": {
