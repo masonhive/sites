@@ -2418,7 +2418,10 @@
                             "color": "bg-red-700",
                             "fontSize": "12px"
                         },
-                        "inlineCss": ""
+                        "inlineCss": "",
+                        "receiver_email": "test12332one@gmail.com",
+                        "subject": "test subject",
+                        "title": "test title"
                     },
                     "formHeading": {
                         "content": "नि:शुल्क परामर्शको लागि अनुरोध",

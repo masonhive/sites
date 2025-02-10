@@ -138,10 +138,10 @@
                 "itemList": [
                     {
                         "parseHtml": "1",
-                        "caption": "<div class=\"h-[60vh] bg-center bg-[url('https://webapi.ncell.com.np/upload/799-rs_pwa-banners_1366x430r3d6l.jpg')]\"\"> \n </div>"
+                        "caption": "<div class=\"md:h-[60vh] h-[30vh]  bg-center bg-cover bg-[url('https://mykyodai.jp/storage/photos/1/Website-Dev-Banner.jpg')]\"\"> \n </div>"
                     },
                     {
-                        "caption": "<div class=\"h-[60vh] bg-center bg-[url('https://mykyodai.jp/storage/photos/1/Translation.jpg')]\"\"> \n </div>",
+                        "caption": "<div class=\"md:h-[60vh] h-[30vh]   bg-center bg-cover bg-[url('https://mykyodai.jp/storage/photos/1/Translation.jpg')]\"\"> \n </div>",
                         "parseHtml": "1"
                     }
                 ]
