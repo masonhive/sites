@@ -588,7 +588,7 @@
                 "itemList": [
                     {
                         "parseHtml": "1",
-                        "caption": "<div class=\"md:h-[60vh] h-[30vh]  bg-center bg-cover bg-[url('https://mykyodai.jp/storage/photos/1/Website-Dev-Banner.jpg')]\"\"> \n </div>"
+                        "caption": "<div class=\"md:h-[60vh] h-[30vh]   bg-center bg-cover bg-[url('https://mykyodai.jp/storage/photos/1/Translation.jpg')]\" \"=\"\"> \n </div>"
                     },
                     {
                         "caption": "<div class=\"md:h-[60vh] h-[30vh]   bg-center bg-cover bg-[url('https://mykyodai.jp/storage/photos/1/Translation.jpg')]\"\"> \n </div>",
