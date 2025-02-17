@@ -638,7 +638,7 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Why Eazy Solutions is best for you ?",
+                        "content": "Why Eazy Solutions is best for you. ?",
                         "css": {
                             "color": "text-blue-800 text-2xl font-semibold pb-5"
                         },
@@ -2223,7 +2223,7 @@
                 },
                 "itemList": [
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.eazysolutions.jp/89122-japanese-powerpoint-background.png",
+                        "image": "https://mail.ijli.com.np/uploads/admin.eazysolutions.jp/Visit-visa.jpg",
                         "caption": "<div class=\"flex items-center \"> \n <div class=\" flex justify-center items-center bg-red-600 rounded-full w-10 h-10 text-white text-2xl\">\n<i class=\"fa-brands fa-cc-visa\"></i>\n </div>\n<div class=\"pl-2 font-semibold text-lg\">Visa Documentations</div>\n</div>",
                         "title": "जापानमा तपाईको व्यापार व्यवसाय बृद्धिका लागि आकर्षक डिजाईनमा कुनै पनि विज्ञापन सामाग्री,",
                         "parseHtml": "1",
