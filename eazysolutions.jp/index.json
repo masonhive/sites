@@ -151,156 +151,6 @@
             "linked_domain_page_id": null
         },
         {
-            "id": 7948,
-            "component": "CardV2",
-            "component_id": 62,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "font-light text-white ",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "",
-                            "fontSize": "12px"
-                        },
-                        "content": "",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "caption": {
-                        "content": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemInfo": {
-                        "reverseDisplayOrder": "",
-                        "activateSlider": "1",
-                        "rowCounts": "1",
-                        "isBanner": "1",
-                        "autoPlay": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "text-5xl py-3  text-left  uppercase font-semibold leading-normal tracking-wide "
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": ""
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemContentWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemTitleWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemImageWrap": {
-                        "css": {
-                            "color": " relative flex md:h-auto h-[30vh]"
-                        }
-                    },
-                    "itemButtonWrap": {
-                        "css": {
-                            "color": "border-2 border-amber-500\trounded-full px-12 py-4 text-white mb-10 w-fit text-xl hover:bg-amber-500"
-                        }
-                    }
-                },
-                "itemList": [
-                    {
-                        "parseHtml": "1",
-                        "caption": "<div class=\"md:h-[60vh] h-[30vh]  bg-center bg-cover bg-[url('https://mykyodai.jp/storage/photos/1/Website-Dev-Banner.jpg')]\"\"> \n </div>"
-                    },
-                    {
-                        "caption": "<div class=\"md:h-[60vh] h-[30vh]   bg-center bg-cover bg-[url('https://mykyodai.jp/storage/photos/1/Translation.jpg')]\"\"> \n </div>",
-                        "parseHtml": "1"
-                    }
-                ]
-            },
-            "order": 4,
-            "lang": "jp",
-            "linked_domain_page_id": 7771
-        },
-        {
             "id": 7833,
             "component": "CardV2",
             "component_id": 62,
@@ -448,6 +298,156 @@
             },
             "order": 4,
             "lang": null,
+            "linked_domain_page_id": 7771
+        },
+        {
+            "id": 7948,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "font-light text-white ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "1",
+                        "isBanner": "1",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-5xl py-3  text-left  uppercase font-semibold leading-normal tracking-wide "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": ""
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": " relative flex md:h-auto h-[30vh]"
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": "border-2 border-amber-500\trounded-full px-12 py-4 text-white mb-10 w-fit text-xl hover:bg-amber-500"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "parseHtml": "1",
+                        "caption": "<div class=\"md:h-[60vh] h-[30vh]  bg-center bg-cover bg-[url('https://mykyodai.jp/storage/photos/1/Website-Dev-Banner.jpg')]\"\"> \n </div>"
+                    },
+                    {
+                        "caption": "<div class=\"md:h-[60vh] h-[30vh]   bg-center bg-cover bg-[url('https://mykyodai.jp/storage/photos/1/Translation.jpg')]\"\"> \n </div>",
+                        "parseHtml": "1"
+                    }
+                ]
+            },
+            "order": 4,
+            "lang": "jp",
             "linked_domain_page_id": 7771
         },
         {
@@ -601,84 +601,6 @@
             "linked_domain_page_id": 7771
         },
         {
-            "id": 7950,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "text-center bg-[#F2F8FD] pt-10 pb-0 px-5",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "",
-                    "id": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-red-600 font-semibold text-lg pb-4",
-                            "fontSize": "12px"
-                        },
-                        "content": " हाम्रो बारेमा",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "ईजी सोलुसन नै किन ?",
-                        "css": {
-                            "color": "text-blue-800 text-2xl font-semibold pb-5"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "md:grid md:grid-cols-12 text-left  flex flex-col"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-span-12  order-1 px-6 text-center"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "md:col-span-6  order-2"
-                        }
-                    }
-                }
-            },
-            "order": 5,
-            "lang": "np",
-            "linked_domain_page_id": 7781
-        },
-        {
             "id": 7781,
             "component": "TextV2",
             "component_id": 72,
@@ -757,7 +679,7 @@
             "linked_domain_page_id": null
         },
         {
-            "id": 7903,
+            "id": 7950,
             "component": "TextV2",
             "component_id": 72,
             "attributes": {
@@ -775,7 +697,7 @@
                             "color": "text-red-600 font-semibold text-lg pb-4",
                             "fontSize": "12px"
                         },
-                        "content": " About Us",
+                        "content": " हाम्रो बारेमा",
                         "inlineCss": ""
                     },
                     "description": {
@@ -794,7 +716,7 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Why Eazy Solutions ?",
+                        "content": "ईजी सोलुसन नै किन ?",
                         "css": {
                             "color": "text-blue-800 text-2xl font-semibold pb-5"
                         },
@@ -831,8 +753,8 @@
                 }
             },
             "order": 5,
-            "lang": "jp",
-            "linked_domain_page_id": null
+            "lang": "np",
+            "linked_domain_page_id": 7781
         },
         {
             "id": 7839,
@@ -911,6 +833,84 @@
             "order": 5,
             "lang": null,
             "linked_domain_page_id": 7781
+        },
+        {
+            "id": 7903,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-[#F2F8FD] pt-10 pb-0 px-5",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "",
+                    "id": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-red-600 font-semibold text-lg pb-4",
+                            "fontSize": "12px"
+                        },
+                        "content": " About Us",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Why Eazy Solutions ?",
+                        "css": {
+                            "color": "text-blue-800 text-2xl font-semibold pb-5"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left  flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-12  order-1 px-6 text-center"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 5,
+            "lang": "jp",
+            "linked_domain_page_id": null
         },
         {
             "id": 7779,
@@ -2721,152 +2721,6 @@
             "order": 14,
             "lang": "np",
             "linked_domain_page_id": 7774
-        },
-        {
-            "id": 7774,
-            "component": "CardV2",
-            "component_id": 62,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-fixed bg-center grid grid-cols-12 bg-cover text-center bg-blue-800",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"backgroundImage\":\"url(https://mykyodai.jp/frontend/assets/img/japan-img-2.png)\", \"fontFamily\":\"Outfit\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-red-600 font-semibold text-lg pb-4",
-                            "fontSize": "12px"
-                        },
-                        "content": "प्रशंसापत्रहरू",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-base py-2 pb-8  text-slate-500 font-light"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "caption": {
-                        "content": "हाम्रो सेवाग्राहीहरु के भन्नुहुन्छ सुन्नुहोस्",
-                        "css": {
-                            "color": "text-white text-2xl font-semibold pb-5"
-                        }
-                    },
-                    "itemInfo": {
-                        "reverseDisplayOrder": "",
-                        "activateSlider": "",
-                        "rowCounts": "2",
-                        "autoPlay": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "col-span-6"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": "flex flex-col-reverse text-black rounded-lg text-sm md: m-0 my-5 p-4"
-                        },
-                        "inlineCss": ""
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "text-xl"
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": "{\"fontSize\":\"50px\"}"
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "md:col-span-6 col-span-12  md:mx-2 mx-2 md:my-2 my-2 bg-white rounded-3xl"
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "css": {
-                            "color": "align-left font-light text-base text-slate-600"
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": "container m-auto "
-                        }
-                    },
-                    "itemContentWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "px-4"
-                        }
-                    },
-                    "itemTitleWrap": {
-                        "css": {
-                            "color": "text-blue-800 font-semibold text-lg text-right px-4"
-                        },
-                        "inlineCss": ""
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "md:col-start-5 col-span-12 bg-blue-800 md:px-20 py-10 px-5"
-                        }
-                    },
-                    "itemImageWrap": {
-                        "css": {
-                            "color": "h-28 w-28"
-                        }
-                    }
-                },
-                "itemList": [
-                    {
-                        "caption": "<div>\n<div class=\"text-amber-500\"> \n<i class=\"fa-solid fa-star\"></i>\n<i class=\"fa-solid fa-star\"></i>\n<i class=\"fa-solid fa-star\"></i>\n<i class=\"fa-solid fa-star\"></i>\n<i class=\"fa-solid fa-star\">&nbsp;</i></div>\n<div class=\"text-left py-3 text-lg\">\nआमालाइ जापान ल्याउने देखि जापानमा आइसकेपछि भिजिट भिषाको म्याद थप्ने सम्मका प्रशासनिक काममा सहयोग गरिने क्योदाई कम्पनीलाइ धन्यवाद। आमालाइ जापान ल्याउने देखि जापानमा आइसकेपछि भिजिट भिषाको म्याद थप्ने सम्मका प्रशासनिक काममा सहयोग गरिने क्योदाई कम्पनीलाइ धन्यवाद।\n</div>\n</div>",
-                        "title": "सिता कुँवर, चिबा जापान",
-                        "parseHtml": "1"
-                    },
-                    {
-                        "title": "सिता कुँवर, चिबा जापान",
-                        "caption": "<div>\n<div class=\"text-amber-500\"> \n<i class=\"fa-solid fa-star\"></i>\n<i class=\"fa-solid fa-star\"></i>\n<i class=\"fa-solid fa-star\"></i>\n<i class=\"fa-solid fa-star\"></i>\n<i class=\"fa-solid fa-star\"></i>\n\n</div>\n<div class=\"text-left py-3 text-lg\">\nआमालाइ जापान ल्याउने देखि जापानमा आइसकेपछि भिजिट भिषाको म्याद थप्ने सम्मका प्रशासनिक काममा सहयोग गरिने क्योदाई कम्पनीलाइ धन्यवाद। आमालाइ जापान ल्याउने देखि जापानमा आइसकेपछि भिजिट भिषाको म्याद थप्ने सम्मका प्रशासनिक काममा सहयोग गरिने क्योदाई कम्पनीलाइ धन्यवाद।\n</div>\n</div>",
-                        "parseHtml": "1"
-                    }
-                ]
-            },
-            "order": 14,
-            "lang": "en",
-            "linked_domain_page_id": null
         }
     ]
 }
