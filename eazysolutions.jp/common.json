@@ -3743,7 +3743,7 @@
                     },
                     {
                         "heading": "हाम्रा सेवाहरू ",
-                        "caption": "<div> <a href=\"/visa-documentation\"> भिसा डकुमेन्टेसन </a> </div>\n<div> <a href=\"/design-and-print\"> डिजाईन तथा प्रिन्ट </a> </div>\n<div> <a href=\"/document-translation\"> डकुमेन्ट ट्रान्सलेसन </a> </div>\n<div> <a href=\"/e-passport\"> इ-पासपोर्ट फारम</a> </div>\n<div> <a href=\"/wifi\"> वाईफाई</a> </div>\n<div> <a href=\"/sim-card\"> सिम कार्ड </a> </div>\n<div> <a href=\"/photography\"> फोटो तथा भिडियोग्राफी </a> </div>\n<div> <a href=\"/event-management\"> इभेन्ट म्यानेजमेन्ट </a> </div>\n<div> <a href=\"/website-design-and-social-marketing\"> वेब डिजाईन तथा सोसियल मार्केटिंग</a> </div>\n",
+                        "caption": "<div> <a href=\"/visa-documentation\"> भिसा डकुमेन्टेसन </a> </div>\n<div> <a href=\"/design-and-print\"> डिजाईन तथा प्रिन्ट </a> </div>\n<div> <a href=\"/document-translation\"> डकुमेन्ट ट्रान्सलेसन </a> </div>\n<div> <a href=\"/e-passport\"> इ-पासपोर्ट फारम</a> </div>\n<div> <a href=\"/wifi\"> वाईफाई</a>&nbsp;तथा&nbsp;<a href=\"/sim-card\" style=\"font-size: 1.125rem;\">सिम कार्ड</a></div>\n<div> <a href=\"/website-design-and-social-marketing\"> वेब डिजाईन तथा सोसियल मार्केटिंग</a> </div>\n",
                         "parseHtml": "1"
                     },
                     {
