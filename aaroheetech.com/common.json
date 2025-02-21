@@ -654,7 +654,7 @@
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "HEAD OFFICE Nakhipot-14, Lalitpur Nepal \n+977-01-5230031, +977-9768755251",
+                        "content": "HEAD OFFICE Nakhipot-14, Lalitpur Nepal<div><span style=\"font-size: 0.875rem; background-color: rgb(15 23 42 / var(--tw-bg-opacity, 1)); color: rgb(255 255 255 / var(--tw-text-opacity, 1));\">+977-9768755251</span></div>",
                         "inlineCss": "",
                         "css": {
                             "color": "pt-2 text-sm"
@@ -759,7 +759,7 @@
                     },
                     {
                         "heading": "Our Services",
-                        "caption": "Admission Counselling \nCountry & University Selection \nHealth Coverage (OSHC) \nAccommodations \n",
+                        "caption": "Admission Counselling \nCountry &amp; University Selection \nHealth Coverage (OSHC) \nAccommodations \n",
                         "parseHtml": "1"
                     },
                     {

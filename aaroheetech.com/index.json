@@ -150,6 +150,453 @@
             "linked_domain_page_id": null
         },
         {
+            "id": 7785,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "font-light text-white  md:h-[70vh] md:-mt-28 -mt-10  h-[100vh]",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "1",
+                        "isBanner": "1",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "items-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "sm:hidden"
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "md:absolute z-10 bg-slate-200/20 h-full w-full justify-center flex flex-col md:bg-slate-800/70  py-10 top-0 md:px-32  bg-slate-800/50 min-h-[100vh]"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "md:text-5xl md:py-3  text-left  uppercase font-semibold leading-normal tracking-wide text-4xl  md:pt-3 pt-28 pb-5"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": ""
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "text-xl pb-10  text-slate-300"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-start flex-col text-left md:w-4/6 md:text-white text-black px-10 md:px-0 "
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "md:h-[100vh] relative hidden lg:block "
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": "border-2 border-amber-500\trounded-full px-12 py-4 text-white mb-10 w-fit text-xl hover:bg-amber-500"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/photo/2.jpg",
+                        "heading": "We Provide Services\nand Solutions To Enterprise",
+                        "caption": "Empower your global ambitions with personalized guidance on your study abroad journey",
+                        "parseHtml": "1",
+                        "button": "Get Started For Free"
+                    }
+                ]
+            },
+            "order": 4,
+            "lang": null,
+            "linked_domain_page_id": 7585
+        },
+        {
+            "id": 7805,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "font-light text-white  md:h-[70vh] md:-mt-28 -mt-10  h-[100vh]",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "1",
+                        "isBanner": "1",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "items-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "sm:hidden"
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "md:absolute z-10 bg-slate-200/20 h-full w-full justify-center flex flex-col md:bg-slate-800/70  py-10 top-0 md:px-32  bg-slate-800/50 min-h-[100vh]"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "md:text-5xl md:py-3  text-left  uppercase font-semibold leading-normal tracking-wide text-4xl  md:pt-3 pt-28 pb-5"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": ""
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "text-xl pb-10  text-slate-300"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-start flex-col text-left md:w-4/6 md:text-white text-black px-10 md:px-0 "
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "md:h-[100vh] relative hidden lg:block "
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": "border-2 border-amber-500\trounded-full px-12 py-4 text-white mb-10 w-fit text-xl hover:bg-amber-500"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/photo/2.jpg",
+                        "heading": "We Provide Services\nand Solutions To Enterprise",
+                        "caption": "Empower your global ambitions with personalized guidance on your study abroad journey",
+                        "parseHtml": "1",
+                        "button": "Get Started For Free"
+                    }
+                ]
+            },
+            "order": 4,
+            "lang": null,
+            "linked_domain_page_id": 7585
+        },
+        {
+            "id": 7795,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "font-light text-white  md:h-[70vh] md:-mt-28 -mt-10  h-[100vh]",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "1",
+                        "isBanner": "1",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "items-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "sm:hidden"
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "md:absolute z-10 bg-slate-200/20 h-full w-full justify-center flex flex-col md:bg-slate-800/70  py-10 top-0 md:px-32  bg-slate-800/50 min-h-[100vh]"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "md:text-5xl md:py-3  text-left  uppercase font-semibold leading-normal tracking-wide text-4xl  md:pt-3 pt-28 pb-5"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": ""
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "text-xl pb-10  text-slate-300"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-start flex-col text-left md:w-4/6 md:text-white text-black px-10 md:px-0 "
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "md:h-[100vh] relative hidden lg:block "
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": "border-2 border-amber-500\trounded-full px-12 py-4 text-white mb-10 w-fit text-xl hover:bg-amber-500"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/photo/2.jpg",
+                        "heading": "We Provide Services\nand Solutions To Enterprise",
+                        "caption": "Empower your global ambitions with personalized guidance on your study abroad journey",
+                        "parseHtml": "1",
+                        "button": "Get Started For Free"
+                    }
+                ]
+            },
+            "order": 4,
+            "lang": null,
+            "linked_domain_page_id": 7585
+        },
+        {
             "id": 7590,
             "component": "CardV2",
             "component_id": 62,
@@ -302,6 +749,640 @@
             "order": 6,
             "lang": "en",
             "linked_domain_page_id": null
+        },
+        {
+            "id": 7808,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "6",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-2 col-span-6  md:mx-2 mx-2 md:my-2 my-2"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "bg-white flex items-center p-4  min-h-32"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/partners/1.png"
+                    },
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/partners/2.png"
+                    },
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/partners/3.png"
+                    },
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/partners/4.png"
+                    },
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/partners/4.png"
+                    },
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/partners/5.png"
+                    }
+                ]
+            },
+            "order": 6,
+            "lang": null,
+            "linked_domain_page_id": 7590
+        },
+        {
+            "id": 7788,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "6",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-2 col-span-6  md:mx-2 mx-2 md:my-2 my-2"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "bg-white flex items-center p-4  min-h-32"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/partners/1.png"
+                    },
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/partners/2.png"
+                    },
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/partners/3.png"
+                    },
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/partners/4.png"
+                    },
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/partners/4.png"
+                    },
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/partners/5.png"
+                    }
+                ]
+            },
+            "order": 6,
+            "lang": null,
+            "linked_domain_page_id": 7590
+        },
+        {
+            "id": 7798,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "6",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-2 col-span-6  md:mx-2 mx-2 md:my-2 my-2"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "bg-white flex items-center p-4  min-h-32"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/partners/1.png"
+                    },
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/partners/2.png"
+                    },
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/partners/3.png"
+                    },
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/partners/4.png"
+                    },
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/partners/4.png"
+                    },
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/partners/5.png"
+                    }
+                ]
+            },
+            "order": 6,
+            "lang": null,
+            "linked_domain_page_id": 7590
+        },
+        {
+            "id": 7812,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-slate-100",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "How We Can Help You",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-2xl py-2 pb-8  text-amber-500"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Our Services ",
+                        "css": {
+                            "color": "text-lg py-5 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "3",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col bg-white text-black rounded-lg text-sm md: m-0 my-5 p-4"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": " bg-white md:col-span-4 col-span-12  md:mx-2 mx-2 md:my-2 my-2 rounded-lg"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "text-justify font-light text-base text-slate-600"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": "text-lg "
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto text-white"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "bg-white flex items-center p-4  max-h-30 overflow-hidden"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://dopetgztsfho3.cloudfront.net/How_to_build_a_dedicated_development_team_970a3146e1.webp",
+                        "title": "01. Dedicated Team",
+                        "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF91Je-rsX9ClnRoJhEsR4uAbw3966t-wU4w&s",
+                        "title": "Information Management System",
+                        "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUQZHYvDCsGqwys3A322sk3d5TaK5ydcFW1w&s",
+                        "title": "Mobile App Design & Development",
+                        "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://bizimages.withfloats.com/actual/63a3429a04d245000192e60c.jpg",
+                        "title": "CCTV Installation & Maintenance",
+                        "caption": "We provide CCTV connection and also provide service for all type of CCTV",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://content.ibuypower.com/Images/Components/27549/gaming-pc-01-Y70-005-MainSolo-2400.png",
+                        "title": "CUSTOM BUILD PC",
+                        "caption": "We provide customized build pc with high performance",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://images.squarespace-cdn.com/content/v1/5f037e680350a101437815a7/1634231762260-T9Q0JCTYI6GG7MQQ29TK/Cable+Management-+Savannah.jpg",
+                        "title": "WIRE MANAGEMENT",
+                        "caption": "We provide WIRE management for server rooms all over nepal.",
+                        "link": "/web-design"
+                    }
+                ]
+            },
+            "order": 10,
+            "lang": null,
+            "linked_domain_page_id": 7601
         },
         {
             "id": 7601,
@@ -476,6 +1557,350 @@
             "linked_domain_page_id": null
         },
         {
+            "id": 7802,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-slate-100",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "How We Can Help You",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-2xl py-2 pb-8  text-amber-500"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Our Services ",
+                        "css": {
+                            "color": "text-lg py-5 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "3",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col bg-white text-black rounded-lg text-sm md: m-0 my-5 p-4"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": " bg-white md:col-span-4 col-span-12  md:mx-2 mx-2 md:my-2 my-2 rounded-lg"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "text-justify font-light text-base text-slate-600"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": "text-lg "
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto text-white"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "bg-white flex items-center p-4  max-h-30 overflow-hidden"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://dopetgztsfho3.cloudfront.net/How_to_build_a_dedicated_development_team_970a3146e1.webp",
+                        "title": "01. Dedicated Team",
+                        "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF91Je-rsX9ClnRoJhEsR4uAbw3966t-wU4w&s",
+                        "title": "Information Management System",
+                        "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUQZHYvDCsGqwys3A322sk3d5TaK5ydcFW1w&s",
+                        "title": "Mobile App Design & Development",
+                        "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://bizimages.withfloats.com/actual/63a3429a04d245000192e60c.jpg",
+                        "title": "CCTV Installation & Maintenance",
+                        "caption": "We provide CCTV connection and also provide service for all type of CCTV",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://content.ibuypower.com/Images/Components/27549/gaming-pc-01-Y70-005-MainSolo-2400.png",
+                        "title": "CUSTOM BUILD PC",
+                        "caption": "We provide customized build pc with high performance",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://images.squarespace-cdn.com/content/v1/5f037e680350a101437815a7/1634231762260-T9Q0JCTYI6GG7MQQ29TK/Cable+Management-+Savannah.jpg",
+                        "title": "WIRE MANAGEMENT",
+                        "caption": "We provide WIRE management for server rooms all over nepal.",
+                        "link": "/web-design"
+                    }
+                ]
+            },
+            "order": 10,
+            "lang": null,
+            "linked_domain_page_id": 7601
+        },
+        {
+            "id": 7792,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-slate-100",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "How We Can Help You",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-2xl py-2 pb-8  text-amber-500"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Our Services ",
+                        "css": {
+                            "color": "text-lg py-5 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "3",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col bg-white text-black rounded-lg text-sm md: m-0 my-5 p-4"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": " bg-white md:col-span-4 col-span-12  md:mx-2 mx-2 md:my-2 my-2 rounded-lg"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "text-justify font-light text-base text-slate-600"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": "text-lg "
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto text-white"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "bg-white flex items-center p-4  max-h-30 overflow-hidden"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://dopetgztsfho3.cloudfront.net/How_to_build_a_dedicated_development_team_970a3146e1.webp",
+                        "title": "01. Dedicated Team",
+                        "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF91Je-rsX9ClnRoJhEsR4uAbw3966t-wU4w&s",
+                        "title": "Information Management System",
+                        "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUQZHYvDCsGqwys3A322sk3d5TaK5ydcFW1w&s",
+                        "title": "Mobile App Design & Development",
+                        "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://bizimages.withfloats.com/actual/63a3429a04d245000192e60c.jpg",
+                        "title": "CCTV Installation & Maintenance",
+                        "caption": "We provide CCTV connection and also provide service for all type of CCTV",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://content.ibuypower.com/Images/Components/27549/gaming-pc-01-Y70-005-MainSolo-2400.png",
+                        "title": "CUSTOM BUILD PC",
+                        "caption": "We provide customized build pc with high performance",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://images.squarespace-cdn.com/content/v1/5f037e680350a101437815a7/1634231762260-T9Q0JCTYI6GG7MQQ29TK/Cable+Management-+Savannah.jpg",
+                        "title": "WIRE MANAGEMENT",
+                        "caption": "We provide WIRE management for server rooms all over nepal.",
+                        "link": "/web-design"
+                    }
+                ]
+            },
+            "order": 10,
+            "lang": null,
+            "linked_domain_page_id": 7601
+        },
+        {
             "id": 7586,
             "component": "CardV2",
             "component_id": 62,
@@ -619,6 +2044,897 @@
             "order": 18,
             "lang": "en",
             "linked_domain_page_id": null
+        },
+        {
+            "id": 7806,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-slate-100",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-row items-center md:justify-center justify-start"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-lg"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-xl px-3"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 md:mx-5 col-span-12 my-5 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto bg-slate-700 md:rounded-full py-2 text-slate-100"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:items-center md:justify-center flex "
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container items-center m-auto  relative "
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Step 1. Schedule a Consultation",
+                        "icon": "FaPhoneAlt"
+                    },
+                    {
+                        "heading": "Step 2. Meet Your Advisor",
+                        "icon": "FaHandsHelping"
+                    },
+                    {
+                        "heading": "Step 3. Receive Personalized Guidance",
+                        "icon": "FaPaperPlane"
+                    }
+                ]
+            },
+            "order": 18,
+            "lang": null,
+            "linked_domain_page_id": 7586
+        },
+        {
+            "id": 7796,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-slate-100",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-row items-center md:justify-center justify-start"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-lg"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-xl px-3"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 md:mx-5 col-span-12 my-5 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto bg-slate-700 md:rounded-full py-2 text-slate-100"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:items-center md:justify-center flex "
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container items-center m-auto  relative "
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Step 1. Schedule a Consultation",
+                        "icon": "FaPhoneAlt"
+                    },
+                    {
+                        "heading": "Step 2. Meet Your Advisor",
+                        "icon": "FaHandsHelping"
+                    },
+                    {
+                        "heading": "Step 3. Receive Personalized Guidance",
+                        "icon": "FaPaperPlane"
+                    }
+                ]
+            },
+            "order": 18,
+            "lang": null,
+            "linked_domain_page_id": 7586
+        },
+        {
+            "id": 7786,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-slate-100",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-row items-center md:justify-center justify-start"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-lg"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-xl px-3"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 md:mx-5 col-span-12 my-5 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto bg-slate-700 md:rounded-full py-2 text-slate-100"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:items-center md:justify-center flex "
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container items-center m-auto  relative "
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Step 1. Schedule a Consultation",
+                        "icon": "FaPhoneAlt"
+                    },
+                    {
+                        "heading": "Step 2. Meet Your Advisor",
+                        "icon": "FaHandsHelping"
+                    },
+                    {
+                        "heading": "Step 3. Receive Personalized Guidance",
+                        "icon": "FaPaperPlane"
+                    }
+                ]
+            },
+            "order": 18,
+            "lang": null,
+            "linked_domain_page_id": 7586
+        },
+        {
+            "id": 7797,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-slate-100",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-lg py-5 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "Testimonials",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "bg-indigo-950\trounded-full px-5 py-3 text-white"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "What Our Clients Say",
+                        "css": {
+                            "color": "text-2xl py-2  text-amber-500"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col  text-stone-500 rounded-lg text-sm md: m-0 my-5"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-light text-base"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"30px\"}",
+                        "css": {
+                            "color": "text-amber-500 pt-4 pl-4"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 col-span-12 md:mx-5 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left py-3 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-10 py-4"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:p-5 p-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto md:px-5 px-10"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Aarohee Technology Private Limited  is one of the best tech company I have ever worked with. ",
+                        "icon": "FaQuoteLeft",
+                        "caption": "Kabita Tamang - IMC Australia"
+                    },
+                    {
+                        "heading": "Aarohee technology Private Limited provided exceptional guidance and support, helping me secure a visa to study in Japan. Their professional counselors understood my academic and personal needs.",
+                        "caption": "Kusal Tamang- Japan ",
+                        "icon": "FaQuoteLeft"
+                    },
+                    {
+                        "heading": "My name is Sagar sunuwar, and I recently secured a UK visa for my studies with the invaluable support of Stellar Education. They expertly assisted me with everything from documentation to interview preparation.\n",
+                        "icon": "FaQuoteLeft",
+                        "caption": "\nSachin Kushaha- Ravensbourne University UK"
+                    }
+                ]
+            },
+            "order": 19,
+            "lang": null,
+            "linked_domain_page_id": 7589
+        },
+        {
+            "id": 7787,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-slate-100",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-lg py-5 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "Testimonials",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "bg-indigo-950\trounded-full px-5 py-3 text-white"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "What Our Clients Say",
+                        "css": {
+                            "color": "text-2xl py-2  text-amber-500"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col  text-stone-500 rounded-lg text-sm md: m-0 my-5"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-light text-base"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"30px\"}",
+                        "css": {
+                            "color": "text-amber-500 pt-4 pl-4"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 col-span-12 md:mx-5 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left py-3 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-10 py-4"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:p-5 p-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto md:px-5 px-10"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Aarohee Technology Private Limited  is one of the best tech company I have ever worked with. ",
+                        "icon": "FaQuoteLeft",
+                        "caption": "Kabita Tamang - IMC Australia"
+                    },
+                    {
+                        "heading": "Aarohee technology Private Limited provided exceptional guidance and support, helping me secure a visa to study in Japan. Their professional counselors understood my academic and personal needs.",
+                        "caption": "Kusal Tamang- Japan ",
+                        "icon": "FaQuoteLeft"
+                    },
+                    {
+                        "heading": "My name is Sagar sunuwar, and I recently secured a UK visa for my studies with the invaluable support of Stellar Education. They expertly assisted me with everything from documentation to interview preparation.\n",
+                        "icon": "FaQuoteLeft",
+                        "caption": "\nSachin Kushaha- Ravensbourne University UK"
+                    }
+                ]
+            },
+            "order": 19,
+            "lang": null,
+            "linked_domain_page_id": 7589
+        },
+        {
+            "id": 7807,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-slate-100",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-lg py-5 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "Testimonials",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "bg-indigo-950\trounded-full px-5 py-3 text-white"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "What Our Clients Say",
+                        "css": {
+                            "color": "text-2xl py-2  text-amber-500"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col  text-stone-500 rounded-lg text-sm md: m-0 my-5"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-light text-base"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"30px\"}",
+                        "css": {
+                            "color": "text-amber-500 pt-4 pl-4"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 col-span-12 md:mx-5 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left py-3 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-10 py-4"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:p-5 p-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto md:px-5 px-10"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Aarohee Technology Private Limited  is one of the best tech company I have ever worked with. ",
+                        "icon": "FaQuoteLeft",
+                        "caption": "Kabita Tamang - IMC Australia"
+                    },
+                    {
+                        "heading": "Aarohee technology Private Limited provided exceptional guidance and support, helping me secure a visa to study in Japan. Their professional counselors understood my academic and personal needs.",
+                        "caption": "Kusal Tamang- Japan ",
+                        "icon": "FaQuoteLeft"
+                    },
+                    {
+                        "heading": "My name is Sagar sunuwar, and I recently secured a UK visa for my studies with the invaluable support of Stellar Education. They expertly assisted me with everything from documentation to interview preparation.\n",
+                        "icon": "FaQuoteLeft",
+                        "caption": "\nSachin Kushaha- Ravensbourne University UK"
+                    }
+                ]
+            },
+            "order": 19,
+            "lang": null,
+            "linked_domain_page_id": 7589
         },
         {
             "id": 7589,
@@ -773,7 +3089,85 @@
             "linked_domain_page_id": null
         },
         {
-            "id": 7594,
+            "id": 7794,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\", \"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-2xl py-2  text-amber-500",
+                            "fontSize": "12px"
+                        },
+                        "content": "Message From Managing Director",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "<div class=\"py-2 text-xl\">Suraj Rupacha </div>\n<div class=\"text-slate-400\">Managing Director </div>\n<div class=\"text-amber-500 text-base\">Aaroohee Technology Pvt. Ltd.</div>\n",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "py-4"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Ever since Aaroohee was founded in 2024, I have observed its advancement as a \nsuperlative counseling organization in Nepal. It serves the swiftly and spectacularly \nchanging needs of innovative students from the region. We rest on the principled \nfoundation as laid out in our mission while fashioning a new future with our students and \nour constituents. \nSo as we move towards the third decade, let's work together to aim strategies for the \nchallenges. Let's find new ways to reach students aiming at liberal and accessible higher \neducation that leads to career opportunities worldwide. It has been \nfriends now at University around the globe.\nI look forward to the challenges and openings of the future! ",
+                        "css": {
+                            "color": "text-slate-500 font-light py-4 text-base"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/admin.aaroheetech.com/WhatsApp_Image_2024-12-13_at_16.webp",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-7  order-2 px-10 col-span-12"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-5  order-1 col-span-12 h-[400px] overflow-hidden"
+                        }
+                    }
+                }
+            },
+            "order": 21,
+            "lang": null,
+            "linked_domain_page_id": 7743
+        },
+        {
+            "id": 7791,
             "component": "CardV2",
             "component_id": 62,
             "attributes": {
@@ -922,8 +3316,239 @@
                 ]
             },
             "order": 21,
-            "lang": "en",
-            "linked_domain_page_id": null
+            "lang": null,
+            "linked_domain_page_id": 7594
+        },
+        {
+            "id": 7801,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-amber-200",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Latest Projects",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-600"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "2",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col bg-white text-black rounded-lg text-sm md: m-0 my-5 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-lg text-amber-500"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-6 col-span-12  md:mx-2 mx-2 md:my-2 my-2"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left py-5 font-light text-base"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5 "
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left py-5 px-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto text-white"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "bg-white flex items-center overflow-hidden h-[300px]"
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": "bg-indigo-950\trounded-full px-5 py-3 text-white text-center"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "http://C:\\Users\\Aarohee technologies\\Downloads\\Untitled design (1).jpg",
+                        "heading": "SERVER WIRE MANAGEMENT",
+                        "caption": "it's a bank server room before and after picture that we have done \n ",
+                        "title": "PROJECT OF GLOBAL IME BANK",
+                        "link": "-"
+                    },
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/projects/2.jpg",
+                        "heading": "CCTV CAMERA project",
+                        "parseHtml": "1"
+                    }
+                ]
+            },
+            "order": 21,
+            "lang": null,
+            "linked_domain_page_id": 7594
+        },
+        {
+            "id": 7804,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\", \"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-2xl py-2  text-amber-500",
+                            "fontSize": "12px"
+                        },
+                        "content": "Message From Managing Director",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "<div class=\"py-2 text-xl\">Suraj Rupacha </div>\n<div class=\"text-slate-400\">Managing Director </div>\n<div class=\"text-amber-500 text-base\">Aaroohee Technology Pvt. Ltd.</div>\n",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "py-4"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Ever since Aaroohee was founded in 2024, I have observed its advancement as a \nsuperlative counseling organization in Nepal. It serves the swiftly and spectacularly \nchanging needs of innovative students from the region. We rest on the principled \nfoundation as laid out in our mission while fashioning a new future with our students and \nour constituents. \nSo as we move towards the third decade, let's work together to aim strategies for the \nchallenges. Let's find new ways to reach students aiming at liberal and accessible higher \neducation that leads to career opportunities worldwide. It has been \nfriends now at University around the globe.\nI look forward to the challenges and openings of the future! ",
+                        "css": {
+                            "color": "text-slate-500 font-light py-4 text-base"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/admin.aaroheetech.com/WhatsApp_Image_2024-12-13_at_16.webp",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-7  order-2 px-10 col-span-12"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-5  order-1 col-span-12 h-[400px] overflow-hidden"
+                        }
+                    }
+                }
+            },
+            "order": 21,
+            "lang": null,
+            "linked_domain_page_id": 7743
         },
         {
             "id": 7743,
@@ -1002,6 +3627,390 @@
             "order": 21,
             "lang": "en",
             "linked_domain_page_id": null
+        },
+        {
+            "id": 7594,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-amber-200",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "CCTV Camera work is  done by Bank Office Home for everyone.",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Latest Projects",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-600"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "2",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col bg-white text-black rounded-lg text-sm md: m-0 my-5 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-lg text-amber-500"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-6 col-span-12  md:mx-2 mx-2 md:my-2 my-2"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left py-5 font-light text-base"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5 "
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left py-5 px-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto text-white"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "bg-white flex items-center overflow-hidden h-[300px]"
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": "bg-indigo-950\trounded-full px-5 py-3 text-white text-center"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/admin.aaroheetech.com//male-software-engineer-working-on-260nw-2348561449.webp\n",
+                        "heading": "SERVER WIRE MANAGEMENT",
+                        "caption": "it's a bank server room before and after picture that we have done \n ",
+                        "title": "PROJECT OF GLOBAL IME BANK",
+                        "link": "-"
+                    },
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/projects/2.jpg",
+                        "heading": "CCTV CAMERA project",
+                        "parseHtml": "1"
+                    }
+                ]
+            },
+            "order": 21,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7811,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-amber-200",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Latest Projects",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-600"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "2",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col bg-white text-black rounded-lg text-sm md: m-0 my-5 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-lg text-amber-500"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-6 col-span-12  md:mx-2 mx-2 md:my-2 my-2"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left py-5 font-light text-base"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5 "
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left py-5 px-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto text-white"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "bg-white flex items-center overflow-hidden h-[300px]"
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": "bg-indigo-950\trounded-full px-5 py-3 text-white text-center"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "http://C:\\Users\\Aarohee technologies\\Downloads\\Untitled design (1).jpg",
+                        "heading": "SERVER WIRE MANAGEMENT",
+                        "caption": "it's a bank server room before and after picture that we have done \n ",
+                        "title": "PROJECT OF GLOBAL IME BANK",
+                        "link": "-"
+                    },
+                    {
+                        "image": "https://itsulu-react.netlify.app/img/projects/2.jpg",
+                        "heading": "CCTV CAMERA project",
+                        "parseHtml": "1"
+                    }
+                ]
+            },
+            "order": 21,
+            "lang": null,
+            "linked_domain_page_id": 7594
+        },
+        {
+            "id": 7814,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://storybrand.com/wp-content/uploads/2019/09/header-bg-smms3.jpg)\", \"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-2xl py-2  text-amber-500",
+                            "fontSize": "12px"
+                        },
+                        "content": "Message From Managing Director",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "<div class=\"py-2 text-xl\">Suraj Rupacha </div>\n<div class=\"text-slate-400\">Managing Director </div>\n<div class=\"text-amber-500 text-base\">Aaroohee Technology Pvt. Ltd.</div>\n",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "py-4"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Ever since Aaroohee was founded in 2024, I have observed its advancement as a \nsuperlative counseling organization in Nepal. It serves the swiftly and spectacularly \nchanging needs of innovative students from the region. We rest on the principled \nfoundation as laid out in our mission while fashioning a new future with our students and \nour constituents. \nSo as we move towards the third decade, let's work together to aim strategies for the \nchallenges. Let's find new ways to reach students aiming at liberal and accessible higher \neducation that leads to career opportunities worldwide. It has been \nfriends now at University around the globe.\nI look forward to the challenges and openings of the future! ",
+                        "css": {
+                            "color": "text-slate-500 font-light py-4 text-base"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://mail.ijli.com.np/uploads/admin.aaroheetech.com/WhatsApp_Image_2024-12-13_at_16.webp",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-20 px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-7  order-2 px-10 col-span-12"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-5  order-1 col-span-12 h-[400px] overflow-hidden"
+                        }
+                    }
+                }
+            },
+            "order": 21,
+            "lang": null,
+            "linked_domain_page_id": 7743
         }
     ]
 }
