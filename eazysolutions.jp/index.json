@@ -138,10 +138,10 @@
                 "itemList": [
                     {
                         "parseHtml": "1",
-                        "caption": "<div class=\"md:h-[60vh] h-[30vh]   bg-center bg-cover bg-[url('https://mykyodai.jp/storage/photos/1/Translation.jpg')]\" \"=\"\"> \n </div>"
+                        "caption": "<div class=\"md:h-[60vh] h-[30vh]   bg-center bg-cover bg-[url('https://mail.ijli.com.np/uploads/admin.eazysolutions.jp//Air-Ticket.jpg')]\" \"=\"\"> \n </div>"
                     },
                     {
-                        "caption": "<div class=\"md:h-[60vh] h-[30vh]   bg-center bg-cover bg-[url('https://mykyodai.jp/storage/photos/1/Translation.jpg')]\"\"> \n </div>",
+                        "caption": "<div class=\"md:h-[60vh] h-[30vh]   bg-center bg-cover bg-[url('https://mail.ijli.com.np/uploads/admin.eazysolutions.jp//Visit-visa.jpg')]\"\"> \n </div>",
                         "parseHtml": "1"
                     }
                 ]
@@ -588,7 +588,7 @@
                 "itemList": [
                     {
                         "parseHtml": "1",
-                        "caption": "<div class=\"md:h-[60vh] h-[30vh]   bg-center bg-cover bg-[url('https://mail.ijli.com.np/uploads/admin.eazysolutions.jp/website.jpg')]\"\"> \n </div>"
+                        "caption": "<div class=\"md:h-[60vh] h-[30vh]   bg-center bg-cover bg-[url('https://mail.ijli.com.np/uploads/admin.eazysolutions.jp//Air-Ticket.jpg')]\"\"> \n </div>"
                     }
                 ]
             },
@@ -1040,7 +1040,7 @@
                 },
                 "itemList": [
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.eazysolutions.jp//700904-japanese-google-slides-theme.png"
+                        "image": "https://mail.ijli.com.np/uploads/admin.eazysolutions.jp/EaZy Solution logo-01.jpg"
                     },
                     {
                         "image": "https://mykyodai.jp/storage/photos/1/Room-Search-Banner.jpg"
@@ -1183,10 +1183,7 @@
                 },
                 "itemList": [
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.eazysolutions.jp/Air-Ticket.jpg"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.eazysolutions.jp/Air-Ticket.jpg"
+                        "image": "https://mail.ijli.com.np/uploads/admin.eazysolutions.jp/EaZy Solution logo-01.jpg"
                     }
                 ]
             },
