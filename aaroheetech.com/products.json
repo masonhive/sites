@@ -283,7 +283,7 @@
                         }
                     },
                     "button": {
-                        "content": "View More Universities",
+                        "content": "View More company",
                         "link": "",
                         "css": {
                             "color": ""
@@ -293,7 +293,7 @@
                         "content": ""
                     },
                     "caption": {
-                        "content": "Study at Leading Universities",
+                        "content": "You can get the wholesale price of goods from the following companies",
                         "css": {
                             "color": "text-2xl py-2 text-slate-800"
                         }
@@ -393,7 +393,7 @@
                         "image": "https://mail.ijli.com.np/uploads/admin.aaroheetech.com/download.png"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.aaroheetech.com//download (1).png"
+                        "image": "https://mail.ijli.com.np/uploads/admin.aaroheetech.com//download%20(1).png"
                     },
                     {
                         "image": "https://mail.ijli.com.np/uploads/admin.aaroheetech.com/download.jpg"
