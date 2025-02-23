@@ -442,7 +442,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-blue-800 text-white  py-2 hidden lg:block text-sm",
+                        "color": "bg-[#2f3192] text-white  py-2 hidden lg:block text-sm",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -2619,7 +2619,7 @@
                     },
                     "sectionWrap": {
                         "css": {
-                            "color": "bg-blue-800 rounded-3xl py-5"
+                            "color": "rounded-3xl py-5 bg-[#2f3192]"
                         }
                     },
                     "formButtonWrap": {
