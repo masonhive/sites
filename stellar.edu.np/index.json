@@ -137,17 +137,6 @@
                 },
                 "itemList": [
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//event2.jpg"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//Study in Australia .jpg",
-                        "heading": "Your dream of studying in\nAustralia is closer than you think!",
-                        "caption": "Learn everything you need to know about studying\nin Australia and get end to end expert guidance from us.",
-                        "parseHtml": "1",
-                        "button": "Get Started For Free",
-                        "link": "/study-australia"
-                    },
-                    {
                         "image": "https://www.globalreach.in/images/banner/slider.jpg",
                         "heading": "Your dream of studying in New Zealand is closer than you think!",
                         "caption": "Empower your global ambitions with personalized guidance on your study abroad journey",
@@ -192,6 +181,14 @@
                         "heading": "Your dream of studying in Dubai is closer than you think!",
                         "caption": "Empower your global ambitions with personalized guidance on your study abroad journey",
                         "link": "/contact-us",
+                        "parseHtml": "1",
+                        "button": "Get Started For Free"
+                    },
+                    {
+                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//Study in Australia .jpg",
+                        "heading": "Your dream of studying in\nAustralia is closer than you think!",
+                        "caption": "Learn everything you need to know about studying\nin Australia and get end to end expert guidance from us.",
+                        "link": "/study-australia",
                         "parseHtml": "1",
                         "button": "Get Started For Free"
                     }
