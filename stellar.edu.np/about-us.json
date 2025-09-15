@@ -45,7 +45,7 @@
                         "parseHtml": "1"
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.info.stellar.edu.np/Frame 5logo.png",
+                        "content": "https://mail.triponepa.com/uploads/admin.info.stellar.edu.np/Frame 5logo.png",
                         "link": ""
                     }
                 },
@@ -73,7 +73,9 @@
                     }
                 }
             },
-            "order": 3
+            "order": 3,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7088,
@@ -120,7 +122,7 @@
                         "parseHtml": "1"
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.info.stellar.edu.np/IMG_2710.JPG",
+                        "content": "https://mail.triponepa.com/uploads/admin.info.stellar.edu.np/IMG_2710.JPG",
                         "link": ""
                     }
                 },
@@ -148,7 +150,9 @@
                     }
                 }
             },
-            "order": 4
+            "order": 4,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7087,
@@ -299,7 +303,9 @@
                     }
                 ]
             },
-            "order": 5
+            "order": 5,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7089,
@@ -375,7 +381,9 @@
                     }
                 }
             },
-            "order": 6
+            "order": 6,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7092,
@@ -422,7 +430,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.info.stellar.edu.np//sudip-kc-3.png",
+                        "content": "https://mail.triponepa.com/uploads/admin.info.stellar.edu.np//sudip-kc-3.png",
                         "link": ""
                     }
                 },
@@ -450,7 +458,9 @@
                     }
                 }
             },
-            "order": 7
+            "order": 7,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }

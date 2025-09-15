@@ -1,6 +1,151 @@
 {
     "data": [
         {
+            "id": 7074,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-row items-center md:justify-center justify-start"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-xl"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-xl px-3"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 md:mx-5 col-span-12 my-5 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto bg-indigo-950 md:rounded-full py-2 text-white"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:items-center md:justify-center flex "
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container items-center m-auto -mt-10 relative "
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Step 1. Schedule a Consultation",
+                        "icon": "FaPhoneAlt"
+                    },
+                    {
+                        "heading": "Step 2. Meet Your Advisor",
+                        "icon": "FaHandsHelping"
+                    },
+                    {
+                        "heading": "Step 3. Receive Personalized Guidance",
+                        "icon": "FaPaperPlane"
+                    }
+                ]
+            },
+            "order": 2,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
             "id": 7072,
             "component": "CardV2",
             "component_id": 62,
@@ -145,7 +290,7 @@
                         "link": "/study-newzealand"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//usa-min.jpg",
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//usa-min.jpg",
                         "heading": "Your dream of studying in USA is closer than you think!",
                         "caption": "Empower your global ambitions with personalized guidance on your study abroad journey",
                         "link": "/study-usa",
@@ -158,10 +303,10 @@
                         "link": "/study-canada",
                         "parseHtml": "1",
                         "button": "Get Started For Free",
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/canada.jpg"
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/canada.jpg"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/japan.jpg",
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/japan.jpg",
                         "heading": "Your dream of studying in Japan is closer than you think!",
                         "caption": "Empower your global ambitions with personalized guidance on your study abroad journey",
                         "link": "/study-japan",
@@ -169,7 +314,7 @@
                         "button": "Get Started For Free"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/dubai.jpg",
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/dubai.jpg",
                         "heading": "Your dream of studying in Dubai is closer than you think!",
                         "caption": "Empower your global ambitions with personalized guidance on your study abroad journey",
                         "link": "/study-dubai",
@@ -177,7 +322,7 @@
                         "button": "Get Started For Free"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//alex-vasey-3lxrM5yvkcI-unsplash.jpg",
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//alex-vasey-3lxrM5yvkcI-unsplash.jpg",
                         "heading": "Your dream of studying in Europe is closer than you think!",
                         "caption": "Empower your global ambitions with personalized guidance on your study abroad journey",
                         "link": "/contact-us",
@@ -185,7 +330,7 @@
                         "button": "Get Started For Free"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//Study in Australia .jpg",
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//Study in Australia .jpg",
                         "heading": "Your dream of studying in\nAustralia is closer than you think!",
                         "caption": "Learn everything you need to know about studying\nin Australia and get end to end expert guidance from us.",
                         "link": "/study-australia",
@@ -199,16 +344,16 @@
             "linked_domain_page_id": null
         },
         {
-            "id": 7074,
+            "id": 7076,
             "component": "CardV2",
             "component_id": 62,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "",
+                        "color": "text-center bg-blue-50",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    "inlineCss": "{\"fontFamily\":\"Poppins\"}"
                 },
                 "keyComponents": {
                     "heading": {
@@ -216,7 +361,7 @@
                             "color": "text-2xl py-2 text-slate-800",
                             "fontSize": "12px"
                         },
-                        "content": "",
+                        "content": "Wherever your dreams take you, we'll pave the way for your journey.",
                         "inlineCss": ""
                     },
                     "description": {
@@ -237,15 +382,15 @@
                         "content": ""
                     },
                     "caption": {
-                        "content": "",
+                        "content": "Embark on a journey to the world's premier study destinations! Discover top universities, lucrative scholarships, living expenses, post-study work opportunities, and beyond.",
                         "css": {
-                            "color": "text-2xl py-2 text-slate-800"
+                            "color": "text-sm py-2 text-slate-800"
                         }
                     },
                     "itemInfo": {
                         "reverseDisplayOrder": "",
                         "activateSlider": "",
-                        "rowCounts": ""
+                        "rowCounts": "3"
                     }
                 },
                 "wrapper": {
@@ -271,7 +416,7 @@
                     },
                     "itemSectionWrap": {
                         "css": {
-                            "color": "flex flex-row items-center md:justify-center justify-start"
+                            "color": "flex flex-col bg-amber-600 my-10 rounded-lg "
                         },
                         "inlineCss": ""
                     },
@@ -282,18 +427,15 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "text-xl"
+                            "color": "text-zinc-200 p-5 md:p-0"
                         }
                     },
                     "itemIconWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-xl px-3"
-                        }
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "md:col-span-4 md:mx-5 col-span-12 my-5 "
+                            "color": "md:col-span-4 mx-5 col-span-12"
                         }
                     },
                     "itemCaptionWrap": {
@@ -303,43 +445,61 @@
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "container m-auto bg-indigo-950 md:rounded-full py-2 text-white"
+                            "color": "container m-auto md:px-20 px-5"
                         }
                     },
                     "itemContentWrap": {
                         "inlineCss": "",
                         "css": {
-                            "color": "text-left md:items-center md:justify-center flex "
+                            "color": "text-left md:p-5"
                         }
                     },
                     "itemTitleWrap": {
                         "css": {
                             "color": ""
                         },
-                        "inlineCss": ""
+                        "inlineCss": "{\"padding\":\"5px\"}"
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container items-center m-auto -mt-10 relative "
+                            "color": "container py-16 items-center m-auto px-5"
                         }
                     }
                 },
                 "itemList": [
                     {
-                        "heading": "Step 1. Schedule a Consultation",
-                        "icon": "FaPhoneAlt"
+                        "heading": "Study In Australia",
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//australia.png",
+                        "link": "/study-australia"
                     },
                     {
-                        "heading": "Step 2. Meet Your Advisor",
-                        "icon": "FaHandsHelping"
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//aucland.jpg",
+                        "heading": "Study In New Zealand",
+                        "link": "/study-newzealand"
                     },
                     {
-                        "heading": "Step 3. Receive Personalized Guidance",
-                        "icon": "FaPaperPlane"
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//USA.png",
+                        "heading": "Study In USA",
+                        "link": "/study-usa"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//UK.jpg",
+                        "heading": "Study In UK",
+                        "link": "/study-uk"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//can.jpg",
+                        "heading": "Study In CANADA",
+                        "link": "/study-canada"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//Japan.jpg",
+                        "heading": "Study In JAPAN",
+                        "link": "/study-japan"
                     }
                 ]
             },
-            "order": 2,
+            "order": 6,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -486,166 +646,6 @@
                         "heading": "3. Receive Personalized Guidance",
                         "caption": "After the consultation, we will continue to provide ongoing support and guidance throughout the study abroad process from selecting suitable universities and programs to navigating the application process, securing scholarships, and preparing for departure.",
                         "parseHtml": "1"
-                    }
-                ]
-            },
-            "order": 6,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
-            "id": 7076,
-            "component": "CardV2",
-            "component_id": 62,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "text-center bg-blue-50",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"fontFamily\":\"Poppins\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2 text-slate-800",
-                            "fontSize": "12px"
-                        },
-                        "content": "Wherever your dreams take you, we'll pave the way for your journey.",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "caption": {
-                        "content": "Embark on a journey to the world's premier study destinations! Discover top universities, lucrative scholarships, living expenses, post-study work opportunities, and beyond.",
-                        "css": {
-                            "color": "text-sm py-2 text-slate-800"
-                        }
-                    },
-                    "itemInfo": {
-                        "reverseDisplayOrder": "",
-                        "activateSlider": "",
-                        "rowCounts": "3"
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "flex flex-col"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": "flex flex-col bg-amber-600 my-10 rounded-lg "
-                        },
-                        "inlineCss": ""
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "text-zinc-200 p-5 md:p-0"
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": "{\"fontSize\":\"50px\"}"
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "md:col-span-4 mx-5 col-span-12"
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "css": {
-                            "color": "align-left"
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": "container m-auto md:px-20 px-5"
-                        }
-                    },
-                    "itemContentWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-left md:p-5"
-                        }
-                    },
-                    "itemTitleWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": "{\"padding\":\"5px\"}"
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container py-16 items-center m-auto px-5"
-                        }
-                    }
-                },
-                "itemList": [
-                    {
-                        "heading": "Study In Australia",
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//australia.png",
-                        "link": "/study-australia"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//aucland.jpg",
-                        "heading": "Study In New Zealand",
-                        "link": "/study-newzealand"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//USA.png",
-                        "heading": "Study In USA",
-                        "link": "/study-usa"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//UK.jpg",
-                        "heading": "Study In UK",
-                        "link": "/study-uk"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//can.jpg",
-                        "heading": "Study In CANADA",
-                        "link": "/study-canada"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//Japan.jpg",
-                        "heading": "Study In JAPAN",
-                        "link": "/study-japan"
                     }
                 ]
             },
@@ -804,193 +804,6 @@
             "linked_domain_page_id": null
         },
         {
-            "id": 7078,
-            "component": "CardV2",
-            "component_id": 62,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "text-center",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "",
-                            "fontSize": "12px"
-                        },
-                        "content": "",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "View More Universities",
-                        "link": "/universities",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "caption": {
-                        "content": "Study at Leading Universities",
-                        "css": {
-                            "color": "text-2xl py-2 text-slate-800"
-                        }
-                    },
-                    "itemInfo": {
-                        "reverseDisplayOrder": "",
-                        "activateSlider": "1",
-                        "rowCounts": "6",
-                        "autoPlay": "1"
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "flex flex-col"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": "flex flex-col "
-                        },
-                        "inlineCss": ""
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-6 mbr-m-0 "
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": "{\"fontSize\":\"50px\"}"
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "md:col-span-2 col-span-6  md:mx-2 mx-2 md:my-2 my-2"
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "css": {
-                            "color": "align-left"
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": "container m-auto md:px-20 px-5"
-                        }
-                    },
-                    "itemContentWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemTitleWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": "{\"padding\":\"5px\"}"
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container py-10 items-center m-auto"
-                        }
-                    },
-                    "itemImageWrap": {
-                        "css": {
-                            "color": "bg-white flex items-center p-4  min-h-32"
-                        }
-                    }
-                },
-                "itemList": [
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/AIBI-Higher-Education-Primary-Logo.png"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/Canada_Trinity_logo.png"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/NZ%20AGI%20LOGO.webp"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/NZ Acts wide.webp"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/NZ Kauri Logo.webp"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/NZ _ATMC.png"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/NZ _NZSE logo (2).png"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/NZ _aei.webp"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/NorthTec-Te-Pukenga-Dual-logo_NorthTec-TePukenga-V-01.png"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/UK_glyndwr-logo-1.png"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/USA _Atlantis University.png"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/USA_Avila_University_.png"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//USA_MiddleGeorgia_.png"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//USA_WEBSTER-UNIVERSITY.png"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/USA_concordia-university-chicago.png"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//WUST usa.png"
-                    },
-                    {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/university of bradford - logo.png"
-                    }
-                ]
-            },
-            "order": 15,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
             "id": 7320,
             "component": "CardV2",
             "component_id": 62,
@@ -1126,7 +939,7 @@
                 },
                 "itemList": [
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//unnamed.png",
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//unnamed.png",
                         "heading": "Meet University Representative from Trinity Western University | 4th April 2024 | Kathmandu",
                         "caption": "Date : 9th June, 2024 \nTime: 12:00 PM \nVenue: Stellar Primises \n",
                         "link": "/event-1",
@@ -1134,7 +947,7 @@
                         "button": "Register"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/university of bradford - logo.png",
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/university of bradford - logo.png",
                         "heading": "Meet University Representative from University of Bradford - UK | 28th June 2024 | Kathmandu",
                         "caption": "Date : 9th June, 2024 \nTime: 01:30 PM - 02:30 \nVenue: Stellar Primises \n",
                         "link": "/event-1",
@@ -1142,12 +955,199 @@
                         "button": "Register"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/bowling-green-state-u.png",
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/bowling-green-state-u.png",
                         "heading": "Meet University Representative from Bowling Green State University - USA | 4th December 2024 | Kathmandu",
                         "caption": "Date : 4th Dec, 2024 \nDay: Wednesday, Time: 02:00 pm\nVenue: Stellar Premises \n",
                         "link": "/event-1",
                         "parseHtml": "1",
                         "button": "Register"
+                    }
+                ]
+            },
+            "order": 15,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7078,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "View More Universities",
+                        "link": "/universities",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Study at Leading Universities",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "6",
+                        "autoPlay": "1"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-2 col-span-6  md:mx-2 mx-2 md:my-2 my-2"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "bg-white flex items-center p-4  min-h-32"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/AIBI-Higher-Education-Primary-Logo.png"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/Canada_Trinity_logo.png"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/NZ%20AGI%20LOGO.webp"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/NZ Acts wide.webp"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/NZ Kauri Logo.webp"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/NZ _ATMC.png"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/NZ _NZSE logo (2).png"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/NZ _aei.webp"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/NorthTec-Te-Pukenga-Dual-logo_NorthTec-TePukenga-V-01.png"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/UK_glyndwr-logo-1.png"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/USA _Atlantis University.png"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/USA_Avila_University_.png"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//USA_MiddleGeorgia_.png"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//USA_WEBSTER-UNIVERSITY.png"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/USA_concordia-university-chicago.png"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//WUST usa.png"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/university of bradford - logo.png"
                     }
                 ]
             },
@@ -1280,7 +1280,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.info.stellar.edu.np//sudip-kc-3.png",
+                        "content": "https://mail.triponepa.com/uploads/admin.info.stellar.edu.np//sudip-kc-3.png",
                         "link": ""
                     }
                 },

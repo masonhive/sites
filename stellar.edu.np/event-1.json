@@ -79,7 +79,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/unnamed.png"
+                        "content": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/unnamed.png"
                     }
                 },
                 "wrapper": {
@@ -133,7 +133,9 @@
                     }
                 ]
             },
-            "order": 5
+            "order": 5,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }

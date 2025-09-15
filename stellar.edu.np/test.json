@@ -148,7 +148,9 @@
                     }
                 ]
             },
-            "order": 2
+            "order": 2,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }

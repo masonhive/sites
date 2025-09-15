@@ -47,7 +47,7 @@
                     },
                     "logo": {
                         "content": "",
-                        "logo": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/logo-stellar-2.png",
+                        "logo": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/logo-stellar-2.png",
                         "css": {
                             "color": "md:h-16 h-12"
                         },
@@ -194,7 +194,7 @@
                         }
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.info.stellar.edu.np/Frame 5logo.png"
+                        "content": "https://mail.triponepa.com/uploads/admin.info.stellar.edu.np/Frame 5logo.png"
                     },
                     "itemInfo": {
                         "rowCounts": "3"
@@ -390,7 +390,7 @@
                 },
                 "keyComponents": {
                     "metadata": {
-                        "favicon": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/logo-stellar-2.png",
+                        "favicon": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/logo-stellar-2.png",
                         "title": "SIE : Nepal's leading study abroad consultant",
                         "ogTitle": "SIE : Nepal's leading study abroad consultant",
                         "ogImage": "",

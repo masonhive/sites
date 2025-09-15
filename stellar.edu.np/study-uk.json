@@ -45,7 +45,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//London Bridge.jpg",
+                        "content": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//London Bridge.jpg",
                         "link": ""
                     }
                 },
@@ -73,7 +73,9 @@
                     }
                 }
             },
-            "order": 3
+            "order": 3,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7296,
@@ -224,7 +226,9 @@
                     }
                 ]
             },
-            "order": 4
+            "order": 4,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7297,
@@ -300,7 +304,9 @@
                     }
                 }
             },
-            "order": 5
+            "order": 5,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7603,
@@ -348,7 +354,7 @@
                         "parseHtml": "1"
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//London.png",
+                        "content": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//London.png",
                         "link": ""
                     }
                 },
@@ -376,7 +382,9 @@
                     }
                 }
             },
-            "order": 6
+            "order": 6,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7318,
@@ -453,7 +461,9 @@
                     }
                 }
             },
-            "order": 8
+            "order": 8,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7317,
@@ -529,7 +539,9 @@
                     }
                 }
             },
-            "order": 9
+            "order": 9,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }

@@ -73,7 +73,9 @@
                     }
                 }
             },
-            "order": 3
+            "order": 3,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7314,
@@ -213,7 +215,9 @@
                     }
                 ]
             },
-            "order": 4
+            "order": 4,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7579,
@@ -289,7 +293,9 @@
                     }
                 }
             },
-            "order": 6
+            "order": 6,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7316,
@@ -365,7 +371,9 @@
                     }
                 }
             },
-            "order": 7
+            "order": 7,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7578,
@@ -441,7 +449,9 @@
                     }
                 }
             },
-            "order": 8
+            "order": 8,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }

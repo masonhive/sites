@@ -73,7 +73,9 @@
                     }
                 }
             },
-            "order": 3
+            "order": 3,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7098,
@@ -224,7 +226,9 @@
                     }
                 ]
             },
-            "order": 4
+            "order": 4,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7096,
@@ -377,7 +381,9 @@
                     }
                 ]
             },
-            "order": 6
+            "order": 6,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }

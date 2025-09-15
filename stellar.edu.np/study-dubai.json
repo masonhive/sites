@@ -45,7 +45,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//Dubai.png",
+                        "content": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//Dubai.png",
                         "link": ""
                     }
                 },
@@ -73,7 +73,9 @@
                     }
                 }
             },
-            "order": 3
+            "order": 3,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7569,
@@ -219,7 +221,9 @@
                     }
                 ]
             },
-            "order": 4
+            "order": 4,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7566,
@@ -296,7 +300,9 @@
                     }
                 }
             },
-            "order": 5
+            "order": 5,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7551,
@@ -372,7 +378,9 @@
                     }
                 }
             },
-            "order": 7
+            "order": 7,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7565,
@@ -448,7 +456,9 @@
                     }
                 }
             },
-            "order": 9
+            "order": 9,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7564,
@@ -524,7 +534,9 @@
                     }
                 }
             },
-            "order": 10
+            "order": 10,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }

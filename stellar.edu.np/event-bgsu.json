@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "id": 7340,
+            "id": 7552,
             "component": "FunnelV2",
             "component_id": 73,
             "attributes": {
@@ -10,7 +10,7 @@
                         "color": "",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "textContainerLayout": {
@@ -28,14 +28,12 @@
                     },
                     "form": {
                         "id": "enquiry",
-                        "type": "general",
+                        "type": "enquiry",
                         "css": {
                             "color": "px-20",
                             "fontSize": "12px"
                         },
-                        "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}",
-                        "receiver_email": "sudip@stellar.edu.np",
-                        "subject": "University Partnership Form"
+                        "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}"
                     },
                     "formHeading": {
                         "content": "Enrollment Form",
@@ -57,7 +55,7 @@
                             "color": "text-4xl py-4 text-indigo-950",
                             "fontSize": "12px"
                         },
-                        "content": "\"University Enrollment Invitation: Collaborate with Our Study Abroad Consultancy\"",
+                        "content": "Meet University Representative from Middle Tennessee University | 4th April 2024 | Kathmandu",
                         "inlineCss": ""
                     },
                     "button": {
@@ -68,9 +66,9 @@
                         }
                     },
                     "caption": {
-                        "content": "\nWe invite your university to enroll with our Study Abroad Consultancy, offering tailored marketing strategies, global reach, and streamlined student support. Our expertise ensures a seamless enrollment process, amplifying your's visibility, attracting diverse talent, and upholding its reputation for excellence and cultural exchange.",
+                        "content": "When: 20th April 2024 , 11:01 AM - 04:00 PM <br/>\nWhere: SIE Kathmandu office",
                         "css": {
-                            "color": ""
+                            "color": "text-2xl"
                         },
                         "parseHtml": "1"
                     },
@@ -79,7 +77,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://img.freepik.com/free-photo/group-colleagues-with-diploma_23-2148522297.jpg?w=1800&t=st=1712893351~exp=1712893951~hmac=d99db577d8fad59722a17fb2425be8edb744fb5208ee5e3972455fd059ced3a4"
+                        "content": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/MTSU_Wordmark.png/440px-MTSU_Wordmark.png"
                     }
                 },
                 "wrapper": {
@@ -90,7 +88,7 @@
                     },
                     "formWrap": {
                         "css": {
-                            "color": "container py-10 md:px-60 items-center m-auto text-white  px-5"
+                            "color": "container py-10 px-60 items-center m-auto text-white"
                         }
                     },
                     "mainWrap": {
@@ -105,12 +103,12 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-span-4  order-2 col-span-12 p-4"
+                            "color": "md:col-span-4  order-2"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-span-6 md:col-start-2  order-1 px-6 col-span-12"
+                            "color": "md:col-span-6 md:col-start-2  order-1 px-6"
                         }
                     }
                 },
@@ -136,7 +134,7 @@
                     }
                 ]
             },
-            "order": 3,
+            "order": 17,
             "lang": "en",
             "linked_domain_page_id": null
         }

@@ -45,7 +45,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/Japan.png",
+                        "content": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/Japan.png",
                         "link": ""
                     }
                 },
@@ -73,7 +73,9 @@
                     }
                 }
             },
-            "order": 3
+            "order": 3,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7323,
@@ -224,7 +226,9 @@
                     }
                 ]
             },
-            "order": 4
+            "order": 4,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7324,
@@ -272,7 +276,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//temple-1841296_1280.jpg",
+                        "content": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//temple-1841296_1280.jpg",
                         "link": ""
                     }
                 },
@@ -300,7 +304,9 @@
                     }
                 }
             },
-            "order": 5
+            "order": 5,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7325,
@@ -376,7 +382,9 @@
                     }
                 }
             },
-            "order": 6
+            "order": 6,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7326,
@@ -416,7 +424,7 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Japan’s education system is internationally recognized for its quality and innovation. For Nepalese students looking to study in Japan, the following requirements must be met:\n<br/> <br/>\n1. Student Visa Eligibility:\n<br/> <br/>\n- Completion of at least a +2 level education\n<br/> <br/>\n- Copies of academic transcripts and character certificates\n<br/> <br/>\n- Photocopy of your original passport\n<br/> <br/>\n- A personal essay outlining your study objectives\n<br/> <br/>\n- A recommendation letter\n<br/> <br/>\n- Gap certificate (if applicable)\n<br/> <br/>\n- Original citizenship copy (translated into English)\n<br/> <br/>\n2. Documents Required for Sponsorship Certification:\n<br/> <br/>\n- Sponsor letter\n<br/> <br/>\n- Birth certificate with a photograph\n<br/> <br/>\n- Tax clearance certificate\n<br/> <br/>\n- Annual income certificate\n<br/> <br/>\n- Proof of business and income\n<br/> <br/>\n- Property valuation documents\n<br/> <br/>  \nThese documents are necessary to ensure a smooth application process for studying in Japan and securing a student visa.",
+                        "content": "Japan’s education system is internationally recognized for its quality and innovation. For Nepalese students looking to study in Japan, the following requirements must be met:\n<br/> <br/>\n1. Student Visa Eligibility:\n<br/> <br/>\n- Completion of at least a +2 level education\n<br/> <br/>\n- Copies of academic transcripts and character certificates\n<br/> <br/>\n- Photocopy of your original passport\n<br/> <br/>\n- A personal essay outlining your study objectives\n<br/> <br/>\n- A recommendation letter\n<br/> <br/>\n- Gap certificate (if applicable)\n<br/> <br/>\n- Original citizenship copy (translated into English)\n<br/> <br/>\n2. Documents Required for Sponsorship Certification:\n<br/> <br/>\n- Sponsor letter\n<br/> <br/>\n- Birth certificate with a photograph\n<br/> <br/>\n- Tax clearance certificate\n<br/> <br/>\n- Annual income certificate\n<br/> <br/>\nThese documents are necessary to ensure a smooth application process for studying in Japan and securing a student visa.",
                         "css": {
                             "color": "text-black font-light"
                         },
@@ -452,7 +460,9 @@
                     }
                 }
             },
-            "order": 7
+            "order": 7,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7327,
@@ -528,7 +538,9 @@
                     }
                 }
             },
-            "order": 8
+            "order": 8,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }

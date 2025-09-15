@@ -135,28 +135,28 @@
                 },
                 "itemList": [
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/Tamangni.jpg",
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/Tamangni.jpg",
                         "heading": "Stellar Education made my dream of studying in Australia a reality with their exceptional guidance and support. Their professional counselors provided personalized assistance, expertly handling the application and visa process. Their dedication and valuable pre-departure advice ensured I felt well-prepared and confident. I highly recommend Stellar Education for anyone pursuing international studies. Thank you for making my dream come true!",
                         "caption": "Kabita Tamang \nAustralia Visa Granted",
                         "icon": "FaQuoteLeft",
                         "parseHtml": "1"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/Sachin Kushwaha.jpg",
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/Sachin Kushwaha.jpg",
                         "heading": "My name is Sachin Kushwaha, and I’m excited to share that I have received my UK visa to study for a Master’s in Project Management at Ravensbourne University. This wouldn’t have been possible without the amazing support from Stellar Education, who guided me through every step, from preparing documents to the visa interview. Their clear advice, personal attention, and dedication made the entire process smooth and stress-free. I’m truly grateful for their help in making my dream come true and would highly recommend Stellar Education to anyone planning to study abroad!",
                         "caption": "Sachin Kushwaha-\nRavensbourne University UK",
                         "icon": "FaQuoteLeft",
                         "parseHtml": "1"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/Jamuna Khatiwada.jpg",
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/Jamuna Khatiwada.jpg",
                         "heading": "With the incredible support of Stellar Education, I successfully secured a USA visa for my further studies. Their expert guidance covered everything from documentation to interview preparation, ensuring the process was smooth and stress-free. Their dedication, professionalism, and clear advice boosted my confidence and played a key role in my success. I am truly grateful for their help and would highly recommend Stellar Education to anyone aspiring to study in the USA. Thank you, Stellar Education, for turning my dream into reality!",
                         "caption": "Jamuna Khatiwada\nUSA Visa Granted",
                         "icon": "FaQuoteLeft",
                         "parseHtml": "1"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//Ashok Gautam- NZ Waikato.jpg",
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//Ashok Gautam- NZ Waikato.jpg",
                         "heading": "Thanks to Stellar Education’s outstanding guidance, I am now set to pursue a Master of Engineering at the University of Waikato in New Zealand. From organizing documents to preparing for the visa interview, they made every step of the process clear and manageable. Their consistent support not only simplified the journey but also gave me the confidence to succeed. I truly appreciate their dedication and would recommend Stellar Education to anyone seeking reliable assistance for studying abroad. They have been instrumental in turning my aspirations into reality!  ",
                         "caption": "Ashok Gautam-\nUniversity of Waikato",
                         "icon": "FaQuoteLeft",
@@ -167,10 +167,10 @@
                         "caption": "Amrit Karki-\n Auckland University of Technology (AUT)",
                         "icon": "FaQuoteLeft",
                         "parseHtml": "1",
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//Amrit karki.jpg"
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//Amrit karki.jpg"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//Anjan Baniya .jpg",
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//Anjan Baniya .jpg",
                         "heading": "I am thrilled to share my journey of securing a visa to study for a Master of Engineering at the University of Waikato, New Zealand, made possible by the incredible support of Stellar Education. From the initial stages to the final visa approval, their team provided dedicated guidance at every step. The personalized attention I received made the entire process smooth and stress-free. Their expert advice helped me confidently navigate the documentation and interview process, ensuring a successful outcome. Thanks to Stellar Education, I am ready to pursue my dream of a world-class education in New Zealand. I highly recommend their services to anyone aspiring to study abroad!",
                         "caption": "Anjan Baniya-\nUniversity of Waikato",
                         "icon": "FaQuoteLeft",
@@ -180,17 +180,19 @@
                         "heading": "\"I am very happy to share my incredible journey of achieving my dream to study at Massey University, New Zealand, with the unwavering support of Stellar Education. From the initial consultation to the final visa approval, the team at Stellar Education guided me every step of the way with professionalism and dedication.\"\n\nThe personalized attention I received made the entire process smooth and stress-free. Their expert counseling helped me choose the perfect program at Massey University, and their thorough assistance with documentation ensured my visa application was seamless.\n\nThanks to Stellar Education, I am now on my way to pursuing a world-class education in New Zealand. I highly recommend their services to anyone looking to turn their study abroad dreams into reality!\"\n\n",
                         "caption": "Salina Adhikari-\n Massey University Student",
                         "icon": "FaQuoteLeft",
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np/salina.jpg"
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/salina.jpg"
                     },
                     {
                         "heading": "\"Choosing to study abroad was a big decision, but with the support of Stellar Education, it became one of the best experiences of my life. Their expertise and guidance played a vital role in helping me secure my visa to study at Bowling Green State University in the USA.\"\n\nFrom selecting the right program to preparing my application, the Stellar Education team provided exceptional support. They were always available to address my concerns, ensure my documents were perfect, and guide me through every step of the process.\n\nThanks to their dedication, I am now ready to embark on this exciting academic journey at Bowling Green State University. I am incredibly grateful to Stellar Education and recommend their services to anyone dreaming of studying abroad.\n\n\n\n",
                         "caption": "Swostika Lamichhane-\n(Proud Bowling Green State University Student)",
                         "icon": "FaQuoteLeft",
-                        "image": "https://mail.ijli.com.np/uploads/admin.stellar.edu.np//Photo- Swostika.jpg"
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//Photo- Swostika.jpg"
                     }
                 ]
             },
-            "order": 14
+            "order": 14,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }

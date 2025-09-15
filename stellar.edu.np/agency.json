@@ -79,7 +79,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://img.freepik.com/free-photo/happy-coworkes-shaking-hands-after-business-presentation-office_637285-7048.jpg?t=st=1712893511~exp=1712897111~hmac=63a809bf0009c9815a0d6c67385df7e1cb3e6fdc4e8f2206d230395cb1285eab&w=1800"
+                        "content": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//pngegg (1).png"
                     }
                 },
                 "wrapper": {
@@ -134,7 +134,9 @@
                     }
                 ]
             },
-            "order": 3
+            "order": 3,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }
