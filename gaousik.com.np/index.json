@@ -723,83 +723,6 @@
             "linked_domain_page_id": null
         },
         {
-            "id": 7493,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-cover",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2 text-slate-900 font-light underline",
-                            "fontSize": "12px"
-                        },
-                        "content": "Seamless Integrations",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "Seamless integration is crucial for the success of any business. Attracting potential customers through multiple channels and converting them into loyal ones is crucial for business sustainability. These tasks are often handled by different services, tools, and channels, but effective integration is important for efficiency. We focus on delivering value as we help with seamless integration",
-                        "css": {
-                            "color": "text-slate-500 font-light"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "https://img.freepik.com/free-vector/business-intelligence-abstract-illustration-flat-style_335657-4554.jpg?t=st=1673541857~exp=1673542457~hmac=16104077279d702cbd05e46c74fff996ffceba780bf1bc80ad14c63b1aec5e7f",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "grid grid-cols-12 text-left py-4 md:px-10 items-center px-5"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-start-7 md:col-span-4 order-2 px-6 text-justify col-span-12"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "md:col-start-3 md:col-end-7 order-1 col-span-12 "
-                        }
-                    }
-                }
-            },
-            "order": 24,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
             "id": 7495,
             "component": "TextV2",
             "component_id": 72,
@@ -869,6 +792,83 @@
                     "imageWrap": {
                         "css": {
                             "color": "md:col-start-7 md:col-end-11  md:order-2  col-span-12 order-1"
+                        }
+                    }
+                }
+            },
+            "order": 24,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7493,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-900 font-light underline",
+                            "fontSize": "12px"
+                        },
+                        "content": "Seamless Integrations",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Seamless integration is crucial for the success of any business. Attracting potential customers through multiple channels and converting them into loyal ones is crucial for business sustainability. These tasks are often handled by different services, tools, and channels, but effective integration is important for efficiency. We focus on delivering value as we help with seamless integration",
+                        "css": {
+                            "color": "text-slate-500 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://img.freepik.com/free-vector/business-intelligence-abstract-illustration-flat-style_335657-4554.jpg?t=st=1673541857~exp=1673542457~hmac=16104077279d702cbd05e46c74fff996ffceba780bf1bc80ad14c63b1aec5e7f",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-4 md:px-10 items-center px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-start-7 md:col-span-4 order-2 px-6 text-justify col-span-12"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-start-3 md:col-end-7 order-1 col-span-12 "
                         }
                     }
                 }

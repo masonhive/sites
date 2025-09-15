@@ -1,6 +1,83 @@
 {
     "data": [
         {
+            "id": 7575,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover text-lg ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10",
+                            "fontSize": "12px"
+                        },
+                        "content": "About  Gaousik Tech Solution GTS",
+                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\":\"transparent\",\"fontFamily\":\"League Spartan\"}"
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "Know More About Us",
+                        "link": "/about",
+                        "css": {
+                            "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "We, Gaousik Tech Solution Pvt. Ltd , believe in harnessing the power of technology to make your visions a tangible reality. As a tech startup, we specialize in bringing digital transformation to businesses of all sizes. Our team of experts leverages the latest Artificial Intelligence (AI) technology to streamline business processes, making them more efficient and effective. From website creation to core business services, we're dedicated to helping businesses grow and succeed. With our focus on innovation and customer satisfaction, we're  poised to lead the way in digital transformation.",
+                        "css": {
+                            "color": "text-slate-400 py-6 text-justify font-light text-slate-800"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://cdn.prod.website-files.com/64f0e86e8c296608dd69ee8b/64fb394d6ecf4ec83eb5bd2d_BrandNerd_Team.webp",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left items-center pt-20 pb-10"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6  md:order-1 px-6 col-span-12 order-2"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-5  md:order-2 col-span-12 order-1"
+                        }
+                    }
+                }
+            },
+            "order": 7,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
             "id": 7513,
             "component": "TextV2",
             "component_id": 72,
@@ -37,12 +114,12 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Join us in shaping the future of the digital landscape by partnering with us. Together, we can create innovative and efficient solutions for your business, driving growth and success in the digital age. Digital innovation is continuously changing the business landscape, and it's crucial to stay ahead of the curve to succeed. At Gaousik, we believe in working together with our clients to shape the future of the digital ecosystem. Our team of experts stays up to date with the latest trends and technologies, enabling us to provide cutting-edge solutions that drive growth and improve efficiency. Join us on this exciting journey and let's build the future of your digital presence together.",
+                        "content": "Join us in shaping the future of the digital landscape by partnering with us. Together, we can create innovative and efficient solutions for your business, driving growth and success in the digital age. Digital innovation is continuously changing the business landscape, and it's crucial to stay ahead of the curve to succeed. <b>At Gaousik, </b>we believe in working together with our clients to shape the future of the digital ecosystem. Our team of experts stays up to date with the latest trends and technologies, enabling us to provide cutting-edge solutions that drive growth and improve efficiency. Join us on this exciting journey and let's build the future of your digital presence together.",
                         "css": {
                             "color": "text-slate-400 py-6 text-justify font-light text-slate-800"
                         },
                         "inlineCss": "",
-                        "parseHtml": ""
+                        "parseHtml": "1"
                     },
                     "image": {
                         "content": "https://img.freepik.com/premium-vector/young-man-woman-communicating-office-flat-design-creative-working-process-modern-workflow-management-business-concept_171919-214.jpg?w=740",
@@ -73,85 +150,9 @@
                     }
                 }
             },
-            "order": 7
-        },
-        {
-            "id": 7514,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-gradient-to-b from-pink-50 to-slate-50/50",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2 text-center font-light",
-                            "fontSize": "12px"
-                        },
-                        "content": "Empowering Business Growth with Digital Transformation And Automation",
-                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}"
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "",
-                        "css": {
-                            "color": "text-slate-400 font-light"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//gts.png",
-                        "link": "",
-                        "css": {
-                            "color": "w-40 center "
-                        }
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "grid grid-cols-12 text-left py-4 px-5 justify-center items-center"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "col-span-12  order-2 px-6"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto pt-10"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "col-span-12 order-1 flex justify-center items-center"
-                        }
-                    }
-                }
-            },
-            "order": 8
+            "order": 8,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7515,
@@ -227,7 +228,89 @@
                     }
                 }
             },
-            "order": 9
+            "order": 8,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7514,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-gradient-to-b from-pink-50 to-slate-50/50",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-center font-light",
+                            "fontSize": "12px"
+                        },
+                        "content": "Empowering Business Growth with Digital Transformation And Automation",
+                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}"
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//gts.png",
+                        "link": "",
+                        "css": {
+                            "color": "w-40 center "
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left py-4 px-5 justify-center items-center"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "col-span-12  order-2 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto pt-10"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "col-span-12 order-1 flex justify-center items-center"
+                        }
+                    }
+                }
+            },
+            "order": 10,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7516,
@@ -303,7 +386,9 @@
                     }
                 }
             },
-            "order": 10
+            "order": 11,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }

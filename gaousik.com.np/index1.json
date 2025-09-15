@@ -85,7 +85,9 @@
                     }
                 }
             },
-            "order": 4
+            "order": 4,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7534,
@@ -132,7 +134,7 @@
                         "parseHtml": "1"
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//gts_logo_3.png",
+                        "content": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//gts_logo_3.png",
                         "link": ""
                     }
                 },
@@ -160,7 +162,9 @@
                     }
                 }
             },
-            "order": 6
+            "order": 6,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7573,
@@ -238,7 +242,86 @@
                     }
                 }
             },
-            "order": 7
+            "order": 7,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7539,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover text-lg bg-green-800",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-justify font-light",
+                            "fontSize": "12px"
+                        },
+                        "content": "Clarify your Message",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Grow Your Business",
+                        "inlineCss": "",
+                        "css": {
+                            "color": " text-justify font-light"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Execute Digital Strategy",
+                        "css": {
+                            "color": " text-justify font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left items-center"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "flex col-span-12 justify-evenly items-center py-4"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto text-white"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 10,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7536,
@@ -404,82 +487,9 @@
                     }
                 ]
             },
-            "order": 10
-        },
-        {
-            "id": 7539,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-cover text-lg bg-green-800",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": " text-justify font-light",
-                            "fontSize": "12px"
-                        },
-                        "content": "Clarify your Message",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "Grow Your Business",
-                        "inlineCss": "",
-                        "css": {
-                            "color": " text-justify font-light"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "Execute Digital Strategy",
-                        "css": {
-                            "color": " text-justify font-light"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "grid grid-cols-12 text-left items-center"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "flex col-span-12 justify-evenly items-center py-4"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto text-white"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    }
-                }
-            },
-            "order": 10
+            "order": 10,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7537,
@@ -630,7 +640,9 @@
                     }
                 ]
             },
-            "order": 11
+            "order": 11,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7574,
@@ -650,7 +662,7 @@
                             "color": "text-4xl py-2 font-light",
                             "fontSize": "12px"
                         },
-                        "content": "Your dream of studying inAustralia is closer than you think!",
+                        "content": "We are here to guide you.",
                         "inlineCss": ""
                     },
                     "description": {
@@ -708,7 +720,9 @@
                     }
                 }
             },
-            "order": 12
+            "order": 12,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7533,
@@ -783,7 +797,9 @@
                     }
                 }
             },
-            "order": 13
+            "order": 13,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7538,
@@ -800,7 +816,7 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-2xl py-5 ",
+                            "color": "text-4xl py-10  font-bold",
                             "fontSize": "12px"
                         },
                         "content": "How digital transformation has supported your businesses?",
@@ -886,7 +902,7 @@
                     },
                     "itemCaptionWrap": {
                         "css": {
-                            "color": "align-left py-3 "
+                            "color": "align-center py-3 "
                         },
                         "inlineCss": ""
                     },
@@ -911,97 +927,153 @@
                         "css": {
                             "color": "container py-10 items-center m-auto md:px-5 px-10"
                         }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": " px-40"
+                        }
                     }
                 },
                 "itemList": [
                     {
-                        "heading": "My decision to study in New Zealand was one of the best I've ever made, and SIE played a crucial role in making it happen. Their team provided exceptional support throughout the entire process, from helping me choose the right university to guiding me through the visa application process. ",
-                        "icon": "FaQuoteLeft",
-                        "caption": "Raman Rai"
+                        "heading": "\"I REALLY struggled to find a marketing partner that just \"gets it\" until I found BrandNerd. It is amazing what they can do. It feels like Mitch is always three steps ahead of me. I have some big objectives to reach and BrandNerd has been helping me crush those goals. If you’re on the fence, jump in! This is where you need to be. \"",
+                        "caption": "Nibesh Dangol.<br/>\nManaging Director  Agrolink / Innovative Language Institute <br/>\nKumaripati, Lalitpur",
+                        "image": "https://cdn.pixabay.com/photo/2022/01/11/12/16/rating-6930474_1280.png",
+                        "parseHtml": "1"
                     },
                     {
-                        "heading": "Studying abroad seemed like a daunting task until I connected with SIE. From the moment I reached out, they provided unwavering support and guidance that made the entire process feel manageable. Thanks to their expertise, I was able to navigate the complexities of applying to universities in the USA seamlessly. ",
-                        "caption": "Raman Rai",
-                        "icon": "FaQuoteLeft"
+                        "image": "https://cdn.pixabay.com/photo/2022/01/11/12/16/rating-6930474_1280.png",
+                        "heading": "\"I REALLY struggled to find a marketing partner that just \"gets it\" until I found BrandNerd. It is amazing what they can do. It feels like Mitch is always three steps ahead of me. I have some big objectives to reach and BrandNerd has been helping me crush those goals. If you’re on the fence, jump in! This is where you need to be. \"",
+                        "caption": "Sudip K.C\n<br/>\nStellar International Education <br/>\nAdwait Marg, Bagbazar-28, Kathmandu Nepal",
+                        "parseHtml": "1"
                     }
                 ]
             },
-            "order": 14
+            "order": 14,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
-            "id": 7535,
-            "component": "TextV2",
-            "component_id": 72,
+            "id": 7577,
+            "component": "FunnelV2",
+            "component_id": 73,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover text-lg ",
+                        "color": "grid grid-cols-12  py-10 text-center",
                         "fontSize": "12px"
                     },
-                    "inlineCss": ""
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                 },
                 "keyComponents": {
-                    "heading": {
+                    "textContainerLayout": {
+                        "0": {
+                            "name": "css",
+                            "keys": [
+                                "color"
+                            ]
+                        },
+                        "1": "inlineCss",
+                        "2": "id",
                         "css": {
-                            "color": "md:text-4xl py-2 font-light text-2xl",
+                            "color": "col-span-4"
+                        }
+                    },
+                    "form": {
+                        "id": "enquiry",
+                        "type": "enquiry",
+                        "css": {
+                            "color": "bg-red-700",
                             "fontSize": "12px"
                         },
-                        "content": "",
-                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}"
+                        "inlineCss": ""
                     },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
+                    "formHeading": {
+                        "content": "\nBut wait, there's more!\n\nA DESKTOP STRATEGY GUIDE\nSix fundamentals to generating sales online\nYou've heard of a coffee table book. Well, this is a desktop book made to sit on your desk.",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "inlineCss": ""
+                    },
+                    "formButton": {
+                        "content": "Submit",
+                        "link": "",
                         "css": {
                             "color": ""
                         }
+                    },
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
                     },
                     "button": {
                         "content": "",
                         "link": "",
                         "css": {
-                            "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "Funnel ....... Are you looking to improve your business efficiency and stay ahead of your competitors? Do you want to reach more potential customers online and increase your revenue through digital channels? If so, enhancing your customer’s experience and streamlining your operations are crucial.\n \nWithout a strong digital strategy, you risk falling behind in a competitive market, missing out on growth opportunities, and facing inefficiencies. By embracing digital tools and strategies, you can achieve these goals and position your business for future success. \n \nTechnology not only helps you achieve your business objectives but also ensures that you remain relevant and successful in a rapidly evolving market.\n",
-                        "css": {
-                            "color": "text-slate-400 py-6 text-justify font-light text-slate-800"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": "1"
+                            "color": ""
+                        }
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//business-strategy-analytics.avif",
-                        "link": ""
+                        "content": "https://cdn.prod.website-files.com/64f0e86e8c296608dd69ee8b/668ee47a09a3df4a123ca844_Book_Cover_Manual.png",
+                        "css": {
+                            "color": "rounded-lg"
+                        }
                     }
                 },
                 "wrapper": {
-                    "sectionWrap": {
+                    "inputWrap": {
                         "css": {
-                            "color": "grid grid-cols-12 text-left items-center pt-20 pb-10"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-span-5 md:col-start-2  md:order-1 px-6 col-span-12 order-2"
+                            "color": "text-start"
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container m-auto"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                            "color": "md:col-span-6"
+                        }
+                    },
+                    "formWrap": {
+                        "css": {
+                            "color": "md:col-span-5"
+                        }
+                    },
+                    "sectionWrap": {
+                        "css": {
+                            "color": "bg-blue-800 p-10"
+                        }
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-span-4  md:order-2 col-span-12 order-1"
+                            "color": ""
                         }
                     }
-                }
+                },
+                "formInputs": [
+                    {
+                        "id": "name",
+                        "label": "Full Name",
+                        "placeholder": "Enter Your Full Name",
+                        "required": "1"
+                    },
+                    {
+                        "id": "email",
+                        "label": "Email Address",
+                        "placeholder": "Enter Your Email"
+                    },
+                    {
+                        "id": "mobile",
+                        "label": "Mobile Number",
+                        "placeholder": "Enter Your Mobile Number"
+                    }
+                ]
             },
-            "order": 16
+            "order": 17,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }
