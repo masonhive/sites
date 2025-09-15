@@ -45,7 +45,7 @@
                         "parseHtml": "1"
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//business-strategy-analytics.avif",
+                        "content": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//business-strategy-analytics.avif",
                         "link": ""
                     }
                 },
@@ -310,7 +310,7 @@
                     }
                 ]
             },
-            "order": 10,
+            "order": 11,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -482,7 +482,7 @@
                     }
                 ]
             },
-            "order": 11,
+            "order": 12,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -531,7 +531,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np//gts.png",
+                        "content": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//gts.png",
                         "link": "",
                         "css": {
                             "color": "w-40 center "
@@ -562,7 +562,7 @@
                     }
                 }
             },
-            "order": 16,
+            "order": 17,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -612,7 +612,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/admin.gaousik.com.np/business-strategy-analytics.avif",
+                        "content": "https://mail.triponepa.com/uploads/admin.gaousik.com.np/business-strategy-analytics.avif",
                         "link": ""
                     }
                 },
@@ -640,7 +640,7 @@
                     }
                 }
             },
-            "order": 21,
+            "order": 22,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -718,7 +718,7 @@
                     }
                 }
             },
-            "order": 22,
+            "order": 23,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -795,7 +795,7 @@
                     }
                 }
             },
-            "order": 23,
+            "order": 24,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -873,7 +873,7 @@
                     }
                 }
             },
-            "order": 23,
+            "order": 24,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -909,7 +909,7 @@
                     }
                 }
             },
-            "order": 24,
+            "order": 25,
             "lang": "en",
             "linked_domain_page_id": null
         }
