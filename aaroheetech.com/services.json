@@ -1,0 +1,670 @@
+{
+    "data": [
+        {
+            "id": 7627,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": " text-white  pt-40 pb-20 bg-[url('https://itsulu-react.netlify.app/img/photo/1.jpg')]  bg-slate-800/50 bg-blend-color -mt-28",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "uppercase font-semibold leading-normal tracking-wide text-4xl",
+                            "fontSize": "12px"
+                        },
+                        "content": "Our Services",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left items-center flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6 md:col-start-2  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 3,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7620,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover text-lg ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-4xl py-2 font-light ",
+                            "fontSize": "12px"
+                        },
+                        "content": "Empowering Business Growth with Digital Transformation",
+                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}"
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "We, Aarohee technologies Pvt. Ltd , believe in harnessing the power of technology to make your visions a tangible reality. As a tech startup, we specialize in bringing digital transformation to businesses of all sizes. Our team of experts leverages the latest Artificial Intelligence (AI) technology to streamline business processes, making them more efficient and effective. From website creation to core business services, we're dedicated to helping businesses grow and succeed. With our focus on innovation and customer satisfaction, we're poised to lead the way in digital transformation.",
+                        "css": {
+                            "color": "text-slate-400 py-6 text-justify font-light text-slate-800"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://datascience.columbia.edu/wp-content/uploads/2021/03/data-science-teamwork-960x640.jpg",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left items-center pt-20 pb-10"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-5 md:col-start-2  order-1 px-6 col-span-12"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4  order-2 col-span-12"
+                        }
+                    }
+                }
+            },
+            "order": 4,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7630,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"background\": \"#efeaf9\",\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "Whatever you want, you can get it.",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Explore the best repair destinations in Nepal! Learn all about the countries' top universities, scholarships, cost of living, post-study work rights and more",
+                        "css": {
+                            "color": "text-sm py-2 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "3"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col "
+                        },
+                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 mx-5 col-span-12"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:p-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto px-5"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "CCTV ",
+                        "parseHtml": "1",
+                        "image": "https://smarttec-systems.co.uk/wp-content/uploads/2019/01/CCTV-Service.png",
+                        "icon": "1. Professional Technicians\n\nBluechip is reputed and popular for our expert technicians. We have a team of trusted and seasoned technicians who are always ready to set up any kind of security camera smoothly. There are professionally skilled to enhance their knowledge and skills, so they can install any cameras rapidly.\n\nThey understand how to run certain equipment and gadgets for effortlessly setting up your favorite cameras. Our experts are also secure by our insurance, so they can enhance their efficiency properly. When you’re making a plan to install CCTV on your premises, you can trust the quality of our professionals.\n\n2. High Quality Cameras\n\nOur company also gives top-quality cameras to our customers. There is a range of cameras that are obtainable. We just wish to give top-quality and durable cameras to our clients. Hence, you do not need to take stress about selecting the wrong systems for your spot.\n\nYou just need to visit our place to select your security camera. Our professionals can assist you in choosing the top products that are best suited to your premises. There are certain cameras that are particularly made for office utilization.\n\n3. Quick Progress\n\nBluechip Computer Systems wish to give the most suitable services for all clients. Hence, our goal is not to make all clients wait for an extended period of time when we set up security cameras on their premises. Several people are pleased with our top-quality services as we can give fast progress for all clients.\n\nOur professionals are ready to assist you in setting up any cameras in some hours. You do not need to wait for a long time. Our fast security camera installation Dubai process is very effective for all busy businesses.\n\n4. Cost-Effective Services\n\nWhen you’re making a plan to set up the security camera in your office, you must connect with our company. We provide cost-effective services for all our clients. You do not need to spend so much amount for setting up your top-quality cameras.\n\nOur company also gives certain extra discounts for our reliable and valuable clients. You can connect with us today to know more about our discounts and deals. You must be able to experience our top-quality camera service at a very competitive cost.\n\n5. Reputable Company\n\nThere are so many glad clients who are pleased with our services. If you are also looking for the best CCTV installation in Dubai, you can trust our service quality. Our company is a trusted and reputed company in Dubai that provide the best, most reliable, and top-quality services to clients. A lot of people wish to select our company as we have certain reputable services for setting up security cameras on their premises.",
+                        "link": "1. Professional Technicians \n\nAarohee Technologies is reputed and popular for our expert technicians. We have a team of trusted and seasoned technicians who are always ready to set up any kind of security camera smoothly. There are professionally skilled to enhance their knowledge and skills, so they can install any cameras rapidly. They understand how to run certain equipment and gadgets for effortlessly setting up your favorite cameras. Our experts are also secure by our insurance, so they can enhance their efficiency properly. When you’re making a plan to install CCTV on your premises, you can trust the quality of our professionals. \n\n2. High Quality Cameras\n\nOur company also gives top-quality cameras to our customers. There is a range of cameras that are obtainable. We just wish to give top-quality and durable cameras to our clients. Hence, you do not need to take stress about selecting the wrong systems for your spot. You just need to visit our place to select your security camera. Our professionals can assist you in choosing the top products that are best suited to your premises. There are certain cameras that are particularly made for office utilization.\n\n3. Quick Progress \n\nAarohee Computer Systems wish to give the most suitable services for all clients. Hence, our goal is not to make all clients wait for an extended period of time when we set up security cameras on their premises. Several people are pleased with our top-quality services as we can give fast progress for all clients. Our professionals are ready to assist you in setting up any cameras in some hours. You do not need to wait for a long time. Our fast security camera installation Dubai process is very effective for all busy businesses. \n\n4. Cost-Effective Services \n\nWhen you’re making a plan to set up the security camera in your office, you must connect with our company. We provide cost-effective services for all our clients. You do not need to spend so much amount for setting up your top-quality cameras. Our company also gives certain extra discounts for our reliable and valuable clients. You can connect with us today to know more about our discounts and deals. You must be able to experience our top-quality camera service at a very competitive cost.\n\n5. Reputable Company \nThere are so many glad clients who are pleased with our services. If you are also looking for the best CCTV installation in Nepal, you can trust our service quality. Our company is a trusted and reputed company in Nepal that provide the best, most reliable, and top-quality services to clients. A lot of people wish to select our company as we have certain reputable services for setting up security cameras on their premises.",
+                        "aos": "1. Professional Technicians \n\nAarohee Technologies is reputed and popular for our expert technicians. We have a team of trusted and seasoned technicians who are always ready to set up any kind of security camera smoothly. There are professionally skilled to enhance their knowledge and skills, so they can install any cameras rapidly. They understand how to run certain equipment and gadgets for effortlessly setting up your favorite cameras. Our experts are also secure by our insurance, so they can enhance their efficiency properly. When you’re making a plan to install CCTV on your premises, you can trust the quality of our professionals. \n\n2. High Quality Cameras\n\nOur company also gives top-quality cameras to our customers. There is a range of cameras that are obtainable. We just wish to give top-quality and durable cameras to our clients. Hence, you do not need to take stress about selecting the wrong systems for your spot. You just need to visit our place to select your security camera. Our professionals can assist you in choosing the top products that are best suited to your premises. There are certain cameras that are particularly made for office utilization.\n\n3. Quick Progress \n\nAarohee Computer Systems wish to give the most suitable services for all clients. Hence, our goal is not to make all clients wait for an extended period of time when we set up security cameras on their premises. Several people are pleased with our top-quality services as we can give fast progress for all clients. Our professionals are ready to assist you in setting up any cameras in some hours. You do not need to wait for a long time. Our fast security camera installation Dubai process is very effective for all busy businesses. \n\n4. Cost-Effective Services \n\nWhen you’re making a plan to set up the security camera in your office, you must connect with our company. We provide cost-effective services for all our clients. You do not need to spend so much amount for setting up your top-quality cameras. Our company also gives certain extra discounts for our reliable and valuable clients. You can connect with us today to know more about our discounts and deals. You must be able to experience our top-quality camera service at a very competitive cost.\n\n5. Reputable Company \nThere are so many glad clients who are pleased with our services. If you are also looking for the best CCTV installation in Nepal, you can trust our service quality. Our company is a trusted and reputed company in Nepal that provide the best, most reliable, and top-quality services to clients. A lot of people wish to select our company as we have certain reputable services for setting up security cameras on their premises.",
+                        "button": "Learn More"
+                    },
+                    {
+                        "image": "https://th.bing.com/th/id/OIP.u4Aroi218YQYXzrBbjozdgHaD7?rs=1&pid=ImgDetMain",
+                        "heading": "NETWORK MANAGEMENT",
+                        "parseHtml": "1",
+                        "button": "Learn More"
+                    },
+                    {
+                        "image": "https://th.bing.com/th/id/OIP.bS_ou6Or2fnird4VqpUkqwHaHa?rs=1&pid=ImgDetMain",
+                        "heading": "AUTOMATIC DOOR LOCK",
+                        "parseHtml": "1",
+                        "button": "Learn More"
+                    },
+                    {
+                        "image": "https://th.bing.com/th/id/OIP.ISuNDhppujIERHe17aX3FAHaFj?rs=1&pid=ImgDetMain",
+                        "heading": "INVERTOR UPS SYSTEM",
+                        "parseHtml": "1",
+                        "button": "Learn More"
+                    },
+                    {
+                        "image": "https://th.bing.com/th/id/OIP.pTotHAvE500DIBy-iZ3d0gHaEc?w=312&h=187&c=7&r=0&o=5&pid=1.7",
+                        "heading": "ATTENDANCE SYSTEM DEVICE",
+                        "parseHtml": "1",
+                        "button": "Learn More"
+                    },
+                    {
+                        "image": "https://intreface.com/wp-content/uploads/2022/12/Horion-screen-front.png",
+                        "heading": "INTERACTIVE BOARD",
+                        "parseHtml": "1",
+                        "button": "Learn More"
+                    }
+                ]
+            },
+            "order": 5,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7616,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-slate-100",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-2xl py-2 pb-8  text-amber-500"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "3",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col bg-white text-black rounded-lg text-sm md: m-0 my-5 p-4"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": " bg-white md:col-span-4 col-span-12  md:mx-2 mx-2 md:my-2 my-2 rounded-lg"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left font-light text-base text-slate-600"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": "text-lg "
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto text-white"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "bg-white flex items-center p-4  min-h-30"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqOjG1MpP0RsWf4efe4Bzj1iq2G60Ob6wxug&s",
+                        "title": "macbook",
+                        "caption": "MacBook Pro (13-inch, Mid 2012) – Technical Specifications\nDisplay\n\n13.3-inch (diagonal) LED-backlit glossy widescreen display with support for millions of colors\nSupported resolutions: 1280 by 800 (native), 1152 by 720, 1024 by 640, and 800 by 500 pixels at 16:10 aspect ratio; 1024 by 768, 800 by 600, and 640 by 480 pixels at 4:3 aspect ratio; 1024 by 768, 800 by 600, and 640 by 480 pixels at 4:3 aspect ratio stretched; 720 by 480 pixels at 3:2 aspect ratio; 720 by 480 pixels at 3:2 aspect ratio stretched\nProcessor\n\n2.5GHz dual-core Intel Core i5 processor (Turbo Boost up to 3.1GHz) with 3MB L3 cache\n2.9GHz dual-core Intel Core i7 processor (Turbo Boost up to 3.6GHz) with 4MB L3 cache",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://www.neostore.com.np/assets/uploads/GU603ZW_31.jpg",
+                        "title": "ASUS LAPTOP",
+                        "caption": "Asus ROG Series\n\nModel GU603ZW-K8093W\n12th Gen Intel i9-12900H Processor\n32GB DDR5 RAM\n1TB PCIe 4.0 NVMe M.2 Performance SSD\nNvidia RTX 3070TI 8GB Laptop GPU\n16-Inch QHD+ (2560 x 1600, WQXGA) Display with 165Hz Refresh Rate",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://www.neostore.com.np/assets/uploads/swift_go_311.jpg",
+                        "title": "ACER LAPTOP",
+                        "caption": "Acer Swift Go Series Laptop. Mode Code: SFG14-41-R3AS\n \n\n AMD Ryzen 5 7430U Hexa-Core Processor with base clock of 2.0 GHz and max boost clock of 4.5 GHz\n16GB LPDDR4X RAM\n512GB M.2 PCIe NVMe Gen 3 Solid State Drive\nAMD Radeon Shared Graphics\n14.0-inch IPS FHD (1920 x 1080 ) Display with 60Hz refresh rate\nFingerprint Sensor\nDOS",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://www.neostore.com.np/assets/uploads/Dell_Vostro_3530_4.jpg",
+                        "title": "DELL LAPTOPS",
+                        "caption": "Dell Vostro 15 Series Laptop. Mode Number: 3530\n\n13th Generation Intel® Core™ i7-1355U (12 MB cache, 10 cores (2 P cores & 8 E cores), 12 threads, P cores 1.70 GHz to 5.00 GHz, E cores 1.20 GHz to 3.70 GHz)\n8GB DDR4 RAM\n512GB SSD\nIntel Integrated Graphics\n15.6-inch FHD (1920 x 1080) IPS Display with 120Hz Refresh Rate",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://itti.com.np/_next/image?url=https%3A%2F%2Fadmin.itti.com.np%2Fstorage%2Fproduct%2Facer-predator-orion-7000-gaming-desktop-13th-gen-i7-13700kf-rtx-4080-price-nepal%2Fthumb%2Fc8c42e52-31e0-4615-b800-8704da330e4d.webp&w=384&q=75",
+                        "title": " CUSTOM PC BUILD",
+                        "caption": "Key Specifications\nModel: Acer Predator Orion 7000 \nProcessor: Intel Core i7-13700KF Desktop Processor 16 cores (8 P-cores + 8 E-cores) 30MB Cache, up to 5.2 GHz\nRAM: 32GB DDR5, Storage: 512GB HDD\nGraphic: RTX 4080 16GB GDDR6",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://static.gigabyte.com/StaticFile/Image/Global/352fc22cd4c72822ee374e1efa24d7a7/Product/35590/Png",
+                        "title": "GRAPHIC CARD",
+                        "caption": "GIGABYTE Radeon RX 7900 XTX Gaming OC 24G Graphics Card, 3X WINDFORCE Fans, 24GB 384-bit GDDR6\n\nUnmatched Performance with 24GB GDDR6 Memory: Power through 4K gaming and high-end rendering with ultra-smooth graphics.\nAdvanced Cooling with 3X WINDFORCE Fans: Stay cool during intense sessions with efficient thermal control.\nCutting-Edge AMD RDNA™ 3 Architecture: Experience real-time ray tracing and stunning visual effects.\n4 Display Outputs: Seamlessly connect up to 4 monitors for a fully immersive multi-display setup.\nReady for the Future: PCI-E 4.0 support and a robust 384-bit memory bus for peak gaming and content creation performance.",
+                        "link": "/web-design"
+                    }
+                ]
+            },
+            "order": 6,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7629,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-slate-100",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "How We Can Help You",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-2xl py-2 pb-8  text-amber-500"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Our Services ",
+                        "css": {
+                            "color": "text-lg py-5 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "3",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col bg-white text-black rounded-lg text-sm md: m-0 my-5 p-4"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": " bg-white md:col-span-4 col-span-12  md:mx-2 mx-2 md:my-2 my-2 rounded-lg"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left font-light text-base text-slate-600"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": "text-lg "
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto text-white"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "bg-white flex items-center p-4  min-h-30"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://www.news-reporter.com/wp-content/uploads/2023/04/Future-Of-Web-Development-1-scaled.webp",
+                        "title": "website design",
+                        "caption": "\n",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://th.bing.com/th/id/OIP.it4BnOIz9rKoqv2YnaAd_AHaEq?w=258&h=180&c=7&r=0&o=5&pid=1.7",
+                        "title": "POS billing software",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://elearningindustry.com/wp-content/uploads/2022/08/Shutterstock_1583248045.jpg",
+                        "title": "Mobile App Design & Development",
+                        "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://millo.co/wp-content/uploads/2021/11/81xhjj3QPQL._AC_SL1500_-e1636053045914.jpg",
+                        "title": "Epson Expression XP-8500",
+                        "caption": "Epson makes a great “small-in-one” printer option, which is one of the best printers for graphic design if you need a more compact solution for working on the go or in a small office space. The Epson Expression prints up to the A4 size, perfect for card makers or providing samples quickly.\n",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://millo.co/wp-content/uploads/2021/11/81DxsvvgTbL._AC_SL1500_-e1636053023506.jpg",
+                        "title": "Canon PIXMA iP8720",
+                        "caption": "A resolution of 9600 x 2400 gives you unprecedented clarity. It comes with a six-ink system, which allows you to individually top up rather than taking out the whole system.",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://millo.co/wp-content/uploads/2021/11/81VN5NnCDjL._AC_SL1500_-e1636053068909.jpg",
+                        "title": "Brother HL-L8360CDW",
+                        "caption": "The toner cartridge printer can churn out 33 pages per minute, whether in color or black and white. Add that to the wireless function, advanced security, touch screen, and optional multi-level trays that can handle over 1,000 sheets at a time––and you have hands down one of the best printers for graphic designers who do large printing runs.",
+                        "link": "/web-design"
+                    }
+                ]
+            },
+            "order": 7,
+            "lang": "en",
+            "linked_domain_page_id": null
+        }
+    ]
+}
