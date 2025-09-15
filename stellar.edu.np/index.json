@@ -199,156 +199,6 @@
             "linked_domain_page_id": null
         },
         {
-            "id": 7075,
-            "component": "CardV2",
-            "component_id": 62,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "text-center",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2 text-slate-800",
-                            "fontSize": "12px"
-                        },
-                        "content": "SIE (Stellar International Education)",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "SIE offer a comprehensive roadmap tailored to each student's needs and goals. This plan includes assistance with university selection, application support, visa guidance, scholarship and financial aid resources, and pre-departure orientation to prepare students for their new academic and cultural experiences.",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-lg py-2 text-slate-500"
-                        }
-                    },
-                    "button": {
-                        "content": "Schedule A Consultation ",
-                        "link": "/contact-us",
-                        "css": {
-                            "color": "bg-indigo-950 rounded-full px-5 py-3 text-white"
-                        }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "caption": {
-                        "content": "Nepal's leading study abroad consultant",
-                        "css": {
-                            "color": "text-2xl py-2 text-slate-800"
-                        }
-                    },
-                    "itemInfo": {
-                        "reverseDisplayOrder": "",
-                        "activateSlider": "",
-                        "rowCounts": "3"
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "grid-cols-5 grid"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-span-3 md:col-start-2 col-span-12"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": "flex flex-col "
-                        },
-                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "text-2xl py-3 text-amber-600"
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": "{\"fontSize\":\"50px\"}"
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "md:col-span-4 md:mx-5 col-span-12"
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "css": {
-                            "color": "align-left text-indigo-950"
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": "container m-auto px-20"
-                        }
-                    },
-                    "itemContentWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-center md:p-5"
-                        }
-                    },
-                    "itemTitleWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": "{\"padding\":\"5px\"}"
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container py-20 items-center m-auto md:px-0 px-5"
-                        }
-                    },
-                    "itemImageWrap": {
-                        "css": {
-                            "color": "px-6"
-                        }
-                    }
-                },
-                "itemList": [
-                    {
-                        "heading": "1. Schedule a Consultation",
-                        "parseHtml": "1",
-                        "caption": "Reach out to one of our expert consultants and schedule a consultation to discuss your aspirations, concerns, and goals. "
-                    },
-                    {
-                        "heading": "2. Meet Your Advisor",
-                        "caption": "Attend the consultation and meet your dedicated advisor, share your academic interests, desired destinations, and preferences for studying abroad. We will begin crafting a customized plan to help you achieve your study abroad goals",
-                        "parseHtml": "1"
-                    },
-                    {
-                        "heading": "3. Receive Personalized Guidance",
-                        "caption": "After the consultation, we will continue to provide ongoing support and guidance throughout the study abroad process from selecting suitable universities and programs to navigating the application process, securing scholarships, and preparing for departure.",
-                        "parseHtml": "1"
-                    }
-                ]
-            },
-            "order": 2,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
             "id": 7074,
             "component": "CardV2",
             "component_id": 62,
@@ -489,7 +339,7 @@
                     }
                 ]
             },
-            "order": 6,
+            "order": 2,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -650,6 +500,156 @@
                 ]
             },
             "order": 6,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7075,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "SIE (Stellar International Education)",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "SIE offer a comprehensive roadmap tailored to each student's needs and goals. This plan includes assistance with university selection, application support, visa guidance, scholarship and financial aid resources, and pre-departure orientation to prepare students for their new academic and cultural experiences.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-lg py-2 text-slate-500"
+                        }
+                    },
+                    "button": {
+                        "content": "Schedule A Consultation ",
+                        "link": "/contact-us",
+                        "css": {
+                            "color": "bg-indigo-950 rounded-full px-5 py-3 text-white"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Nepal's leading study abroad consultant",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "3"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid-cols-5 grid"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-3 md:col-start-2 col-span-12"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col "
+                        },
+                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-2xl py-3 text-amber-600"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 md:mx-5 col-span-12"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left text-indigo-950"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto px-20"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-center md:p-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-20 items-center m-auto md:px-0 px-5"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "px-6"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "1. Schedule a Consultation",
+                        "parseHtml": "1",
+                        "caption": "Reach out to one of our expert consultants and schedule a consultation to discuss your aspirations, concerns, and goals. "
+                    },
+                    {
+                        "heading": "2. Meet Your Advisor",
+                        "caption": "Attend the consultation and meet your dedicated advisor, share your academic interests, desired destinations, and preferences for studying abroad. We will begin crafting a customized plan to help you achieve your study abroad goals",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "3. Receive Personalized Guidance",
+                        "caption": "After the consultation, we will continue to provide ongoing support and guidance throughout the study abroad process from selecting suitable universities and programs to navigating the application process, securing scholarships, and preparing for departure.",
+                        "parseHtml": "1"
+                    }
+                ]
+            },
+            "order": 7,
             "lang": "en",
             "linked_domain_page_id": null
         },
