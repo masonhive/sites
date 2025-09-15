@@ -5,6 +5,9 @@
             "id": 633,
             "parent_menu_id": null,
             "link": "/",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": null,
             "child": []
         },
         {
@@ -12,6 +15,9 @@
             "id": 634,
             "parent_menu_id": null,
             "link": "/about-us",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": null,
             "child": []
         },
         {
@@ -19,6 +25,9 @@
             "id": 635,
             "parent_menu_id": null,
             "link": "/seeds",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": null,
             "child": []
         },
         {
@@ -26,6 +35,9 @@
             "id": 636,
             "parent_menu_id": null,
             "link": "/gallery",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": null,
             "child": []
         },
         {
@@ -33,6 +45,9 @@
             "id": 637,
             "parent_menu_id": null,
             "link": "/blogs",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": null,
             "child": []
         },
         {
@@ -40,6 +55,9 @@
             "id": 638,
             "parent_menu_id": null,
             "link": "/contact",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": null,
             "child": []
         }
     ]

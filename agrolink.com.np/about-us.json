@@ -73,7 +73,9 @@
                     }
                 }
             },
-            "order": 120
+            "order": 120,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7117,
@@ -120,7 +122,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//DSC_1203.JPG",
+                        "content": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//DSC_1203.JPG",
                         "link": ""
                     }
                 },
@@ -148,7 +150,9 @@
                     }
                 }
             },
-            "order": 121
+            "order": 121,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7118,
@@ -195,7 +199,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//P9260068.JPG",
+                        "content": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//P9260068.JPG",
                         "link": ""
                     }
                 },
@@ -223,7 +227,9 @@
                     }
                 }
             },
-            "order": 122
+            "order": 122,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7119,
@@ -270,7 +276,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//AdobeStock_513714563.jpeg",
+                        "content": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//AdobeStock_513714563.jpeg",
                         "link": ""
                     }
                 },
@@ -298,7 +304,9 @@
                     }
                 }
             },
-            "order": 123
+            "order": 123,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7120,
@@ -345,7 +353,7 @@
                         "parseHtml": ""
                     },
                     "image": {
-                        "content": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//PA240241.JPG",
+                        "content": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//PA240241.JPG",
                         "link": ""
                     }
                 },
@@ -373,7 +381,9 @@
                     }
                 }
             },
-            "order": 124
+            "order": 124,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }

@@ -131,19 +131,21 @@
                 "itemList": [
                     {
                         "heading": "Miike Takana\n(F1 Mustard leaf)",
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//mustard_leaf_1.jpeg"
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//mustard_leaf_1.jpeg"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.agrolink.com.np//silver_crown.png",
+                        "image": "https://mail.triponepa.com/uploads/admin.agrolink.com.np//silver_crown.png",
                         "heading": "Silver Crown ( F1 Hybrid Cauliflower )"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//silvertop-ezgif.com-webp-to-jpg-converter.jpg",
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//silvertop-ezgif.com-webp-to-jpg-converter.jpg",
                         "heading": "Silver Top ( F1 Hybrid Cauliflower )"
                     }
                 ]
             },
-            "order": 120
+            "order": 120,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7126,
@@ -277,36 +279,38 @@
                     {
                         "heading": "Herbicite",
                         "parseHtml": "1",
-                        "image": "https://mail.ijli.com.np/uploads/admin.agrolink.com.np//Herbisite.jpg"
+                        "image": "https://mail.triponepa.com/uploads/admin.agrolink.com.np//Herbisite.jpg"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.agrolink.com.np//fungicite.jpg",
+                        "image": "https://mail.triponepa.com/uploads/admin.agrolink.com.np//fungicite.jpg",
                         "heading": "Fungicite",
                         "parseHtml": "1"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.agrolink.com.np//killer3.jpg",
+                        "image": "https://mail.triponepa.com/uploads/admin.agrolink.com.np//killer3.jpg",
                         "heading": "Insecticite",
                         "parseHtml": "1"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.agrolink.com.np//killer.jpg",
+                        "image": "https://mail.triponepa.com/uploads/admin.agrolink.com.np//killer.jpg",
                         "heading": "Insecticide",
                         "parseHtml": "1"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.agrolink.com.np//killer12.jpg",
+                        "image": "https://mail.triponepa.com/uploads/admin.agrolink.com.np//killer12.jpg",
                         "heading": "Insecticide",
                         "parseHtml": "1"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.agrolink.com.np//insectide.jpg",
+                        "image": "https://mail.triponepa.com/uploads/admin.agrolink.com.np//insectide.jpg",
                         "heading": "Insecticide",
                         "parseHtml": "1"
                     }
                 ]
             },
-            "order": 121
+            "order": 121,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }

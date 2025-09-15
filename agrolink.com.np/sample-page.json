@@ -73,7 +73,9 @@
                     }
                 }
             },
-            "order": 1
+            "order": 1,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }

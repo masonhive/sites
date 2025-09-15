@@ -125,35 +125,37 @@
                 },
                 "itemList": [
                     {
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//farmer.jpeg"
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//farmer.jpeg"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np/P3010385のコピー.JPG"
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np/P3010385のコピー.JPG"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//P2290374のコピー.JPG"
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//P2290374のコピー.JPG"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//AdobeStock_384109785のコピー.jpeg"
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//AdobeStock_384109785のコピー.jpeg"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np/DSC_1418のコピー.JPG"
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np/DSC_1418のコピー.JPG"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//AdobeStock_432133120のコピー.jpeg"
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//AdobeStock_432133120のコピー.jpeg"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//cabbage.jpeg"
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//cabbage.jpeg"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np/P3090426のコピー.JPG"
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np/P3090426のコピー.JPG"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//P2290360のコピー.JPG"
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//P2290360のコピー.JPG"
                     }
                 ]
             },
-            "order": 120
+            "order": 120,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }

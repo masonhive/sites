@@ -127,7 +127,9 @@
                     }
                 ]
             },
-            "order": 120
+            "order": 120,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }

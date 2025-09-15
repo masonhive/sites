@@ -136,7 +136,7 @@
                 },
                 "itemList": [
                     {
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np/P2290360のコピー2.JPG",
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np/P2290360のコピー2.JPG",
                         "heading": "Sow A Seed Today, Harvest Tomorrow",
                         "caption": "Before the reward there must be labor. You plant before you harvest. You sow in tears before you reap joy.",
                         "parseHtml": "1",
@@ -144,7 +144,7 @@
                         "link": "/seeds"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/admin.agrolink.com.np//farmer-s-hands-over-farm-plants-realistic-image-ultra-hd-high-design-very-detailed-free-photo.jpg",
+                        "image": "https://mail.triponepa.com/uploads/admin.agrolink.com.np//farmer-s-hands-over-farm-plants-realistic-image-ultra-hd-high-design-very-detailed-free-photo.jpg",
                         "heading": "Sow A Seed Today, Harvest Tomorrow",
                         "caption": "Before the reward there must be labor. You plant before you harvest. You sow in tears before you reap joy.",
                         "parseHtml": "1",
@@ -153,7 +153,9 @@
                     }
                 ]
             },
-            "order": 119
+            "order": 119,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7110,
@@ -289,22 +291,24 @@
                 "itemList": [
                     {
                         "heading": "New crops",
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//AdobeStock_78242730のコピー2.png",
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//AdobeStock_78242730のコピー2.png",
                         "caption": "We provide tested and verified new seeds imported from Japan"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//AdobeStock_281634485100のコピー.png",
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//AdobeStock_281634485100のコピー.png",
                         "heading": "100% Guranteed",
                         "caption": "We provide seeds that are tested and 100% guaranteed for higher yield"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//AdobeStock_281634485GMO.png",
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//AdobeStock_281634485GMO.png",
                         "heading": "No GMO",
                         "caption": "We provide original breed of lab tested seeds without genetic modifications"
                     }
                 ]
             },
-            "order": 122
+            "order": 122,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7111,
@@ -439,100 +443,26 @@
                     {
                         "heading": "Mustard leaf",
                         "parseHtml": "1",
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np// 2024-03-19 15.47.40.jpg",
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np// 2024-03-19 15.47.40.jpg",
                         "caption": "It is one of the three most famous pickles in Japan.\nIt is the most widely cultivated variety in Japan and has excellent cold and heat resistance, and is difficult to be bolting."
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//AdobeStock_220060105.jpeg",
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//AdobeStock_220060105.jpeg",
                         "heading": "Broccoli",
                         "caption": "Broccoli has become increasingly popular in restaurants in recent years.\nIt is rich in nutrients and more and more farmers are growing it.\nThere are two types of broccoli: early-harvesting and late-harvesting, and each variety has various characteristics such as resistance to heat and cold, stem length, and the amount of leaves around it.",
                         "parseHtml": "1"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//AdobeStock_277662410.jpeg",
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//AdobeStock_277662410.jpeg",
                         "heading": "Musk melon",
                         "caption": "Although it is the most expensive fruit in Japan, it is easy to make in Nepal because of its Indian origin.\nIn Nepal, we are the only company that handles seeds, so we can provide support on where to sell them and how to cultivate them.",
                         "parseHtml": "1"
                     }
                 ]
             },
-            "order": 123
-        },
-        {
-            "id": 7112,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "py-8",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2 font-light",
-                            "fontSize": "12px"
-                        },
-                        "content": "NUTRITIOUS FOOD IS OUR GOAL\nHEALTHY SEED, HEALTHY SOIL, HEALTHY LIFE ",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "-  Healthy Seeds <br/> <br/>\n-  100% Tested  <br/> <br/>\n-  Premium Quality <br/> <br/>",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "py-5"
-                        },
-                        "parseHtml": "1"
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "At agrolink, we believe in building a healthy life for you and your family with nutritional foods produced from the best seed imported from Japan, grown in excellent soil conditions. We aim to uplift commercial farmers and household farmers alike, with premium quality Japanese seeds and boost productivity. Our initial phase is dedicated to uplifting the quality of seed used for crops all over Nepal and making agriculture more sustainable.",
-                        "css": {
-                            "color": "text-slate-600 font-light"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//DSC_1210.JPG",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "md:grid md:grid-cols-12 text-left items-center flex flex-col"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-span-6 md:col-start-2  order-1 px-6"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "md:col-span-4  order-2 "
-                        }
-                    }
-                }
-            },
-            "order": 124
+            "order": 123,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7114,
@@ -679,7 +609,87 @@
                     }
                 ]
             },
-            "order": 124
+            "order": 124,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7112,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "py-8",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 font-light",
+                            "fontSize": "12px"
+                        },
+                        "content": "NUTRITIOUS FOOD IS OUR GOAL\nHEALTHY SEED, HEALTHY SOIL, HEALTHY LIFE ",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "-  Healthy Seeds <br/> <br/>\n-  100% Tested  <br/> <br/>\n-  Premium Quality <br/> <br/>",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "py-5"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "At agrolink, we believe in building a healthy life for you and your family with nutritional foods produced from the best seed imported from Japan, grown in excellent soil conditions. We aim to uplift commercial farmers and household farmers alike, with premium quality Japanese seeds and boost productivity. Our initial phase is dedicated to uplifting the quality of seed used for crops all over Nepal and making agriculture more sustainable.",
+                        "css": {
+                            "color": "text-slate-600 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//DSC_1210.JPG",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left items-center flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6 md:col-start-2  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4  order-2 "
+                        }
+                    }
+                }
+            },
+            "order": 124,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7132,
@@ -820,7 +830,9 @@
                     }
                 ]
             },
-            "order": 125
+            "order": 125,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7115,
@@ -954,21 +966,23 @@
                     {
                         "heading": "Seed Test At Bhaktapur",
                         "parseHtml": "1",
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//DSC_1328.JPG"
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//DSC_1328.JPG"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//DSC_1424.JPG",
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//DSC_1424.JPG",
                         "heading": "Seed Test At Nagarjun",
                         "parseHtml": "1"
                     },
                     {
-                        "image": "https://mail.ijli.com.np/uploads/editor.agrolink.com.np//P3090426のコピー2.JPG",
+                        "image": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//P3090426のコピー2.JPG",
                         "heading": "Seed Test At Khokana",
                         "parseHtml": "1"
                     }
                 ]
             },
-            "order": 126
+            "order": 126,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }
