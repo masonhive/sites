@@ -465,84 +465,6 @@
             "linked_domain_page_id": null
         },
         {
-            "id": 7112,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "py-8",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2 font-light",
-                            "fontSize": "12px"
-                        },
-                        "content": "NUTRITIOUS FOOD IS OUR GOAL\nHEALTHY SEED, HEALTHY SOIL, HEALTHY LIFE ",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "-  Healthy Seeds <br/> <br/>\n-  100% Tested  <br/> <br/>\n-  Premium Quality <br/> <br/>",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "py-5"
-                        },
-                        "parseHtml": "1"
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "At agrolink, we believe in building a healthy life for you and your family with nutritional foods produced from the best seed imported from Japan, grown in excellent soil conditions. We aim to uplift commercial farmers and household farmers alike, with premium quality Japanese seeds and boost productivity. Our initial phase is dedicated to uplifting the quality of seed used for crops all over Nepal and making agriculture more sustainable.",
-                        "css": {
-                            "color": "text-slate-600 font-light"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//DSC_1210.JPG",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "md:grid md:grid-cols-12 text-left items-center flex flex-col"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-span-6 md:col-start-2  order-1 px-6"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "md:col-span-4  order-2 "
-                        }
-                    }
-                }
-            },
-            "order": 124,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
             "id": 7114,
             "component": "CardV2",
             "component_id": 62,
@@ -686,6 +608,84 @@
                         "caption": "Expert's Support for Farmers"
                     }
                 ]
+            },
+            "order": 124,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7112,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "py-8",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 font-light",
+                            "fontSize": "12px"
+                        },
+                        "content": "NUTRITIOUS FOOD IS OUR GOAL\nHEALTHY SEED, HEALTHY SOIL, HEALTHY LIFE ",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "-  Healthy Seeds <br/> <br/>\n-  100% Tested  <br/> <br/>\n-  Premium Quality <br/> <br/>",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "py-5"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "At agrolink, we believe in building a healthy life for you and your family with nutritional foods produced from the best seed imported from Japan, grown in excellent soil conditions. We aim to uplift commercial farmers and household farmers alike, with premium quality Japanese seeds and boost productivity. Our initial phase is dedicated to uplifting the quality of seed used for crops all over Nepal and making agriculture more sustainable.",
+                        "css": {
+                            "color": "text-slate-600 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://mail.triponepa.com/uploads/editor.agrolink.com.np//DSC_1210.JPG",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left items-center flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6 md:col-start-2  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4  order-2 "
+                        }
+                    }
+                }
             },
             "order": 124,
             "lang": "en",
