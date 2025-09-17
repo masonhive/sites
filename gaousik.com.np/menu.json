@@ -21,16 +21,6 @@
             "child": []
         },
         {
-            "name": "Products ",
-            "id": 558,
-            "parent_menu_id": null,
-            "link": "/products",
-            "lang": "en",
-            "linked_menu_id": null,
-            "order": null,
-            "child": []
-        },
-        {
             "name": "Services",
             "id": 691,
             "parent_menu_id": null,
