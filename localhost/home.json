@@ -1,0 +1,946 @@
+{
+    "data": [
+        {
+            "id": 8053,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "1",
+                        "isBanner": "1",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "items-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": ""
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-start flex-col text-left w-12 md:w-4/6 md:text-white text-black px-10 md:px-0 h-full"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "absolute top-0 md:relative "
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "hidden"
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://sssglobal.net.au/wp-content/uploads/2018/06/New-Project-10-1-1920x900.png",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://sssglobal.net.au/wp-content/uploads/2018/06/New-Project-10-1-1920x900.png",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "parseHtml": "1",
+                        "image": "https://sssglobal.net.au/wp-content/uploads/2018/06/New-Project-10-1-1920x900.png"
+                    }
+                ]
+            },
+            "order": 65,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8062,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "1",
+                        "isBanner": "1",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "items-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "sm:hidden"
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "md:absolute z-10 h-full w-full justify-center flex flex-col py-10 top-0 md:px-32 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": ""
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-start flex-col text-left w-6 md:w-4/6 md:text-white text-black px-10 md:px-0 "
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "absolute top-0 md:relative md:top-auto"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "md:h-[80vh] relative h-20"
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://sssglobal.net.au/wp-content/uploads/2018/06/New-Project-12-1-1920x900.png",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://sssglobal.net.au/wp-content/uploads/2018/06/New-Project-12-1-1920x900.png",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://sssglobal.net.au/wp-content/uploads/2018/06/New-Project-12-1-1920x900.png"
+                    },
+                    {
+                        "image": "https://sssglobal.net.au/wp-content/uploads/2018/06/New-Project-12-1-1920x900.png"
+                    }
+                ]
+            },
+            "order": 66,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8067,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "3"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-8 "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-2 md:col-start-2 col-span-6"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-2xl py-3 text-lg md:text-xl text-white py-3 hover:bg-[#28C0EE] bg-[#F49810] uppercase "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": ""
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 col-span-12  mb-4"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "px-8 pb-2"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto px-10 md:px-20 "
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-center space-y-10 "
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container items-center md:m-auto md:-mt-3 mt-10 pb-8 relative z-50"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "px-6"
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": "md:mx-28 py-2 bg-[#28C0EE] hover:bg-[#F49810] text-white font-medium cursor-pointer"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "CLARIFY YOUR MESSAGE",
+                        "parseHtml": "1",
+                        "caption": "Take the online course or work with a StoryBrand Guide to create a clear marketing message.",
+                        "button": "Read More"
+                    },
+                    {
+                        "heading": "LAUNCH A SALES FUNNEL",
+                        "caption": "Get landing pages, lead generators, and email sequences that turn strangers into paying customers.",
+                        "parseHtml": "1",
+                        "button": "Read More"
+                    },
+                    {
+                        "heading": "WATCH SALES COME IN",
+                        "caption": "When you clarify your message and launch an effective sales funnel, orders will skyrocket.",
+                        "parseHtml": "1",
+                        "button": "Read More"
+                    }
+                ]
+            },
+            "order": 68,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8069,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-fixed bg-center md:grid md:grid-cols-12 md:bg-cover md:bg-[#28C0EE]",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-base uppercase text-black  md:text-white py-1 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "About Us",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "Read More",
+                        "link": "",
+                        "css": {
+                            "color": "text-white p-2 border absolute left-10"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Staff Services Solutions offer coordinated enrollment, movement and settlement answers for interface Australian bosses with gifted abroad staff. Regardless of whether you’re a gifted vagrant hoping to move to Australia on an impermanent or lasting premise, or an Australian manager attempting to discover qualified staff, we can offer a productive, clear arrangement.\n",
+                        "css": {
+                            "color": "text-black  text-sm py-2 md:text-white text-justify"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "2",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "w-full  md:max-w-md p-8 md:p-8 md:absolute md:left-4 \n"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-row text-black rounded-lg text-sm md:m-0 my-5 px-2 md:p-4 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-xl hover:text-[#28C0EE]"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-6 col-span-12  md:mx-2 mx-2 md:my-2 my-2 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left font-light text-base text-slate-600"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto "
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "px-4"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": "text-3xl "
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto md:col-start-5 md:col-span-12 bg-white px-4 py-4 md:px-20 md:py-20"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "h-28 w-28"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://preview.colorlib.com/theme/farmie/img/core-img/s1.png",
+                        "caption": "Intiam eu sagittis est, aster cosmo lacini libero. Praesent dignissim sed odio velo aliquam manta legolas. This are only the sample text",
+                        "link": "/web-design",
+                        "heading": "Fruit & Vegetable"
+                    },
+                    {
+                        "image": "https://preview.colorlib.com/theme/farmie/img/core-img/s2.png",
+                        "heading": "Meat & Eggs",
+                        "caption": "Intiam eu sagittis est, aster cosmo lacini libero. Praesent dignissim sed odio velo aliquam manta legolas.",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://preview.colorlib.com/theme/farmie/img/core-img/s3.png",
+                        "heading": "Milk & Cheese",
+                        "caption": "Intiam eu sagittis est, aster cosmo lacini libero. Praesent dignissim sed odio velo aliquam manta legolas.",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://preview.colorlib.com/theme/farmie/img/core-img/s4.png",
+                        "heading": "Rice & Corn",
+                        "caption": "Intiam eu sagittis est, aster cosmo lacini libero. Praesent dignissim sed odio velo aliquam manta legolas.",
+                        "link": "/web-design"
+                    }
+                ]
+            },
+            "order": 69,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8054,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-white bg-[#28C0EE]/50 relative  z-10 overflow-y-auto  ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{ \"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "uppercase font-medium leading-normal tracking-wide text-xl text-center",
+                            "fontSize": "12px"
+                        },
+                        "content": "We have over a deacade of experience. You always get the best guidance.",
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "description": {
+                        "content": "SSS Global are Australia's driving group in International enrollment. We can help with all your business or employing needs. We select inside every one of the accompanying business segments.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-white text-sm text-center mx-20"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": " items-center flex flex-col mx-40 "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "px-4 space-y-4"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "absolute container m-auto py-20 bg-cover bg-center bg-fixed"
+                        },
+                        "inlineCss": "{\"backgroundImage\":\"url(https://preview.colorlib.com/theme/farmie/img/bg-img/2.jpg)\",\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 73,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8072,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "relative text-white  bg-[url('https://itsulu-react.netlify.app/img/photo/1.jpg')]  bg-cover bg-fixed ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "uppercase font-medium leading-normal tracking-wide text-xl",
+                            "fontSize": "12px"
+                        },
+                        "content": "SKILLED WORK VISA – SUBSCLASS 482",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "SSS has practical experience in gifted worldwide enlistment and relocation administrations. It is a totally coordinated relocation specialist organization offering movement administrations, enrollment administrations, working visa preparing help (counting 457 visas) and encourages work of vagrant laborers for Australian organizations.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex items-center justify-center max-w-xl "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "space-y-4"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto flex justify-center text-center bg-[#28C0EE]/80 w-full h-[40vh]"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 74,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8074,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover text-lg ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "ALL STORIES",
+                        "link": "/about",
+                        "css": {
+                            "color": "bg-[#28C0EE] py-2 font-light px-6  text-slate-100 font-semibold"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": " items-center pt-20 pb-10 text-center"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": " px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto bg-gray"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 75,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8075,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-[#28C0EE] text-white",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-center",
+                            "fontSize": "12px"
+                        },
+                        "content": "We have over a deacade of experience. You always get the best guidance.",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "SSS Global are Australia's driving group in International enrollment. We can help with all your business or employing needs. We select inside every one of the accompanying business segments.",
+                        "css": {
+                            "color": "text-center text-md px-4 md:px-10"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left py-4 md:px-5 justify-center items-center"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-12  md:order-2 md:px-6 space-y-4 "
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto pt-10 py-10 w-full md:max-w-4xl "
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-12 order-1 flex justify-center items-center"
+                        }
+                    }
+                }
+            },
+            "order": 77,
+            "lang": "en",
+            "linked_domain_page_id": null
+        }
+    ]
+}

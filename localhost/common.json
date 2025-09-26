@@ -83,7 +83,7 @@
                     },
                     "logo": {
                         "content": "",
-                        "logo": "https://mail.ijli.com.np/uploads/stellar-logo.png",
+                        "logo": "https://mail.triponepa.com/uploads/stellar-logo.png",
                         "css": {
                             "color": "md:h-16 h-12"
                         },
@@ -206,7 +206,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": " shadow-sm shadow-slate-200",
+                        "color": "mx-10",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -246,9 +246,9 @@
                     },
                     "logo": {
                         "content": "",
-                        "logo": "https://mail.ijli.com.np/uploads/stellar-logo.png",
+                        "logo": "https://sssglobal.net.au/wp-content/uploads/2018/05/cropped-Asset-5.png",
                         "css": {
-                            "color": "md:h-16 h-12"
+                            "color": "hidden md:block h-20 py-2 px-4"
                         },
                         "inlineCss": ""
                     },
@@ -259,20 +259,20 @@
                         }
                     },
                     "hamburger": {
-                        "icon": "GiHamburgerMenu",
+                        "icon": "FaBars",
                         "css": {
-                            "color": "md:hidden p-4 z-20 relative"
+                            "color": "block md:hidden z-20 absolute text-lg right-8 top-8"
                         },
                         "smDeviceOnly": ""
                     },
                     "menu": {
                         "css": {
-                            "color": " px-4 py-2 hover:border-violet-600   border-white border-b-2 ease-in duration-300 text-sm flex items-center gap-1"
+                            "color": "mx-auto py-2 px-4 text-sm flex items-center gap-1 hover:text-black text-[#666666] font-medium ease-in duration-300 "
                         },
                         "inlineCss": ""
                     },
                     "multiLanguage": {
-                        "languages": "{\"en\": \"English\", \"np\": \"Nepali\",\"jp\":\"Japanese\"}"
+                        "languages": ""
                     }
                 },
                 "wrapper": {
@@ -283,7 +283,7 @@
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "mbr-col-md-12 align-center"
+                            "color": ""
                         }
                     },
                     "imageWrap": {
@@ -317,7 +317,7 @@
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "mbr-col-md-4 mbr-flex grid-row "
+                            "color": "mbr-col-md-4 mbr-flex grid-row"
                         }
                     },
                     "itemCaptionWrap": {
@@ -327,30 +327,30 @@
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "md:col-span-2 flex items-center md:col-start-11  col-span-6 md:flex-row-reverse gap-1"
+                            "color": "md:col-span-2 mx-auto"
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container m-auto grid grid-cols-12 items-center pt-3 md:px-10"
+                            "color": "mx-auto container grid grid-cols-12 items-center py-5 gap-1 "
                         }
                     },
                     "logoWrap": {
                         "css": {
-                            "color": "md:col-span-2  col-span-5"
+                            "color": "col-span-2 mx-auto"
                         }
                     },
                     "menuWrap": {
                         "css": {
-                            "color": "md:col-span-8 md:flex items-center md:visible text-sm flex-row-reverse"
+                            "color": "md:col-span-8 md:flex items-center md:visible text-sm flex-row-reverse md:justify-center "
                         }
                     }
                 },
                 "itemList": [
                     {
-                        "content": "Meet Us Online",
-                        "css": "bg-indigo-700\trounded-full px-4 py-1 text-white text-base",
-                        "link": "/meet-us"
+                        "content": "SUBMIT CV",
+                        "link": "/submit-cv",
+                        "css": "hidden md:block md:bg-[#007BFF] md:text-white md:px-4 md:py-2 hover:bg-[#FAAF40] font-[400] text-sm\n"
                     }
                 ],
                 "common_component": "1"
@@ -360,39 +360,155 @@
             "linked_domain_page_id": null
         },
         {
-            "id": 7525,
-            "component": "metatag",
-            "component_id": 75,
+            "id": 8058,
+            "component": "CardV2",
+            "component_id": 62,
             "attributes": {
-                "common_component": "1",
                 "containerLayout": {
                     "css": {
-                        "color": "",
-                        "fontSize": ""
+                        "color": "bg-[#0B1F27] text-white",
+                        "fontSize": "12px"
                     },
-                    "inlineCss": ""
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                 },
                 "keyComponents": {
-                    "metadata": {
-                        "favicon": "/favicon.ico",
-                        "title": "Localhost Admin ",
-                        "ogTitle": "og Titlle",
-                        "ogImage": "/favicon.ico",
-                        "twitterCard": "/favicon.ico",
-                        "description": "description",
-                        "googleTrackCode": "G-XJXRCY0B4K"
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "itemInfo": {
+                        "rowCounts": "3"
+                    },
+                    "caption": {
+                        "content": ""
                     }
                 },
                 "wrapper": {
-                    "mainWrap": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "text-left"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "mbr-col-md-12 align-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
                         "css": {
                             "color": ""
                         },
                         "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-xl text-white"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"30px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "flex col-span-4 justify-center m-3"
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto py-8 grid grid-cols-12"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "col-span-10"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-col text-sm text-slate-300 py-2"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "css": {
+                            "color": "text-left"
+                        }
                     }
-                }
+                },
+                "itemList": [
+                    {
+                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "parseHtml": "1",
+                        "heading": "About Us"
+                    },
+                    {
+                        "heading": "Quick Links",
+                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "Courses Abroad",
+                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "Quick Links",
+                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "Courses Abroad",
+                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "About Us",
+                        "caption": "<a href=\"/about-us\">Who We Are </a> <a href=\"/contact-us\">Our Timeline</a> <a href=\"/contact\">Our Leadership Team</a> <a href=\"/\">Partner With Us</a> <a href=\"/\">Awards Recognitions</a> <a href=\"/\">Careers</a>",
+                        "parseHtml": "1"
+                    }
+                ],
+                "common_component": "1"
             },
-            "order": 65,
+            "order": 78,
             "lang": "en",
             "linked_domain_page_id": null
         }

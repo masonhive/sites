@@ -24,7 +24,7 @@
             "name": "HOME",
             "id": 610,
             "parent_menu_id": null,
-            "link": "/index",
+            "link": "/home",
             "lang": "en",
             "linked_menu_id": null,
             "order": 1,
@@ -78,7 +78,7 @@
             "link": "/education",
             "lang": "en",
             "linked_menu_id": null,
-            "order": 5,
+            "order": 4,
             "child": [
                 {
                     "name": "EDUCATION ADVISORY SERVICES",
@@ -99,29 +99,49 @@
             "link": "",
             "lang": "en",
             "linked_menu_id": null,
-            "order": 6,
+            "order": 5,
             "child": [
                 {
                     "name": "PARTNER VISAS",
                     "id": 315,
                     "parent_menu_id": 239,
-                    "link": "/domain-transfer",
+                    "link": "/partner-visas",
                     "lang": "en",
                     "linked_menu_id": null,
-                    "order": null,
+                    "order": 1,
                     "child": []
                 },
                 {
                     "name": "SKILLED MIGRATION VISAS",
                     "id": 304,
                     "parent_menu_id": 239,
-                    "link": "/domain-name-registration",
+                    "link": "/skilled-migration",
                     "lang": "en",
                     "linked_menu_id": null,
-                    "order": null,
+                    "order": 2,
+                    "child": []
+                },
+                {
+                    "name": "MIGRATION FAQS",
+                    "id": 737,
+                    "parent_menu_id": 239,
+                    "link": "/migration-faqs",
+                    "lang": "en",
+                    "linked_menu_id": null,
+                    "order": 3,
                     "child": []
                 }
             ]
+        },
+        {
+            "name": "CONTACT",
+            "id": 740,
+            "parent_menu_id": null,
+            "link": "/contact",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": 6,
+            "child": []
         }
     ]
 }
