@@ -34,7 +34,7 @@
             "name": "ABOUT US",
             "id": 631,
             "parent_menu_id": null,
-            "link": "/about",
+            "link": "/about-us",
             "lang": "en",
             "linked_menu_id": null,
             "order": 2,
