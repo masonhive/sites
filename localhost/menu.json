@@ -96,7 +96,7 @@
             "name": "MIGRATION",
             "id": 239,
             "parent_menu_id": null,
-            "link": "",
+            "link": "/migration",
             "lang": "en",
             "linked_menu_id": null,
             "order": 5,
