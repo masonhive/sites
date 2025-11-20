@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "name": "HOME",
+            "id": 610,
+            "parent_menu_id": null,
+            "link": "/home",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": 1,
+            "child": []
+        },
+        {
+            "name": "ABOUT US",
+            "id": 631,
+            "parent_menu_id": null,
+            "link": "/about-us",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": 2,
+            "child": []
+        },
+        {
+            "name": "INTERNATIONAL RECRUITMENT",
+            "id": 335,
+            "parent_menu_id": null,
+            "link": "/international-recruitment",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": 3,
+            "child": []
+        },
+        {
+            "name": "EDUCATION",
+            "id": 85,
+            "parent_menu_id": null,
+            "link": "/education",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": 4,
+            "child": []
+        },
+        {
+            "name": "MIGRATION",
+            "id": 239,
+            "parent_menu_id": null,
+            "link": "/migration",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": 5,
+            "child": []
+        },
+        {
+            "name": "CONTACT",
+            "id": 740,
+            "parent_menu_id": null,
+            "link": "/contact",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": 6,
+            "child": []
+        }
+    ]
+}
