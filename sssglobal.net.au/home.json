@@ -1,0 +1,1184 @@
+{
+    "data": [
+        {
+            "id": 8062,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "1",
+                        "isBanner": "1",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "items-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "sm:hidden"
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "md:absolute z-10 h-full w-full justify-center flex flex-col py-10 top-0 md:px-32 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": ""
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-start flex-col text-left w-6 md:w-4/6 md:text-white text-black px-10 md:px-0 "
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "absolute top-0 md:relative md:top-auto"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "md:h-[80vh] relative h-20"
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.sssglobal.net.au/New-Project-10-1-1920x900.png",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.sssglobal.net.au//New-Project-11-1-1920x900.png",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.sssglobal.net.au/New-Project-12-1-1920x900.png"
+                    }
+                ]
+            },
+            "order": 56,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8067,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-gray-50",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\": \"Nunito\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "bg-[#28C0EE] "
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "3"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-8 "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-2 md:col-start-2 col-span-6"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-[15px] font-[600] py-3 text-lg md:text-lg text-white py-3 hover:bg-[#28C0EE] bg-[#F49810] uppercase  ease-in duration-300"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": ""
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 col-span-12 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "px-8 pb-2 text-[16px] font-[400] font-[#212529] "
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto px-10 md:px-18"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-center space-y-12"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container items-center md:m-auto md:-mt-12 mt-10 pb-32 relative z-50 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "px-6"
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": "md:mx-32 bg-[#28C0EE]  py-2 hover:bg-[#F49810] text-white font-medium cursor-pointer text-[14px] font-[600] ease-in duration-300"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "International Recruitment",
+                        "parseHtml": "1",
+                        "caption": "Around the globe Australia is known for its rich culture and decent variety among its kin as well as in its scene. There are not very many places",
+                        "button": "Read More"
+                    },
+                    {
+                        "heading": "Migration",
+                        "caption": "SSS Global is an excellent Australian Firm that tailor its support of our customer's individual needs in instruction, movement, work and venture. ",
+                        "parseHtml": "1",
+                        "button": "Read More"
+                    },
+                    {
+                        "heading": "Education",
+                        "caption": "In the event that you are keen on concentrate in Australia, let Studies in Australia give all of you the data you have to settle on your choice.",
+                        "parseHtml": "1",
+                        "button": "Read More"
+                    }
+                ]
+            },
+            "order": 56,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8072,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-white  bg-[url('https://mail.triponepa.com/uploads/admin.sssglobal.net.au/bgg.png')]  bg-cover bg-fixed bg-[#28C0EE]/95",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\": \"Nunito\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "uppercase text-[24px] font-[600] leading-normal tracking-wide ",
+                            "fontSize": "12px"
+                        },
+                        "content": "SKILLED WORK VISA – SUBSCLASS 482",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "SSS has practical experience in gifted worldwide enlistment and relocation administrations. It is a totally coordinated relocation specialist organization offering movement administrations, enrollment administrations, working visa preparing help (counting 457 visas) and encourages work of vagrant laborers for Australian organizations.<br/>\n<br/>\n<br/>Australia is continually searching generally advantageous and brightest ability from around the globe which is the reason we participate in sourcing talented laborers for our Australian business accomplices. Finding talented specialists in different fields is in excess of a troublesome errand. Consequently, we give organizations an incorporated counseling administration with the goal that they will have the capacity to bamboozle what the world brings to the table.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-[14px] font-[400]"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex items-center justify-center max-w-3xl "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "space-y-4 py-20 px-5 md:px-0 md:py-4"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": " flex justify-center text-center  w-full md:h-[52vh]"
+                        },
+                        "inlineCss": ""
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 58,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8123,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-fixed bg-center  md:bg-cover md:bg-[#28C0EE] ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\": \"Nunito\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-[20px] text-white text-left md:text-white py-1 border-b-2 inline",
+                            "fontSize": "12px"
+                        },
+                        "content": "About Us",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "Read More",
+                        "link": "/about-us",
+                        "css": {
+                            "color": "text-white p-2 border absolute left-10 md:left-44 mt-2"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Staff Services Solutions offer coordinated enrollment, movement and settlement answers for interface Australian bosses with gifted abroad staff.<br><br>\n\nRegardless of whether you’re a gifted vagrant hoping to move to Australia on an impermanent or lasting premise, or an Australian manager attempting to discover qualified staff, we can offer a productive, clear arrangement.<br><br>\n\nYou can appreciate a smooth progress with master guidance from talented experts who deal with all parts of your migration.\n",
+                        "css": {
+                            "color": " text-[13px] font-[400] py-10 text-white"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "2",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "col-span-4 bg-[#28C0EE] py-20 pl-32 pr-4"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-row text-black rounded-lg text-sm md:m-0 my-5 px-2 md:p-4 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-[16px] font-[600] pb-1  text-left hover:text-[#F49810] ease-in duration-300"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-6 col-span-12  md:mx-2 mx-2 md:my-2 my-2 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left text-[13px] font-[400]  py-5 "
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "col-span-8 py-20 px-10"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "w-full h-full px-5 text-gray-500"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": "text-3xl "
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "  md:grid md:grid-cols-12 bg-white "
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "w-10 h-10 object-cover"
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.sssglobal.net.au/partner-icon.png",
+                        "caption": "Access inventive and devoted staff generally inaccessible to your business.\n",
+                        "link": "/web-design",
+                        "heading": "Select From A Unique Market"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.sssglobal.net.au/home-bs.png",
+                        "heading": "In House Registered Migration Agents",
+                        "caption": "Experienced, knowledgable and proficient movement operators make seaward enrollment as simple as could be allowed.\n\n",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.sssglobal.net.au/chef-icon.png",
+                        "heading": "Locate The Qualified Personnel For Your Business",
+                        "caption": "We set aside the opportunity to comprehend your business before recommending competitors that address your issues.\n",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.sssglobal.net.au/Skilled-individual-with-employer.png",
+                        "heading": "Demonstrated Candidate Retention Rates",
+                        "caption": "More than 95% of our competitors stay in their situation after the initial a year.",
+                        "link": "/web-design"
+                    }
+                ]
+            },
+            "order": 59,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8124,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\": \"Nunito\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-black text-center text-[18px] font-[700] py-4 ",
+                            "fontSize": "12px"
+                        },
+                        "content": "What Our Client Say's",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "bg-indigo-700\trounded-full px-5 py-3 text-white"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-lg py-2 text-slate-700"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "2"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col  rounded-lg text-sm md: m-0 my-5 flex  pb-4 flex-col-reverse relative"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-light text-base"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"20px\"}",
+                        "css": {
+                            "color": "text-yellow-500 pt-4 pl-4 w-full"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-6 col-span-12 md:mx-5"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "text-base text-gray-500"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-10 py-4 bg-[url('https://mail.triponepa.com/uploads/admin.sssglobal.net.au//Our-Client-bg.png')]"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:p-5 p-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": "py-4 text-left px-20"
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto md:px-20 px-10"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "rounded-full overflow-hidden h-12 w-12 absolute left-5"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "caption": "<i class=\"fa-solid fa-quote-left text-orange-500 text-3xl\"></i> We have built up an extraordinary organization with Staff Services Solutions and their devotion to serving the Bakers Delight is clear in all viewpoints. We value their tender loving care and way to deal with presenting to us the best work force and administration \n",
+                        "parseHtml": "1",
+                        "image": "https://sssglobal.net.au/wp-content/uploads/2018/05/bd_logo_larger_400x400.jpg",
+                        "title": "Bakers Delight Moonee Ponds Bakery"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.sssglobal.net.au/download.png",
+                        "title": "Mr Pilgrim Restaurant",
+                        "caption": "<i class=\"fa-solid fa-quote-left text-orange-500 text-3xl\"></i> We completely belittled the application procedure. The measure of time and vitality we squandered isn't justified regardless of the cash we figured we could spare. We were extremely lucky to have discovered Staff Services Solutions.\n",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.sssglobal.net.au/Downunder-Curry-Nepalese-Indian-Cuisine-2199-1525619140444.gif",
+                        "title": "Down Under Curry Restaurant",
+                        "caption": "<i class=\"fa-solid fa-quote-left text-orange-500 text-3xl\"></i> A colossal thank you to all the group at Staff Services Solutions! Your assistance and mastery was fundamental in getting victory for a Sponsorship application. We are altogether exceptionally glad and would prescribe your administrations to anybody investigating the confounded universe.\n",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.sssglobal.net.au/download.jpeg",
+                        "title": "NB Automotive Automative",
+                        "caption": "<i class=\"fa-solid fa-quote-left text-orange-500 text-3xl\"></i> Thank you so much Staff Services Solutions. Professionally and Personally Staff Services Solutions team friendly, well supporting and fast processing. Thanks to all Staff Services Solutions team.\n",
+                        "parseHtml": "1"
+                    }
+                ]
+            },
+            "order": 59,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8079,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-[#28C0EE] max-w-5xl m-auto rounded-md",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\": \"Nunito\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "4"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col m-auto"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-row items-center gap-4 justify-center"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-xl text-center md:text-left"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-yellow-400 px-2 text-[40px] md:text-[50px] text-center"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 col-span-12  md:my-5 my-2 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-center md:align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto px-5 text-white items-center "
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-col md:flex-row gap-4 items-center my-2"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container  items-center m-auto text-center "
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "icon": "FaSortAmountUp",
+                        "heading": "Call now for free consultation ",
+                        "caption": "<a href=\"\"><strong>+61 0413 710 928</strong></a>",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "parseHtml": "1",
+                        "caption": "<div class=\"flex items-center justify-center w-12 h-12 bg-[#00000033] rounded-full text-white font-normal\">\n  OR\n</div>"
+                    },
+                    {
+                        "heading": "Email now\nfor free consultation",
+                        "caption": "<a href=\"\"><strong>info@sssglobal.net.au</strong></a>",
+                        "parseHtml": "1"
+                    }
+                ]
+            },
+            "order": 65,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8074,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover text-lg ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "ALL STORIES",
+                        "link": "/about",
+                        "css": {
+                            "color": "bg-[#28C0EE] py-2 text-[14px] px-6  text-slate-100 font-[700] hover:bg-amber-500 ease-in duration-300"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": " items-center py-20 text-center"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": " px-6 "
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto bg-gray"
+                        },
+                        "inlineCss": "{\"fontFamily\": \"Nunito\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 66,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8053,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "1",
+                        "isBanner": "1",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "items-center"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": ""
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-start flex-col text-left w-12 md:w-4/6 md:text-white text-black px-10 md:px-0 h-full"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "absolute top-0 md:relative "
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "hidden"
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://sssglobal.net.au/wp-content/uploads/2018/06/New-Project-10-1-1920x900.png",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://sssglobal.net.au/wp-content/uploads/2018/06/New-Project-10-1-1920x900.png",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "parseHtml": "1",
+                        "image": "https://sssglobal.net.au/wp-content/uploads/2018/06/New-Project-10-1-1920x900.png"
+                    }
+                ]
+            },
+            "order": 77,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8054,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-white bg-[#28C0EE]/50 relative  z-10 overflow-y-auto  ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{ \"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "uppercase font-medium leading-normal tracking-wide text-xl text-center",
+                            "fontSize": "12px"
+                        },
+                        "content": "We have over a deacade of experience. You always get the best guidance.",
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "description": {
+                        "content": "SSS Global are Australia's driving group in International enrollment. We can help with all your business or employing needs. We select inside every one of the accompanying business segments.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-white text-sm text-center mx-20"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": " items-center flex flex-col mx-40 "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "px-4 space-y-4"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "absolute container m-auto py-20 bg-cover bg-center bg-fixed"
+                        },
+                        "inlineCss": "{\"backgroundImage\":\"url(https://preview.colorlib.com/theme/farmie/img/bg-img/2.jpg)\",\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 80,
+            "lang": "en",
+            "linked_domain_page_id": null
+        }
+    ]
+}

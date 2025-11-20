@@ -1,0 +1,164 @@
+{
+    "data": [
+        {
+            "id": 7349,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\", \"backgroundImage\":\"url(https://www.vrvhome.com/sites/all/themes/vrvh/images/product-1.jpg)\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "FIBER TO THE HOME SERVICES",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Currently we are running retail and SME FTTH packages. retail package contains  minimum 50mbps package to 300mbps and SME packages 60mbps, 100mbps and 200mbps.",
+                        "css": {
+                            "color": "text-slate-600 font-light p-5"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "2"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid-cols-10 grid"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-10 md:col-start-2 col-span-12"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col "
+                        },
+                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-xl py-3"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-6 md:mx-3 col-span-12"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "text-left text-slate-600 font-light p-5"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto px-20"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "md:p-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-20 items-center m-auto md:px-0 px-5 bg-slate-100/80"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "px-6"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "50mbps package",
+                        "parseHtml": "1",
+                        "caption": "1 month Price Rs.904 /- \n3 month price Rs.2712 /-\n6 month price Rs.5152 /-\n12 month price Rs.9763 /- "
+                    },
+                    {
+                        "heading": "100mbos Package",
+                        "caption": "1 month Price Rs.1300 /- \n3 month price Rs.3850 /-\n6 month price Rs.6441 /-\n12 month price Rs.12204 /- ",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "150mbps Package",
+                        "caption": "1 month Price Rs.904 /- <br>\n3 month price Rs.2712 /-<br>\n6 month price Rs.5152 /-<br>\n12 month price Rs.9763 /- <br>",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "200mbps Package",
+                        "caption": "1 month Price Rs.904 /- <br>\n3 month price Rs.2712 /-<br>\n6 month price Rs.5152 /-<br>\n12 month price Rs.9763 /- <br>",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "250mbps Package",
+                        "caption": "1 month Price Rs.904 /- <br>\n3 month price Rs.2712 /-<br>\n6 month price Rs.5152 /-<br>\n12 month price Rs.9763 /- <br>\n\n",
+                        "parseHtml": "1"
+                    }
+                ]
+            },
+            "order": 2,
+            "lang": "en",
+            "linked_domain_page_id": null
+        }
+    ]
+}

@@ -1,0 +1,463 @@
+{
+    "data": [
+        {
+            "id": 8086,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": " h-[30vh] text-white  ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-[32px] font-[600] text-center uppercase leading-normal tracking-wide mb-2",
+                            "fontSize": "12px"
+                        },
+                        "content": "MIGRATION SERVICES",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left items-center flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "pt-30 md:col-span-12 md:col-start-2 order-1"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "w-full h-full bg-[#28C0EE] flex items-center justify-center"
+                        },
+                        "inlineCss": "{\"fontFamily\": \"Nunito\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 54,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8127,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\": \"Nunito\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "4"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col items-center "
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-[600] py-3 text-lg md:text-base text-white py-3 hover:bg-[#28C0EE] bg-[#F49810] uppercase  ease-in duration-300 px-5"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 col-span-6  md:mx-5 mx-2 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5 text-white py-5"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto text-center text-white items-center "
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "PARTNER VISAS",
+                        "link": "/migration#partner-visas"
+                    },
+                    {
+                        "heading": "SKILLED MIGRATION VISAS",
+                        "link": "/migration#skilled-migration-visas"
+                    },
+                    {
+                        "heading": "MIGRATION FAQs",
+                        "link": "/migration#migration-faqs"
+                    }
+                ]
+            },
+            "order": 56,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8089,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "font-['Nunito']",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "",
+                    "id": "partner-visas"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "mb-2 uppercase text-center text-[20px] font-[600] text-gray-500",
+                            "fontSize": "12px"
+                        },
+                        "content": "Partner Visas",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "PARTNER VISAS<br>\nAbout these Visas\nIf you are in a relationship with an Australian citizen, Australian permanent resident or an eligible New Zealand citizen, you may be able to apply for a partner visa. The three main partner visa subclasses are Spouse, Fiancé and Interdependent partner. <br> \n<br>PARTNER VISA (SPOUSE VISA) SUBCLASSES<br>\nPartner – Inside Australia – Subclass 820 (Temporary) & Subclass 801 (Permanent) & Partner – Outside Australia – Subclass 309 (Temporary) & Subclass 100 (Permanent)<br>\nThis visa allows you to enter and remain in Australia on the basis of your relationship (married or de-facto) with your sponsoring partner. Subclass 820 is a temporary visa usually for two years, granted until a decision on the permanent visa has been made. To be eligible, you must be married to your partner or be in a de-facto relationship for more than one year. You and your partner must show that the relationship is genuine and continuing and that there is a mutual commitment to a shared life to the exclusion of all others. If after your two year waiting period the relationship is proven to be continuing, you can be granted the permanent Subclass 801. Note: Some relationships are eligible for the permanent visa without the waiting period, by applying for a waiver (e.g. if relationship is over five years, or over two years with dependent children).\n\n<br>\n\n<br>\nInterdependent Partner – Inside Australia – Subclass 826 (Temporary) & Subclass 814 (Permanent) & Interdependent Partner – Outside Australia – Subclass 310 (Temporary) & Subclass 110 (Permanent)*\nThis visa generally has the same criteria as the spouse visa, except it is for partners in same sex relationships. You and your partner must show that the relationship is genuine and continuing and that there is a mutual commitment to a shared life to the exclusion of all others.<br>\n<br>* Note: These visas have been integrated with the above Partner Visas.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "mb-10 text-gray-500 text-[14px] font-[400] "
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Service",
+                        "css": {
+                            "color": "text-gray-500 font-[500] text-[14px] mb-4 text-left  "
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-text md:py-10 md:px-20"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "col-span-12  order-1 px-2 md:px-6\n"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": ""
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 58,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8119,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "",
+                    "id": "skilled-migration-visas"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-[20px] font-[600] mb-2 uppercase text-center text-gray-500",
+                            "fontSize": "12px"
+                        },
+                        "content": "Skilled Migration Visas",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "<p>The Skilled Migration stream or General Skilled Migration (GSM) program is for gifted vagrants not supported by an Australian manager but rather who have specific abilities that are required in Australia.</p>\n<br/>\n<p>As a rule, the primary candidate must designate and hold a gifted appraisal for an occuaption on the Skilled Occupation List (SOL) or Consolidated Sponsored Occupation List (CSOL), be in the vicinity of 18 and 49 years old, have great English dialect capacity, have ongoing talented work involvement or have as of late finished an Australian capability. Most GSM subclasses require the candidate to meet the Points Test. GSM candidates may apply autonomously, or with sponsorship by a relative or designation by an Australian state or domain government.</p>\n<br/>\n<p>There are several visa options available depending on your individual circumstances:</p>\n<br/>\n<p>Temporary Graduate Visa – subclass 485</p>\n<p>Skilled Independent Visa – Subclass 189</p>\n<p>Skilled Nominated Visa – Subclass 190 Visa</p>\n<p>Skilled Regional (Provisional) Visa Subclass 489</p>\n<p>Skilled Regional visa – subclass 887</p>",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "mb-10 text-gray-500 text-[14px] font-[400] py-2"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Service",
+                        "css": {
+                            "color": "text-gray-500 font-[500] text-[14px] mb-4 "
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": " text-left items-center pt-20 pb-10 md:px-20"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-5 md:col-start-2  md:order-1 px-6 col-span-12 order-2"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\": \"Nunito\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 59,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8120,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "",
+                    "id": "migration-faqs"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-[20px] font-[600] mb-2 uppercase text-center text-gray-500",
+                            "fontSize": "12px"
+                        },
+                        "content": "Migration FAQs",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "<p>\nEvery month we get several Australian relocation questions. A lot of these are non-specific and repeatedly asked. So we have included a FAQ section.<br><br>\n\n1. Could Staff Services Solutions land me a position?<br><br>\n2. Do Staff Services Solutions charge for finding a job?<br><br>\n3. I wish to move to Australia, but I don’t know where to begin. Please help?<br><br>\n4. Is my occupation on the Skilled Occupation List (SOL)?<br><br>\n5. There are many changes happening in Australian relocation law — I’m lost. What should I do?<br><br>\n6. Should I use a migration agent?<br><br>\n7. I am a British citizen — am I eligible for Medicare in Australia?<br><br>\n8. If I am sponsored on a 457 visa, do I have to pay school fees for my children in public schools?<br><br>\n9. I am on my first Working Holiday Visa and want to do 3 months of fruit picking. I am 31 — can I apply for a second WHV?<br><br>\n10. My Visa has a condition called “No Further Stay”. What does this mean?<br><br>\n11. Where can I book an IELTS English language test?<br><br>\n12. How long is my IELTS Test Certificate valid?<br><br>\n13. Who can certify documents for an Australian visa application?<br><br>\n14. How long will my Visa take to process?<br><br>\n15. I have been granted Australian permanent residency. How long do I have to wait for Centrelink/social benefits?<br><br><br>\n\n1. Will Staff Services Solutions find me a job?<br>\nStaff Services Solutions is an Australian skilled migration and recruitment consultancy. We have registered migration agents and recruitment specialists. We are transparent about your migration chances, but we do not guarantee job placement. Your chances depend on your occupation, qualifications, and experience.<br><br>\n\n2. Do Staff Services Solutions charge for finding a job?<br>\nWe do not charge candidates for finding a job. We offer two services — migration services and recruitment services. Employers pay recruitment fees.<br><br>\n\n3. I want to move to Australia but don’t know where to start.<br>\nSend us your resume via our Contact form. We will request more details to determine your migration options and the most appropriate visa.<br><br>\n\n4. Is my occupation on the Skilled Occupation List (SOL)?<br>\nDIAC issued a new Skilled Occupation List on 17 May 2010. The list is reviewed every year.<br><br>\n\n5. Australian migration law is changing — I’m confused.<br>\nMigration legislation changes frequently. You must ensure your application matches the latest Acts, Regulations, and Policies.<br><br>\n\n6. Should I use a migration agent?<br>\nYou do not need a migration agent to lodge a visa, but DIAC recommends using an agent registered with MARA.<br><br>\n\n7. I am a British citizen — am I eligible for Medicare?<br>\nThe UK has reciprocal arrangements with Australia for “medically necessary treatment”. You must still pay the Medicare Levy.<br><br>\n\n8. Do 457 visa holders pay school fees for children?<br>\nThis depends on the state:<br>\nNSW: $4,500–$5,500<br>\nACT: $9,320–$13,900<br>\nQLD, WA, VIC, SA, TAS, NT: Same treatment as citizens/residents.<br><br>\n\n9. I am 31 — can I apply for a second Work Holiday Visa after 3 months’ farm work?<br>\nNo. You must be 18–30 when applying.<br><br>\n\n10. What does “No Further Stay” mean?<br>\nCondition 8503 means you cannot apply for any other visa while in Australia, unless granted a rare ministerial waiver.<br><br>\n\n11. Where can I book an IELTS test?<br>\nVisit: www.ielts.org<br><br>\n\n12. How long is the IELTS Certificate valid?<br>\nUsually 2 years. For ENS visas, 1 year.<br><br>\n\n13. Who can certify documents for an Australian visa?<br>\nIn Australia: JP, Commissioner for Declarations, medical professionals, migration agents.<br>\nOutside Australia: Equivalent authorities or migration agents.<br><br>\n\n14. How long will my Visa take to process?<br>\nProcessing times depend on many factors. DIAC provides estimated timelines on their website.<br><br>\n\n15. How long must I wait for Centrelink benefits?<br>\nCheck the official Centrelink website for updated waiting periods.<br>\n</p>\n",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "mb-10 text-gray-500 text-[14px] font-[400] py-2"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Service",
+                        "css": {
+                            "color": "text-gray-500 font-[500] text-[14px] mb-4 "
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left md:py-10 md:px-20"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "col-span-12 order-1 px-2 md:px-6 "
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\": \"Nunito\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 59,
+            "lang": "en",
+            "linked_domain_page_id": null
+        }
+    ]
+}
