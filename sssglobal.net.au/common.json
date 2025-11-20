@@ -448,7 +448,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "text-white \nbg-[url('https://sssglobal.net.au/wp-content/themes/sssglobal/images/footer-bg.png')]",
+                        "color": "text-white \nbg-[url('https://mail.triponepa.com/uploads/admin.sssglobal.net.au//footer-bg.png')]",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\": \"Nunito\"}"
