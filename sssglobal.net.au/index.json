@@ -121,7 +121,7 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "absolute top-0 md:relative md:top-auto"
+                            "color": "absolute md:top-0 md:relative md:top-auto top-20"
                         }
                     },
                     "itemImageWrap": {
@@ -273,7 +273,7 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container items-center md:m-auto md:-mt-12 mt-10 pb-32 relative z-50 "
+                            "color": "container items-center md:m-auto md:-mt-12 mt-44 pb-32 relative z-10 "
                         },
                         "inlineCss": ""
                     },
@@ -446,7 +446,7 @@
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "col-span-4 bg-[#28C0EE] py-20 pl-32 pr-4"
+                            "color": "col-span-4 bg-[#28C0EE] py-20 md:pl-32 pr-4 px-10"
                         }
                     },
                     "contentWrap": {
