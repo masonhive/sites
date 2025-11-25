@@ -1,16 +1,6 @@
 {
     "data": [
         {
-            "name": "homenp",
-            "id": 723,
-            "parent_menu_id": null,
-            "link": "/index",
-            "lang": "np",
-            "linked_menu_id": null,
-            "order": null,
-            "child": []
-        },
-        {
             "name": "testnp",
             "id": 721,
             "parent_menu_id": null,
@@ -21,126 +11,13 @@
             "child": []
         },
         {
-            "name": "HOME",
-            "id": 610,
+            "name": "homenp",
+            "id": 723,
             "parent_menu_id": null,
-            "link": "/home",
-            "lang": "en",
+            "link": "/index",
+            "lang": "np",
             "linked_menu_id": null,
-            "order": 1,
-            "child": []
-        },
-        {
-            "name": "ABOUT US",
-            "id": 631,
-            "parent_menu_id": null,
-            "link": "/about-us",
-            "lang": "en",
-            "linked_menu_id": null,
-            "order": 2,
-            "child": []
-        },
-        {
-            "name": "INTERNATIONAL RECRUITMENT",
-            "id": 335,
-            "parent_menu_id": null,
-            "link": "",
-            "lang": "en",
-            "linked_menu_id": null,
-            "order": 3,
-            "child": [
-                {
-                    "name": "SUBMIT CV",
-                    "id": 735,
-                    "parent_menu_id": 335,
-                    "link": "",
-                    "lang": "en",
-                    "linked_menu_id": null,
-                    "order": 1,
-                    "child": []
-                },
-                {
-                    "name": "EMPLOYER SPONSORED MIGRATION",
-                    "id": 736,
-                    "parent_menu_id": 335,
-                    "link": "",
-                    "lang": "en",
-                    "linked_menu_id": null,
-                    "order": 2,
-                    "child": []
-                }
-            ]
-        },
-        {
-            "name": "EDUCATION",
-            "id": 85,
-            "parent_menu_id": null,
-            "link": "/education",
-            "lang": "en",
-            "linked_menu_id": null,
-            "order": 4,
-            "child": [
-                {
-                    "name": "EDUCATION ADVISORY SERVICES",
-                    "id": 230,
-                    "parent_menu_id": 85,
-                    "link": "/service",
-                    "lang": "en",
-                    "linked_menu_id": null,
-                    "order": null,
-                    "child": []
-                }
-            ]
-        },
-        {
-            "name": "MIGRATION",
-            "id": 239,
-            "parent_menu_id": null,
-            "link": "/migration",
-            "lang": "en",
-            "linked_menu_id": null,
-            "order": 5,
-            "child": [
-                {
-                    "name": "PARTNER VISAS",
-                    "id": 315,
-                    "parent_menu_id": 239,
-                    "link": "/partner-visas",
-                    "lang": "en",
-                    "linked_menu_id": null,
-                    "order": 1,
-                    "child": []
-                },
-                {
-                    "name": "SKILLED MIGRATION VISAS",
-                    "id": 304,
-                    "parent_menu_id": 239,
-                    "link": "/skilled-migration",
-                    "lang": "en",
-                    "linked_menu_id": null,
-                    "order": 2,
-                    "child": []
-                },
-                {
-                    "name": "MIGRATION FAQS",
-                    "id": 737,
-                    "parent_menu_id": 239,
-                    "link": "/migration-faqs",
-                    "lang": "en",
-                    "linked_menu_id": null,
-                    "order": 3,
-                    "child": []
-                }
-            ]
-        },
-        {
-            "name": "CONTACT",
-            "id": 740,
-            "parent_menu_id": null,
-            "link": "/contact",
-            "lang": "en",
-            "linked_menu_id": null,
-            "order": 6,
+            "order": null,
             "child": []
         }
     ]
