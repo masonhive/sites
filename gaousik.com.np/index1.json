@@ -96,7 +96,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover text-lg snap-start scroll-mt-20",
+                        "color": "bg-cover text-lg snap-start scroll-mt-28",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -174,7 +174,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover text-white bg-gradient-to-r from-purple-700 via-violet-900 to-purple-700\nsnap-start scroll-mt-20",
+                        "color": "bg-cover text-white bg-gradient-to-r from-purple-700 via-violet-900 to-purple-700\nsnap-start scroll-mt-32",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -330,7 +330,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "text-center bg-cover  bg-gradient-to-b from-white to-pink-100",
+                        "color": "text-center bg-cover  bg-gradient-to-b from-white to-pink-100 snap-start scroll-mt-28",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -662,7 +662,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover text-lg bg-gradient-to-b from-orange-100 to-yellow-50",
+                        "color": "bg-cover text-lg bg-gradient-to-b from-orange-100 to-yellow-50 snap-start scroll-mt-28",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
