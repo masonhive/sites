@@ -7,7 +7,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "font-['outfit']",
+                        "color": "font-['outfit'] bg-white w-full fixed z-10",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
