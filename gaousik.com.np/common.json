@@ -7,7 +7,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "font-['outfit'] bg-white w-full sticky top-0 z-50 bg-white shadow ",
+                        "color": "font-['outfit'] bg-white w-full  fixed z-50 bg-white shadow",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -47,7 +47,7 @@
                     },
                     "logo": {
                         "content": "",
-                        "logo": "http://gaousik.com.np/uploads/admin.gaousik.com.np//gts_logo_3.png",
+                        "logo": "https://mail.triponepa.com/uploads/admin.gaousik.com.np/gts_logo_3.png",
                         "css": {
                             "color": "w-28 py-2"
                         },
@@ -155,6 +155,82 @@
                 "common_component": "1"
             },
             "order": 4,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8183,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "h-20",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-5xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-2xl pt-4 pb-10"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-xl pb-8 pt-4"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "col-start-3 col-span-7"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                },
+                "common_component": "1"
+            },
+            "order": 6,
             "lang": "en",
             "linked_domain_page_id": null
         },
