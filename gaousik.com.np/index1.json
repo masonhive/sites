@@ -355,7 +355,7 @@
                         "content": "Let’s discuss how digital transformation can work for your business.",
                         "link": "",
                         "css": {
-                            "color": "bg-green-700 py-2 font-light px-10 rounded-full text-slate-100 text-xl my-10"
+                            "color": "bg-green-700 py-4 font-light px-10 rounded-full text-slate-100 text-xl my-10"
                         }
                     },
                     "image": {
