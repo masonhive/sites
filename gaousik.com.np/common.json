@@ -1,13 +1,13 @@
 {
     "data": [
         {
-            "id": 7505,
+            "id": 8185,
             "component": "NavV2",
             "component_id": 67,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "font-['outfit'] w-full  fixed z-50 bg-white ",
+                        "color": "font-['outfit'] w-full  fixed z-50 bg-white",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -47,7 +47,7 @@
                     },
                     "logo": {
                         "content": "",
-                        "logo": "https://mail.triponepa.com/uploads/admin.gaousik.com.np/gts_logo_3.png",
+                        "logo": "http://gaousik.com.np/uploads/admin.gaousik.com.np//gts_logo_3.png",
                         "css": {
                             "color": "w-28 py-2"
                         },
@@ -68,7 +68,7 @@
                     },
                     "menu": {
                         "css": {
-                            "color": " px-4 py-2 hover:border-green-700   border-white border-b-2 ease-in duration-300 text-sm font-semibold flex items-center gap-1"
+                            "color": "px-4 py-2 hover:border-green-700   border-white border-b-2 ease-in duration-300 text-sm font-semibold flex items-center gap-1"
                         },
                         "inlineCss": ""
                     }
@@ -148,13 +148,13 @@
                 "itemList": [
                     {
                         "content": "Let's Connect",
-                        "css": "bg-amber-700\trounded-full px-10 py-2 text-white md:text-base text-sm",
+                        "css": "bg-yellow-700\trounded-full px-10 py-2 text-white md:text-base text-sm",
                         "link": "/meet-us"
                     }
                 ],
                 "common_component": "1"
             },
-            "order": 4,
+            "order": 5,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -231,6 +231,150 @@
                 "common_component": "1"
             },
             "order": 6,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8181,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-white \nbg-[url('https://mail.triponepa.com/uploads/admin.sssglobal.net.au//footer-bg.png')] ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\": \"Nunito\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "itemInfo": {
+                        "rowCounts": "4"
+                    },
+                    "caption": {
+                        "content": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "text-left"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-white tracking-tight text-[16px] font-[700] py-1 border-b-2 inline"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"30px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "flex col-span-6 md:col-span-3 text-left justify-center m-3 "
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "py-8 grid grid-cols-12  relative bg-green-400/20"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "col-span-10"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-col text-sm text-white py-2 gap-4 mt-4"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "css": {
+                            "color": "text-left"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "caption": "<a href=\"/about-us\">About Us </a> <a href=\"/contact-us\">Stories</a> <a href=\"/contact\">Contact Us</a>  <a href=\"/\">Submit CV</a> ",
+                        "parseHtml": "1",
+                        "heading": "ABOUT US"
+                    },
+                    {
+                        "heading": "FIND US",
+                        "caption": "<a href=\"/\">Lalitpur - 22, Chunikhel, Bungmati Nepal</a> <a href=\"/contact\"> <strong>+997 9813364597</strong></a>\n<a href=\"/contact\">\ninfo@gaousik.com.np</a> ",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "SERVICES",
+                        "caption": "<a href=\"/\">Hospitality </a> <a href=\"/\">I.T </a> <a href=\"/\">Automotive</a> <a href=\"/\">Trade Services</a> <a href=\"/\">Engineering</a>",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "heading": "FOLLOW",
+                        "caption": "<div class=\"flex justify-around items-center space-x-4\">\n  <a href=\"https://www.facebook.com\" class=\"text-xl\"><i class=\"fab fa-facebook\"></i></a>\n  <a href=\"https://www.instagram.com\" class=\"text-xl\"><i class=\"fab fa-instagram\"></i></a>\n  <a href=\"https://www.twitter.com\" class=\"text-xl\"><i class=\"fab fa-twitter\"></i></a>\n</div>\n\n<div class=\"flex flex-col items-start space-y-2\">\n  <p class=\"text-lg font-semibold\">Opening Hours</p>\n  <p class=\"text-md\">Mon - Fri: <span class=\"font-bold\">9:00 AM - 6:00 PM</span></p>\n</div>",
+                        "parseHtml": "1"
+                    }
+                ],
+                "common_component": "1"
+            },
+            "order": 18,
             "lang": "en",
             "linked_domain_page_id": null
         },
