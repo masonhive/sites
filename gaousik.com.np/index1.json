@@ -96,7 +96,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover text-lg snap-start scroll-mt-28",
+                        "color": "bg-cover text-lg snap-start scroll-mt-20",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -771,7 +771,7 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "<br>",
+                        "content": "",
                         "css": {
                             "color": "text-slate-400 py-4 text-justify font-light text-slate-800 font-bold font-['outfit']"
                         },
@@ -802,7 +802,7 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-span-6  md:order-1 col-span-12 order-1"
+                            "color": "md:col-span-4 md:col-start-2  md:order-1 col-span-12 order-1"
                         }
                     }
                 }
