@@ -7,7 +7,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "font-['outfit'] bg-white w-full fixed z-10",
+                        "color": "font-['outfit'] bg-white w-full z-10",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -316,6 +316,22 @@
             "linked_domain_page_id": null
         },
         {
+            "id": 6461,
+            "component": "seo",
+            "component_id": 36,
+            "attributes": {
+                "txt": "SEO Text",
+                "description": "Gaousik Tech Solution Pvt. Ltd  is helping grow businesses turning business process & services more effective and efficient.",
+                "title": "Gaousik Tech Solution Pvt. Ltd |  Empowering Business Growth with Digital Transformation",
+                "image": "https://drive.google.com/uc?id=1O-KremFdgGhazdHy64EJf7RmRV9wJ15L",
+                "keywords": "Digital Transformation, website, mobile app, digital transformation, technology, business, software company, startups, gaousik, gaousik tech solution",
+                "common_component": "1"
+            },
+            "order": 26,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
             "id": 7490,
             "component": "CardV2",
             "component_id": 62,
@@ -446,22 +462,6 @@
                         "parseHtml": "1"
                     }
                 ],
-                "common_component": "1"
-            },
-            "order": 20,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
-            "id": 6461,
-            "component": "seo",
-            "component_id": 36,
-            "attributes": {
-                "txt": "SEO Text",
-                "description": "Gaousik Tech Solution Pvt. Ltd  is helping grow businesses turning business process & services more effective and efficient.",
-                "title": "Gaousik Tech Solution Pvt. Ltd |  Empowering Business Growth with Digital Transformation",
-                "image": "https://drive.google.com/uc?id=1O-KremFdgGhazdHy64EJf7RmRV9wJ15L",
-                "keywords": "Digital Transformation, website, mobile app, digital transformation, technology, business, software company, startups, gaousik, gaousik tech solution",
                 "common_component": "1"
             },
             "order": 26,

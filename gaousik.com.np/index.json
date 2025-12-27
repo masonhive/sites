@@ -151,7 +151,7 @@
                     }
                 }
             },
-            "order": 9,
+            "order": 10,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -310,7 +310,7 @@
                     }
                 ]
             },
-            "order": 11,
+            "order": 12,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -482,7 +482,7 @@
                     }
                 ]
             },
-            "order": 12,
+            "order": 14,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -562,7 +562,7 @@
                     }
                 }
             },
-            "order": 17,
+            "order": 19,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -640,7 +640,7 @@
                     }
                 }
             },
-            "order": 22,
+            "order": 20,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -714,84 +714,6 @@
                     "imageWrap": {
                         "css": {
                             "color": "md:col-start-7 md:col-end-10  md:order-2"
-                        }
-                    }
-                }
-            },
-            "order": 23,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
-            "id": 7495,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-cover",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "",
-                    "id": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2 text-slate-900 font-light underline",
-                            "fontSize": "12px"
-                        },
-                        "content": "Adding Massive Value to Your Business",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "At Gaousik, our focus is to maximize value for all stakeholders, including end-users. We understand the importance of time and energy, and strive to use them wisely in our work. By partnering with us, you not only get your tasks completed but also receive valuable insights and support to enhance your business. Our expertise and knowledge base will help identify opportunities for increased efficiency and growth. Working with Gaousik is a sure way to add value to your business or workflow.",
-                        "css": {
-                            "color": "text-slate-500 font-light"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "https://img.freepik.com/premium-vector/financial-consultation-flat-editable-trendy-design_203633-1995.jpg?w=900",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "md:grid md:grid-cols-12 text-left py-4 md:px-10 flex flex-col items-center px-5"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-start-3 md:col-end-7  md:order-1 px-6 text-justify  order-2"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "md:col-start-7 md:col-end-11  md:order-2  col-span-12 order-1"
                         }
                     }
                 }
@@ -873,43 +795,85 @@
                     }
                 }
             },
-            "order": 24,
+            "order": 25,
             "lang": "en",
             "linked_domain_page_id": null
         },
         {
-            "id": 7526,
-            "component": "metatag",
-            "component_id": 75,
+            "id": 7495,
+            "component": "TextV2",
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "",
-                        "fontSize": ""
+                        "color": "bg-cover",
+                        "fontSize": "12px"
                     },
-                    "inlineCss": ""
+                    "inlineCss": "",
+                    "id": ""
                 },
                 "keyComponents": {
-                    "metadata": {
-                        "favicon": "/favicon.ico",
-                        "title": "Gaousik Tech Solution",
-                        "ogTitle": "Gaousik Tech Solution",
-                        "ogImage": "",
-                        "twitterCard": "Gaousik Tech Solution",
-                        "description": "Empowering Business Growth with Digital Transformation",
-                        "googleTrackCode": "G-XJXRCY0B4K"
-                    }
-                },
-                "wrapper": {
-                    "mainWrap": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-900 font-light underline",
+                            "fontSize": "12px"
+                        },
+                        "content": "Adding Massive Value to Your Business",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
                         "css": {
                             "color": ""
                         },
                         "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "At Gaousik, our focus is to maximize value for all stakeholders, including end-users. We understand the importance of time and energy, and strive to use them wisely in our work. By partnering with us, you not only get your tasks completed but also receive valuable insights and support to enhance your business. Our expertise and knowledge base will help identify opportunities for increased efficiency and growth. Working with Gaousik is a sure way to add value to your business or workflow.",
+                        "css": {
+                            "color": "text-slate-500 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://img.freepik.com/premium-vector/financial-consultation-flat-editable-trendy-design_203633-1995.jpg?w=900",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left py-4 md:px-10 flex flex-col items-center px-5"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-start-3 md:col-end-7  md:order-1 px-6 text-justify  order-2"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-start-7 md:col-end-11  md:order-2  col-span-12 order-1"
+                        }
                     }
                 }
             },
-            "order": 25,
+            "order": 26,
             "lang": "en",
             "linked_domain_page_id": null
         }
