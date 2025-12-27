@@ -1,0 +1,550 @@
+{
+    "data": [
+        {
+            "id": 8184,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover text-lg ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "md:text-3xl py-4 font-base text-3xl capitalize tracking-wide leading-10",
+                            "fontSize": "12px"
+                        },
+                        "content": "About Gaousik Tech Solution",
+                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}"
+                    },
+                    "description": {
+                        "content": "From building a strong digital presence to streamlining operations with the right technology, we turn ideas into scalable, real-world solutions. Our focus is on clarity, innovation, and measurable results—so your business doesn’t just adapt to change, but leads it.\nWith a strong commitment to innovation and customer success, we partner with you at every step of your digital transformation journey.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-slate-400 py-4 pb-10 text-justify font-light text-slate-800"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "Know More About Us",
+                        "link": "/about",
+                        "css": {
+                            "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "At Gaousik Tech Solution Pvt. Ltd., we help businesses design and implement practical digital transformation strategies that drive real growth.",
+                        "css": {
+                            "color": "text-slate-400 py-4 text-justify font-light text-slate-800 font-bold font-['outfit']"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://img.freepik.com/premium-vector/young-man-woman-communicating-office-flat-design-creative-working-process-modern-workflow-management-business-concept_171919-214.jpg",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left items-center py-16 "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6 md:col-start-2  md:order-1 px-14 col-span-12 order-1"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4  col-span-12 order-2"
+                        }
+                    }
+                }
+            },
+            "order": 7,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8190,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover text-lg ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-lg capitalize tracking-wide leading-10 text-green-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "About Our Story",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Our passionate team of designers and developers has been dedicated to creating innovative, user-focused solutions that elevate your brand and enhance digital experiences. With a blend of creativity and technical expertise, we craft tailor-made websites and applications that not only look stunning but also deliver seamless performance.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-slate-400 py-4 text-justify font-light text-slate-800 font-['outfit'] pb-8"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "Know More About Us",
+                        "link": "/about",
+                        "css": {
+                            "color": "bg-green-600 py-3 font-light px-6 rounded-full text-slate-100"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Crafting Excellence Since 2015",
+                        "css": {
+                            "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10"
+                        },
+                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://images.unsplash.com/photo-1522071820081-009f0129c71c",
+                        "link": "",
+                        "css": {
+                            "color": "rounded-2xl"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left items-center py-16 "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6   md:order-2 px-14 col-span-12 order-2"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4 md:col-start-2  md:order-1 col-span-12 order-1"
+                        }
+                    }
+                }
+            },
+            "order": 8,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8193,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover text-white bg-gradient-to-r from-purple-700 via-violet-900 to-purple-700",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-2xl py-2 "
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "4"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col items-center"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-2xl"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}",
+                        "css": {
+                            "color": "text-yellow-400"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-3 col-span-6  md:mx-5 mx-2 md:my-5 my-2"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5 text-white"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto text-center text-white"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "icon": "FaSortAmountUp",
+                        "heading": "10 + yrs ",
+                        "caption": "Years of Service"
+                    },
+                    {
+                        "heading": "5000 +",
+                        "caption": "Success Abroad Study",
+                        "icon": "FaUserGraduate"
+                    },
+                    {
+                        "heading": "15 +",
+                        "caption": "Agent Certifications",
+                        "icon": "FaCertificate"
+                    },
+                    {
+                        "heading": "200 +",
+                        "caption": "Partner Institutions",
+                        "icon": "FaRegHandshake"
+                    }
+                ]
+            },
+            "order": 9,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8192,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover text-lg ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-lg capitalize tracking-wide leading-10 text-green-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "The People Behind Success",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Our diverse team of talented professionals brings together years of experience in design,<div>development, and digital strategy.</div>",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-slate-400 pb-10 font-light text-slate-800 font-['outfit'] text-center"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "Join Our Team",
+                        "link": "/contact",
+                        "css": {
+                            "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Meet Our Creative Team",
+                        "css": {
+                            "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10"
+                        },
+                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://images.unsplash.com/photo-1522071820081-009f0129c71c",
+                        "link": "",
+                        "css": {
+                            "color": "rounded-lg "
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": " px-40 flex flex-col flex-col-reverse text-center items-center py-16 "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "order-2 pb-10"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "max-w-2xl py-10"
+                        }
+                    }
+                }
+            },
+            "order": 10,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8186,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "container m-auto px-5 md:px-20 py-10",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\": \"Nunito\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "flex text-[20px] font-[600] text-gray-500",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": " text-gray-500 font-[500] text-[14px] mb-4 text-left\n"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "3"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-12 col-span-12 mx-5 "
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col items-start"
+                        },
+                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\",  \"border\": \"1px solid #fff\"}"
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": " text-[18px] mbr-m-0 font-[700] py-1"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 col-span-12 mx-5 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left font-[400] text-[14px] text-gray-500"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:py-5 "
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-5 items-center m-auto"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": " rounded-lg md:col-span-3 w-60 aspect-square object-cover overflow-hidden"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Mr. Shakya Banda Bikesh",
+                        "parseHtml": "1",
+                        "image": "https://images.unsplash.com/photo-1722926323079-0836a07d2340",
+                        "caption": "Executive Director"
+                    },
+                    {
+                        "image": "https://images.unsplash.com/photo-1752486268300-1bb7d6d9867d",
+                        "heading": "Sachin Neupane",
+                        "parseHtml": "1",
+                        "caption": "Recruitment Coordinator"
+                    },
+                    {
+                        "image": "https://images.unsplash.com/photo-1722926323079-0836a07d2340",
+                        "heading": "Mr. Shakya Banda Bikesh",
+                        "caption": "Executive Director",
+                        "parseHtml": "1"
+                    }
+                ]
+            },
+            "order": 15,
+            "lang": "en",
+            "linked_domain_page_id": null
+        }
+    ]
+}
