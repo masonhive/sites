@@ -96,7 +96,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover text-lg ",
+                        "color": "bg-cover text-lg snap-start scroll-mt-20",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -174,7 +174,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover text-white bg-gradient-to-r from-purple-700 via-violet-900 to-purple-700\n",
+                        "color": "bg-cover text-white bg-gradient-to-r from-purple-700 via-violet-900 to-purple-700\nsnap-start scroll-mt-20",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -503,7 +503,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "",
+                        "color": "snap-start scroll-mt-20",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
