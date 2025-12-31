@@ -581,7 +581,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": " py-3 uppercase text-green-800 font-base text-base"
+                            "color": "text-2xl font-bold text-green-800"
                         }
                     },
                     "itemIconWrap": {
@@ -594,12 +594,12 @@
                     },
                     "itemCaptionWrap": {
                         "css": {
-                            "color": "align-left text-lg text-gray-800 "
+                            "color": "align-left text-lg text-gray-700 font-light text-left text-justify pt-5"
                         }
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "container m-auto px-20 text-center"
+                            "color": "container m-auto px-20 text-center py-10"
                         }
                     },
                     "itemContentWrap": {
@@ -610,9 +610,9 @@
                     },
                     "itemTitleWrap": {
                         "css": {
-                            "color": ""
+                            "color": " text-lg capitalize tracking-wide leading-10 text-amber-600"
                         },
-                        "inlineCss": "{\"padding\":\"5px\"}"
+                        "inlineCss": ""
                     },
                     "mainWrap": {
                         "css": {
@@ -621,7 +621,7 @@
                     },
                     "itemImageWrap": {
                         "css": {
-                            "color": "px-20"
+                            "color": "h-60 mb-10"
                         }
                     },
                     "itemButtonWrap": {
@@ -632,104 +632,29 @@
                 },
                 "itemList": [
                     {
-                        "heading": "start here",
+                        "heading": "Build Your flywheel.",
                         "parseHtml": "1",
-                        "image": "https://cdn.prod.website-files.com/64f0e86e8c296608dd69ee8b/664277947aeda3adf239a575_Lamp.webp",
-                        "caption": "<div class=\"text-2xl font-bold\"> Build Your flywheel.</div> <br> We define the right digital strategy and six core principles that align with your business goals.\nThis creates momentum and clarity before execution begins.\n"
+                        "image": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//nano_flywheel_1.png",
+                        "caption": "We define the right digital strategy and six core principles that align with your business goals. This creates momentum and clarity before execution begins.",
+                        "title": "start here"
                     },
                     {
-                        "image": "https://cdn.prod.website-files.com/64f0e86e8c296608dd69ee8b/664277947aeda3adf239a575_Lamp.webp",
-                        "heading": "then do this",
-                        "caption": "<div class=\"text-2xl font-bold text-amber-800\"> Execute Consistently</div> <br>We implement and optimize your six core principles across systems, processes, and channels.\nConsistency turns strategy into measurable results.\n",
-                        "parseHtml": "1"
+                        "image": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//nano_execute_1.png",
+                        "heading": "Execute Consistently",
+                        "parseHtml": "1",
+                        "title": "Then Do This",
+                        "caption": "We implement and optimize your six core principles across systems, processes, and channels. Consistency turns strategy into measurable results."
                     },
                     {
-                        "image": "https://cdn.prod.website-files.com/64f0e86e8c296608dd69ee8b/664277947aeda3adf239a575_Lamp.webp",
-                        "heading": "and experience this",
-                        "caption": "<div class=\"text-2xl font-bold\"> Take off. </div>\n<br> With your digital flywheel in motion, your business scales faster, operates smarter, and stays ahead of the competition.\nThis is where leadership in your niche begins.",
-                        "parseHtml": "1"
+                        "image": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//nano_takeoff_1.png",
+                        "heading": "Take off.",
+                        "parseHtml": "1",
+                        "title": "and experience this",
+                        "caption": "With your digital flywheel in motion, your business scales faster, operates smarter, and stays ahead of the competition. This is where leadership in your niche begins."
                     }
                 ]
             },
             "order": 12,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
-            "id": 8176,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-cover bg-center text-lg \n",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": " text-lg capitalize tracking-wide leading-10 text-green-800",
-                            "fontSize": "12px"
-                        },
-                        "content": "We have gift for you \" Happy New Year !!\"",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-slate-400 py-4 pb-10 text-justify font-light text-slate-800"
-                        },
-                        "parseHtml": "1"
-                    },
-                    "button": {
-                        "content": "Grab Your Opportunity to Excel Smooth",
-                        "link": "/about",
-                        "css": {
-                            "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "AND, YOUR NEW YEAR GIFT IS AWAITING......",
-                        "css": {
-                            "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10 pb-10"
-                        },
-                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}",
-                        "parseHtml": "1"
-                    },
-                    "image": {
-                        "content": "https://img.freepik.com/free-vector/new-year-happy-composition_1284-67183.jpg",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "grid grid-cols-12 text-left items-center "
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-span-6   md:order-2 px-14 col-span-12 order-2"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto py-10"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "md:col-span-4 md:col-start-2  md:order-1 col-span-12 order-1"
-                        }
-                    }
-                }
-            },
-            "order": 17,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -808,6 +733,84 @@
                 }
             },
             "order": 17,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8176,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover bg-center text-lg \n",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-lg capitalize tracking-wide leading-10 text-green-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "Wait!! We have gift for you \" Happy New Year !!\"",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-slate-400 py-4 pb-10 text-justify font-light text-slate-800"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "Grab Your Opportunity to Excel Smooth",
+                        "link": "/about",
+                        "css": {
+                            "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "AND, YOUR NEW YEAR GIFT IS AWAITING......",
+                        "css": {
+                            "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10 pb-10"
+                        },
+                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//special_offer.png",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left items-center "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6   md:order-2 px-14 col-span-12 order-2"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto py-10"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4 md:col-start-2  md:order-1 col-span-12 order-1"
+                        }
+                    }
+                }
+            },
+            "order": 18,
             "lang": "en",
             "linked_domain_page_id": null
         }
