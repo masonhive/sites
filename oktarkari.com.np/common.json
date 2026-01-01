@@ -7,7 +7,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-slate-100 text-slate-500 font-light text-xs",
+                        "color": "bg-slate-100 text-slate-500 font-light text-xs w-0 h-0 md:w-full md:h-fit",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Poppins\"}"
@@ -142,7 +142,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": " shadow-sm shadow-slate-200",
+                        "color": " shadow-sm shadow-slate-200 bg-white",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Poppins\"}"
@@ -281,7 +281,7 @@
                 },
                 "itemList": [
                     {
-                        "content": "Get Our Produces",
+                        "content": "Visit Us",
                         "link": "/meet-us",
                         "css": "bg-green-700\trounded-full px-4 py-1 text-white text-base"
                     }

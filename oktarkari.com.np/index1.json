@@ -39,7 +39,7 @@
                     "caption": {
                         "content": "From the smallest seed comes food, life, and civilization...",
                         "css": {
-                            "color": "text-6xl py-5 font-bold"
+                            "color": "md:text-6xl py-5 font-bold text-xl"
                         },
                         "inlineCss": "{\"fontFamily\": \"Outline\"}",
                         "parseHtml": ""
@@ -213,7 +213,7 @@
                     "itemInfo": {
                         "reverseDisplayOrder": "",
                         "activateSlider": "",
-                        "rowCounts": "6"
+                        "rowCounts": "2"
                     }
                 },
                 "wrapper": {
@@ -261,7 +261,7 @@
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "md:col-span-2 md:mx-3 "
+                            "color": "md:col-span-2 md:mx-3  col-span-6"
                         }
                     },
                     "itemCaptionWrap": {
@@ -368,7 +368,7 @@
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "col-span-6"
+                            "color": "md:col-span-6 col-span-12"
                         }
                     },
                     "contentWrap": {
@@ -434,7 +434,7 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "col-start-5 col-span-12 bg-slate-100 px-20 py-20"
+                            "color": "md:col-start-5 col-span-12 md:bg-slate-100 md:px-20 py-20  bg-slate-100/70 px-5"
                         }
                     },
                     "itemImageWrap": {
