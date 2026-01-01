@@ -15,7 +15,7 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-lg md:text-3xl py-2  font-['Hahmlet']",
+                            "color": "text-xl md:text-3xl py-2  font-['Hahmlet']",
                             "fontSize": "12px"
                         },
                         "content": " Is your business growing with digital tools—or falling behind?",
@@ -32,7 +32,7 @@
                         "content": "Schedule a Free Call",
                         "link": "/about",
                         "css": {
-                            "color": " text-base py-3 bg-green-600 text-slate-200  hover:bg-orange-400 hover:text-slate-100 rounded-full px-10  font-['outfit'] font-light"
+                            "color": " text-base py-3 bg-[#f7a706] text-slate-800  hover:bg-orange-400 hover:text-slate-100 rounded-full px-10  font-['outfit'] font-light"
                         },
                         "inlineCss": ""
                     },
@@ -138,14 +138,14 @@
                         "content": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//gts_logo_3.png",
                         "link": "",
                         "css": {
-                            "color": "px-20 md:px-0"
+                            "color": "px-32 md:px-0"
                         }
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "grid grid-cols-12 text-left items-center py-16"
+                            "color": "grid grid-cols-12 text-left items-center md:py-16 py-6"
                         }
                     },
                     "contentWrap": {
