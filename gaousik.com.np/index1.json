@@ -7,7 +7,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "text-white bg-slate-200 relative",
+                        "color": "text-white bg-slate-800 relative ",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -15,7 +15,7 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-3xl py-2",
+                            "color": "text-lg md:text-3xl py-2  font-['Hahmlet']",
                             "fontSize": "12px"
                         },
                         "content": " Is your business growing with digital tools—or falling behind?",
@@ -32,14 +32,14 @@
                         "content": "Schedule a Free Call",
                         "link": "/about",
                         "css": {
-                            "color": "md:text-xl text-md py-3 bg-green-600 text-slate-200  hover:bg-orange-400 hover:text-slate-100 rounded-full px-10  font-['lato']"
+                            "color": " text-base py-3 bg-green-600 text-slate-200  hover:bg-orange-400 hover:text-slate-100 rounded-full px-10  font-['outfit'] font-light"
                         },
                         "inlineCss": ""
                     },
                     "caption": {
                         "content": "To lead in today's market, your business needs a clear, impactful digital transformation strategy",
                         "css": {
-                            "color": "text-6xl py-5 font-bold pb-10"
+                            "color": "text-3xl md:text-6xl py-5 font-bold pb-10  font-['Playfair Display'] "
                         },
                         "inlineCss": "",
                         "parseHtml": ""
@@ -64,7 +64,7 @@
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "grid grid-cols-12 text-left px-40 container m-auto "
+                            "color": "grid grid-cols-12 text-left md:px-40 container m-auto  px-10"
                         },
                         "inlineCss": "{\"fontFamily\":\"Outline\"}"
                     },
@@ -75,7 +75,7 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "relative bg-slate-900/60"
+                            "color": "relative bg-slate-900/80"
                         }
                     },
                     "imageWrap": {
@@ -136,7 +136,10 @@
                     },
                     "image": {
                         "content": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//gts_logo_3.png",
-                        "link": ""
+                        "link": "",
+                        "css": {
+                            "color": "px-20 md:px-0"
+                        }
                     }
                 },
                 "wrapper": {
@@ -147,7 +150,7 @@
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-span-8 md:col-start-4  md:order-2 px-14 col-span-12 order-2"
+                            "color": "md:col-span-8 md:col-start-4  md:order-2 md:px-14 col-span-12 order-2 px-10"
                         }
                     },
                     "mainWrap": {
@@ -182,10 +185,10 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": " text-lg uppercase tracking-wide leading-10 text-yellow-400",
+                            "color": " py-10 text-lg uppercase tracking-wide leading-10 text-yellow-400",
                             "fontSize": "12px"
                         },
-                        "content": "We are happy to get support from GTS.",
+                        "content": "We are VERY happy to get support from GTS.",
                         "inlineCss": ""
                     },
                     "description": {
@@ -252,7 +255,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": " py-4 text-justify font-base  font-['lato'] text-2xl  "
+                            "color": " py-4 text-justify font-base  font-['lato'] md:text-2xl text-base"
                         }
                     },
                     "itemIconWrap": {
@@ -270,13 +273,13 @@
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "container m-auto px-20"
+                            "color": "container m-auto md:px-20 px-0"
                         }
                     },
                     "itemContentWrap": {
                         "inlineCss": "",
                         "css": {
-                            "color": "md:col-span-8 order-1 px-20 "
+                            "color": "md:col-span-8 order-1 md:px-20 px-5"
                         }
                     },
                     "itemTitleWrap": {
@@ -287,12 +290,12 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container py-10 items-center m-auto text-white text-center"
+                            "color": "container py-10 items-center m-auto text-white text-center px-5"
                         }
                     },
                     "itemImageWrap": {
                         "css": {
-                            "color": " rounded-lg md:col-span-3 order-2 w-60 aspect-square object-cover overflow-hidden"
+                            "color": " rounded-lg md:col-span-3 order-2 w-60 aspect-square object-cover overflow-hidden place-items-center justify-self-center"
                         }
                     }
                 },
@@ -301,20 +304,6 @@
                         "image": "https://images.unsplash.com/photo-1655745665650-6a58282a0cfa",
                         "caption": "Prabin Maharjan <br>  — Managing Director, SunLight Tailors",
                         "heading": "“Gaousik Tech Solution helped us clearly understand where our business stood digitally and how to move forward. Their digital transformation strategy gave us direction, confidence, and measurable improvements in our operations.”\n",
-                        "parseHtml": "1"
-                    },
-                    {
-                        "image": "https://images.unsplash.com/photo-1704190560103-5b8e437cb721",
-                        "heading": "“What stood out was their practical approach. Instead of overcomplicating things, they implemented digital solutions that actually worked for our business and improved efficiency within weeks.”\n",
-                        "caption": "Prabin Maharjan <br> — Operations Head, Logistics Company",
-                        "link": "/web-design",
-                        "parseHtml": "1"
-                    },
-                    {
-                        "image": "https://images.unsplash.com/photo-1655745665650-6a58282a0cfa",
-                        "heading": "“They didn’t just deliver a service—they became a technology partner for us. From strategy to execution, everything was clear, transparent, and result-driven.”\n",
-                        "caption": "Prabin Maharjan <br>- — Founder, Service-Based Business",
-                        "link": "/web-design",
                         "parseHtml": "1"
                     }
                 ]
@@ -355,7 +344,7 @@
                         "content": "Let’s discuss how digital transformation can work for your business.",
                         "link": "",
                         "css": {
-                            "color": "bg-green-700 py-4 font-light px-10 rounded-full text-slate-100 text-xl my-10"
+                            "color": "md:bg-green-700 py-4 font-light px-10 md:rounded-full text-slate-100 text-xl my-10"
                         }
                     },
                     "image": {
@@ -364,7 +353,7 @@
                     "caption": {
                         "content": "Digital Transformation Doesn’t Have to Be Complicated. We Make It Simple.",
                         "css": {
-                            "color": "text-4xl py-3 pb-10 text-slate-800 font-bold"
+                            "color": "text-2xl md:text-4xl py-3 pb-10 text-slate-800 font-bold"
                         }
                     },
                     "itemInfo": {
@@ -428,7 +417,7 @@
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "container m-auto px-20"
+                            "color": "container m-auto md:px-20  px-5"
                         }
                     },
                     "itemContentWrap": {
@@ -445,7 +434,7 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container md:m-auto py-20 pb-20"
+                            "color": "container md:m-auto py-20 pb-20 px-5"
                         },
                         "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
@@ -461,7 +450,7 @@
                     },
                     "buttonWrap": {
                         "css": {
-                            "color": "md:pt-10"
+                            "color": "md:pt-10 bg-green-800 py-2 rounded-lg md:bg-transparent "
                         }
                     }
                 },
@@ -521,11 +510,11 @@
                         "content": "We have crafted a meticulously designed pattern for the success pathway, guiding individuals through a clear, strategic route to achievement. ",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                            "color": "mbr-pt-1 font-light"
                         }
                     },
                     "button": {
-                        "content": "Ready to build your digital flywheel?",
+                        "content": "Ready to build your flywheel?",
                         "link": "",
                         "css": {
                             "color": "bg-green-700 py-4 font-light px-6 rounded-full text-slate-100"
@@ -589,7 +578,7 @@
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "md:col-span-4 md:mx-10 col-span-12"
+                            "color": "md:col-span-4 md:mx-10 col-span-12 pb-10 md:pb-0"
                         }
                     },
                     "itemCaptionWrap": {
@@ -599,7 +588,7 @@
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "container m-auto px-20 text-center py-10"
+                            "color": "container m-auto md:px-20 text-center py-10 px-5"
                         }
                     },
                     "itemContentWrap": {
@@ -610,7 +599,7 @@
                     },
                     "itemTitleWrap": {
                         "css": {
-                            "color": " text-lg capitalize tracking-wide leading-10 text-amber-600"
+                            "color": " underline text-lg capitalize tracking-wide leading-10 text-amber-600"
                         },
                         "inlineCss": ""
                     },
@@ -705,18 +694,21 @@
                     },
                     "image": {
                         "content": "https://images.unsplash.com/photo-1749253838304-dd2648e6f6d1",
-                        "link": ""
+                        "link": "",
+                        "css": {
+                            "color": "pt-10 md:pt-0"
+                        }
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "grid grid-cols-12 text-left items-center py-16  px-20"
+                            "color": "grid grid-cols-12 text-left items-center py-16  md:px-20 px-5"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-span-8   md:order-1 px-14 col-span-12 order-1"
+                            "color": "md:col-span-8   md:order-1 md:px-14 col-span-12 order-1 px-5"
                         }
                     },
                     "mainWrap": {
@@ -766,7 +758,7 @@
                         "parseHtml": "1"
                     },
                     "button": {
-                        "content": "Grab Your Opportunity to Excel Smooth",
+                        "content": "Grab Your Opportunity",
                         "link": "/about",
                         "css": {
                             "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
