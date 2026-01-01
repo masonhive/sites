@@ -148,8 +148,8 @@
                 "itemList": [
                     {
                         "content": "Let's Connect",
-                        "css": "bg-yellow-700\trounded-full px-10 py-2 text-white md:text-base text-sm",
-                        "link": "/meet-us"
+                        "css": "bg-yellow-700\trounded-full md:px-10 py-2 text-white md:text-base text-sm px-6",
+                        "link": "/contact-us"
                     }
                 ],
                 "common_component": "1"
