@@ -408,184 +408,6 @@
             "linked_domain_page_id": null
         },
         {
-            "id": 7490,
-            "component": "CardV2",
-            "component_id": 62,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "text-white bg-gradient-to-r from-green-800  to-green-900 ",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-lg pb-4 py-2 font-semibold font-light",
-                            "fontSize": "12px"
-                        },
-                        "content": "Gaousik Tech Solution Pvt. Ltd",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
-                        },
-                        "parseHtml": "1"
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "image": {
-                        "content": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//gts_logo_3.png",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemInfo": {
-                        "rowCounts": "2"
-                    },
-                    "caption": {
-                        "content": "<div class=\"py-2\">Lalitpur - 22, Chunikhel, Bungmati Nepal  </div>  <div class=\"pt-2\"> +977 - 981-336-4597&nbsp;</div>mailforgaousik@gmail.com",
-                        "parseHtml": "1"
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "md:col-span-6 text-left col-span-12 px-10"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "mbr-col-md-12 align-center text-base"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "w-28"
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "text-xl text-white pb-2"
-                        },
-                        "inlineCss": ""
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": "{\"fontSize\":\"30px\"}"
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "flex md:col-span-6 col-span-12 md:justify-center m-3 px-10 "
-                        },
-                        "inlineCss": ""
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto py-8 px-2 grid grid-cols-12"
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": "md:col-span-6  col-span-12"
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "flex flex-col text-base text-slate-300"
-                        }
-                    },
-                    "itemContentWrap": {
-                        "css": {
-                            "color": "text-left"
-                        }
-                    }
-                },
-                "itemList": [
-                    {
-                        "caption": "<a href=\"/\"><div class=\"py-2\"> Home </div></a>\n<a href=\"/\"><div class=\"py-2\">Services  </div></a>\n<a href=\"/\"><div class=\"py-2\">Products  </div></a>\n<a href=\"/\"><div class=\"py-2\"> Team </div></a>",
-                        "parseHtml": "1",
-                        "heading": "About Us"
-                    },
-                    {
-                        "heading": "Connect With Us",
-                        "caption": "<a class=\"py-3\"> <div class=\"rounded-full py-2 px-6 bg-orange-400  text-black flex justify-center items-center\">Let's Talk</div> </a>\n<a class=\"py-1\" href=\"https://www.youtube.com/channel/UCnlMoxxX7cA4Z0cy7JMPu1A\" target=\"_blank\">\n<div class=\"flex items-center\"><img class=\"w-8\" src=\"https://cdn-icons-png.flaticon.com/512/1384/1384060.png\"><span class=\"px-4\">Youtube&nbsp;</span></div>\n</a>\n\n<a class=\"py-1\" href=\"https://cdn-icons-png.flaticon.com/512/889/889102.png\" target=\"_blank\">\n<div class=\"flex items-center\"><img class=\"w-8\" src=\"https://cdn-icons-png.flaticon.com/512/889/889102.png\"><span class=\"px-4\">Facebook</span></div>\n</a>\n\n<a class=\"py-1\" href=\"https://cdn-icons-png.flaticon.com/512/889/889102.png\" target=\"_blank\">\n<div class=\"flex items-center\"><img class=\"w-8\" src=\"https://cdn-icons-png.flaticon.com/512/4138/4138130.png\"><span class=\"px-4\">LinkedIn</span></div>\n</a>",
-                        "parseHtml": "1"
-                    }
-                ],
-                "common_component": "1"
-            },
-            "order": 26,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
-            "id": 7526,
-            "component": "metatag",
-            "component_id": 75,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "",
-                        "fontSize": ""
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "metadata": {
-                        "favicon": "/favicon.ico",
-                        "title": "Gaousik Tech Solution",
-                        "ogTitle": "Gaousik Tech Solution",
-                        "ogImage": "",
-                        "twitterCard": "Gaousik Tech Solution",
-                        "description": "Empowering Business Growth with Digital Transformation",
-                        "googleTrackCode": "G-XJXRCY0B4K"
-                    },
-                    "layout": {
-                        "fontsToLoad": "Outfit:wght@100..900",
-                        "defaultFont": "Outfit"
-                    }
-                },
-                "wrapper": {
-                    "mainWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    }
-                },
-                "common_component": "1"
-            },
-            "order": 56,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
             "id": 7492,
             "component": "TextV2",
             "component_id": 72,
@@ -653,6 +475,47 @@
                         "css": {
                             "color": ""
                         }
+                    }
+                },
+                "common_component": "1"
+            },
+            "order": 26,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7526,
+            "component": "metatag",
+            "component_id": 75,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": ""
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "metadata": {
+                        "favicon": "/favicon.ico",
+                        "title": "Gaousik Tech Solution",
+                        "ogTitle": "Gaousik Tech Solution",
+                        "ogImage": "",
+                        "twitterCard": "Gaousik Tech Solution",
+                        "description": "Empowering Business Growth with Digital Transformation",
+                        "googleTrackCode": "G-XJXRCY0B4K"
+                    },
+                    "layout": {
+                        "fontsToLoad": "Outfit:wght@100..900",
+                        "defaultFont": "Outfit"
+                    }
+                },
+                "wrapper": {
+                    "mainWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
                     }
                 },
                 "common_component": "1"

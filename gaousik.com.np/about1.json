@@ -30,8 +30,8 @@
                         "parseHtml": "1"
                     },
                     "button": {
-                        "content": "Know More About Us",
-                        "link": "/about",
+                        "content": "",
+                        "link": "",
                         "css": {
                             "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
                         },
@@ -108,10 +108,10 @@
                         "parseHtml": "1"
                     },
                     "button": {
-                        "content": "Know More About Us",
-                        "link": "/about",
+                        "content": "",
+                        "link": "",
                         "css": {
-                            "color": "bg-green-600 py-3 font-light px-6 rounded-full text-slate-100"
+                            "color": ""
                         },
                         "inlineCss": ""
                     },
@@ -166,10 +166,10 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover text-white bg-gradient-to-r from-purple-700 via-violet-900 to-purple-700",
+                        "color": "bg-cover text-lg bg-cover  bg-gradient-to-b from-white to-pink-100 snap-start scroll-mt-28",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "heading": {
@@ -206,7 +206,7 @@
                     "itemInfo": {
                         "reverseDisplayOrder": "",
                         "activateSlider": "",
-                        "rowCounts": "4"
+                        "rowCounts": "3"
                     }
                 },
                 "wrapper": {
@@ -249,12 +249,12 @@
                     "itemIconWrap": {
                         "inlineCss": "{\"fontSize\":\"50px\"}",
                         "css": {
-                            "color": "text-yellow-400"
+                            "color": "text-green-800 "
                         }
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "md:col-span-3 col-span-6  md:mx-5 mx-2 md:my-5 my-2"
+                            "color": "md:col-span-4 col-span-6  md:mx-5 mx-2 md:my-5 my-2"
                         }
                     },
                     "itemCaptionWrap": {
@@ -264,7 +264,7 @@
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "container m-auto md:px-20 px-5 text-white"
+                            "color": "container m-auto md:px-20 px-5 "
                         }
                     },
                     "itemContentWrap": {
@@ -281,7 +281,7 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container py-10 items-center m-auto text-center text-white"
+                            "color": "container py-10 items-center m-auto text-center"
                         }
                     }
                 },
@@ -289,21 +289,16 @@
                     {
                         "icon": "FaSortAmountUp",
                         "heading": "10 + yrs ",
-                        "caption": "Years of Service"
+                        "caption": "Years of Experience"
                     },
                     {
-                        "heading": "5000 +",
-                        "caption": "Success Abroad Study",
+                        "heading": "10 +",
+                        "caption": "Tech Stack ",
                         "icon": "FaUserGraduate"
                     },
                     {
-                        "heading": "15 +",
-                        "caption": "Agent Certifications",
-                        "icon": "FaCertificate"
-                    },
-                    {
-                        "heading": "200 +",
-                        "caption": "Partner Institutions",
+                        "heading": "100 +",
+                        "caption": "Partnership Projects",
                         "icon": "FaRegHandshake"
                     }
                 ]
