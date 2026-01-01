@@ -1,13 +1,13 @@
 {
     "data": [
         {
-            "id": 7499,
+            "id": 7547,
             "component": "TextV2",
             "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover text-lg ",
+                        "color": "text-white bg-slate-800 relative ",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -15,138 +15,153 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "md:text-4xl py-2 font-light text-2xl",
+                            "color": "text-xl md:text-3xl py-2  font-['Hahmlet']",
                             "fontSize": "12px"
                         },
-                        "content": "Empowering Business Growth with Digital Transformation",
-                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}"
+                        "content": " Is your business growing with digital tools—or falling behind?",
+                        "inlineCss": ""
                     },
                     "description": {
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": ""
+                            "color": "text-2xl pt-4 pb-12"
                         }
                     },
                     "button": {
-                        "content": "Know More About Us",
+                        "content": "Schedule a Free Call",
                         "link": "/about",
                         "css": {
-                            "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
+                            "color": " text-base py-3 bg-[#f7a706] text-slate-900  hover:bg-orange-400 hover:text-slate-100 rounded-full px-10  font-['outfit'] font-light"
                         },
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "We, Gaousik Tech Solution Pvt. Ltd , believe in harnessing the power of technology to make your visions a tangible reality. As a tech startup, we specialize in bringing digital transformation to businesses of all sizes. Our team of experts leverages the latest Artificial Intelligence (AI) technology to streamline business processes, making them more efficient and effective. From website creation to core business services, we're dedicated to helping businesses grow and succeed. With our focus on innovation and customer satisfaction, we're  poised to lead the way in digital transformation.",
+                        "content": "To lead in today's market, your business needs a clear, impactful digital transformation strategy",
                         "css": {
-                            "color": "text-slate-400 py-6 text-justify font-light text-slate-800"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": "1"
-                    },
-                    "image": {
-                        "content": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//business-strategy-analytics.avif",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "grid grid-cols-12 text-left items-center pt-20 pb-10"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-span-5 md:col-start-2  md:order-1 px-6 col-span-12 order-2"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "md:col-span-4  md:order-2 col-span-12 order-1"
-                        }
-                    }
-                }
-            },
-            "order": 7,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
-            "id": 7503,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "text-center text-white bg-gradient-to-b from-slate-50/50  to-pink-50 ",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-4xl py-2 font-light",
-                            "fontSize": "12px"
-                        },
-                        "content": "Don't You Want 10x  Growth ? ",
-                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}"
-                    },
-                    "description": {
-                        "content": "We empower business growth with simplified technology solutions designed to meet your unique needs. Whether you need a new website, a mobile app, a comprehensive system, or a robust web portal, we have the expertise to deliver. Our approach focuses on providing the best and most streamlined technology, ensuring that your business can thrive and reach new heights in the digital landscape. Explore our solutions today and see how we can transform your business with cutting-edge technology.",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "py-4 text-slate-800  text-lg  font-light leading-8 pb-10"
-                        },
-                        "parseHtml": "1"
-                    },
-                    "button": {
-                        "content": "Let's Begin the Journey",
-                        "link": "/contact",
-                        "css": {
-                            "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100 text-lg"
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "Why not , We are here to empower your business growth",
-                        "css": {
-                            "color": "text-slate-800 font-light py-6 text-2xl"
+                            "color": "text-3xl md:text-6xl py-5 font-bold pb-10  font-['Playfair Display'] "
                         },
                         "inlineCss": "",
                         "parseHtml": ""
                     },
                     "image": {
                         "content": "",
-                        "link": ""
+                        "link": "",
+                        "css": {
+                            "color": "absolute h-[70vh] md:h-[80vh]  w-full overflow-hidden"
+                        }
+                    },
+                    "video": {
+                        "link": "https://www.youtube.com/embed/L5nUuZm1wdI",
+                        "imageLink": "",
+                        "banner": "1",
+                        "css": {
+                            "color": "absolute md:h-[56.25vw] h-[70vh]  md:w-[100vw]  w-[177.78vh] top-[50%] left-[50%] translate-x-2/4 translate-y-2/4 "
+                        },
+                        "inlineCss": "{\"transform\": \"translate(-50%, -50%)\"}"
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "grid grid-cols-12  items-center"
-                        }
+                            "color": "grid grid-cols-12 text-left md:px-40 container m-auto  px-10"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outline\"}"
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-span-8 md:col-start-3  md:order-1 px-6 col-span-12"
+                            "color": "col-span-12 m-auto  h-[70vh] md:h-[80vh] flex align-center justify-center flex-col"
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container py-6 pb-10 items-center m-auto md:px-0 px-5"
+                            "color": "relative bg-slate-900/80"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 9,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7534,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover text-lg snap-start scroll-mt-20",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10",
+                            "fontSize": "12px"
+                        },
+                        "content": "Empowering Business Growth Through Digital Transformation",
+                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}"
+                    },
+                    "description": {
+                        "content": "From building a strong digital presence to streamlining operations with the right technology, we turn ideas into scalable, real-world solutions. Our focus is on clarity, innovation, and measurable results—so your business doesn’t just adapt to change, but leads it.\nWith a strong commitment to innovation and customer success, we partner with you at every step of your digital transformation journey.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-slate-400 py-4 pb-10 text-justify font-light text-slate-800"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "Know More About Us",
+                        "link": "/about",
+                        "css": {
+                            "color": "bg-green-700 py-4 font-light px-6 rounded-full text-slate-100"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "At Gaousik Tech Solution Pvt. Ltd., we help businesses design and implement practical digital transformation strategies that drive real growth.",
+                        "css": {
+                            "color": "text-slate-400 py-4 text-justify font-light text-slate-800 font-bold font-['outfit']"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//gts_logo_3.png",
+                        "link": "",
+                        "css": {
+                            "color": "px-32 md:px-0"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left items-center md:py-16 py-6"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-8 md:col-start-4  md:order-2 md:px-14 col-span-12 order-2 px-10"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto pb-10"
                         },
                         "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
                     "imageWrap": {
                         "css": {
-                            "color": ""
+                            "color": "md:col-span-2 md:col-start-2  md:order-1 col-span-12 order-1"
                         }
                     }
                 }
@@ -156,13 +171,13 @@
             "linked_domain_page_id": null
         },
         {
-            "id": 7502,
+            "id": 8175,
             "component": "CardV2",
             "component_id": 62,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "text-center text-white bg-cover bg-[url(\"https://img.freepik.com/free-vector/starting-career-concept-illustration_114360-16994.jpg?t=st=1721389453~exp=1721393053~hmac=575c16c4f375cd0508a3613a3a452fbf8f0340d59ea6c953e72e58ff5d14fd6a&w=1800\")] bg-blend-multiply\t",
+                        "color": "bg-cover text-white bg-gradient-to-r from-purple-700 via-violet-700 to-purple-700\nsnap-start scroll-mt-32",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -170,176 +185,17 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-3xl py-2 text-slate-900",
+                            "color": " py-10 text-lg uppercase tracking-wide leading-10 text-yellow-400",
                             "fontSize": "12px"
                         },
-                        "content": "You Are Just Simple 3 Steps Away...",
-                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}"
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "parseHtml": ""
-                    },
-                    "button": {
-                        "content": "Contact for Consultation ",
-                        "link": "/contact-us",
-                        "css": {
-                            "color": "bg-green-700\trounded-full px-5 py-3 text-white mt-10"
-                        }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "caption": {
-                        "content": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemInfo": {
-                        "reverseDisplayOrder": "",
-                        "activateSlider": "",
-                        "rowCounts": "3"
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "grid-cols-5 grid"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-span-3 md:col-start-2 col-span-12"
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": "flex flex-col py-5  rounded-lg mt-10 shadow-lg bg-pink-500/95"
-                        },
-                        "inlineCss": ""
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "text-xl  text-slate-50 pb-4 text-center underline"
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": "{\"fontSize\":\"50px\"}"
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "md:col-span-4 md:mx-10 col-span-12 flex items-end pb-10 text-white "
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "css": {
-                            "color": "align-left text-white font-light"
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": "container m-auto px-20"
-                        }
-                    },
-                    "itemContentWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-center md:p-5  text-justify px-4 "
-                        }
-                    },
-                    "itemTitleWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "py-20 items-center m-auto md:px-0 bg-slate-100/80"
-                        }
-                    },
-                    "itemImageWrap": {
-                        "css": {
-                            "color": "px-6"
-                        }
-                    },
-                    "itemButtonWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    }
-                },
-                "itemList": [
-                    {
-                        "heading": "Contact for Consultation",
-                        "parseHtml": "1",
-                        "caption": "React to one of our expert consultants and schedule a meet. We would like to know your vision better.",
-                        "title": "Step 1."
-                    },
-                    {
-                        "heading": "Frame your Vision",
-                        "caption": "Explore your ideas, needs, vision and mission, we will design what is required. We will validate with your expectations and provide you better ideas and process which will add massive value to your business. ",
-                        "parseHtml": "1",
-                        "title": "Step 2."
-                    },
-                    {
-                        "heading": "Implement with Ease",
-                        "caption": "Implementation is much more easier than you expect. We will help you to align with the product.Faster adaptation to the technology always benefits for productivity. We will make implementation a easy and fun procedure. And you are ready for mulitiple times of GROWTH.",
-                        "parseHtml": "1",
-                        "title": "Step 3."
-                    }
-                ]
-            },
-            "order": 12,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
-            "id": 7504,
-            "component": "CardV2",
-            "component_id": 62,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "text-center bg-indigo-950",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"fontFamily\":\"Outfit\", \"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "",
-                            "fontSize": "12px"
-                        },
-                        "content": "",
+                        "content": "We are VERY happy to get support from GTS.",
                         "inlineCss": ""
                     },
                     "description": {
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                            "color": "text-2xl py-2 pb-8  text-amber-500"
                         }
                     },
                     "button": {
@@ -353,15 +209,15 @@
                         "content": ""
                     },
                     "caption": {
-                        "content": "Our Services",
+                        "content": "",
                         "css": {
-                            "color": "text-2xl py-2 "
+                            "color": "text-lg py-5 text-slate-800"
                         }
                     },
                     "itemInfo": {
                         "reverseDisplayOrder": "",
-                        "activateSlider": "",
-                        "rowCounts": "3",
+                        "activateSlider": "1",
+                        "rowCounts": "1",
                         "autoPlay": ""
                     }
                 },
@@ -388,7 +244,7 @@
                     },
                     "itemSectionWrap": {
                         "css": {
-                            "color": "flex flex-col bg-white text-black rounded-lg text-sm md: m-0 my-5 p-4"
+                            "color": "md:grid md:grid-cols-12 text-left items-center"
                         },
                         "inlineCss": ""
                     },
@@ -399,7 +255,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                            "color": " py-4 text-justify font-base  font-['lato'] md:text-2xl text-base"
                         }
                     },
                     "itemIconWrap": {
@@ -407,17 +263,161 @@
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": " bg-white md:col-span-4 col-span-12  md:mx-2 mx-2 md:my-2 my-2 rounded-lg"
+                            "color": " md:col-span-12 col-span-12  md:mx-2 mx-2 md:my-2 my-2 rounded-lg"
                         }
                     },
                     "itemCaptionWrap": {
                         "css": {
-                            "color": "align-left"
+                            "color": " py-4 text-justify  font-base font-['lato'] text-lg text-yellow-400"
                         }
                     },
                     "itemContainerWrap": {
                         "css": {
-                            "color": "container m-auto md:px-20 px-5"
+                            "color": "container m-auto md:px-20 px-0"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "md:col-span-8 order-1 md:px-20 px-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": "text-lg "
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto text-white text-center px-5"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": " rounded-lg md:col-span-3 order-2 w-60 aspect-square object-cover overflow-hidden place-items-center justify-self-center"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.gaousik.com.np/prabain.jpg",
+                        "caption": "Prabin Maharjan <br>  — Managing Director, SunLight Tailors",
+                        "heading": "“Gaousik Tech Solution helped us clearly understand where our business stood digitally and how to move forward. Their digital transformation strategy gave us direction, confidence, and measurable improvements in our operations.”\n",
+                        "parseHtml": "1"
+                    }
+                ]
+            },
+            "order": 11,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7536,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-cover  bg-gradient-to-b from-white to-pink-100 snap-start scroll-mt-28",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-lg capitalize tracking-wide leading-10 text-amber-600",
+                            "fontSize": "12px"
+                        },
+                        "content": "We craft simplicity for you",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "Let’s discuss how digital transformation can work for your business.",
+                        "link": "",
+                        "css": {
+                            "color": "md:bg-green-700 py-4 font-light px-10 md:rounded-full text-slate-100 text-xl my-10"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Digital Transformation Doesn’t Have to Be Complicated. We Make It Simple.",
+                        "css": {
+                            "color": "text-2xl md:text-4xl py-3 pb-10 text-slate-800 font-bold"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "2"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid-cols-12 grid  md:px-40 "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-10 md:col-start-2 col-span-12"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-justify font-light text-slate-800 text-lg pb-6"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-2xl  pr-3 text-yellow-600"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-6  md:px-20 col-span-12"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20  px-5"
                         }
                     },
                     "itemContentWrap": {
@@ -428,308 +428,233 @@
                     },
                     "itemTitleWrap": {
                         "css": {
-                            "color": "text-base"
+                            "color": ""
                         },
                         "inlineCss": ""
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container py-10 items-center m-auto text-white"
-                        }
+                            "color": "container md:m-auto py-20 pb-20 px-5"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
                     "itemImageWrap": {
                         "css": {
-                            "color": "bg-white flex items-center p-4  min-h-30"
+                            "color": "px-6"
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": "pb-10"
+                        }
+                    },
+                    "buttonWrap": {
+                        "css": {
+                            "color": "md:pt-10 bg-green-800 py-2 rounded-lg md:bg-transparent "
                         }
                     }
                 },
                 "itemList": [
                     {
-                        "image": "https://img.freepik.com/free-vector/setup-concept-illustration_114360-5023.jpg?t=st=1721388897~exp=1721392497~hmac=0a43ca5ccbf8ba2c32b064e7871f5f09c271f935feb7fa75afc40b71cc488a37&w=1800",
-                        "title": "Website Design & Development",
-                        "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
-                        "link": "/web-design"
+                        "heading": "Are you looking to improve your business efficiency?",
+                        "icon": "FaCheckCircle"
                     },
                     {
-                        "image": "https://img.freepik.com/premium-vector/computer-monitor-sits-collection-different-electronic-devices-modern-workspace-install-concept-software-simple-minimalist-flat-vector-illustration_538213-51919.jpg?w=1800",
-                        "title": "Information Management System",
-                        "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
-                        "link": "/web-design"
+                        "heading": "Do you want to stay ahead of your competitors?",
+                        "icon": "FaCheckCircle"
                     },
                     {
-                        "image": "https://img.freepik.com/premium-vector/ecommerce-transaction-flat-illustration_681626-30.jpg?w=1480",
-                        "title": "Mobile App Design & Development",
-                        "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
-                        "link": "/web-design"
+                        "heading": "Would you like to reach more potential customers online?",
+                        "icon": "FaCheckCircle"
                     },
                     {
-                        "image": "https://img.freepik.com/free-vector/marketing-promo-clipart-illustrated_52683-74351.jpg?t=st=1721389058~exp=1721392658~hmac=1451ccaab62a03ed22a5572bf5f6ffd7248935b648da624852acced65a12af00&w=1060",
-                        "title": "Digital Marketing & Social Media Marketing",
-                        "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
-                        "link": "/web-design"
+                        "heading": "Are you interested in increasing your revenue through digital channels?",
+                        "icon": "FaCheckCircle"
                     },
                     {
-                        "image": "https://img.freepik.com/free-vector/brand-concept-marketing-strategy-unique-design-company-product-brand-recognition-identity-building-isolated-flat-vector-illustration_613284-1082.jpg?t=st=1721389114~exp=1721392714~hmac=1cf0568a563f54d1705d21a63582804e3e84c955a82f55ab6064b958128bd733&w=1800",
-                        "title": "Branding and Graphic Designs",
-                        "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
-                        "link": "/web-design"
+                        "heading": "Do you value enhancing your customer’s experience?",
+                        "icon": "FaCheckCircle"
                     },
                     {
-                        "image": "https://img.freepik.com/premium-vector/girl-doing-online-shopping-by-smartphone_701961-2321.jpg?w=1800",
-                        "title": "E-commerce And Accounting Software",
-                        "caption": "We provide contents your ideas and needs and vision and missions, we will design and develop what is required. Explore your ideas and needs and vision and missions, we will design and develop what is required.",
-                        "link": "/web-design"
+                        "heading": "Is streamlining your operations important to you?",
+                        "icon": "FaCheckCircle"
                     }
                 ]
             },
-            "order": 14,
+            "order": 12,
             "lang": "en",
             "linked_domain_page_id": null
         },
         {
-            "id": 7498,
-            "component": "TextV2",
-            "component_id": 72,
+            "id": 7537,
+            "component": "CardV2",
+            "component_id": 62,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-gradient-to-b from-slate-50/50  to-pink-50 ",
+                        "color": "snap-start scroll-mt-20",
                         "fontSize": "12px"
                     },
-                    "inlineCss": ""
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-2xl py-2 text-center font-light",
+                            "color": " text-lg capitalize tracking-wide leading-10 text-green-800",
                             "fontSize": "12px"
                         },
-                        "content": "Empowering Business Growth with Digital Transformation And Automation",
+                        "content": "Now Its your Turn",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "We have crafted a meticulously designed pattern for the success pathway, guiding individuals through a clear, strategic route to achievement. ",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "mbr-pt-1 font-light"
+                        }
+                    },
+                    "button": {
+                        "content": "Ready to build your flywheel?",
+                        "link": "",
+                        "css": {
+                            "color": "bg-green-700 py-4 font-light px-6 rounded-full text-slate-100"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Become a Leader in Your Business Niche\n\n",
+                        "css": {
+                            "color": "text-4xl py-4 pt-4 text-slate-800 font-bold text-center"
+                        },
                         "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}"
                     },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "",
-                        "css": {
-                            "color": "text-slate-400 font-light"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//gts.png",
-                        "link": "",
-                        "css": {
-                            "color": "w-40 center "
-                        }
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "3"
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "grid grid-cols-12 text-left py-4 px-5 justify-center items-center"
+                            "color": "grid-cols-5 grid "
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-span-12  order-2 px-6 col-span-12"
+                            "color": "md:col-span-3 md:col-start-2 col-span-12"
                         }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto pt-10"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-span-12 order-1 flex justify-center items-center col-span-12"
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col "
+                        },
+                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\", \"margin\":\"20px 0px\", \"border\": \"1px solid #fff\"}"
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-2xl font-bold text-green-800"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 md:mx-10 col-span-12 pb-10 md:pb-0"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left text-lg text-gray-700 font-light text-left text-justify pt-5"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 text-center py-10 px-5"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-center md:p-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": " underline text-lg capitalize tracking-wide leading-10 text-amber-600"
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-20 items-center m-auto md:px-0 px-5 pb-20 text-lg text-center "
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "h-60 mb-10"
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": ""
                         }
                     }
-                }
+                },
+                "itemList": [
+                    {
+                        "heading": "Build Your flywheel.",
+                        "parseHtml": "1",
+                        "image": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//nano_flywheel_1.png",
+                        "caption": "We define the right digital strategy and six core principles that align with your business goals. This creates momentum and clarity before execution begins.",
+                        "title": "start here"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//nano_execute_1.png",
+                        "heading": "Execute Consistently",
+                        "parseHtml": "1",
+                        "title": "Then Do This",
+                        "caption": "We implement and optimize your six core principles across systems, processes, and channels. Consistency turns strategy into measurable results."
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//nano_takeoff_1.png",
+                        "heading": "Take off.",
+                        "parseHtml": "1",
+                        "title": "and experience this",
+                        "caption": "With your digital flywheel in motion, your business scales faster, operates smarter, and stays ahead of the competition. This is where leadership in your niche begins."
+                    }
+                ]
             },
-            "order": 19,
+            "order": 12,
             "lang": "en",
             "linked_domain_page_id": null
         },
         {
-            "id": 7496,
+            "id": 8177,
             "component": "TextV2",
             "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover bg-gradient-to-b from-pink-50  to-slate-50/50",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "",
-                    "id": "why-study-in-australia"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2 text-slate-900 font-light underline",
-                            "fontSize": "12px"
-                        },
-                        "content": "One-Stop-Digital-Solution ",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "We provide comprehensive digital services under one roof to help your organization thrive in the digital age. From consulting to execution, maintenance, and innovation, we have you covered. Partner with us and let us help you build on your core values and accelerate your success.",
-                        "css": {
-                            "color": "text-slate-500 font-light"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "https://mail.triponepa.com/uploads/admin.gaousik.com.np/business-strategy-analytics.avif",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "md:grid md:grid-cols-12 text-left py-4 px-5 flex flex-col  items-center"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-start-7 md:col-end-11  order-2 px-6 text-justify"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "md:col-start-4 md:col-end-7  order-1"
-                        }
-                    }
-                }
-            },
-            "order": 20,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
-            "id": 7497,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-cover",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "",
-                    "id": "why-study-in-australia"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2 text-slate-900 font-light underline",
-                            "fontSize": "12px"
-                        },
-                        "content": "Creative All-in-One Solution",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "Gaousik offers comprehensive solutions for digital transformation including web design, mobile app development, digital marketing, platform and SaaS offerings, and managed services with seamless integration. Our goal is to provide out-of-the-box solutions and create value for our partners and clients by delivering an end-to-end process that results in win-win situations",
-                        "css": {
-                            "color": "text-slate-500 font-light"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "https://img.freepik.com/free-vector/corporate-meeting-employees-cartoon-characters-discussing-business-strategy-planning-further-actions-brainstorming-formal-communication-seminar-concept-illustration_335657-2035.jpg?w=740&t=st=1673541186~exp=1673541786~hmac=784a6cae577f0e8a91b7d114b5ca128416ec26c71034d97dd944b7947d0a3d5c",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "md:grid md:grid-cols-12 text-left py-4 px-5 flex flex-col"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-start-3 md:col-end-7  order-1 px-6 text-justify"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "md:col-start-7 md:col-end-10  md:order-2"
-                        }
-                    }
-                }
-            },
-            "order": 24,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
-            "id": 7493,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-cover",
+                        "color": "bg-cover text-lg bg-gradient-to-b from-orange-100 to-yellow-50 snap-start scroll-mt-28",
                         "fontSize": "12px"
                     },
                     "inlineCss": ""
@@ -737,49 +662,53 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-2xl py-2 text-slate-900 font-light underline",
+                            "color": " text-lg capitalize tracking-wide leading-10 text-green-800",
                             "fontSize": "12px"
                         },
-                        "content": "Seamless Integrations",
+                        "content": "Meet your Guide",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "",
+                        "content": "Growth isn’t about luck.\nIt’s about following the right path—consistently, with the right support.\n<br>\nThe approach you see here—Build the Flywheel, Execute Consistently, Take Off—is proven. Many businesses started uncertain, followed the process, stayed consistent, and won.\n<br><br>\nYou can win too—because you’re not doing this alone.\n<br><br>\nAt GTS, we stand with you. We guide you with proven tools, simplify complexity, focus on what works, and support you until momentum takes over.\n<br><br>\nCommit to the path.\nWe’ll help you win.<div><br></div><div>Mr. Shakya Banda Bikesh</div><div>CE0/ CTO&nbsp; -GTS</div>",
                         "inlineCss": "",
                         "css": {
-                            "color": ""
-                        }
+                            "color": "text-amber-900 py-4 pb-10 text-justify font-light text-slate-800"
+                        },
+                        "parseHtml": "1"
                     },
                     "button": {
-                        "content": "",
-                        "link": "",
+                        "content": "Let’s Build Your Flywheel",
+                        "link": "/about",
                         "css": {
-                            "color": ""
+                            "color": "bg-green-800 py-3 font-light px-6 rounded-full text-slate-100"
                         },
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Seamless integration is crucial for the success of any business. Attracting potential customers through multiple channels and converting them into loyal ones is crucial for business sustainability. These tasks are often handled by different services, tools, and channels, but effective integration is important for efficiency. We focus on delivering value as we help with seamless integration",
+                        "content": "Have Converted Businesses from Guessing to Converting",
                         "css": {
-                            "color": "text-slate-500 font-light"
+                            "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10 text-orange-600"
                         },
                         "inlineCss": "",
-                        "parseHtml": ""
+                        "parseHtml": "1"
                     },
                     "image": {
-                        "content": "https://img.freepik.com/free-vector/business-intelligence-abstract-illustration-flat-style_335657-4554.jpg?t=st=1673541857~exp=1673542457~hmac=16104077279d702cbd05e46c74fff996ffceba780bf1bc80ad14c63b1aec5e7f",
-                        "link": ""
+                        "content": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//me_bikesh.png",
+                        "link": "",
+                        "css": {
+                            "color": "pt-10 md:pt-0"
+                        }
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "grid grid-cols-12 text-left py-4 md:px-10 items-center px-5"
+                            "color": "grid grid-cols-12 text-left items-center py-16  md:px-20 px-5"
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-start-7 md:col-span-4 order-2 px-6 text-justify col-span-12"
+                            "color": "md:col-span-8   md:order-1 md:px-14 col-span-12 order-1 px-5"
                         }
                     },
                     "mainWrap": {
@@ -790,90 +719,90 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-start-3 md:col-end-7 order-1 col-span-12 "
+                            "color": "md:col-span-4  col-span-12 order-2"
                         }
                     }
                 }
             },
-            "order": 25,
+            "order": 17,
             "lang": "en",
             "linked_domain_page_id": null
         },
         {
-            "id": 7495,
+            "id": 8176,
             "component": "TextV2",
             "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover",
+                        "color": "bg-cover bg-center text-lg \n",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "",
-                    "id": ""
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-2xl py-2 text-slate-900 font-light underline",
+                            "color": " text-lg capitalize tracking-wide leading-10 text-green-800",
                             "fontSize": "12px"
                         },
-                        "content": "Adding Massive Value to Your Business",
+                        "content": "Wait!! We have gift for you \" Happy New Year !!\"",
                         "inlineCss": ""
                     },
                     "description": {
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": ""
-                        }
+                            "color": "text-slate-400 py-4 pb-10 text-justify font-light text-slate-800"
+                        },
+                        "parseHtml": "1"
                     },
                     "button": {
-                        "content": "",
-                        "link": "",
+                        "content": "Grab Your Opportunity",
+                        "link": "/about",
                         "css": {
-                            "color": ""
+                            "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
                         },
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "At Gaousik, our focus is to maximize value for all stakeholders, including end-users. We understand the importance of time and energy, and strive to use them wisely in our work. By partnering with us, you not only get your tasks completed but also receive valuable insights and support to enhance your business. Our expertise and knowledge base will help identify opportunities for increased efficiency and growth. Working with Gaousik is a sure way to add value to your business or workflow.",
+                        "content": "AND, YOUR NEW YEAR GIFT IS AWAITING......",
                         "css": {
-                            "color": "text-slate-500 font-light"
+                            "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10 pb-10"
                         },
-                        "inlineCss": "",
-                        "parseHtml": ""
+                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}",
+                        "parseHtml": "1"
                     },
                     "image": {
-                        "content": "https://img.freepik.com/premium-vector/financial-consultation-flat-editable-trendy-design_203633-1995.jpg?w=900",
+                        "content": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//special_offer.png",
                         "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "md:grid md:grid-cols-12 text-left py-4 md:px-10 flex flex-col items-center px-5"
+                            "color": "grid grid-cols-12 text-left items-center "
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-start-3 md:col-end-7  md:order-1 px-6 text-justify  order-2"
+                            "color": "md:col-span-6   md:order-2 px-14 col-span-12 order-2"
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container m-auto"
+                            "color": "container m-auto py-10"
                         },
                         "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-start-7 md:col-end-11  md:order-2  col-span-12 order-1"
+                            "color": "md:col-span-4 md:col-start-2  md:order-1 col-span-12 order-1"
                         }
                     }
                 }
             },
-            "order": 26,
+            "order": 18,
             "lang": "en",
             "linked_domain_page_id": null
         }
