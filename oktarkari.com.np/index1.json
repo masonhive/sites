@@ -29,15 +29,15 @@
                         }
                     },
                     "button": {
-                        "content": "Become a StoryBrand Certified Guide",
+                        "content": "Contact Us",
                         "link": "/about",
                         "css": {
-                            "color": "md:text-xl text-md p-4 bg-emerald-600 text-slate-200 rounded-lg hover:bg-sky-700 hover:text-slate-100 "
+                            "color": "md:text-xl  bg-green-600 text-slate-200 rounded-full hover:bg-amber-400 hover:text-green-600 uppercase  px-8 py-2"
                         },
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Launch a StoryBrand Sales Funnel",
+                        "content": "The Hearth of the farm is the true center of our universe.",
                         "css": {
                             "color": "text-6xl py-5 font-bold"
                         },
@@ -56,7 +56,7 @@
                         "imageLink": "",
                         "banner": "1",
                         "css": {
-                            "color": "absolute md:h-[56.25vw] h-[70vh]  md:w-[100vw]  w-[177.78vh] top-[50%] left-[50%] translate-x-2/4 translate-y-2/4"
+                            "color": "md:h-[56.25vw] h-[70vh]  md:w-[100vw]  w-[177.78vh] top-[50%] left-[50%] translate-x-2/4 translate-y-2/4 absolute "
                         },
                         "inlineCss": "{\"transform\": \"translate(-50%, -50%)\"}"
                     }
@@ -84,7 +84,708 @@
                     }
                 }
             },
-            "order": 5
+            "order": 6,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7751,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover  py-10",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-lg py-1 font-light uppercase text-slate-600",
+                            "fontSize": "12px"
+                        },
+                        "content": "About us ",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Lorem ipsum dolor sit amet, consectetu adipiscing elit. Etiam nunc elit, pretium atlanta urna veloci, fermentum malesuda mina. Donec auctor nislec neque sagittis, sit amet dapibus pellentesque donal feugiat. Nulla mollis magna non sanaliquet, volutpat do zutum, ultrices consectetur, ultrices at purus.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "py-4 text-base font-light text-slate-600 pb-20"
+                        }
+                    },
+                    "button": {
+                        "content": "Know More About Us",
+                        "link": "/",
+                        "css": {
+                            "color": "rounded-full py-2 px-6 bg-green-600 text-white"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Let Us Tell You Our Story ",
+                        "css": {
+                            "color": "text-slate-800 font-bold text-3xl "
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://preview.colorlib.com/theme/farmie/img/bg-img/6.jpg.webp",
+                        "link": "",
+                        "css": {
+                            "color": "rounded-full"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left  px-5 items-center"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-8  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4  order-2  px-10"
+                        }
+                    }
+                }
+            },
+            "order": 7,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7752,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center py-5",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Poppins\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": "https://preview.colorlib.com/theme/farmie/img/bg-img/2.jpg"
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-xl py-2 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "6"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "pt-10"
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col items-center justify-center"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-base py-3 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-2 md:mx-3 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "text-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "py-10"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container  items-center m-auto px-20"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "w-12 h-12"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://preview.colorlib.com/theme/farmie/img/core-img/digger.png",
+                        "heading": "Best Services"
+                    },
+                    {
+                        "image": "https://preview.colorlib.com/theme/farmie/img/core-img/windmill.png",
+                        "heading": "Farm Experiences"
+                    },
+                    {
+                        "image": "https://preview.colorlib.com/theme/farmie/img/core-img/digger.png",
+                        "heading": "Best Services"
+                    },
+                    {
+                        "image": "https://preview.colorlib.com/theme/farmie/img/core-img/windmill.png",
+                        "heading": "Farm Experiences"
+                    },
+                    {
+                        "image": "https://preview.colorlib.com/theme/farmie/img/core-img/digger.png",
+                        "heading": "Best Services"
+                    },
+                    {
+                        "image": "https://preview.colorlib.com/theme/farmie/img/core-img/windmill.png",
+                        "heading": "Farm Experiences"
+                    }
+                ]
+            },
+            "order": 8,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7755,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-fixed bg-center grid grid-cols-12 bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://preview.colorlib.com/theme/farmie/img/bg-img/2.jpg)\", \"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-base uppercase",
+                            "fontSize": "12px"
+                        },
+                        "content": "What we do ",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Mauris fermentum nunc quis massa lacinia consequat. Suspendisse orci magna, pharetra sedonia risus ut, elementum mollis nisin. Nunc in sapien turpis. Donec egeto david orci pulvinar ultrices necto drax turpis. Pellentesque justo metus, semper nec ullamcorper id, gravida ultricies arcu.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-base py-2 pb-8  text-slate-500 font-light"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Our Produce Is Mainstay For Us ",
+                        "css": {
+                            "color": "text-3xl py-1 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "2",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "col-span-6"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-row text-black rounded-lg text-sm md: m-0 my-5 p-4"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-xl"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-6 col-span-12  md:mx-2 mx-2 md:my-2 my-2 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left font-light text-base text-slate-600"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto "
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "px-4"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": "text-3xl"
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "col-start-5 col-span-12 bg-slate-100 px-20 py-20"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "h-28 w-28"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://preview.colorlib.com/theme/farmie/img/core-img/s1.png",
+                        "caption": "Intiam eu sagittis est, aster cosmo lacini libero. Praesent dignissim sed odio velo aliquam manta legolas. This are only the sample text",
+                        "link": "/web-design",
+                        "heading": "Fruit & Vegetable"
+                    },
+                    {
+                        "image": "https://preview.colorlib.com/theme/farmie/img/core-img/s2.png",
+                        "heading": "Meat & Eggs",
+                        "caption": "Intiam eu sagittis est, aster cosmo lacini libero. Praesent dignissim sed odio velo aliquam manta legolas.",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://preview.colorlib.com/theme/farmie/img/core-img/s3.png",
+                        "heading": "Milk & Cheese",
+                        "caption": "Intiam eu sagittis est, aster cosmo lacini libero. Praesent dignissim sed odio velo aliquam manta legolas.",
+                        "link": "/web-design"
+                    },
+                    {
+                        "image": "https://preview.colorlib.com/theme/farmie/img/core-img/s4.png",
+                        "heading": "Rice & Corn",
+                        "caption": "Intiam eu sagittis est, aster cosmo lacini libero. Praesent dignissim sed odio velo aliquam manta legolas.",
+                        "link": "/web-design"
+                    }
+                ]
+            },
+            "order": 9,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7757,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-slate-100",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Farming Practices To Preserve Land & Water",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-2xl py-2 pb-8  text-amber-500"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Make the green world",
+                        "css": {
+                            "color": "text-lg py-5 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "3",
+                        "autoPlay": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col bg-white text-black rounded-lg text-sm md: m-0 my-5"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 col-span-12  md:mx-2 mx-2 md:my-2 my-2 rounded-lg"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left font-light text-base text-slate-600"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": "text-lg "
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto text-white"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "flex items-center  min-h-30"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://preview.colorlib.com/theme/farmie/img/bg-img/9.jpg",
+                        "caption": "Donec nec justo eget felis facilisis ferme ntum. Aliquam portitor mauris sit amet orci. donec salim...",
+                        "link": "/web-design",
+                        "heading": "Chicken Farmed For Meat"
+                    }
+                ]
+            },
+            "order": 10,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7756,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-4xl py-2 font-light",
+                            "fontSize": "12px"
+                        },
+                        "content": "Find the best student accommodation option for you!",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Find the ideal student accommodation through our exclusive partnerships and make your academic journey truly worry-free\n",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://www.aeccglobal.com.np/images/2024/02/02/banner-img.webp",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left items-center"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6 md:col-start-2  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4  order-2"
+                        }
+                    }
+                }
+            },
+            "order": 11,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7754,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": " bg-fixed bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://preview.colorlib.com/theme/farmie/img/bg-img/15.jpg)\", \"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-2xl py-2  text-amber-500",
+                            "fontSize": "12px"
+                        },
+                        "content": "Message From Managing Director",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "<div class=\"py-2 text-xl\">Suraj Rupacha </div>\n<div class=\"text-slate-400\">Managing Director </div>\n<div class=\"text-amber-500 text-base\">Aaroohee Technology Pvt. Ltd.</div>\n",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "py-4"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Ever since Stellar Education was founded in 2011, I have observed its advancement as a \nsuperlative counseling organization in Nepal. It serves the swiftly and spectacularly \nchanging needs of innovative students from the region. We rest on the principled \nfoundation as laid out in our mission while fashioning a new future with our students and \nour constituents. \nSo as we move towards the third decade, let's work together to aim strategies for the \nchallenges. Let's find new ways to reach students aiming at liberal and accessible higher \neducation that leads to career opportunities worldwide. It has been \nfriends now at University around the globe.\nI look forward to the challenges and openings of the future! ",
+                        "css": {
+                            "color": "text-white font-light py-4 text-base"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "col-span-12  order-2 px-10 col-span-12  py-20 bg-slate-800/60 px-40"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 12,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7546,
@@ -96,7 +797,7 @@
                         "color": "text-center",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"fontFamily\":\"Khula\"}"
+                    "inlineCss": "{\"fontFamily\":\"League Spartan\"}"
                 },
                 "keyComponents": {
                     "heading": {
@@ -183,7 +884,7 @@
                     },
                     "itemCaptionWrap": {
                         "css": {
-                            "color": "text-left"
+                            "color": "text-left text-base font-lighter"
                         }
                     },
                     "itemContainerWrap": {
@@ -205,7 +906,7 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container py-20 items-center m-auto md:px-0 px-5"
+                            "color": "container py-10 items-center m-auto md:px-0 px-5"
                         }
                     },
                     "itemImageWrap": {
@@ -247,7 +948,9 @@
                     }
                 ]
             },
-            "order": 6
+            "order": 14,
+            "lang": "en",
+            "linked_domain_page_id": null
         }
     ]
 }
