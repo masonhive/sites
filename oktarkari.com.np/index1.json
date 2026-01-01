@@ -89,6 +89,84 @@
             "linked_domain_page_id": null
         },
         {
+            "id": 8196,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover text-lg ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-lg capitalize tracking-wide leading-10 text-green-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "About Us",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "<p data-start=\"415\" data-end=\"513\">For a long time, we believed food was just food. Something to eat. Something to fill our plates.</p>\n<p data-start=\"515\" data-end=\"644\">But slowly, we began to see another truth. More illness. More long-term diseases. More questions about what truly nourishes us.&nbsp;<span style=\"font-size: 1.125rem;\">We realized that what we eat shapes who we are.</span></p><p data-start=\"646\" data-end=\"843\"><br></p>\n<p data-start=\"876\" data-end=\"1097\">Oktarkari was born to return to nature—to grow food the way the earth intended, in balance with soil, water, seasons, and the natural rhythm of the universe. Organic farming became our foundation because it respects life.</p><p data-start=\"876\" data-end=\"1097\"><br></p><p data-start=\"876\" data-end=\"1097\"><span style=\"font-size: 1.125rem;\">This is more than food.&nbsp;</span><span style=\"font-size: 1.125rem;\">It’s a responsibility.</span></p>\n<p data-start=\"1149\" data-end=\"1232\">Oktarkari is a journey back to nature—for ourselves, and for generations to come.</p>",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-slate-400 py-4 text-justify font-light text-slate-800 font-['outfit']"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "Know More About Us",
+                        "link": "/about",
+                        "css": {
+                            "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Let Us Tell You Our Story",
+                        "css": {
+                            "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10"
+                        },
+                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#db750b, #d43d5e 25%, #0a7809 50%, #0a7809)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://mail.triponepa.com/uploads/admin.oktarkari.com.np/Gemini_Generated_Image_msqlz6msqlz6msql.webp",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left items-center py-16 "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6   md:order-2 px-14 col-span-12 order-2"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4 md:col-start-2  md:order-1 col-span-12 order-1"
+                        }
+                    }
+                }
+            },
+            "order": 7,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
             "id": 7752,
             "component": "CardV2",
             "component_id": 62,
@@ -124,7 +202,7 @@
                         }
                     },
                     "image": {
-                        "content": "https://preview.colorlib.com/theme/farmie/img/bg-img/2.jpg"
+                        "content": "https://mail.triponepa.com/uploads/admin.oktarkari.com.np//farm.webp"
                     },
                     "caption": {
                         "content": "",
@@ -246,164 +324,6 @@
                     }
                 ]
             },
-            "order": 7,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
-            "id": 8196,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-cover text-lg ",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": " text-lg capitalize tracking-wide leading-10 text-green-800",
-                            "fontSize": "12px"
-                        },
-                        "content": "About Us",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "<p data-start=\"415\" data-end=\"513\">For a long time, we believed food was just food. Something to eat. Something to fill our plates.</p>\n<p data-start=\"515\" data-end=\"644\">But slowly, we began to see another truth. More illness. More long-term diseases. More questions about what truly nourishes us.&nbsp;<span style=\"font-size: 1.125rem;\">We realized that what we eat shapes who we are.</span></p><p data-start=\"646\" data-end=\"843\"><br></p>\n<p data-start=\"876\" data-end=\"1097\">Oktarkari was born to return to nature—to grow food the way the earth intended, in balance with soil, water, seasons, and the natural rhythm of the universe. Organic farming became our foundation because it respects life.</p><p data-start=\"876\" data-end=\"1097\"><br></p><p data-start=\"876\" data-end=\"1097\"><span style=\"font-size: 1.125rem;\">This is more than food.&nbsp;</span><span style=\"font-size: 1.125rem;\">It’s a responsibility.</span></p>\n<p data-start=\"1149\" data-end=\"1232\">Oktarkari is a journey back to nature—for ourselves, and for generations to come.</p>",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-slate-400 py-4 text-justify font-light text-slate-800 font-['outfit']"
-                        },
-                        "parseHtml": "1"
-                    },
-                    "button": {
-                        "content": "Know More About Us",
-                        "link": "/about",
-                        "css": {
-                            "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "<span style=\"color: rgb(30, 41, 59); letter-spacing: normal; text-transform: none;\">Let Us&nbsp;Tell You Our Story</span>",
-                        "css": {
-                            "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10"
-                        },
-                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#db750b, #d43d5e 25%, #0a7809 50%, #0a7809)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}",
-                        "parseHtml": "1"
-                    },
-                    "image": {
-                        "content": "https://lh3.googleusercontent.com/gg-dl/ABS2GSnyiRbYtkqbvtXsU0F1zT4ld2uM2H2aSDTqrQ10kJ9OC3AzL1QHd4YF0tVdzZy9rY5hqQlSrl0qA_NR_SWFx9PnM2YjwNE5tW_IPOdl9IpHhQHEJR8Cn6kWRI3kPFmUBoGAq_ExUwdTbNjgdBXXLF3ejy3CjO1VoGRgLaKVHO-TSK2FNQ=s1024-rj",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "grid grid-cols-12 text-left items-center py-16 "
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-span-6   md:order-2 px-14 col-span-12 order-2"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "md:col-span-4 md:col-start-2  md:order-1 col-span-12 order-1"
-                        }
-                    }
-                }
-            },
-            "order": 7,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
-            "id": 7751,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-cover  py-10",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-lg py-1 font-light uppercase text-slate-600",
-                            "fontSize": "12px"
-                        },
-                        "content": "About us ",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "Lorem ipsum dolor sit amet, consectetu adipiscing elit. Etiam nunc elit, pretium atlanta urna veloci, fermentum malesuda mina. Donec auctor nislec neque sagittis, sit amet dapibus pellentesque donal feugiat. Nulla mollis magna non sanaliquet, volutpat do zutum, ultrices consectetur, ultrices at purus.",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "py-4 text-base font-light text-slate-600 pb-20"
-                        }
-                    },
-                    "button": {
-                        "content": "Know More About Us",
-                        "link": "/",
-                        "css": {
-                            "color": "rounded-full py-2 px-6 bg-green-600 text-white"
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "Let Us Tell You Our Story ",
-                        "css": {
-                            "color": "text-slate-800 font-bold text-3xl "
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "https://preview.colorlib.com/theme/farmie/img/bg-img/6.jpg.webp",
-                        "link": "",
-                        "css": {
-                            "color": "rounded-full"
-                        }
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "grid grid-cols-12 text-left  px-5 items-center"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-span-8  order-1 px-6"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "md:col-span-4  order-2  px-10"
-                        }
-                    }
-                }
-            },
             "order": 8,
             "lang": "en",
             "linked_domain_page_id": null
@@ -423,7 +343,7 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-base uppercase",
+                            "color": " text-lg capitalize tracking-wide leading-10 text-green-800",
                             "fontSize": "12px"
                         },
                         "content": "What we do ",
@@ -449,8 +369,9 @@
                     "caption": {
                         "content": "Our Produce Is Mainstay For Us ",
                         "css": {
-                            "color": "text-3xl py-1 text-slate-800"
-                        }
+                            "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10"
+                        },
+                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#db750b, #d43d5e 25%, #0a7809 50%, #0a7809)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}"
                     },
                     "itemInfo": {
                         "reverseDisplayOrder": "",
@@ -564,7 +485,246 @@
                     }
                 ]
             },
+            "order": 8,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8197,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover text-lg ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-lg capitalize tracking-wide leading-10 text-green-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "About Our Story",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Our passionate team of designers and developers has been dedicated to creating innovative, user-focused solutions that elevate your brand and enhance digital experiences. With a blend of creativity and technical expertise, we craft tailor-made websites and applications that not only look stunning but also deliver seamless performance.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-slate-400 py-4 text-justify font-light text-slate-800 font-['outfit']"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "Know More About Us",
+                        "link": "/about",
+                        "css": {
+                            "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Crafting Excellence Since 2015",
+                        "css": {
+                            "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10"
+                        },
+                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://preview.colorlib.com/theme/farmie/img/bg-img/6.jpg.webp",
+                        "link": "",
+                        "css": {
+                            "color": "rounded-full"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left items-center py-16 "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6   md:order-1 px-14 col-span-12 order-1"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-3   md:order-2 col-span-12 order-2"
+                        }
+                    }
+                }
+            },
             "order": 10,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7751,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover  py-10",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-lg py-1 font-light uppercase text-slate-600",
+                            "fontSize": "12px"
+                        },
+                        "content": "About us ",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Lorem ipsum dolor sit amet, consectetu adipiscing elit. Etiam nunc elit, pretium atlanta urna veloci, fermentum malesuda mina. Donec auctor nislec neque sagittis, sit amet dapibus pellentesque donal feugiat. Nulla mollis magna non sanaliquet, volutpat do zutum, ultrices consectetur, ultrices at purus.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "py-4 text-base font-light text-slate-600 pb-20"
+                        }
+                    },
+                    "button": {
+                        "content": "Know More About Us",
+                        "link": "/",
+                        "css": {
+                            "color": "rounded-full py-2 px-6 bg-green-600 text-white"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Let Us Tell You Our Story ",
+                        "css": {
+                            "color": "text-slate-800 font-bold text-3xl "
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "https://preview.colorlib.com/theme/farmie/img/bg-img/6.jpg.webp",
+                        "link": "",
+                        "css": {
+                            "color": "rounded-full"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left  px-5 items-center"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-8  order-1 px-6"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4  order-2  px-10"
+                        }
+                    }
+                }
+            },
+            "order": 11,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7754,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": " bg-fixed bg-cover",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"backgroundImage\":\"url(https://preview.colorlib.com/theme/farmie/img/bg-img/15.jpg)\", \"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-2xl py-2  text-amber-500",
+                            "fontSize": "12px"
+                        },
+                        "content": "Message From Managing Director",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "<div class=\"py-2 text-xl\">Suraj Rupacha </div>\n<div class=\"text-slate-400\">Managing Director </div>\n<div class=\"text-amber-500 text-base\">Aaroohee Technology Pvt. Ltd.</div>\n",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "py-4"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Ever since Stellar Education was founded in 2011, I have observed its advancement as a \nsuperlative counseling organization in Nepal. It serves the swiftly and spectacularly \nchanging needs of innovative students from the region. We rest on the principled \nfoundation as laid out in our mission while fashioning a new future with our students and \nour constituents. \nSo as we move towards the third decade, let's work together to aim strategies for the \nchallenges. Let's find new ways to reach students aiming at liberal and accessible higher \neducation that leads to career opportunities worldwide. It has been \nfriends now at University around the globe.\nI look forward to the challenges and openings of the future! ",
+                        "css": {
+                            "color": "text-white font-light py-4 text-base"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "col-span-12  order-2 px-10 col-span-12  py-20 bg-slate-800/60 px-40"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 11,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -706,162 +866,7 @@
                     }
                 ]
             },
-            "order": 11,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
-            "id": 7756,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-cover",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-4xl py-2 font-light",
-                            "fontSize": "12px"
-                        },
-                        "content": "Find the best student accommodation option for you!",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "Find the ideal student accommodation through our exclusive partnerships and make your academic journey truly worry-free\n",
-                        "css": {
-                            "color": "text-slate-400 font-light"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "https://www.aeccglobal.com.np/images/2024/02/02/banner-img.webp",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "grid grid-cols-12 text-left items-center"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-span-6 md:col-start-2  order-1 px-6"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "md:col-span-4  order-2"
-                        }
-                    }
-                }
-            },
-            "order": 12,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
-            "id": 7754,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": " bg-fixed bg-cover",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"backgroundImage\":\"url(https://preview.colorlib.com/theme/farmie/img/bg-img/15.jpg)\", \"fontFamily\":\"Outfit\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": " text-2xl py-2  text-amber-500",
-                            "fontSize": "12px"
-                        },
-                        "content": "Message From Managing Director",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "<div class=\"py-2 text-xl\">Suraj Rupacha </div>\n<div class=\"text-slate-400\">Managing Director </div>\n<div class=\"text-amber-500 text-base\">Aaroohee Technology Pvt. Ltd.</div>\n",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "py-4"
-                        },
-                        "parseHtml": "1"
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "Ever since Stellar Education was founded in 2011, I have observed its advancement as a \nsuperlative counseling organization in Nepal. It serves the swiftly and spectacularly \nchanging needs of innovative students from the region. We rest on the principled \nfoundation as laid out in our mission while fashioning a new future with our students and \nour constituents. \nSo as we move towards the third decade, let's work together to aim strategies for the \nchallenges. Let's find new ways to reach students aiming at liberal and accessible higher \neducation that leads to career opportunities worldwide. It has been \nfriends now at University around the globe.\nI look forward to the challenges and openings of the future! ",
-                        "css": {
-                            "color": "text-white font-light py-4 text-base"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "grid grid-cols-12"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "col-span-12  order-2 px-10 col-span-12  py-20 bg-slate-800/60 px-40"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    }
-                }
-            },
-            "order": 13,
+            "order": 14,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -1026,7 +1031,7 @@
                     }
                 ]
             },
-            "order": 15,
+            "order": 16,
             "lang": "en",
             "linked_domain_page_id": null
         }
