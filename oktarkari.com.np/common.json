@@ -197,7 +197,7 @@
                     "hamburger": {
                         "icon": "GiHamburgerMenu",
                         "css": {
-                            "color": "md:hidden p-4 z-20 relative"
+                            "color": "hidden p-4 z-20 relative"
                         },
                         "smDeviceOnly": ""
                     },
