@@ -7,7 +7,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-slate-100 text-slate-500 font-light text-xs w-0 h-0 md:w-full md:h-fit",
+                        "color": "bg-slate-100 text-slate-500 font-light text-xs w-0 h-0 md:w-full md:h-fit md:visible invisible",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Poppins\"}"
