@@ -148,7 +148,7 @@
                 "itemList": [
                     {
                         "content": "Let's Connect",
-                        "css": "bg-[#f7a706] rounded-full md:px-10 py-2 text-slate-900 md:text-base text-sm px-6",
+                        "css": "bg-[#f7a706] rounded-full md:px-10 py-2 text-slate-900 md:text-base text-sm px-4",
                         "link": "/contact-us"
                     }
                 ],

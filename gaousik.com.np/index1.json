@@ -32,7 +32,7 @@
                         "content": "Schedule a Free Call",
                         "link": "/about",
                         "css": {
-                            "color": " text-base py-3 bg-[#f7a706] text-slate-800  hover:bg-orange-400 hover:text-slate-100 rounded-full px-10  font-['outfit'] font-light"
+                            "color": " text-base py-3 bg-[#f7a706] text-slate-900  hover:bg-orange-400 hover:text-slate-100 rounded-full px-10  font-['outfit'] font-light"
                         },
                         "inlineCss": ""
                     },
