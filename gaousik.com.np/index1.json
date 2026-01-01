@@ -677,7 +677,7 @@
                         "parseHtml": "1"
                     },
                     "button": {
-                        "content": "Let’s Build Your Digital Flywheel",
+                        "content": "Let’s Build Your Flywheel",
                         "link": "/about",
                         "css": {
                             "color": "bg-green-800 py-3 font-light px-6 rounded-full text-slate-100"
