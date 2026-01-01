@@ -21,16 +21,6 @@
             "child": []
         },
         {
-            "name": "Services",
-            "id": 691,
-            "parent_menu_id": null,
-            "link": "/services",
-            "lang": "en",
-            "linked_menu_id": null,
-            "order": null,
-            "child": []
-        },
-        {
             "name": "Contact Us",
             "id": 692,
             "parent_menu_id": null,
