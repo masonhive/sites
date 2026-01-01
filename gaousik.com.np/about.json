@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "id": 7575,
+            "id": 8184,
             "component": "TextV2",
             "component_id": 72,
             "attributes": {
@@ -15,49 +15,50 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10",
+                            "color": "md:text-3xl py-4 font-base text-3xl capitalize tracking-wide leading-10",
                             "fontSize": "12px"
                         },
-                        "content": "About  Gaousik Tech Solution GTS",
-                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\":\"transparent\",\"fontFamily\":\"League Spartan\"}"
+                        "content": "About Gaousik Tech Solution",
+                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}"
                     },
                     "description": {
-                        "content": "",
+                        "content": "From building a strong digital presence to streamlining operations with the right technology, we turn ideas into scalable, real-world solutions. Our focus is on clarity, innovation, and measurable results—so your business doesn’t just adapt to change, but leads it.\nWith a strong commitment to innovation and customer success, we partner with you at every step of your digital transformation journey.",
                         "inlineCss": "",
                         "css": {
-                            "color": ""
-                        }
+                            "color": "text-slate-400 py-4 pb-10 text-justify font-light text-slate-800"
+                        },
+                        "parseHtml": "1"
                     },
                     "button": {
-                        "content": "Know More About Us",
-                        "link": "/about",
+                        "content": "",
+                        "link": "",
                         "css": {
                             "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
                         },
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "We, Gaousik Tech Solution Pvt. Ltd , believe in harnessing the power of technology to make your visions a tangible reality. As a tech startup, we specialize in bringing digital transformation to businesses of all sizes. Our team of experts leverages the latest Artificial Intelligence (AI) technology to streamline business processes, making them more efficient and effective. From website creation to core business services, we're dedicated to helping businesses grow and succeed. With our focus on innovation and customer satisfaction, we're  poised to lead the way in digital transformation.",
+                        "content": "At Gaousik Tech Solution Pvt. Ltd., we help businesses design and implement practical digital transformation strategies that drive real growth.",
                         "css": {
-                            "color": "text-slate-400 py-6 text-justify font-light text-slate-800"
+                            "color": "text-slate-400 py-4 text-justify font-light text-slate-800 font-bold font-['outfit']"
                         },
                         "inlineCss": "",
                         "parseHtml": "1"
                     },
                     "image": {
-                        "content": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/500px-Image_created_with_a_mobile_phone.png",
+                        "content": "https://img.freepik.com/premium-vector/young-man-woman-communicating-office-flat-design-creative-working-process-modern-workflow-management-business-concept_171919-214.jpg",
                         "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "grid grid-cols-12 text-left items-center pt-20 pb-10"
+                            "color": "grid grid-cols-12 text-left items-center py-16 "
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-span-6  md:order-1 px-6 col-span-12 order-2"
+                            "color": "md:col-span-6 md:col-start-2  md:order-1 px-14 col-span-12 order-1"
                         }
                     },
                     "mainWrap": {
@@ -68,7 +69,7 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-span-5  md:order-2 col-span-12 order-1"
+                            "color": "md:col-span-4  col-span-12 order-2"
                         }
                     }
                 }
@@ -78,7 +79,88 @@
             "linked_domain_page_id": null
         },
         {
-            "id": 7513,
+            "id": 8190,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover text-lg  bg-cover text-lg bg-cover  bg-gradient-to-b from-white to-pink-100 snap-start scroll-mt-28",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-lg capitalize tracking-wide leading-10 text-green-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "About Our Story",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Our passionate team of designers and developers has been dedicated to creating innovative, user-focused solutions that elevate your brand and enhance digital experiences. With a blend of creativity and technical expertise, we craft tailor-made websites and applications that not only look stunning but also deliver seamless performance.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-slate-400 py-4 text-justify font-light text-slate-800 font-['outfit'] pb-8"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Crafting Excellence Since 2015",
+                        "css": {
+                            "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10"
+                        },
+                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://images.unsplash.com/photo-1522071820081-009f0129c71c",
+                        "link": "",
+                        "css": {
+                            "color": "rounded-2xl"
+                        }
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left items-center py-16 "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6   md:order-2 px-14 col-span-12 order-2"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4 md:col-start-2  md:order-1 col-span-12 order-1"
+                        }
+                    }
+                }
+            },
+            "order": 8,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8192,
             "component": "TextV2",
             "component_id": 72,
             "attributes": {
@@ -92,49 +174,53 @@
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-4xl py-2 font-light ",
+                            "color": " text-lg capitalize tracking-wide leading-10 text-green-800",
                             "fontSize": "12px"
                         },
-                        "content": "Let's Build the Future of Digital Eco System Together",
-                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}"
+                        "content": "The People Behind Success",
+                        "inlineCss": ""
                     },
                     "description": {
-                        "content": "",
+                        "content": "Our diverse team of talented professionals brings together years of experience in design,<div>development, and digital strategy.</div>",
                         "inlineCss": "",
                         "css": {
-                            "color": ""
-                        }
+                            "color": "text-slate-400 pb-10 font-light text-slate-800 font-['outfit'] text-center"
+                        },
+                        "parseHtml": "1"
                     },
                     "button": {
-                        "content": "Connect With Us",
-                        "link": "/about",
+                        "content": "Join Our Team",
+                        "link": "/contact",
                         "css": {
                             "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
                         },
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Join us in shaping the future of the digital landscape by partnering with us. Together, we can create innovative and efficient solutions for your business, driving growth and success in the digital age. Digital innovation is continuously changing the business landscape, and it's crucial to stay ahead of the curve to succeed. <b>At Gaousik, </b>we believe in working together with our clients to shape the future of the digital ecosystem. Our team of experts stays up to date with the latest trends and technologies, enabling us to provide cutting-edge solutions that drive growth and improve efficiency. Join us on this exciting journey and let's build the future of your digital presence together.",
+                        "content": "Meet Our Creative Team",
                         "css": {
-                            "color": "text-slate-400 py-6 text-justify font-light text-slate-800"
+                            "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10"
                         },
-                        "inlineCss": "",
+                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}",
                         "parseHtml": "1"
                     },
                     "image": {
-                        "content": "https://img.freepik.com/premium-vector/young-man-woman-communicating-office-flat-design-creative-working-process-modern-workflow-management-business-concept_171919-214.jpg?w=740",
-                        "link": ""
+                        "content": "https://images.unsplash.com/photo-1522071820081-009f0129c71c",
+                        "link": "",
+                        "css": {
+                            "color": "rounded-lg "
+                        }
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "grid grid-cols-12 text-left items-center pt-20 pb-10 md:px-0 px-5"
+                            "color": " md:px-40 px-5 flex flex-col flex-col-reverse text-center items-center py-16 "
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-span-5 md:col-start-2  md:order-1 px-6 col-span-12 order-2"
+                            "color": "order-2 pb-10"
                         }
                     },
                     "mainWrap": {
@@ -145,165 +231,7 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-span-4  md:order-2 col-span-12 order-1"
-                        }
-                    }
-                }
-            },
-            "order": 8,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
-            "id": 7515,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-cover bg-gradient-to-b from-white  to-pink-50/50",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "",
-                    "id": "why-study-in-australia"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2 text-slate-900 font-light underline",
-                            "fontSize": "12px"
-                        },
-                        "content": "Our Vision",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "\"Our vision is to become a leading provider of digital solutions that drive business growth and innovation.\"",
-                        "css": {
-                            "color": "text-slate-500 font-light"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "https://img.freepik.com/premium-vector/follow-vision-character-men-standing-ladder-use-telescope-around-dart-eye-ball-with-outline-style_197170-1290.jpg",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "md:grid md:grid-cols-12 text-left py-4 px-5 flex flex-col  items-center"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-start-7 md:col-end-11  md:order-2 px-6 text-justify order-1"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "md:col-start-4 md:col-end-7  md:order-1 order-2"
-                        }
-                    }
-                }
-            },
-            "order": 8,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
-            "id": 7514,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-gradient-to-b from-pink-50 to-slate-50/50",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2 text-center font-light",
-                            "fontSize": "12px"
-                        },
-                        "content": "Empowering Business Growth with Digital Transformation And Automation",
-                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}"
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "",
-                        "css": {
-                            "color": "text-slate-400 font-light"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//gts.png",
-                        "link": "",
-                        "css": {
-                            "color": "w-40 center "
-                        }
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "grid grid-cols-12 text-left py-4 px-5 justify-center items-center"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "col-span-12  order-2 px-6"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto pt-10"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "col-span-12 order-1 flex justify-center items-center"
+                            "color": "max-w-2xl py-10"
                         }
                     }
                 }
@@ -313,32 +241,31 @@
             "linked_domain_page_id": null
         },
         {
-            "id": 7516,
-            "component": "TextV2",
-            "component_id": 72,
+            "id": 8186,
+            "component": "CardV2",
+            "component_id": 62,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover bg-gradient-to-b to-white  from-pink-50/50",
+                        "color": "container m-auto px-5 md:px-20 py-10",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "",
-                    "id": "why-study-in-australia"
+                    "inlineCss": "{\"fontFamily\": \"Nunito\"}"
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "text-2xl py-2 text-slate-900 font-light underline",
+                            "color": "flex text-[20px] font-[600] text-gray-500",
                             "fontSize": "12px"
                         },
-                        "content": "Our Mission ",
+                        "content": "",
                         "inlineCss": ""
                     },
                     "description": {
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": ""
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
                         }
                     },
                     "button": {
@@ -346,47 +273,117 @@
                         "link": "",
                         "css": {
                             "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "Our mission is to partner with our clients to unlock the full potential of their digital presence, and help them stay ahead in an ever-evolving digital landscape.",
-                        "css": {
-                            "color": "text-slate-500 font-light"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
+                        }
                     },
                     "image": {
-                        "content": "https://img.freepik.com/premium-vector/business-marketing-illustrations-men-taking-part-business-activities-trendy-vector-style-isolat_642128-77.jpg",
-                        "link": ""
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": " text-gray-500 font-[500] text-[14px] mb-4 text-left\n"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "3"
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "md:grid md:grid-cols-12 text-left py-4 px-5 flex flex-col  items-center"
+                            "color": "flex flex-col "
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "md:col-start-4 md:col-end-7  order-1 px-6 text-justify"
+                            "color": "md:col-span-12 col-span-12 mx-5 "
                         }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-start-7 md:col-end-11  order-2"
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col items-start pb-20 md:pb-0"
+                        },
+                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\",  \"border\": \"1px solid #fff\"}"
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": " text-[18px] mbr-m-0 font-[700] py-1"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 col-span-12 mx-5 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left font-[400] text-[14px] text-gray-500"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:py-5  "
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-5 items-center m-auto"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": " rounded-lg md:col-span-3 w-60 aspect-square object-cover overflow-hidden"
                         }
                     }
-                }
+                },
+                "itemList": [
+                    {
+                        "heading": "Mr. Shakya Banda Bikesh",
+                        "parseHtml": "1",
+                        "image": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//Gemini_Generated_Image_1sv2701sv2701sv2.png",
+                        "caption": "CEO/ CTO&nbsp;"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.gaousik.com.np//Gemini_Generated_Image_gdsj8vgdsj8vgdsj.png",
+                        "heading": "Mr. Maharjan Aman ",
+                        "parseHtml": "1",
+                        "caption": "Senior Software Developer"
+                    }
+                ]
             },
-            "order": 11,
+            "order": 15,
             "lang": "en",
             "linked_domain_page_id": null
         }
