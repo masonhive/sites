@@ -350,24 +350,25 @@
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "Mauris fermentum nunc quis massa lacinia consequat. Suspendisse orci magna, pharetra sedonia risus ut, elementum mollis nisin. Nunc in sapien turpis. Donec egeto david orci pulvinar ultrices necto drax turpis. Pellentesque justo metus, semper nec ullamcorper id, gravida ultricies arcu.",
+                        "content": "We open our farm to people who want to experience farming as life and lifestyle.Here, you can walk through fields that feel like a forest, touch the soil, plant seeds, harvest crops, and understand where real food comes from.<div>&nbsp; <br>Our farm sits close to the city, yet feels worlds away — surrounded by greenery, birds, and the calm rhythm of nature. It’s a place to slow down, breathe, and reconnect.</div>",
                         "inlineCss": "",
                         "css": {
-                            "color": "text-base py-2 pb-8  text-slate-500 font-light"
-                        }
+                            "color": "text-slate-400 py-4 text-justify font-light text-slate-800 font-['outfit'] text-lg"
+                        },
+                        "parseHtml": "1"
                     },
                     "button": {
-                        "content": "",
+                        "content": "Visit. Learn. Eat. Grow with us.",
                         "link": "",
                         "css": {
-                            "color": ""
+                            "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
                         }
                     },
                     "image": {
                         "content": ""
                     },
                     "caption": {
-                        "content": "Our Produce Is Mainstay For Us ",
+                        "content": "we don’t just grow food — we Welcome you into the process.",
                         "css": {
                             "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10"
                         },
@@ -461,13 +462,14 @@
                 "itemList": [
                     {
                         "image": "https://preview.colorlib.com/theme/farmie/img/core-img/s1.png",
-                        "caption": "Intiam eu sagittis est, aster cosmo lacini libero. Praesent dignissim sed odio velo aliquam manta legolas. This are only the sample text",
+                        "caption": "Experience real farming, from seed to harvest\n\nLearn natural and nearly-organic growing practices\n\nUnderstand soil, seasons, and sustainable living",
                         "link": "/web-design",
-                        "heading": "Fruit & Vegetable"
+                        "heading": "Farm With Us",
+                        "parseHtml": "1"
                     },
                     {
                         "image": "https://preview.colorlib.com/theme/farmie/img/core-img/s2.png",
-                        "heading": "Meat & Eggs",
+                        "heading": "Vegetables  Fruits",
                         "caption": "Intiam eu sagittis est, aster cosmo lacini libero. Praesent dignissim sed odio velo aliquam manta legolas.",
                         "link": "/web-design"
                     },
@@ -479,13 +481,196 @@
                     },
                     {
                         "image": "https://preview.colorlib.com/theme/farmie/img/core-img/s4.png",
-                        "heading": "Rice & Corn",
-                        "caption": "Intiam eu sagittis est, aster cosmo lacini libero. Praesent dignissim sed odio velo aliquam manta legolas.",
-                        "link": "/web-design"
+                        "heading": "Be Part of the Movement",
+                        "caption": "Join a community that values health, nature, and responsibility\n\nSupport farming that protects biodiversity and livelihoods\n\nHelp shape a future where food heals, not harms",
+                        "link": "/web-design",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "image": "https://preview.colorlib.com/theme/farmie/img/core-img/s4.png",
+                        "heading": "Be Part of the Movement",
+                        "caption": "Join a community that values health, nature, and responsibility\n\nSupport farming that protects biodiversity and livelihoods\n\nHelp shape a future where food heals, not harms",
+                        "link": "/web-design",
+                        "parseHtml": "1"
                     }
                 ]
             },
             "order": 8,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8198,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-cover  bg-gradient-to-b from-white to-pink-100 snap-start scroll-mt-28",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-lg capitalize tracking-wide leading-10 text-amber-600",
+                            "fontSize": "12px"
+                        },
+                        "content": "Farming is a craft",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Modern food is fast, distant, and disconnected.We rarely know who grew it, how it was grown, or what it does to our bodies and the earth.At Oktarkari, we believe food should heal — not harm.\nFarming should restore — not exploit.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": " text-lg font-['outfit'] font-lighter"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "Let’s discuss how digital transformation can work for your business.",
+                        "link": "",
+                        "css": {
+                            "color": "md:bg-green-700 py-4 font-light px-10 md:rounded-full text-slate-100 text-xl my-10"
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Why It Matters ?",
+                        "css": {
+                            "color": "text-2xl md:text-4xl py-3 pb-10 text-slate-800 font-bold"
+                        },
+                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#db750b, #d43d5e 25%, #0a7809 50%, #0a7809)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}"
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "2"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid-cols-12 grid  md:px-40 "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-10 md:col-start-2 col-span-12"
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-justify font-light text-slate-800 text-lg pb-6"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-2xl  pr-3 text-yellow-600"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-6  md:px-20 col-span-12"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20  px-5"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container md:m-auto py-20 pb-20 px-5"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "px-6"
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": "pb-10"
+                        }
+                    },
+                    "buttonWrap": {
+                        "css": {
+                            "color": "md:pt-10 bg-green-800 py-2 rounded-lg md:bg-transparent "
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Are you looking to improve your business efficiency?",
+                        "icon": "FaCheckCircle"
+                    },
+                    {
+                        "heading": "Do you want to stay ahead of your competitors?",
+                        "icon": "FaCheckCircle"
+                    },
+                    {
+                        "heading": "Would you like to reach more potential customers online?",
+                        "icon": "FaCheckCircle"
+                    },
+                    {
+                        "heading": "Are you interested in increasing your revenue through digital channels?",
+                        "icon": "FaCheckCircle"
+                    },
+                    {
+                        "heading": "Do you value enhancing your customer’s experience?",
+                        "icon": "FaCheckCircle"
+                    },
+                    {
+                        "heading": "Is streamlining your operations important to you?",
+                        "icon": "FaCheckCircle"
+                    }
+                ]
+            },
+            "order": 10,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -527,7 +712,7 @@
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "Crafting Excellence Since 2015",
+                        "content": "<h3 data-start=\"409\" data-end=\"427\">Why It Matters ?</h3>",
                         "css": {
                             "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10"
                         },
@@ -566,7 +751,7 @@
                     }
                 }
             },
-            "order": 10,
+            "order": 11,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -646,7 +831,7 @@
                     }
                 }
             },
-            "order": 11,
+            "order": 12,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -724,7 +909,7 @@
                     }
                 }
             },
-            "order": 11,
+            "order": 12,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -866,7 +1051,7 @@
                     }
                 ]
             },
-            "order": 14,
+            "order": 15,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -1031,7 +1216,7 @@
                     }
                 ]
             },
-            "order": 16,
+            "order": 17,
             "lang": "en",
             "linked_domain_page_id": null
         }
