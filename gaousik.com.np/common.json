@@ -323,7 +323,7 @@
                     },
                     "itemRowWrap": {
                         "css": {
-                            "color": "flex col-span-6 md:col-span-3 text-left justify-center m-3 "
+                            "color": "flex col-span-6 md:col-span-3 text-left md:justify-center m-3 justify-start"
                         },
                         "inlineCss": ""
                     },
