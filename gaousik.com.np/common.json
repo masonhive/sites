@@ -329,7 +329,7 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "py-8 grid grid-cols-12  relative bg-green-400/20"
+                            "color": "py-8 grid grid-cols-12  relative bg-green-800/20"
                         },
                         "inlineCss": ""
                     },
@@ -352,7 +352,7 @@
                 },
                 "itemList": [
                     {
-                        "caption": "<a href=\"/about-us\">About Us </a> <a href=\"/contact-us\">Stories</a> <a href=\"/contact\">Contact Us</a>  <a href=\"/\">Submit CV</a> ",
+                        "caption": "<a href=\"/about-us\">About Us </a> \n<a href=\"/contact\">Contact Us</a> ",
                         "parseHtml": "1",
                         "heading": "ABOUT US"
                     },
@@ -363,7 +363,7 @@
                     },
                     {
                         "heading": "SERVICES",
-                        "caption": "<a href=\"/\">Hospitality </a> <a href=\"/\">I.T </a> <a href=\"/\">Automotive</a> <a href=\"/\">Trade Services</a> <a href=\"/\">Engineering</a>",
+                        "caption": "<a href=\"/\">Website </a> \n<a href=\"/\">Mobile Apps </a> \n<a href=\"/\">MIS</a> \n<a href=\"/\">Digital Marketing</a> \n<a href=\"/\">AI and Agentic Workflow </a>",
                         "parseHtml": "1"
                     },
                     {

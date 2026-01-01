@@ -22,16 +22,172 @@
             "linked_domain_page_id": null
         },
         {
+            "id": 8194,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover text-lg bg-cover  bg-gradient-to-b from-white to-pink-100 snap-start scroll-mt-28",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-lg capitalize tracking-wide leading-10 text-green-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "About Our Story",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Finding us is simple — our location information is conveniently accessible, making it easy for you to visit or contact us whenever you need. Whether you're seeking directions or ready to get in touch, our clear contact details are designed to ensure seamless communication. We’re committed to providing excellent service, so reaching us has never been more straightforward.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-slate-400 py-4 text-justify font-light text-slate-800 font-['outfit']"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Gaousik Tech Solution Pvt. Ltd",
+                        "css": {
+                            "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10"
+                        },
+                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://images.unsplash.com/photo-1522071820081-009f0129c71c",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left items-center py-16 "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6   md:order-2 px-14 col-span-12 order-2"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4 md:col-start-2  md:order-1 col-span-12 order-1"
+                        }
+                    }
+                }
+            },
+            "order": 8,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8195,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover text-lg text-center",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-lg capitalize tracking-wide leading-10 text-green-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "Contact Us",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "Whether you’re just exploring or ready to get started, <br/>\nshare your details below and let’s begin the conversation.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-slate-400 py-4  font-light text-slate-800 font-['outfit']"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "We’d Love to Hear From You",
+                        "css": {
+                            "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10"
+                        },
+                        "inlineCss": "{\"background-image\": \"linear-gradient(90deg,#5014ad,#8e13a6 25%,#c5109a 51%,#f22379 79%,#ff3067)\",\"-webkit-background-clip\": \"text\",\"-webkit-text-fill-color\": \"transparent\"}",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12  items-center pt-16 "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "px-14 col-span-12"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto text-center font-['outfit']"
+                        },
+                        "inlineCss": ""
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 9,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
             "id": 7511,
             "component": "FunnelV2",
             "component_id": 73,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "grid grid-cols-12  py-10 text-center",
+                        "color": "grid grid-cols-12  py-10 text-center text-base font-['outfit']",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "textContainerLayout": {
@@ -57,18 +213,18 @@
                         "inlineCss": ""
                     },
                     "formHeading": {
-                        "content": "Contact Us",
+                        "content": "",
                         "css": {
-                            "color": "text-2xl py-2 text-slate-800",
+                            "color": "",
                             "fontSize": "12px"
                         },
                         "inlineCss": ""
                     },
                     "formButton": {
-                        "content": "Submit",
+                        "content": " Connect With Us",
                         "link": "",
                         "css": {
-                            "color": ""
+                            "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
                         }
                     },
                     "heading": {
@@ -87,22 +243,25 @@
                         }
                     },
                     "image": {
-                        "content": "https://img.freepik.com/premium-vector/operator-girl-with-computer-headphones-microphone-outsource-consulting-job-online-remove-job-call-center_186332-194.jpg",
+                        "content": "https://mail.triponepa.com/uploads/admin.gaousik.com.np/nano_contact (2).png",
                         "inlineCss": "",
                         "css": {
                             "color": ""
                         }
+                    },
+                    "caption": {
+                        "content": ""
                     }
                 },
                 "wrapper": {
                     "inputWrap": {
                         "css": {
-                            "color": "text-start"
+                            "color": "text-start gap-1 grid py-2"
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "md:col-span-6 col-span-12"
+                            "color": "md:col-span-6 col-span-12 "
                         }
                     },
                     "formWrap": {
@@ -112,17 +271,33 @@
                     },
                     "imageWrap": {
                         "css": {
-                            "color": ""
+                            "color": "order-2 pl-20"
+                        },
+                        "inlineCss": ""
+                    },
+                    "inputLabel": {
+                        "css": {
+                            "color": "text-lg text-green-800 py-2"
+                        }
+                    },
+                    "sectionWrap": {
+                        "css": {
+                            "color": "order-1"
+                        }
+                    },
+                    "input": {
+                        "css": {
+                            "color": "block w-full py-4 px-4 mb-2 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500"
                         }
                     }
                 },
                 "formInputs": [
                     {
                         "id": "topic",
-                        "label": "How can we help you ?",
-                        "placeholder": "Choose one of the topics.",
+                        "label": "How can we assist you today?",
+                        "placeholder": "Choose the option that best matches your request.",
                         "type": "select",
-                        "data": "[\"Get Quotation\",\"Supports\",\"Others\"]"
+                        "data": "[\"Get a Quotation\",\"Digital Transformation\",\"Software / App Development\", \"Support\", \"Partnership\", \"General Inquiry\"]"
                     },
                     {
                         "id": "name",
@@ -148,7 +323,7 @@
                     }
                 ]
             },
-            "order": 8,
+            "order": 10,
             "lang": "en",
             "linked_domain_page_id": null
         }
