@@ -1639,7 +1639,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": " shadow-sm shadow-slate-200 border-b-4 border-red-600",
+                        "color": " shadow-sm shadow-slate-400border-b-4 border-red-1200",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -1679,7 +1679,7 @@
                     },
                     "logo": {
                         "content": "",
-                        "logo": "https://eazysolution.jp/wp-content/uploads/2023/01/cropped-EaZy-Solution-01.png",
+                        "logo": "https://mail.triponepa.com/uploads/admin.eazysolutions.jp//EaZy Solution-01.png",
                         "css": {
                             "color": "md:h-16 h-12"
                         },
