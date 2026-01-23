@@ -152,7 +152,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-blue-800 text-white  py-2 hidden lg:block text-sm",
+                        "color": "bg-blue-800  text-white  py-2 px-10 hidden lg:block text-sm",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -1705,7 +1705,7 @@
                         "inlineCss": ""
                     },
                     "multiLanguage": {
-                        "languages": "{\"en\":\"English\",\"np\": \"नेपाली\", \"jp\": \"日本語\"}",
+                        "languages": "en,np,jp",
                         "css": {
                             "color": "col-span-2 md:col-span-1  md:py-3 text-base  text-blue-800"
                         }
@@ -1869,85 +1869,6 @@
             "linked_domain_page_id": null
         },
         {
-            "id": 7782,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "text-center bg-[#F2F8FD] pt-10 pb-0 px-5",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "",
-                    "id": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-red-600 font-semibold text-lg pb-4",
-                            "fontSize": "12px"
-                        },
-                        "content": "हाम्रा सेवाहरू",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "नि:शुल्क परामर्शको लागि अनुरोध",
-                        "css": {
-                            "color": "text-blue-800 text-2xl font-semibold pb-5"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "md:grid md:grid-cols-12 text-left  flex flex-col"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-span-12  order-1 px-6 text-center"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "md:col-span-6  order-2"
-                        }
-                    }
-                },
-                "common_component": "1"
-            },
-            "order": 15,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
             "id": 7840,
             "component": "TextV2",
             "component_id": 72,
@@ -2025,6 +1946,85 @@
             "order": 15,
             "lang": null,
             "linked_domain_page_id": 7782
+        },
+        {
+            "id": 7782,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-[#F2F8FD] pt-10 pb-0 px-5",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "",
+                    "id": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-red-600 font-semibold text-lg pb-4",
+                            "fontSize": "12px"
+                        },
+                        "content": "हाम्रा सेवाहरू",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "नि:शुल्क परामर्शको लागि अनुरोध",
+                        "css": {
+                            "color": "text-blue-800 text-2xl font-semibold pb-5"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "md:grid md:grid-cols-12 text-left  flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-12  order-1 px-6 text-center"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-6  order-2"
+                        }
+                    }
+                },
+                "common_component": "1"
+            },
+            "order": 17,
+            "lang": "en",
+            "linked_domain_page_id": null
         },
         {
             "id": 7822,
