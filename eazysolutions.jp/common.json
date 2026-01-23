@@ -442,7 +442,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-[#2f3192] text-white  py-2 hidden lg:block text-sm",
+                        "color": "bg-[#2f3192] text-white  py-2 px-8 hidden lg:block text-sm",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
@@ -653,7 +653,7 @@
                         "inlineCss": ""
                     },
                     "multiLanguage": {
-                        "languages": "{\"en\":\"English\",\"np\": \"नेपाली\", \"jp\": \"日本語\"}",
+                        "languages": "en,np,jp",
                         "css": {
                             "color": "col-span-2 md:col-span-1  md:py-3 text-base  text-blue-800"
                         }
