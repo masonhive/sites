@@ -209,7 +209,7 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container items-center md:m-auto md:-mt-24 -mt-32 pb-0 relative z-10 "
+                            "color": "container items-center md:m-auto md:-mt-24 -mt-48 pb-0 relative z-10 "
                         },
                         "inlineCss": ""
                     },
