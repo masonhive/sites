@@ -85,7 +85,7 @@
                     }
                 }
             },
-            "order": 55,
+            "order": 53,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -173,7 +173,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "text-[10px] font-[600] py-3 md:text-base text-white py-3 hover:bg-[#28C0EE] bg-[#F49810] uppercase  ease-in duration-300 mx-5 mb-1 md:mb-0"
+                            "color": "text-[10px] font-[600] py-3 md:text-base text-white py-3 hover:bg-[#28C0EE] bg-[#F49810] uppercase  ease-in duration-300 mx-5 mb-1 md:mb-1"
                         },
                         "inlineCss": ""
                     },
@@ -242,7 +242,7 @@
                     }
                 ]
             },
-            "order": 58,
+            "order": 55,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -411,7 +411,7 @@
                     }
                 ]
             },
-            "order": 60,
+            "order": 58,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -488,6 +488,154 @@
                         }
                     }
                 }
+            },
+            "order": 60,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8079,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-[#28C0EE] max-w-5xl m-auto rounded-md",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\": \"Nunito\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "4"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col m-auto"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-row items-center gap-4 justify-center"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-xl text-center md:text-left"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-yellow-400 px-2 text-[40px] md:text-[50px] text-center"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 col-span-12  md:my-5 my-2 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-center md:align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto px-5 text-white items-center "
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "flex flex-col md:flex-row gap-4 items-center my-2"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container  items-center m-auto text-center "
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "icon": "FaSortAmountUp",
+                        "heading": "Call now for free consultation ",
+                        "caption": "<a href=\"\"><strong>+61 0413 710 928</strong></a>",
+                        "parseHtml": "1"
+                    },
+                    {
+                        "parseHtml": "1",
+                        "caption": "<div class=\"flex items-center justify-center w-12 h-12 bg-[#00000033] rounded-full text-white font-normal\">\n  OR\n</div>"
+                    },
+                    {
+                        "heading": "Email now\nfor free consultation",
+                        "caption": "<a href=\"\"><strong>info@sssglobal.net.au</strong></a>",
+                        "parseHtml": "1"
+                    }
+                ]
             },
             "order": 61,
             "lang": "en",
@@ -658,154 +806,6 @@
             "linked_domain_page_id": null
         },
         {
-            "id": 8079,
-            "component": "CardV2",
-            "component_id": 62,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-[#28C0EE] max-w-5xl m-auto rounded-md",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"fontFamily\": \"Nunito\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "",
-                            "fontSize": "12px"
-                        },
-                        "content": "",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "caption": {
-                        "content": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemInfo": {
-                        "reverseDisplayOrder": "",
-                        "activateSlider": "",
-                        "rowCounts": "4"
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "flex flex-col m-auto"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": "flex flex-row items-center gap-4 justify-center"
-                        },
-                        "inlineCss": ""
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "text-xl text-center md:text-left"
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-yellow-400 px-2 text-[40px] md:text-[50px] text-center"
-                        }
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "md:col-span-4 col-span-12  md:my-5 my-2 "
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "css": {
-                            "color": "align-center md:align-left"
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": "container m-auto px-5 text-white items-center "
-                        }
-                    },
-                    "itemContentWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "flex flex-col md:flex-row gap-4 items-center my-2"
-                        }
-                    },
-                    "itemTitleWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container  items-center m-auto text-center "
-                        }
-                    }
-                },
-                "itemList": [
-                    {
-                        "icon": "FaSortAmountUp",
-                        "heading": "Call now for free consultation ",
-                        "caption": "<a href=\"\"><strong>+61 0413 710 928</strong></a>",
-                        "parseHtml": "1"
-                    },
-                    {
-                        "parseHtml": "1",
-                        "caption": "<div class=\"flex items-center justify-center w-12 h-12 bg-[#00000033] rounded-full text-white font-normal\">\n  OR\n</div>"
-                    },
-                    {
-                        "heading": "Email now\nfor free consultation",
-                        "caption": "<a href=\"\"><strong>info@sssglobal.net.au</strong></a>",
-                        "parseHtml": "1"
-                    }
-                ]
-            },
-            "order": 67,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
             "id": 8074,
             "component": "TextV2",
             "component_id": 72,
@@ -878,7 +878,7 @@
                     }
                 }
             },
-            "order": 68,
+            "order": 67,
             "lang": "en",
             "linked_domain_page_id": null
         },
