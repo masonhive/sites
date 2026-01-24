@@ -78,81 +78,185 @@
             "linked_domain_page_id": null
         },
         {
-            "id": 8081,
+            "id": 8255,
             "component": "TextV2",
             "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-cover",
+                        "color": "bg-cover text-lg ",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"fontFamily\": \"Nunito\"}"
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "flex w-full text-[20px] font-[600] text-gray-500",
+                            "color": " text-lg capitalize tracking-wide leading-10 text-orange-400",
                             "fontSize": "12px"
                         },
-                        "content": "WHAT WE ARE",
+                        "content": "About Our Story",
                         "inlineCss": ""
                     },
                     "description": {
-                        "content": "SSS Global is a dedicated recruitment and migration consultancy focused on the hospitality sector. We specialise in sourcing job-ready chefs, bakers, and hospitality professionals for Australian employers while providing seamless visa and migration support.\nWe combine deep industry experience with a hospitality-centric approach to solve workforce shortages and build long-term talent pipelines for businesses across Australia\n<br/><br/>\nOur Mission:\n<br/><br/>\n To empower hospitality businesses with reliable talent and transparent migration pathways.\n<br/><br/>\nOur Vision:\n<br/><br/>\n To be Australia’s most trusted partner for hospitality recruitment and talent mobility.\n",
+                        "content": "SSS Global is a dedicated recruitment and migration consultancy focused on the hospitality sector. We specialise in sourcing job-ready chefs, bakers, and hospitality professionals for Australian employers while providing seamless visa and migration support. We combine deep industry experience with a hospitality-centric approach to solve workforce shortages and build long-term talent pipelines for businesses across Australia\n",
                         "inlineCss": "",
                         "css": {
-                            "color": "mb-10 text-gray-500 text-[14px] font-[400] columns-1 md:columns-1 gap-16"
+                            "color": "text-slate-400 py-4 text-justify font-light text-slate-800 font-['outfit']"
                         },
                         "parseHtml": "1"
                     },
                     "button": {
-                        "content": "Download Brochure",
-                        "link": "\\about",
+                        "content": "",
+                        "link": "",
                         "css": {
-                            "color": "mt-4 bg-[#28C0EE] py-2 font-light px-6 rounded-full text-slate-100 "
+                            "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
                         },
                         "inlineCss": ""
                     },
                     "caption": {
-                        "content": "dream a reality",
+                        "content": "Your Hospitality Workforce Solution Partner in Australia",
                         "css": {
-                            "color": "text-gray-500 font-[500] text-[14px] mb-4"
+                            "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10"
                         },
                         "inlineCss": "",
-                        "parseHtml": "",
-                        "aos": ""
+                        "parseHtml": "1"
                     },
                     "image": {
-                        "content": "",
+                        "content": "https://www.ausphingroup.com/wp-content/uploads/2024/04/header-3.jpg",
                         "link": ""
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": "py-14 md:px-20 "
+                            "color": "grid grid-cols-12 text-left items-center py-16 "
                         }
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "px-6 "
+                            "color": "md:col-span-6   md:order-2 px-14 col-span-12 order-2"
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container m-auto "
+                            "color": "container m-auto"
                         },
-                        "inlineCss": ""
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "md:col-span-6  order-2"
+                            "color": "md:col-span-4 md:col-start-2  md:order-1 col-span-12 order-1"
                         }
                     }
                 }
             },
             "order": 55,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8256,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-white"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": ""
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": "2"
+                    }
+                },
+                "wrapper": {
+                    "mainWrap": {
+                        "css": {
+                            "color": "px-6"
+                        }
+                    },
+                    "sectionWrap": {
+                        "css": {
+                            "color": "container mx-auto "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "flex flex-col items-center"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "col-span-12 md:col-span-6 p-8"
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col md:flex-row gap-8 h-full group"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "w-full md:w-48 aspect-square overflow-hidden flex-shrink-0 grayscale group-hover:grayscale-0 transition-all duration-500"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "css": {
+                            "color": "flex flex-col flex-grow"
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-3xl font-black text-slate-900 mb-3 leading-tight"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": "text-sm text-slate-500 uppercase tracking-wider mb-6 font-semibold"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "text-lg text-slate-700 leading-relaxed flex-grow font-light"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Our Mission",
+                        "caption": "\"\n To empower hospitality businesses with reliable talent and transparent migration pathways.\n\"",
+                        "image": "https://cdn-icons-png.freepik.com/512/9254/9254658.png"
+                    },
+                    {
+                        "heading": "Our Vision",
+                        "caption": "\" To be Australia’s most trusted partner for hospitality recruitment and talent mobility.\n\"",
+                        "image": "https://cdn-icons-png.freepik.com/512/1078/1078327.png"
+                    }
+                ]
+            },
+            "order": 56,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -299,7 +403,7 @@
                     }
                 ]
             },
-            "order": 57,
+            "order": 59,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -459,7 +563,7 @@
                     }
                 ]
             },
-            "order": 57,
+            "order": 59,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -574,7 +678,7 @@
                 },
                 "formInputs": []
             },
-            "order": 78,
+            "order": 80,
             "lang": "en",
             "linked_domain_page_id": null
         }
