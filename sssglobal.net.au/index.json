@@ -39,7 +39,7 @@
                     "caption": {
                         "content": "Connecting hospitality employers with skilled chefs, bakers, and hospitality professionals — powered by expert recruitment and trusted migration guidance.",
                         "css": {
-                            "color": "text-xl md:text-xl py-5 font-bold pb-10  font-['Hahmlet']"
+                            "color": "text-base md:text-xl py-5 font-bold pb-10  font-['Hahmlet']"
                         },
                         "inlineCss": "",
                         "parseHtml": ""
@@ -70,12 +70,12 @@
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "col-span-12 m-auto  h-[70vh] md:h-[80vh] flex align-center justify-center flex-col"
+                            "color": "col-span-12 m-auto  h-[80vh] md:h-[80vh] flex align-center justify-center flex-col"
                         }
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "relative bg-slate-900/80"
+                            "color": "relative bg-slate-900/60"
                         }
                     },
                     "imageWrap": {
@@ -173,7 +173,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "text-[10px] font-[600] py-3 md:text-base text-white py-3 hover:bg-[#28C0EE] bg-[#F49810] uppercase  ease-in duration-300 mx-5"
+                            "color": "text-[10px] font-[600] py-3 md:text-base text-white py-3 hover:bg-[#28C0EE] bg-[#F49810] uppercase  ease-in duration-300 mx-5 mb-1 md:mb-0"
                         },
                         "inlineCss": ""
                     },
@@ -209,7 +209,7 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container items-center md:m-auto md:-mt-24 mt-44 pb-0 relative z-10 "
+                            "color": "container items-center md:m-auto md:-mt-24 -mt-32 pb-0 relative z-10 "
                         },
                         "inlineCss": ""
                     },
