@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "name": "HOME",
+            "name": "Home",
             "id": 610,
             "parent_menu_id": null,
             "link": "/",
@@ -11,7 +11,7 @@
             "child": []
         },
         {
-            "name": "ABOUT US",
+            "name": "About Us",
             "id": 631,
             "parent_menu_id": null,
             "link": "/about-us",
@@ -21,7 +21,7 @@
             "child": []
         },
         {
-            "name": "INTERNATIONAL RECRUITMENT",
+            "name": "Services & Solutions",
             "id": 335,
             "parent_menu_id": null,
             "link": "/international-recruitment",
@@ -31,7 +31,7 @@
             "child": []
         },
         {
-            "name": "EDUCATION",
+            "name": "Hospitality Roles",
             "id": 85,
             "parent_menu_id": null,
             "link": "/education",
@@ -41,17 +41,7 @@
             "child": []
         },
         {
-            "name": "MIGRATION",
-            "id": 239,
-            "parent_menu_id": null,
-            "link": "/migration",
-            "lang": "en",
-            "linked_menu_id": null,
-            "order": 5,
-            "child": []
-        },
-        {
-            "name": "CONTACT",
+            "name": "Contact Us",
             "id": 740,
             "parent_menu_id": null,
             "link": "/contact",
