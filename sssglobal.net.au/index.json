@@ -173,7 +173,7 @@
                     },
                     "itemHeaderWrap": {
                         "css": {
-                            "color": "text-[15px] font-[600] py-3 text-lg md:text-lg text-white py-3 hover:bg-[#28C0EE] bg-[#F49810] uppercase  ease-in duration-300"
+                            "color": "text-[10px] font-[600] py-3 md:text-base text-white py-3 hover:bg-[#28C0EE] bg-[#F49810] uppercase  ease-in duration-300 mx-5"
                         },
                         "inlineCss": ""
                     },
