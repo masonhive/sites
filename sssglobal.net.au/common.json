@@ -200,6 +200,46 @@
             "linked_domain_page_id": 7742
         },
         {
+            "id": 8132,
+            "component": "metatag",
+            "component_id": 75,
+            "attributes": {
+                "common_component": "1",
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": ""
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "metadata": {
+                        "favicon": "/favicon.ico",
+                        "title": "Hospitality Recruitment & Migration Specialists | Chefs & Bakers | SSS Global",
+                        "ogTitle": "",
+                        "ogImage": "",
+                        "twitterCard": "",
+                        "description": "SSS Global helps Australian hospitality employers hire skilled chefs, bakers, and hospitality professionals with compliant visa sponsorship and migration support."
+                    },
+                    "layout": {
+                        "fontsToLoad": "Nunito",
+                        "defaultFont": "Nunito"
+                    }
+                },
+                "wrapper": {
+                    "mainWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    }
+                }
+            },
+            "order": 53,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
             "id": 7742,
             "component": "NavV2",
             "component_id": 67,
@@ -267,7 +307,7 @@
                     },
                     "menu": {
                         "css": {
-                            "color": "mx-auto py-2 px-4 font-semibold text-[13px] flex items-center gap-1   hover:text-amber-500 ease-in duration-300  tracking-wide text-gray-500 text-sm "
+                            "color": "mx-auto py-2 px-4 font-bold text-[13px] flex items-center gap-1   hover:text-amber-500 ease-in duration-300  tracking-wide text-gray-500 text-sm uppercase"
                         },
                         "inlineCss": ""
                     },
@@ -349,14 +389,14 @@
                 },
                 "itemList": [
                     {
-                        "content": "SUBMIT CV",
-                        "link": "/submit-cv",
-                        "css": "hidden md:block md:bg-blue-800 md:text-white md:px-4 md:py-2 hover:bg-[#FAAF40] font-[600] text-[13px]\n"
+                        "content": "Employer Guidebook",
+                        "link": "/migration",
+                        "css": "hidden md:block md:bg-blue-800 md:text-white md:px-4 md:py-2 hover:bg-[#FAAF40] font-[600] text-[13px]"
                     }
                 ],
                 "common_component": "1"
             },
-            "order": 53,
+            "order": 54,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -565,12 +605,12 @@
                     },
                     {
                         "heading": "FIND US",
-                        "caption": "<a href=\"/about-us\">1/14 Belair Avenue Glenroy, 3046 Melbourne</a> <a href=\"/contact-us\"> <strong>+61 0413 710 928</strong></a>\n<a href=\"/contact-us\">\ninfo@sssglobal.net.au</a> ",
+                        "caption": "<a href=\"/\">1/14 Belair Avenue Glenroy, 3046 Melbourne</a> <a href=\"/contact\"> <strong>+61 0413 710 928</strong></a>\n<a href=\"/contact\">\ninfo@sssglobal.net.au</a> ",
                         "parseHtml": "1"
                     },
                     {
                         "heading": "SERVICES",
-                        "caption": "<a href=\"/about-us\">Hospitality </a> <a href=\"/contact-us\">I.T </a> <a href=\"/contact\">Automotive</a> <a href=\"/\">Trade Services</a> <a href=\"/\">Engineering</a>",
+                        "caption": "<a href=\"/\">Hospitality </a> <a href=\"/\">I.T </a> <a href=\"/\">Automotive</a> <a href=\"/\">Trade Services</a> <a href=\"/\">Engineering</a>",
                         "parseHtml": "1"
                     },
                     {

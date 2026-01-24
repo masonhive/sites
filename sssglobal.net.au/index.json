@@ -1,155 +1,91 @@
 {
     "data": [
         {
-            "id": 8062,
-            "component": "CardV2",
-            "component_id": 62,
+            "id": 8254,
+            "component": "TextV2",
+            "component_id": 72,
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "",
+                        "color": "text-white bg-slate-800 relative ",
                         "fontSize": "12px"
                     },
-                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    "inlineCss": ""
                 },
                 "keyComponents": {
                     "heading": {
                         "css": {
-                            "color": "",
+                            "color": "text-xl md:text-4xl py-2  font-['Hahmlet'] text-center",
                             "fontSize": "12px"
                         },
-                        "content": "",
+                        "content": " Hospitality Recruitment & Migration Solutions for Australia",
                         "inlineCss": ""
                     },
                     "description": {
                         "content": "",
                         "inlineCss": "",
                         "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                            "color": "text-2xl pt-4 pb-12"
                         }
                     },
                     "button": {
                         "content": "",
-                        "link": "",
+                        "link": "/about",
                         "css": {
-                            "color": ""
-                        }
-                    },
-                    "image": {
-                        "content": ""
+                            "color": "text-[15px] font-[600] py-3 text-lg md:text-lg text-white py-3 hover:bg-[#28C0EE] bg-[#F49810] uppercase  ease-in duration-300 px-5"
+                        },
+                        "inlineCss": ""
                     },
                     "caption": {
-                        "content": "",
+                        "content": "Connecting hospitality employers with skilled chefs, bakers, and hospitality professionals — powered by expert recruitment and trusted migration guidance.",
                         "css": {
-                            "color": ""
+                            "color": "text-xl md:text-xl py-5 font-bold pb-10  font-['Hahmlet']"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "absolute h-[70vh] md:h-[80vh]  w-full overflow-hidden"
                         }
                     },
-                    "itemInfo": {
-                        "reverseDisplayOrder": "",
-                        "activateSlider": "1",
-                        "rowCounts": "1",
-                        "isBanner": "1",
-                        "autoPlay": "1"
+                    "video": {
+                        "link": "https://www.youtube.com/embed/eNg97yY2TJA",
+                        "imageLink": "",
+                        "banner": "1",
+                        "css": {
+                            "color": "absolute md:h-[56.25vw] h-[70vh]  md:w-[100vw]  w-[177.78vh] top-[50%] left-[50%] translate-x-2/4 translate-y-2/4 "
+                        },
+                        "inlineCss": "{\"transform\": \"translate(-50%, -50%)\"}"
                     }
                 },
                 "wrapper": {
                     "sectionWrap": {
                         "css": {
-                            "color": ""
-                        }
+                            "color": "grid grid-cols-12 text-center md:px-40 container m-auto  px-10"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outline\"}"
                     },
                     "contentWrap": {
                         "css": {
-                            "color": "items-center"
+                            "color": "col-span-12 m-auto  h-[70vh] md:h-[80vh] flex align-center justify-center flex-col"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "relative bg-slate-900/80"
                         }
                     },
                     "imageWrap": {
                         "css": {
-                            "color": "sm:hidden"
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": "md:absolute z-10 h-full w-full justify-center flex flex-col py-10 top-0 md:px-32 "
-                        },
-                        "inlineCss": ""
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": ""
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemContentWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "flex flex-start flex-col text-left w-6 md:w-4/6 md:text-white text-black px-10 md:px-0 "
-                        }
-                    },
-                    "itemTitleWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "absolute md:top-0 md:relative md:top-auto top-20"
-                        }
-                    },
-                    "itemImageWrap": {
-                        "css": {
-                            "color": "md:h-[80vh] relative h-20"
-                        }
-                    },
-                    "itemButtonWrap": {
-                        "css": {
                             "color": ""
                         }
                     }
-                },
-                "itemList": [
-                    {
-                        "image": "https://mail.triponepa.com/uploads/admin.sssglobal.net.au/New-Project-10-1-1920x900.png",
-                        "parseHtml": "1"
-                    },
-                    {
-                        "image": "https://mail.triponepa.com/uploads/admin.sssglobal.net.au//New-Project-11-1-1920x900.png",
-                        "parseHtml": "1"
-                    },
-                    {
-                        "image": "https://mail.triponepa.com/uploads/admin.sssglobal.net.au/New-Project-12-1-1920x900.png"
-                    }
-                ]
+                }
             },
-            "order": 56,
+            "order": 55,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -160,7 +96,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-gray-50",
+                        "color": "",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\": \"Nunito\"}"
@@ -273,7 +209,7 @@
                     },
                     "mainWrap": {
                         "css": {
-                            "color": "container items-center md:m-auto md:-mt-12 mt-44 pb-32 relative z-10 "
+                            "color": "container items-center md:m-auto md:-mt-24 mt-44 pb-0 relative z-10 "
                         },
                         "inlineCss": ""
                     },
@@ -290,102 +226,21 @@
                 },
                 "itemList": [
                     {
-                        "heading": "International Recruitment",
+                        "heading": "Hire Hospitality Talent",
                         "parseHtml": "1",
-                        "caption": "Around the globe Australia is known for its rich culture and decent variety among its kin as well as in its scene. There are not very many places",
-                        "button": "Read More"
+                        "link": "/"
                     },
                     {
-                        "heading": "Migration",
-                        "caption": "SSS Global is an excellent Australian Firm that tailor its support of our customer's individual needs in instruction, movement, work and venture. ",
                         "parseHtml": "1",
-                        "button": "Read More"
+                        "link": "/",
+                        "heading": "Submit Your CV"
                     },
                     {
-                        "heading": "Education",
-                        "caption": "In the event that you are keen on concentrate in Australia, let Studies in Australia give all of you the data you have to settle on your choice.",
+                        "heading": "Download Employer Guidebook",
                         "parseHtml": "1",
-                        "button": "Read More"
+                        "link": "/"
                     }
                 ]
-            },
-            "order": 56,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
-            "id": 8072,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "text-white  bg-[url('https://mail.triponepa.com/uploads/admin.sssglobal.net.au/bgg.png')]  bg-cover bg-fixed bg-[#28C0EE]/95",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"fontFamily\": \"Nunito\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "uppercase text-[24px] font-[600] leading-normal tracking-wide ",
-                            "fontSize": "12px"
-                        },
-                        "content": "SKILLED WORK VISA – SUBSCLASS 482",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "SSS has practical experience in gifted worldwide enlistment and relocation administrations. It is a totally coordinated relocation specialist organization offering movement administrations, enrollment administrations, working visa preparing help (counting 457 visas) and encourages work of vagrant laborers for Australian organizations.<br/>\n<br/>\n<br/>Australia is continually searching generally advantageous and brightest ability from around the globe which is the reason we participate in sourcing talented laborers for our Australian business accomplices. Finding talented specialists in different fields is in excess of a troublesome errand. Consequently, we give organizations an incorporated counseling administration with the goal that they will have the capacity to bamboozle what the world brings to the table.",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-[14px] font-[400]"
-                        },
-                        "parseHtml": "1"
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "",
-                        "css": {
-                            "color": "text-slate-400 font-light"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": ""
-                    },
-                    "image": {
-                        "content": "",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "flex items-center justify-center max-w-3xl "
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "space-y-4 py-20 px-5 md:px-0 md:py-4"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": " flex justify-center text-center  w-full md:h-[52vh]"
-                        },
-                        "inlineCss": ""
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    }
-                }
             },
             "order": 58,
             "lang": "en",
@@ -423,7 +278,7 @@
                         "content": "Read More",
                         "link": "/about-us",
                         "css": {
-                            "color": "text-white p-2 border absolute left-10 md:left-44 mt-2"
+                            "color": "text-[#28C0EE] md:text-white p-2 border-[#28C0EE] md:border-white border absolute left-20 md:left-32 mt-2"
                         }
                     },
                     "image": {
@@ -556,7 +411,85 @@
                     }
                 ]
             },
-            "order": 59,
+            "order": 60,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8072,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-white  bg-[url('https://mail.triponepa.com/uploads/admin.sssglobal.net.au/bgg.png')]  bg-cover bg-fixed bg-[#28C0EE]/95",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\": \"Nunito\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "uppercase text-[24px] font-[600] leading-normal tracking-wide ",
+                            "fontSize": "12px"
+                        },
+                        "content": "SKILLED WORK VISA – SUBSCLASS 482",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "SSS has practical experience in gifted worldwide enlistment and relocation administrations. It is a totally coordinated relocation specialist organization offering movement administrations, enrollment administrations, working visa preparing help (counting 457 visas) and encourages work of vagrant laborers for Australian organizations.<br/>\n<br/>\n<br/>Australia is continually searching generally advantageous and brightest ability from around the globe which is the reason we participate in sourcing talented laborers for our Australian business accomplices. Finding talented specialists in different fields is in excess of a troublesome errand. Consequently, we give organizations an incorporated counseling administration with the goal that they will have the capacity to bamboozle what the world brings to the table.",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-[14px] font-[400]"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-slate-400 font-light"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": ""
+                    },
+                    "image": {
+                        "content": "",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex items-center justify-center max-w-3xl "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "space-y-4 py-20 px-5 md:px-0 md:py-4"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": " flex justify-center text-center  w-full md:h-[52vh]"
+                        },
+                        "inlineCss": ""
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    }
+                }
+            },
+            "order": 61,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -697,7 +630,7 @@
                     {
                         "caption": "<i class=\"fa-solid fa-quote-left text-orange-500 text-3xl\"></i> We have built up an extraordinary organization with Staff Services Solutions and their devotion to serving the Bakers Delight is clear in all viewpoints. We value their tender loving care and way to deal with presenting to us the best work force and administration \n",
                         "parseHtml": "1",
-                        "image": "https://sssglobal.net.au/wp-content/uploads/2018/05/bd_logo_larger_400x400.jpg",
+                        "image": "https://mail.triponepa.com/uploads/admin.sssglobal.net.au/bd_logo_larger_400x400.jpg",
                         "title": "Bakers Delight Moonee Ponds Bakery"
                     },
                     {
@@ -720,7 +653,7 @@
                     }
                 ]
             },
-            "order": 59,
+            "order": 61,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -868,7 +801,7 @@
                     }
                 ]
             },
-            "order": 65,
+            "order": 67,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -902,7 +835,7 @@
                     },
                     "button": {
                         "content": "ALL STORIES",
-                        "link": "/about",
+                        "link": "/about-us",
                         "css": {
                             "color": "bg-[#28C0EE] py-2 text-[14px] px-6  text-slate-100 font-[700] hover:bg-amber-500 ease-in duration-300"
                         },
@@ -945,7 +878,7 @@
                     }
                 }
             },
-            "order": 66,
+            "order": 68,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -1099,7 +1032,7 @@
                     }
                 ]
             },
-            "order": 77,
+            "order": 79,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -1176,7 +1109,7 @@
                     }
                 }
             },
-            "order": 80,
+            "order": 82,
             "lang": "en",
             "linked_domain_page_id": null
         }
