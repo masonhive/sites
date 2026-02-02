@@ -20,16 +20,6 @@
             "order": 2,
             "child": [
                 {
-                    "name": "Study In Dubai",
-                    "id": 689,
-                    "parent_menu_id": 613,
-                    "link": "/study-dubai",
-                    "lang": "en",
-                    "linked_menu_id": null,
-                    "order": null,
-                    "child": []
-                },
-                {
                     "name": "Study In Japan",
                     "id": 670,
                     "parent_menu_id": 613,
