@@ -1,151 +1,6 @@
 {
     "data": [
         {
-            "id": 7074,
-            "component": "CardV2",
-            "component_id": 62,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "text-2xl py-2 text-slate-800",
-                            "fontSize": "12px"
-                        },
-                        "content": "",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "caption": {
-                        "content": "",
-                        "css": {
-                            "color": "text-2xl py-2 text-slate-800"
-                        }
-                    },
-                    "itemInfo": {
-                        "reverseDisplayOrder": "",
-                        "activateSlider": "",
-                        "rowCounts": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "flex flex-col"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": "flex flex-row items-center md:justify-center justify-start"
-                        },
-                        "inlineCss": ""
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "text-xl"
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-xl px-3"
-                        }
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "md:col-span-4 md:mx-5 col-span-12 my-5 "
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "css": {
-                            "color": "align-left"
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": "container m-auto bg-indigo-950 md:rounded-full py-2 text-white"
-                        }
-                    },
-                    "itemContentWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-left md:items-center md:justify-center flex "
-                        }
-                    },
-                    "itemTitleWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container items-center m-auto -mt-10 relative "
-                        }
-                    }
-                },
-                "itemList": [
-                    {
-                        "heading": "Step 1. Schedule a Consultation",
-                        "icon": "FaPhoneAlt"
-                    },
-                    {
-                        "heading": "Step 2. Meet Your Advisor",
-                        "icon": "FaHandsHelping"
-                    },
-                    {
-                        "heading": "Step 3. Receive Personalized Guidance",
-                        "icon": "FaPaperPlane"
-                    }
-                ]
-            },
-            "order": 2,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
             "id": 7072,
             "component": "CardV2",
             "component_id": 62,
@@ -336,6 +191,151 @@
                         "link": "/study-australia",
                         "parseHtml": "1",
                         "button": "Get Started For Free"
+                    }
+                ]
+            },
+            "order": 2,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7074,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "",
+                        "css": {
+                            "color": "text-2xl py-2 text-slate-800"
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "",
+                        "rowCounts": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-row items-center md:justify-center justify-start"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "text-xl"
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-xl px-3"
+                        }
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 md:mx-5 col-span-12 my-5 "
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto bg-indigo-950 md:rounded-full py-2 text-white"
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left md:items-center md:justify-center flex "
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container items-center m-auto -mt-10 relative "
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "heading": "Step 1. Schedule a Consultation",
+                        "icon": "FaPhoneAlt"
+                    },
+                    {
+                        "heading": "Step 2. Meet Your Advisor",
+                        "icon": "FaHandsHelping"
+                    },
+                    {
+                        "heading": "Step 3. Receive Personalized Guidance",
+                        "icon": "FaPaperPlane"
                     }
                 ]
             },
@@ -804,171 +804,6 @@
             "linked_domain_page_id": null
         },
         {
-            "id": 7320,
-            "component": "CardV2",
-            "component_id": 62,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "text-center bg-indigo-950",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "",
-                            "fontSize": "12px"
-                        },
-                        "content": "",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "View More Events",
-                        "link": "/events",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "caption": {
-                        "content": "Upcoming Events",
-                        "css": {
-                            "color": "text-2xl py-2 "
-                        }
-                    },
-                    "itemInfo": {
-                        "reverseDisplayOrder": "",
-                        "activateSlider": "1",
-                        "rowCounts": "3",
-                        "autoPlay": "1"
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "flex flex-col"
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": "flex flex-col bg-white text-black rounded-lg text-sm md: m-0 my-5 p-4"
-                        },
-                        "inlineCss": ""
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-6 mbr-m-0 "
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": "{\"fontSize\":\"50px\"}"
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "md:col-span-4 col-span-12  md:mx-2 mx-2 md:my-2 my-2"
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "css": {
-                            "color": "align-left py-5"
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": "container m-auto md:px-20 px-5 "
-                        }
-                    },
-                    "itemContentWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-left py-5 px-5"
-                        }
-                    },
-                    "itemTitleWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": "{\"padding\":\"5px\"}"
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container py-10 items-center m-auto text-white"
-                        }
-                    },
-                    "itemImageWrap": {
-                        "css": {
-                            "color": "bg-white flex items-center p-4  min-h-30"
-                        }
-                    },
-                    "itemButtonWrap": {
-                        "css": {
-                            "color": "bg-indigo-950\trounded-full px-5 py-3 text-white text-center"
-                        }
-                    }
-                },
-                "itemList": [
-                    {
-                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//unnamed.png",
-                        "heading": "Meet University Representative from Trinity Western University | 4th April 2024 | Kathmandu",
-                        "caption": "Date : 9th June, 2024 \nTime: 12:00 PM \nVenue: Stellar Primises \n",
-                        "link": "/event-1",
-                        "parseHtml": "1",
-                        "button": "Register"
-                    },
-                    {
-                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/university of bradford - logo.png",
-                        "heading": "Meet University Representative from University of Bradford - UK | 28th June 2024 | Kathmandu",
-                        "caption": "Date : 9th June, 2024 \nTime: 01:30 PM - 02:30 \nVenue: Stellar Primises \n",
-                        "link": "/event-1",
-                        "parseHtml": "1",
-                        "button": "Register"
-                    },
-                    {
-                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/bowling-green-state-u.png",
-                        "heading": "Meet University Representative from Bowling Green State University - USA | 4th December 2024 | Kathmandu",
-                        "caption": "Date : 4th Dec, 2024 \nDay: Wednesday, Time: 02:00 pm\nVenue: Stellar Premises \n",
-                        "link": "/event-1",
-                        "parseHtml": "1",
-                        "button": "Register"
-                    }
-                ]
-            },
-            "order": 17,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
             "id": 7078,
             "component": "CardV2",
             "component_id": 62,
@@ -1148,6 +983,171 @@
                     },
                     {
                         "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/university of bradford - logo.png"
+                    }
+                ]
+            },
+            "order": 17,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 7320,
+            "component": "CardV2",
+            "component_id": 62,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "text-center bg-indigo-950",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": "",
+                            "fontSize": "12px"
+                        },
+                        "content": "",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
+                        }
+                    },
+                    "button": {
+                        "content": "View More Events",
+                        "link": "/events",
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "image": {
+                        "content": ""
+                    },
+                    "caption": {
+                        "content": "Upcoming Events",
+                        "css": {
+                            "color": "text-2xl py-2 "
+                        }
+                    },
+                    "itemInfo": {
+                        "reverseDisplayOrder": "",
+                        "activateSlider": "1",
+                        "rowCounts": "3",
+                        "autoPlay": "1"
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "flex flex-col"
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": ""
+                        }
+                    },
+                    "itemheadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemSectionWrap": {
+                        "css": {
+                            "color": "flex flex-col bg-white text-black rounded-lg text-sm md: m-0 my-5 p-4"
+                        },
+                        "inlineCss": ""
+                    },
+                    "itemHeadingWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-3 mbr-m-0 "
+                        }
+                    },
+                    "itemHeaderWrap": {
+                        "css": {
+                            "color": "font-family-andada font-size-6 mbr-m-0 "
+                        }
+                    },
+                    "itemIconWrap": {
+                        "inlineCss": "{\"fontSize\":\"50px\"}"
+                    },
+                    "itemRowWrap": {
+                        "css": {
+                            "color": "md:col-span-4 col-span-12  md:mx-2 mx-2 md:my-2 my-2"
+                        }
+                    },
+                    "itemCaptionWrap": {
+                        "css": {
+                            "color": "align-left py-5"
+                        }
+                    },
+                    "itemContainerWrap": {
+                        "css": {
+                            "color": "container m-auto md:px-20 px-5 "
+                        }
+                    },
+                    "itemContentWrap": {
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-left py-5 px-5"
+                        }
+                    },
+                    "itemTitleWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": "{\"padding\":\"5px\"}"
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container py-10 items-center m-auto text-white"
+                        }
+                    },
+                    "itemImageWrap": {
+                        "css": {
+                            "color": "bg-white flex items-center p-4  min-h-30"
+                        }
+                    },
+                    "itemButtonWrap": {
+                        "css": {
+                            "color": "bg-indigo-950\trounded-full px-5 py-3 text-white text-center"
+                        }
+                    }
+                },
+                "itemList": [
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np//unnamed.png",
+                        "heading": "Meet University Representative from Trinity Western University | 4th April 2024 | Kathmandu",
+                        "caption": "Date : 9th June, 2024 \nTime: 12:00 PM \nVenue: Stellar Primises \n",
+                        "link": "/event-1",
+                        "parseHtml": "1",
+                        "button": "Register"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/university of bradford - logo.png",
+                        "heading": "Meet University Representative from University of Bradford - UK | 28th June 2024 | Kathmandu",
+                        "caption": "Date : 9th June, 2024 \nTime: 01:30 PM - 02:30 \nVenue: Stellar Primises \n",
+                        "link": "/event-1",
+                        "parseHtml": "1",
+                        "button": "Register"
+                    },
+                    {
+                        "image": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/bowling-green-state-u.png",
+                        "heading": "Meet University Representative from Bowling Green State University - USA | 4th December 2024 | Kathmandu",
+                        "caption": "Date : 4th Dec, 2024 \nDay: Wednesday, Time: 02:00 pm\nVenue: Stellar Premises \n",
+                        "link": "/event-1",
+                        "parseHtml": "1",
+                        "button": "Register"
                     }
                 ]
             },
