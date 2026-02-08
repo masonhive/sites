@@ -210,7 +210,9 @@
                             "color": "bg-red-700",
                             "fontSize": "12px"
                         },
-                        "inlineCss": ""
+                        "inlineCss": "",
+                        "receiver_email": "bikesh.s.banda@gmail.com",
+                        "subject": "Website Inquery"
                     },
                     "formHeading": {
                         "content": "",
