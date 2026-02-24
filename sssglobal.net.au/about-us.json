@@ -78,84 +78,6 @@
             "linked_domain_page_id": null
         },
         {
-            "id": 8255,
-            "component": "TextV2",
-            "component_id": 72,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "bg-cover text-lg ",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": " text-lg capitalize tracking-wide leading-10 text-orange-400",
-                            "fontSize": "12px"
-                        },
-                        "content": "About Our Story",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "SSS Global is a dedicated recruitment and migration consultancy focused on the hospitality sector. We specialise in sourcing job-ready chefs, bakers, and hospitality professionals for Australian employers while providing seamless visa and migration support. We combine deep industry experience with a hospitality-centric approach to solve workforce shortages and build long-term talent pipelines for businesses across Australia\n",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-slate-400 py-4 text-justify font-light text-slate-800 font-['outfit']"
-                        },
-                        "parseHtml": "1"
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
-                        },
-                        "inlineCss": ""
-                    },
-                    "caption": {
-                        "content": "Your Hospitality Workforce Solution Partner in Australia",
-                        "css": {
-                            "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10"
-                        },
-                        "inlineCss": "",
-                        "parseHtml": "1"
-                    },
-                    "image": {
-                        "content": "https://www.ausphingroup.com/wp-content/uploads/2024/04/header-3.jpg",
-                        "link": ""
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "grid grid-cols-12 text-left items-center py-16 "
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-span-6   md:order-2 px-14 col-span-12 order-2"
-                        }
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container m-auto"
-                        },
-                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": "md:col-span-4 md:col-start-2  md:order-1 col-span-12 order-1"
-                        }
-                    }
-                }
-            },
-            "order": 55,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
             "id": 8256,
             "component": "CardV2",
             "component_id": 62,
@@ -256,154 +178,7 @@
                     }
                 ]
             },
-            "order": 56,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
-            "id": 8084,
-            "component": "CardV2",
-            "component_id": 62,
-            "attributes": {
-                "containerLayout": {
-                    "css": {
-                        "color": "container m-auto px-5 md:px-20 py-10",
-                        "fontSize": "12px"
-                    },
-                    "inlineCss": "{\"fontFamily\": \"Nunito\"}"
-                },
-                "keyComponents": {
-                    "heading": {
-                        "css": {
-                            "color": "flex text-[20px] font-[600] text-gray-500",
-                            "fontSize": "12px"
-                        },
-                        "content": "OUR TEAM",
-                        "inlineCss": ""
-                    },
-                    "description": {
-                        "content": "",
-                        "inlineCss": "",
-                        "css": {
-                            "color": "font-family-oxygen  font-size-3 mbr-pt-1"
-                        }
-                    },
-                    "button": {
-                        "content": "",
-                        "link": "",
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "image": {
-                        "content": ""
-                    },
-                    "caption": {
-                        "content": "dream a reality",
-                        "css": {
-                            "color": " text-gray-500 font-[500] text-[14px] mb-4 text-left\n"
-                        }
-                    },
-                    "itemInfo": {
-                        "reverseDisplayOrder": "",
-                        "activateSlider": "",
-                        "rowCounts": "3"
-                    }
-                },
-                "wrapper": {
-                    "sectionWrap": {
-                        "css": {
-                            "color": "flex flex-col "
-                        }
-                    },
-                    "contentWrap": {
-                        "css": {
-                            "color": "md:col-span-12 col-span-12 mx-5 "
-                        }
-                    },
-                    "imageWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemheadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemSectionWrap": {
-                        "css": {
-                            "color": "flex flex-col items-start"
-                        },
-                        "inlineCss": "{\"background\": \"#ffffff33\",\"color\": \"#000\",\"borderRadius\": \"10px\",  \"border\": \"1px solid #fff\"}"
-                    },
-                    "itemHeadingWrap": {
-                        "css": {
-                            "color": "font-family-andada font-size-3 mbr-m-0 "
-                        }
-                    },
-                    "itemHeaderWrap": {
-                        "css": {
-                            "color": " text-[18px] mbr-m-0 font-[700] py-1"
-                        }
-                    },
-                    "itemIconWrap": {
-                        "inlineCss": "{\"fontSize\":\"50px\"}"
-                    },
-                    "itemRowWrap": {
-                        "css": {
-                            "color": "md:col-span-4 col-span-12 mx-5 "
-                        }
-                    },
-                    "itemCaptionWrap": {
-                        "css": {
-                            "color": "align-left font-[400] text-[14px] text-gray-500"
-                        }
-                    },
-                    "itemContainerWrap": {
-                        "css": {
-                            "color": ""
-                        }
-                    },
-                    "itemContentWrap": {
-                        "inlineCss": "",
-                        "css": {
-                            "color": "text-left md:py-5 "
-                        }
-                    },
-                    "itemTitleWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": "{\"padding\":\"5px\"}"
-                    },
-                    "mainWrap": {
-                        "css": {
-                            "color": "container py-5 items-center m-auto"
-                        }
-                    },
-                    "itemImageWrap": {
-                        "css": {
-                            "color": "w-72 "
-                        }
-                    }
-                },
-                "itemList": [
-                    {
-                        "heading": "Gyanendra Bastola",
-                        "parseHtml": "1",
-                        "image": "https://mail.triponepa.com/uploads/admin.sssglobal.net.au/sssss.jpg",
-                        "caption": "Recruitment Director"
-                    },
-                    {
-                        "image": "https://mail.triponepa.com/uploads/admin.sssglobal.net.au//image1.jpeg",
-                        "heading": "Sachin Neupane",
-                        "parseHtml": "1",
-                        "caption": "Recruitment Coordinator"
-                    }
-                ]
-            },
-            "order": 59,
+            "order": 55,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -562,6 +337,84 @@
                         "image": "https://mail.triponepa.com/uploads/admin.sssglobal.net.au/Skilled-individual-with-employer.png"
                     }
                 ]
+            },
+            "order": 59,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
+            "id": 8255,
+            "component": "TextV2",
+            "component_id": 72,
+            "attributes": {
+                "containerLayout": {
+                    "css": {
+                        "color": "bg-cover text-lg ",
+                        "fontSize": "12px"
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "heading": {
+                        "css": {
+                            "color": " text-lg capitalize tracking-wide leading-10 text-orange-400",
+                            "fontSize": "12px"
+                        },
+                        "content": "About Our Story",
+                        "inlineCss": ""
+                    },
+                    "description": {
+                        "content": "SSS Global is a dedicated recruitment and migration consultancy focused on the hospitality sector. We specialise in sourcing job-ready chefs, bakers, and hospitality professionals for Australian employers while providing seamless visa and migration support. We combine deep industry experience with a hospitality-centric approach to solve workforce shortages and build long-term talent pipelines for businesses across Australia\n",
+                        "inlineCss": "",
+                        "css": {
+                            "color": "text-slate-400 py-4 text-justify font-light text-slate-800 font-['outfit']"
+                        },
+                        "parseHtml": "1"
+                    },
+                    "button": {
+                        "content": "",
+                        "link": "",
+                        "css": {
+                            "color": "bg-green-700 py-2 font-light px-6 rounded-full text-slate-100"
+                        },
+                        "inlineCss": ""
+                    },
+                    "caption": {
+                        "content": "Your Hospitality Workforce Solution Partner in Australia",
+                        "css": {
+                            "color": "md:text-3xl py-4 font-semibold text-3xl capitalize tracking-wide leading-10"
+                        },
+                        "inlineCss": "",
+                        "parseHtml": "1"
+                    },
+                    "image": {
+                        "content": "https://www.ausphingroup.com/wp-content/uploads/2024/04/header-3.jpg",
+                        "link": ""
+                    }
+                },
+                "wrapper": {
+                    "sectionWrap": {
+                        "css": {
+                            "color": "grid grid-cols-12 text-left items-center py-16 "
+                        }
+                    },
+                    "contentWrap": {
+                        "css": {
+                            "color": "md:col-span-6   md:order-2 px-14 col-span-12 order-2"
+                        }
+                    },
+                    "mainWrap": {
+                        "css": {
+                            "color": "container m-auto"
+                        },
+                        "inlineCss": "{\"fontFamily\":\"Outfit\"}"
+                    },
+                    "imageWrap": {
+                        "css": {
+                            "color": "md:col-span-4 md:col-start-2  md:order-1 col-span-12 order-1"
+                        }
+                    }
+                }
             },
             "order": 59,
             "lang": "en",
