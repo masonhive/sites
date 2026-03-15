@@ -158,6 +158,42 @@
             "linked_domain_page_id": null
         },
         {
+            "id": 7768,
+            "component": "metatag",
+            "component_id": 75,
+            "attributes": {
+                "common_component": "1",
+                "containerLayout": {
+                    "css": {
+                        "color": "",
+                        "fontSize": ""
+                    },
+                    "inlineCss": ""
+                },
+                "keyComponents": {
+                    "metadata": {
+                        "favicon": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/logo-stellar-2.png",
+                        "title": "SIE : Nepal's leading study abroad consultant",
+                        "ogTitle": "SIE : Nepal's leading study abroad consultant",
+                        "ogImage": "",
+                        "twitterCard": "",
+                        "description": "SIE offer a comprehensive roadmap tailored to each student's needs and goals. This plan includes assistance with university selection, application support, visa guidance, scholarship and financial aid resources, and pre-departure orientation to prepare students for their new academic and cultural experiences."
+                    }
+                },
+                "wrapper": {
+                    "mainWrap": {
+                        "css": {
+                            "color": ""
+                        },
+                        "inlineCss": ""
+                    }
+                }
+            },
+            "order": 21,
+            "lang": "en",
+            "linked_domain_page_id": null
+        },
+        {
             "id": 7080,
             "component": "CardV2",
             "component_id": 62,
@@ -295,7 +331,7 @@
                 ],
                 "common_component": "1"
             },
-            "order": 18,
+            "order": 55,
             "lang": "en",
             "linked_domain_page_id": null
         },
@@ -371,43 +407,7 @@
                 },
                 "common_component": "1"
             },
-            "order": 18,
-            "lang": "en",
-            "linked_domain_page_id": null
-        },
-        {
-            "id": 7768,
-            "component": "metatag",
-            "component_id": 75,
-            "attributes": {
-                "common_component": "1",
-                "containerLayout": {
-                    "css": {
-                        "color": "",
-                        "fontSize": ""
-                    },
-                    "inlineCss": ""
-                },
-                "keyComponents": {
-                    "metadata": {
-                        "favicon": "https://mail.triponepa.com/uploads/admin.stellar.edu.np/logo-stellar-2.png",
-                        "title": "SIE : Nepal's leading study abroad consultant",
-                        "ogTitle": "SIE : Nepal's leading study abroad consultant",
-                        "ogImage": "",
-                        "twitterCard": "",
-                        "description": "SIE offer a comprehensive roadmap tailored to each student's needs and goals. This plan includes assistance with university selection, application support, visa guidance, scholarship and financial aid resources, and pre-departure orientation to prepare students for their new academic and cultural experiences."
-                    }
-                },
-                "wrapper": {
-                    "mainWrap": {
-                        "css": {
-                            "color": ""
-                        },
-                        "inlineCss": ""
-                    }
-                }
-            },
-            "order": 55,
+            "order": 100,
             "lang": "en",
             "linked_domain_page_id": null
         }
