@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "name": "About",
+            "id": 757,
+            "parent_menu_id": null,
+            "link": "/about",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": null,
+            "child": []
+        },
+        {
+            "name": "Purpose",
+            "id": 758,
+            "parent_menu_id": null,
+            "link": "/purpose",
+            "lang": "en",
+            "linked_menu_id": null,
+            "order": null,
+            "child": []
+        }
+    ]
+}
