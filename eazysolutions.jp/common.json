@@ -2796,14 +2796,12 @@
                         "link": "/photography"
                     },
                     {
-                        "image": "https://mykyodai.jp/storage/photos/1/Translation.jpg",
                         "title": "Make your events memorable with our professional event management services. We plan, organize, and manage corporate events, cultural programs, seminars, celebrations, and special occasions with attention to every detail.\n",
                         "caption": "<div class=\"flex items-center \"> \n <div class=\" flex justify-center items-center bg-red-600 rounded-full w-10 h-10 text-white text-2xl\">\n<i class=\"fa-solid fa-map-location\"></i>\n </div>\n<div class=\"pl-2 font-semibold text-lg\">\nEvent Management\n </div>\n</div>",
                         "parseHtml": "1",
                         "link": "/event-management"
                     },
                     {
-                        "image": "https://mail.triponepa.com/uploads/admin.eazysolutions.jp/web.png",
                         "title": "Build a powerful online presence with modern website design and strategic social media marketing. We create responsive websites and engaging digital content that help your business attract more customers and grow.\n",
                         "caption": "<div class=\"flex items-center \"> \n <div class=\" flex justify-center items-center bg-red-600 rounded-full w-10 h-10 text-white text-2xl\">\n<i class=\"fa-solid fa-laptop-code\"></i>\n </div>\n<div class=\"pl-2 font-semibold text-lg\">\nWeb Design &amp; Social Media Marketing\n </div>\n</div>",
                         "parseHtml": "1",
