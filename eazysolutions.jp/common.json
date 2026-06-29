@@ -2625,7 +2625,7 @@
             "attributes": {
                 "containerLayout": {
                     "css": {
-                        "color": "bg-[#EEECEC] text-center px-5",
+                        "color": "bg-[#EEECEC] text-center px-6 ",
                         "fontSize": "12px"
                     },
                     "inlineCss": "{\"fontFamily\":\"Outfit\"}"
